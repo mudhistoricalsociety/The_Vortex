@@ -1,0 +1,16 @@
+All building to be done through a central shell with sub-interpreted
+commands
+
+to enter editor:
+ edit <mob/obj/room> <vnum>
+   - check for permission
+     -Imps and HJ get full access
+     -else check by builder name
+     - if builder name is absent check by saved vnum ranges on builder
+       file
+ in editor commands:
+   -name, short, long, desc, ed, exit, hit/damroll, ac, hp/mana/move, etc.
+   -editor will be intuitive
+   -to exit editor, builder must type quit, exit or done.
+   - to exit and save changes, must exit with save.
+

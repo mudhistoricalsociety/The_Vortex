@@ -1,0 +1,2520 @@
+#AREA	Arthur   Volcanic Isle (revised by Jarra)~
+8500
+8582
+
+#MOBILES
+#8500
+fire bug~
+a fire bug~
+A tiny fire bug is buzzing around here.
+~
+
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8501
+roaming fireball~
+a fireball~
+A strange ball of fire is floating around here.
+~
+
+~
+64 0 0 S
+36 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8502
+lava serpent~
+a lava serpent~
+A large beast explodes out of the firey lava.
+~
+
+~
+64 0 -100 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8503
+rock monster~
+a rock monster~
+A HUGE monster made of pure lava rock stands before you.
+~
+
+~
+64 0 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8504
+fire imp~
+a fire imp~
+A tiny imp stands before you, ready to strike.
+~
+
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8505
+fire demon~
+a fire demon~
+A demon made of pure evil stands here, engulfed in flames.
+~
+
+~
+64 0 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8506
+fire lion~
+a fire lion~
+The king of the jungle stands before you, engulfed in flames.
+~
+
+~
+64 0 0 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8507
+guardian~
+a guardian~
+A guardian of the realm stands before you, watching over the volcano.
+~
+
+~
+64 0 0 S
+56 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8508
+devilish soul~
+a devilish soul~
+A lost soul, trapped in the heart of the volcano, stands before you.
+~
+
+~
+64 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8509
+golden golem~
+a golden golem~
+A HUGE golem stands here, made of pure gold.
+~
+
+~
+64 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8510
+lava beast~
+a lava beast~
+A large beast made of pure molten lava stands here.
+~
+
+~
+64 0 0 S
+64 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8511
+pheonix fire bird~
+a fiery pheonix~
+A bird engulfed in flames is flying around here, protecting the volcano.
+~
+
+~
+64 0 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8512
+red dragon~
+a red dragon~
+A scaly red dragon lies here sleeping.
+~
+
+~
+64 0 -1000 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8513
+alexander volco~
+Alexander the warrior~
+A tall volco, stands here, prepaired to defend his home at all costs.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8514
+nesis volco wizard~
+Nesis the wizard~
+A wise, old volco is here, wearing a huge dark robe.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8515
+gryshk thief volco~
+Gryshk the thief~
+A sneaky volco, stands before you, lurking in the shadows of the volcano.
+~
+
+~
+64 128|32768|65536 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8516
+amandi cook~
+Amandi the cook~
+The local chef, stands before you, holding a pot out to you.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8517
+japoci weaponmaster volco~
+Japoci the weaponmaster~
+A large volco, stands here, twirling his weapons.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8518
+kismat drunken volco~
+Kismat the drunk~
+A drunken volco, is here staggering his way along home.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8519
+jav volco baker~
+Jav the baker~
+A plump volco, is here, selling his delicious baked goods.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8520
+belock volco archmage~
+Belock the archmage~
+A dark hooded volco, stands here watching over the people of the volcano.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8521
+jaffi volco prankster~
+Jaffi the prankster~
+A funny looking volco, stands here, amusing the crowd.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8522
+narisit volco prince~
+Narisit the prince~
+The prince of the volco, looking very refined, is here.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8523
+manes volco guardian~
+Manes the guardian~
+The guardian of the volco, stands before, looking for any signs of trouble.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8524
+nomo volco priest~
+Nomo the priest~
+A very well dressed man, wearing a long flowing white robe is here.
+~
+
+~
+64 128 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#8500
+volco lava chainmal ~
+volco lava chainmail~
+A peice of lava rock lies here on the ground.~
+~
+9 512 1|8
+15 0 0 11 
+12 0 0
+A
+13 30
+#8501
+volco lava leg plates~
+a pair of volco lava leg plates~
+Tiny peices of lava rocks are lying here on the ground.~
+~
+9 512 1|32
+15 0 0 11 
+10 0 0
+A
+2 -1
+A
+13 50
+#8502
+volco lava arm plates~
+a pair of volco lava arm plates~
+Tiny peices of lava rocks are lying here on the ground.~
+~
+9 512 1|256
+15 0 0 11 
+10 0 0
+A
+2 -1
+A
+13 50
+#8503
+volco lava bracer~
+a volco lava bracer~
+A small piece of lava rock is lying here.~
+~
+9 512 1|4096
+15 0 0 11 
+5 0 0
+A
+18 -2
+A
+19 2
+#8504
+lava rock necklace~
+a lava rock necklace~
+A string of lava rocks, tied together on a rope, are lying here.~
+~
+9 0 1|4
+15 0 0 11 
+5 0 0
+A
+5 2
+A
+1 2
+#8505
+lava rock~
+a lava rock ring~
+A piece of broken off lava rock is lying here.~
+~
+9 512 1|2
+15 0 0 11 
+3 0 0
+A
+18 -1
+A
+19 1
+A
+12 -50
+A
+13 50
+#8506
+volco lava dagger~
+a lava dagger~
+A shiny dagger is lying here made of pure lava.~
+~
+5 512 1|8192
+0 1 6 2 
+5 0 0
+#8507
+lava potion~
+a lava potion~
+A vial filled with a red liquid is lying here on the ground.~
+~
+10 512 1
+50 1 18 39 
+2 0 0
+#8508
+lava rock boulder~
+a large lava boulder~
+A HUGE boulder made of lava is lying here.~
+~
+5 512 1|8192
+0 1 6 8 
+10 0 0
+#8509
+protection~
+protection~
+A peice of rock is shimmering here on the ground.~
+~
+9 512 1|1024
+15 0 0 11 
+9 0 0
+#8510
+domino~
+a lava pit~
+Holes in the ground are spewing red hot molten magma around here.~
+~
+12 0 0
+0 1 6 11 
+2000 0 0
+#8511
+pheonix feather~
+a pheonix feather~
+A feather has been drop on the floor here.~
+~
+1 1|512 1|16384
+0 1 999 11 
+1 0 0
+A
+13 100
+#0
+
+
+#ROOMS
+#8500
+Volcano Entrance~
+The entrance to the volcano is a large caver, which opens into a void
+of darkness.  The rock around the mountain has been cleared over the 
+many years which this mountain has been forming.  The lava flows though
+this mountain like blood though a persons body.  A cool breeze filled 
+with warmth from the heated lava rushes by. There is a small engraved rock plaque here.
+~
+0 4 0
+D0
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 9202
+E
+rock plaque~
+Original area by Arthur, converted from Rom 2.4 format by Adreno~
+S
+#8501
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8502
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8500
+S
+#8502
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8503
+D1
+~
+~
+0 0 8511
+D2
+~
+~
+0 0 8501
+S
+#8503
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8504
+D1
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8502
+S
+#8504
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8505
+D1
+~
+~
+0 0 8509
+D2
+~
+~
+0 0 8503
+S
+#8505
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8506
+D1
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8504
+S
+#8506
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D1
+~
+~
+0 0 8507
+D2
+~
+~
+0 0 8505
+S
+#8507
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D1
+~
+~
+0 0 8518
+D2
+~
+~
+0 0 8508
+D3
+~
+~
+0 0 8506
+S
+#8508
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8507
+D1
+~
+~
+0 0 8517
+D2
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8505
+D4
+~
+~
+0 0 8543
+S
+#8509
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8508
+D1
+~
+~
+0 0 8516
+D2
+~
+~
+0 0 8510
+D3
+~
+~
+0 0 8504
+S
+#8510
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8509
+D1
+~
+~
+0 0 8515
+D2
+~
+~
+0 0 8511
+D3
+~
+~
+0 0 8503
+S
+#8511
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8510
+D1
+~
+~
+0 0 8514
+D2
+~
+~
+0 0 8512
+D3
+~
+~
+0 0 8502
+D4
+~
+~
+0 0 8545
+S
+#8512
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8511
+D1
+~
+~
+0 0 8513
+D3
+~
+~
+0 0 8501
+S
+#8513
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8514
+D1
+~
+~
+0 0 8524
+D3
+~
+~
+0 0 8512
+S
+#8514
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8515
+D1
+~
+~
+0 0 8523
+D2
+~
+~
+0 0 8513
+D3
+~
+~
+0 0 8511
+S
+#8515
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8516
+D1
+~
+~
+0 0 8522
+D2
+~
+~
+0 0 8514
+D3
+~
+~
+0 0 8510
+S
+#8516
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8517
+D1
+~
+~
+0 0 8521
+D2
+~
+~
+0 0 8515
+D3
+~
+~
+0 0 8509
+S
+#8517
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8518
+D1
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8516
+D3
+~
+~
+0 0 8508
+S
+#8518
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D1
+~
+~
+0 0 8519
+D2
+~
+~
+0 0 8517
+D3
+~
+~
+0 0 8507
+S
+#8519
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D1
+~
+~
+0 0 8530
+D2
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8518
+S
+#8520
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8519
+D1
+~
+~
+0 0 8529
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8517
+S
+#8521
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8520
+D1
+~
+~
+0 0 8528
+D2
+~
+~
+0 0 8522
+D3
+~
+~
+0 0 8516
+S
+#8522
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8521
+D1
+~
+~
+0 0 8527
+D2
+~
+~
+0 0 8523
+D3
+~
+~
+0 0 8515
+S
+#8523
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8522
+D1
+~
+~
+0 0 8526
+D2
+~
+~
+0 0 8524
+D3
+~
+~
+0 0 8514
+S
+#8524
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8523
+D1
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8513
+S
+#8525
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8526
+D1
+~
+~
+0 0 8536
+D3
+~
+~
+0 0 8524
+S
+#8526
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8527
+D1
+~
+~
+0 0 8535
+D2
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8523
+D4
+~
+~
+0 0 8555
+S
+#8527
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8528
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 8526
+D3
+~
+~
+0 0 8522
+S
+#8528
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8529
+D1
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8527
+D3
+~
+~
+0 0 8521
+S
+#8529
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8530
+D1
+~
+~
+0 0 8532
+D2
+~
+~
+0 0 8528
+D3
+~
+~
+0 0 8520
+D4
+~
+~
+0 0 8553
+S
+#8530
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D1
+~
+~
+0 0 8531
+D2
+~
+~
+0 0 8529
+D3
+~
+~
+0 0 8519
+S
+#8531
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D2
+~
+~
+0 0 8532
+D3
+~
+~
+0 0 8530
+S
+#8532
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8531
+D2
+~
+~
+0 0 8533
+D3
+~
+~
+0 0 8529
+S
+#8533
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8532
+D2
+~
+~
+0 0 8534
+D3
+~
+~
+0 0 8528
+S
+#8534
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8533
+D2
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8527
+S
+#8535
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 8536
+D3
+~
+~
+0 0 8526
+S
+#8536
+1st floor of the Volcano~
+A large floor, made of solid volcanic rock and as combined into the mountain.
+The heat of the volcano is extremly hot and rising.  There is an extremely
+large concentration of sounds eminating in the volcano, and above as if there
+were things living here.
+~
+0 0 0
+D0
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8525
+S
+#8537
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self. Large rocks have crumbles from the sides of the walls made from tpart of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8538
+D1
+~
+~
+0 0 8546
+S
+#8538
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8539
+D1
+~
+~
+0 0 8545
+D2
+~
+~
+0 0 8537
+S
+#8539
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8540
+D1
+~
+~
+0 0 8544
+D2
+~
+~
+0 0 8538
+S
+#8540
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8541
+D1
+~
+~
+0 0 8543
+D2
+~
+~
+0 0 8539
+S
+#8541
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D1
+~
+~
+0 0 8542
+D2
+~
+~
+0 0 8540
+S
+#8542
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+n
+n
+~
+0 0 0
+D1
+~
+~
+0 0 8551
+D2
+~
+~
+0 0 8543
+D3
+~
+~
+0 0 8541
+S
+#8543
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8542
+D1
+~
+~
+0 0 8550
+D2
+~
+~
+0 0 8544
+D3
+~
+~
+0 0 8540
+D4
+~
+~
+0 0 8567
+D5
+~
+~
+0 0 8508
+S
+#8544
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8543
+D1
+~
+~
+0 0 8549
+D2
+~
+~
+0 0 8545
+D3
+~
+~
+0 0 8539
+S
+#8545
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8544
+D1
+~
+~
+0 0 8548
+D2
+~
+~
+0 0 8546
+D3
+~
+~
+0 0 8538
+D4
+~
+~
+0 0 8568
+D5
+~
+~
+0 0 8511
+S
+#8546
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8545
+D1
+~
+~
+0 0 8547
+D3
+~
+~
+0 0 8537
+S
+#8547
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8548
+D1
+~
+~
+0 0 8556
+D3
+~
+~
+0 0 8546
+S
+#8548
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8549
+D1
+~
+~
+0 0 8555
+D2
+~
+~
+0 0 8547
+D3
+~
+~
+0 0 8545
+S
+#8549
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8550
+D1
+~
+~
+0 0 8554
+D2
+~
+~
+0 0 8548
+D3
+~
+~
+0 0 8544
+S
+#8550
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8551
+D1
+~
+~
+0 0 8553
+D2
+~
+~
+0 0 8549
+D3
+~
+~
+0 0 8543
+S
+#8551
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D1
+~
+~
+0 0 8552
+D2
+~
+~
+0 0 8550
+D3
+~
+~
+0 0 8542
+S
+#8552
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D1
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8553
+D3
+~
+~
+0 0 8551
+S
+#8553
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8552
+D1
+~
+~
+0 0 8560
+D2
+~
+~
+0 0 8554
+D3
+~
+~
+0 0 8550
+D4
+~
+~
+0 0 8572
+D5
+~
+~
+0 0 8529
+S
+#8554
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8553
+D1
+~
+~
+0 0 8559
+D2
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8549
+S
+#8555
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8554
+D1
+~
+~
+0 0 8558
+D2
+~
+~
+0 0 8556
+D3
+~
+~
+0 0 8548
+D4
+~
+~
+0 0 8571
+D5
+~
+~
+0 0 8526
+S
+#8556
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8555
+D1
+~
+~
+0 0 8557
+D3
+~
+~
+0 0 8547
+S
+#8557
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self. Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8558
+D3
+~
+~
+0 0 8556
+S
+#8558
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8559
+D2
+~
+~
+0 0 8557
+D3
+~
+~
+0 0 8555
+S
+#8559
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8560
+D2
+~
+~
+0 0 8558
+D3
+~
+~
+0 0 8554
+S
+#8560
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D0
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8559
+D3
+~
+~
+0 0 8553
+S
+#8561
+2nd floor of the Volcano~
+The second floor of the volcano is even hotter than the first floor.  The
+steam from the lava pit below is sending the heat out though the top of the
+mouth of the mountain.  Strange noises are echoing though out the mountain it
+self.  Large rocks have crumbled from the sides of the walls from parts of
+the wall and lava.
+~
+0 0 0
+D2
+~
+~
+0 0 8560
+D3
+~
+~
+0 0 8552
+S
+#8562
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8563
+D1
+~
+~
+0 0 8569
+S
+#8563
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8564
+D1
+~
+~
+0 0 8568
+D2
+~
+~
+0 0 8562
+S
+#8564
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8565
+D1
+~
+~
+0 0 8567
+D2
+~
+~
+0 0 8563
+S
+#8565
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D1
+~
+~
+0 0 8566
+D2
+~
+~
+0 0 8564
+S
+#8566
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D1
+~
+~
+0 0 8573
+D2
+~
+~
+0 0 8567
+D3
+~
+~
+0 0 8565
+S
+#8567
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8566
+D1
+~
+~
+0 0 8572
+D2
+~
+~
+0 0 8568
+D3
+~
+~
+0 0 8564
+D4
+~
+~
+0 0 8579
+D5
+~
+~
+0 0 8543
+S
+#8568
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8567
+D1
+~
+~
+0 0 8571
+D2
+~
+~
+0 0 8569
+D3
+~
+~
+0 0 8563
+D4
+~
+~
+0 0 8578
+D5
+~
+~
+0 0 8545
+S
+#8569
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8568
+D1
+~
+~
+0 0 8570
+D3
+~
+~
+0 0 8562
+S
+#8570
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8571
+D1
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8569
+S
+#8571
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8572
+D1
+~
+~
+0 0 8576
+D2
+~
+~
+0 0 8570
+D3
+~
+~
+0 0 8568
+D4
+~
+~
+0 0 8581
+D5
+~
+~
+0 0 8555
+S
+#8572
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8571
+D3
+~
+~
+0 0 8567
+D4
+~
+~
+0 0 8580
+D5
+~
+~
+0 0 8553
+S
+#8573
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D1
+~
+~
+0 0 8574
+D2
+~
+~
+0 0 8572
+D3
+~
+~
+0 0 8566
+S
+#8574
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D2
+~
+~
+0 0 8575
+D3
+~
+~
+0 0 8573
+S
+#8575
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8574
+D2
+~
+~
+0 0 8576
+D3
+~
+~
+0 0 8572
+S
+#8576
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8571
+S
+#8577
+3rd floor of the Volcano~
+The walls have moved closer in as the mountain get higher.  The heat has
+cooled off a bit because the mouth of the mountain is near.  The walls glow
+a nice golden red, and hold a strange sort of metal in its interior.  Tiny
+fragments of rocks lie on the ground with a bit of dirt and puddles of water.
+~
+0 0 0
+D0
+~
+~
+0 0 8576
+D3
+~
+~
+0 0 8570
+S
+#8578
+Top floor of the Volcano~
+The top of the mountain is very cool.  A nice breeze is entering from the top
+of the mountain.  The view from here is spectacular, it is a very tall
+mountain which can spot anything for miles and miles around.  The top of
+the mountain looks burnt all around, as if something had seared the mountain
+top.
+~
+0 0 0
+D0
+~
+~
+0 0 8579
+D1
+~
+~
+0 0 8581
+D5
+~
+~
+0 0 8568
+S
+#8579
+Top floor of the Volcano~
+The top of the mountain is very cool.  A nice breeze is entering from the top
+of the mountain.  The view from here is spectacular, it is a very tall
+mountain which can spot anything for miles and miles around.  The top of
+the mountain looks burnt all around, as if something had seared the mountain
+top.
+~
+0 0 0
+D1
+~
+~
+0 0 8580
+D2
+~
+~
+0 0 8578
+D5
+~
+~
+0 0 8567
+S
+#8580
+Top floor of the Volcano~
+The top of the mountain is very cool.  A nice breeze is entering from the top
+of the mountain.  The view from here is spectacular, it is a very tall
+mountain which can spot anything for miles and miles around.  The top of
+the mountain looks burnt all around, as if something had seared the mountain
+top.
+~
+0 0 0
+D2
+~
+~
+0 0 8581
+D3
+~
+~
+0 0 8579
+D5
+~
+~
+0 0 8572
+S
+#8581
+Top floor of the Volcano~
+The top of the mountain is very cool.  A nice breeze is entering from the top
+of the mountain.  The view from here is spectacular, it is a very tall
+mountain which can spot anything for miles and miles around.  The top of
+the mountain looks burnt all around, as if something had seared the mountain
+top.
+~
+0 0 0
+D0
+~
+~
+0 0 8580
+D1
+~
+~
+0 0 8582
+D3
+~
+~
+0 0 8578
+D5
+~
+~
+0 0 8571
+S
+#8582
+Dragons Cave~
+This is the dragons homestead, where it lives and eats all its victums.
+Bones lay scattered all over the ground, from past warriors who have
+tryed to slay this dragon.  The walls around are dark and dismal, with
+large scratches and a few burn marks from the battles which have taken
+place with in these walls.
+~
+0 0 0
+D3
+~
+~
+0 0 8581
+S
+#0
+
+
+#RESETS
+M 1 8503 18 8501			4
+M 1 8504 18 8501			4
+M 1 8505 18 8501			4
+M 1 8500 18 8502			4
+M 1 8501 18 8502			4
+M 1 8502 18 8502			4
+M 1 8503 18 8503			4
+M 1 8504 18 8503			4
+M 1 8505 18 8503			4
+M 1 8500 18 8504			4
+M 1 8501 18 8504			4
+M 1 8502 18 8504			4
+M 1 8503 18 8505			4
+M 1 8504 18 8505			4
+M 1 8505 18 8505			4
+M 1 8500 18 8506			4
+M 1 8501 18 8506			4
+M 1 8502 18 8506			4
+M 1 8503 18 8507			4
+M 1 8504 18 8507			4
+M 1 8505 18 8507			4
+M 1 8500 18 8508			4
+M 1 8501 18 8508			4
+M 1 8502 18 8508			4
+M 1 8503 18 8509			4
+M 1 8504 18 8509			4
+M 1 8505 18 8509			4
+M 1 8500 18 8510			4
+M 1 8501 18 8510			4
+M 1 8502 18 8510			4
+M 1 8503 18 8511			4
+M 1 8504 18 8511			4
+M 1 8505 18 8511			4
+M 1 8500 18 8512			4
+M 1 8501 18 8512			4
+M 1 8502 18 8512			4
+M 1 8500 18 8513			4
+M 1 8501 18 8513			4
+M 1 8502 18 8513			4
+M 1 8503 18 8514			4
+M 1 8504 18 8514			4
+M 1 8505 18 8514			4
+M 1 8500 18 8515			4
+M 1 8501 18 8515			4
+M 1 8502 18 8515			4
+O 1 8510 0 8515
+M 1 8503 18 8516			4
+M 1 8504 18 8516			4
+M 1 8505 18 8516			4
+O 1 8510 0 8516
+M 1 8500 18 8517			4
+M 1 8501 18 8517			4
+M 1 8502 18 8517			4
+M 1 8503 18 8518			4
+M 1 8504 18 8518			4
+M 1 8505 18 8518			4
+M 1 8503 18 8519			4
+M 1 8504 18 8519			4
+M 1 8505 18 8519			4
+M 1 8500 18 8520			4
+M 1 8501 18 8520			4
+M 1 8502 18 8520			4
+M 1 8503 18 8521			4
+M 1 8504 18 8521			4
+M 1 8505 18 8521			4
+O 1 8510 0 8521
+M 1 8500 18 8522			4
+M 1 8501 18 8522			4
+M 1 8502 18 8522			4
+O 1 8510 0 8522
+M 1 8503 18 8523			4
+M 1 8504 18 8523			4
+M 1 8505 18 8523			4
+M 1 8500 18 8524			4
+M 1 8501 18 8524			4
+M 1 8502 18 8524			4
+M 1 8500 18 8525			4
+M 1 8501 18 8525			4
+M 1 8502 18 8525			4
+M 1 8503 18 8526			4
+M 1 8504 18 8526			4
+M 1 8505 18 8526			4
+M 1 8500 18 8527			4
+M 1 8501 18 8527			4
+M 1 8502 18 8527			4
+M 1 8503 18 8528			4
+M 1 8504 18 8528			4
+M 1 8505 18 8528			4
+M 1 8500 18 8529			4
+M 1 8501 18 8529			4
+M 1 8502 18 8529			4
+M 1 8503 18 8530			4
+M 1 8504 18 8530			4
+M 1 8505 18 8530			4
+M 1 8503 18 8531			4
+M 1 8504 18 8531			4
+M 1 8505 18 8531			4
+M 1 8500 18 8532			4
+M 1 8501 18 8532			4
+M 1 8502 18 8532			4
+M 1 8503 18 8533			4
+M 1 8504 18 8533			4
+M 1 8505 18 8533			4
+M 1 8500 18 8534			4
+M 1 8501 18 8534			4
+M 1 8502 18 8534			4
+M 1 8503 18 8535			4
+M 1 8504 18 8535			4
+M 1 8505 18 8535			4
+M 1 8500 18 8536			4
+M 1 8501 18 8536			4
+M 1 8502 18 8536			4
+M 1 8506 15 8537			4
+M 1 8507 15 8537			4
+M 1 8508 10 8538			4
+M 1 8510 10 8538			4
+M 1 8506 15 8539			4
+M 1 8507 15 8539			4
+M 1 8508 10 8540			4
+M 1 8510 10 8540			4
+M 1 8506 15 8541			4
+M 1 8507 15 8541			4
+M 1 8506 15 8542			4
+M 1 8507 15 8542			4
+M 1 8508 10 8543			4
+M 1 8510 10 8543			4
+M 1 8506 15 8544			4
+M 1 8507 15 8544			4
+M 1 8508 10 8545			4
+M 1 8510 10 8545			4
+M 1 8506 15 8546			4
+M 1 8507 15 8546			4
+M 1 8506 15 8547			4
+M 1 8507 15 8547			4
+M 1 8508 10 8548			4
+M 1 8510 10 8548			4
+M 1 8506 15 8549			4
+M 1 8507 15 8549			4
+M 1 8508 10 8551			4
+M 1 8510 10 8551			4
+M 1 8506 15 8552			4
+M 1 8507 15 8552			4
+M 1 8508 10 8553			4
+M 1 8510 10 8553			4
+M 1 8506 15 8554			4
+M 1 8507 15 8554			4
+M 1 8508 10 8555			4
+M 1 8510 10 8555			4
+M 1 8506 15 8556			4
+M 1 8507 15 8556			4
+M 1 8513 1 8562			4
+E 1 8500 0 5
+M 1 8514 1 8563			4
+G 1 8507 0
+M 1 8515 1 8564			4
+E 1 8506 0 16
+M 1 8516 1 8565			4
+M 1 8517 1 8566			4
+E 1 8501 0 7
+E 1 8509 100 12
+M 1 8518 1 8569			4
+M 1 8519 1 8570			4
+M 1 8520 1 8573			4
+G 1 8507 0
+M 1 8521 1 8574			4
+M 1 8524 1 8575			4
+M 1 8523 1 8576			4
+E 1 8508 0 16
+M 1 8522 1 8577			4
+E 1 8504 0 3
+M 1 8511 4 8578			4
+E 1 8511 0 0
+M 1 8511 4 8579			4
+E 1 8511 0 0
+M 1 8511 4 8580			4
+E 1 8511 0 0
+M 1 8512 1 8582			4
+S
+
+
+#$

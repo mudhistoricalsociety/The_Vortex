@@ -1,0 +1,1243 @@
+#AREA	Jalerit Obsidian Tower~
+16500
+16550
+
+#MOBILES
+#16500
+onyx gargoyle small~
+A small onyx gargoyle~
+A small onyx gargoyle stares into the distance, oblivous to you.
+~
+
+~
+2|64 524288 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#16501
+elderly man~
+An elderly man~
+A small elderly man awaits to take your things.
+~
+
+~
+2|4|64 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16502
+guard man~
+The guard~
+A burly guard looks sternly at you.
+~
+
+~
+2|4|64 8192 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16503
+mage hooded figure~
+A hooded mage~
+A hooded figure is here, learning.
+~
+
+~
+2|64 8|32 -400 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16504
+sleeping mage~
+A sleepy mage~
+Someone is quietly snoozing in one of the beds.
+~
+
+~
+2|64 8|32 -400 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16505
+wandering mage~
+A wandering mage~
+A hooded figure is wandering through the tower
+~
+
+~
+4|64 8|32 -420 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16506
+beast wild~
+A wild beast~
+A wild beast sniffs the air and proceeds to stalk around you.
+~
+
+~
+2|4|64 8|32 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#16507
+mad man madman~
+A madman~
+A man with no mind screams at nothing in particular.
+~
+
+~
+2|4|64 0 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16508
+studious mage~
+A studious mage~
+A mage is here working his mind to its keenest.
+~
+
+~
+2|64 8|32 -500 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16509
+abomination mutant~
+An abomination~
+An mutated creature edges away as you enter.
+~
+
+~
+2|4|64 8|32|512 0 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16510
+predator animal wild~
+A wild predator~
+An angery wild animal paces back and forth ready to attack.
+~
+
+~
+2|32|64 8|32|512 0 S
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16511
+researcher mage~
+A researching mage~
+A mage is here studying the floor below.
+~
+
+~
+2|32|64 8|32|512 -600 S
+55 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16512
+Advanced mutant~
+An advanced mutant~
+A pair of red eyes stare at you from the darkeness.
+~
+
+~
+2|32|64 8|32|512 -800 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16513
+lab worker~
+A lab worker~
+A hooded figure is busily working in the lab.
+~
+
+~
+2|64 8|32|512 -500 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16514
+demon hooded~
+A great horned demon~
+A huge hooded figure is chanting on a raised dias.
+~
+
+~
+2|64 8|32|128|512|524288 -1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#16515
+mage summoner chanter~
+A summoning mage~
+A mage is here, summoning all the demons of hell.
+~
+
+~
+2|64 8|32|128|512|524288 -900 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#16500
+hidden step~
+hidden step~
+A large obsidian staircase spirals up to the next floor~
+~
+15 0 0
+100 4 -1 0 
+9999 0 0
+#16501
+crumbling scroll~
+a crumbling scroll~
+A tattered old scroll is crumbling into nothingness.~
+~
+2 64 1
+50 25 204 26 
+1 0 0
+#16502
+soulfinder ~
+soulFinder~
+A shaft of pure energy radiates on the ground.~
+~
+5 0 1|8192
+0 20 20 9 
+5 0 0
+A
+19 10
+A
+18 10
+#0
+
+
+#ROOMS
+#16500
+Entrance to the Obsidian Tower.~
+High above you loomes an ominous looking obsidian tower.  Huge onyx
+gargoyles adorn the corner overhangs.  When the wind grows still and
+silent, the sounds of chanting supressed explosions can be overheard.
+~
+0 8 0
+D2
+~
+~
+0 -1 16501
+D5
+~
+~
+0 -1 2902
+S
+#16501
+The Foyer.~
+All is quiet. In this room everything seems at peace; almost in a state of blissful slumber.  Some delicate paintings and ornate sculptures adorn the obsidian walls.  To the south you can spy a large staircase, looking east is a storage room and a guard post to the west.
+~
+0 8 0
+D0
+~
+~
+0 -1 16500
+D1
+~
+~
+0 -1 16503
+D2
+~
+~
+0 -1 16504
+D3
+~
+~
+0 -1 16502
+S
+#16502
+Storage room.~
+Cloaks, capes, hats, and other various traveling gear litter this little room. An elderly gentleman sits quietly in the corner waiting to relieve you of your burdens, so that your stay here may be a bit more comfortable.
+~
+0 8 0
+D1
+~
+~
+0 -1 16501
+S
+#16503
+Guard Post.~
+Several able-bodied men stand at attention as you enter this room.  The smell of blood, leather, and cold hard steel is almost overpowering.  As you turn to leave, a shrill scream breaks the silence.
+~
+0 8 0
+D3
+~
+~
+0 -1 16501
+S
+#16504
+The Obsidian Stairs.~
+Carved from a single enormous block of obsidian, the stairs lead a spiraling dance on the way to the next floor.  Once again you can hear faint chanting and muffled grunts.  Stepping upon each of the steps, something doesn't seem quite right.
+~
+0 8 0
+D0
+~
+~
+0 -1 16501
+D4
+~
+~
+0 -1 16505
+S
+#16505
+The Obsidian Stairs.~
+Carved from a single block of obsidian, the stairs lead a winding spiral down to the lower floor.  The sounds of chanting, and a loud growl can be heard from the upper floors.
+~
+0 8 0
+D0
+~
+~
+0 -1 16506
+D5
+~
+~
+0 -1 16504
+S
+#16506
+The Hallway.~
+Stepping into the hallway you can see many different works of art all of which depict a great horned beast devouring the world.  Great iron doors lead east and west.  A set of obsidian stairs are to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 16509
+D1
+~
+~
+1 -1 16508
+D2
+~
+~
+0 -1 16505
+D3
+~
+~
+1 -1 16507
+S
+#16507
+A Bunkroom.~
+Small bunkbeds litter this room from floor to ceiling, from wall to wall. Several hooded figures are sitting on the beds discussing something amongst themselves.  Faint snoring can be heard from a few of the bunks.
+~
+0 8 0
+D1
+~
+~
+1 -1 16506
+S
+#16508
+A Lab.~
+In this room, mages of lof ranking come to hone their skills.  Thin books line the tables and a small circle in the center of the room has been set aside to defuse those spells of destructive nature.
+~
+0 8 0
+D3
+~
+~
+1 -1 16506
+S
+#16509
+The Obsidian Stairs.~
+The winding stairs are carved from an enourmous block of obsidian.  Looking up you can see they lead to the next floor then stop ubruptly. The sounds of hurried chanting and a howl of rage split the still air.
+~
+0 8 0
+D2
+~
+~
+0 -1 16506
+D4
+~
+~
+0 -1 16510
+S
+#16510
+The Obsidian Stairs.~
+Carved from a single block of obsidian, the stairs lead a winding spiral down to the lower floor.  The sounds of chanting, and a loud growl can be heard from the upper floors.
+~
+0 8 0
+D2
+~
+~
+0 -1 16511
+D5
+~
+~
+0 -1 16509
+S
+#16511
+A Hallway.~
+Blood oozes on the floor from the east and west doors.  Grunts, growls and loud maniacal laughter echos off of the obsidian walls.  The lighting on this floor is substantially lower than on the lower floors.
+~
+0 8 0
+D0
+~
+~
+0 -1 16510
+D1
+~
+~
+1 -1 16513
+D2
+~
+~
+0 -1 16514
+D3
+~
+~
+1 -1 16512
+S
+#16512
+The Beasts.~
+Roaming in a complex set of cages are many different types of wild animals.  Some obviously deadly, others are nothing more than food stock.  Upon stepping into the room, the more feral of the beasts pace back and forth, ready to attack.
+~
+0 8 0
+D1
+~
+~
+1 -1 16511
+S
+#16513
+The Madmen.~
+Where do those who have lost their minds go? Here.  Within this room are many people who have obviously lost all connection with reality as you know it.  They have been left to thier own devices, mainly to slaughter themselves, or used as test subjects.
+~
+0 8 0
+D3
+~
+~
+1 -1 16511
+S
+#16514
+The Obsidian Stairs.~
+The winding stairs are carved from an enourmous block of obsidian.  Looking up you can see they lead to the next floor then stop ubruptly. The sounds of hurried chanting and a howl of rage split the still air.
+~
+0 8 0
+D0
+~
+~
+0 -1 16511
+D4
+~
+~
+0 -1 16515
+S
+#16515
+The Obsidian Stairs.~
+Carved from a single block of obsidian, the stairs lead a winding spiral down to the lower floor.  The sounds of chanting, and a loud growl can be heard from the upper floors.
+~
+0 8 0
+D0
+~
+~
+0 -1 16516
+D5
+~
+~
+0 -1 16514
+S
+#16516
+A Huge Staircase.~
+You stand in awe at the magnificant work of art that is this set of stairs.  Beasts of all sorts are carved into every step. Some steps  are inlaid with gold, silver, and platinum. Others have jewels imbedded into the stone to look as eyes.
+~
+0 8 0
+D0
+~
+~
+1 -1 16517
+D1
+~
+~
+0 -1 16518
+D2
+~
+~
+0 -1 16515
+D3
+~
+~
+0 -1 16519
+D4
+~
+~
+0 -1 16520
+S
+#16517
+A Labratory.~
+Huge marble tables dominate this room.  On every wall is a set of shelves containing everything from books to spell components.  Several mages and even a few warriors talk to one another as they perform their experiments.
+~
+0 8 0
+D2
+~
+~
+1 -1 16516
+S
+#16518
+The Library.~
+Huge shelves of books, old musty tomes, and many different type of scrolls sit in every conceivable spot.  Several hooded figures sit in solitude as they ponder the knowledge of the literature.  On the ceiling is an enourmous mural of a horned beast.
+~
+0 8 0
+D3
+~
+~
+0 -1 16516
+S
+#16519
+Storage.~
+Inside this dark, very dry room are a multitude of chests and shelves.  On the shelves rest many important looking items.  There is a small notepad hung beside the doorway.  Another mural has been painted on the ceiling, titled, The Raging Inferno.
+~
+0 8 0
+D1
+~
+~
+0 -1 16516
+S
+#16520
+A Huge Staircase.~
+You stand in awe at the magnificant work of art that is this set of stairs.  Beasts of all sorts are carved into every step. Some steps  are inlaid with gold, silver, and platinum. Others have jewels imbedded into the stone to look as eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 16521
+D2
+~
+~
+0 -1 16522
+D4
+~
+~
+0 -1 16529
+D5
+~
+~
+0 -1 16516
+S
+#16521
+Before the Cages.~
+Several sacks of grain and other food stuffs are hung on either side of the enourmous cages to the east and west.  The western cage holds the more animalistic predators of the wild.  The eastern cage holds a myriad of abominations.
+~
+0 8 0
+D1
+~
+~
+1 -1 16525
+D2
+~
+~
+0 -1 16520
+D3
+~
+~
+1 -1 16526
+S
+#16522
+Before the Cages.~
+Several sacks of grain and other food stuffs are hung on either side of the enourmous cages to the east and west.  The western cage holds the more animalistic predators of the wild.  The eastern cage holds a myriad of abominations.
+~
+0 8 0
+D0
+~
+~
+0 -1 16520
+D1
+~
+~
+1 -1 16523
+D3
+~
+~
+1 -1 16528
+S
+#16523
+The Abominations.~
+All around you are the creatures of indeterminate origin.  Most seem fairly harmless, their limbs twisted into mishappen clubs.  Some hooded figures stare at you from a glass ceiling far overhead.
+~
+0 8 0
+D0
+~
+~
+0 -1 16524
+D3
+~
+~
+1 -1 16522
+S
+#16524
+The Abominations.~
+All around you are the creatures of indeterminate origin.  Most seem fairly harmless, their limbs twisted into mishappen clubs.  Some hooded figures stare at you from a glass ceiling far overhead.
+~
+0 8 0
+D0
+~
+~
+0 -1 16525
+D2
+~
+~
+0 -1 16523
+S
+#16525
+The Abominations.~
+All around you are the creatures of indeterminate origin.  Most seem fairly harmless, their limbs twisted into mishappen clubs.  Some hooded figures stare at you from a glass ceiling far overhead.
+~
+0 8 0
+D2
+~
+~
+0 -1 16524
+D3
+~
+~
+1 -1 16521
+S
+#16526
+The Animal Cages.~
+Huge beasts of the hunt stalk around you, poised to strike.  The stench of past meals and rotting blood is too powerful to ignore.  Various figures stare at you from a glass ceiling far overhead.
+~
+0 8 0
+D1
+~
+~
+1 -1 16521
+D2
+~
+~
+0 -1 16527
+S
+#16527
+The Animal Cages.~
+Huge beasts of the hunt stalk around you, poised to strike.  The stench of past meals and rotting blood is too powerful to ignore.  Various figures stare at you from a glass ceiling far overhead.
+~
+0 8 0
+D0
+~
+~
+0 -1 16526
+D2
+~
+~
+0 -1 16528
+S
+#16528
+The Animal Cages.~
+Huge beasts of the hunt stalk around you, poised to strike.  The stench of past meals and rotting blood is too powerful to ignore.  Various figures stare at you from a glass ceiling far overhead.
+~
+0 0 1
+D0
+~
+~
+0 -1 16527
+D1
+~
+~
+1 -1 16522
+S
+#16529
+A Huge Staircase.~
+You stand in awe at the magnificant work of art that is this set of stairs.  Beasts of all sorts are carved into every step. Some steps  are inlaid with gold, silver, and platinum. Others have jewels inbeded into the stone to look as eyes.
+~
+0 0 1
+D0
+~
+~
+0 -1 16531
+D1
+~
+~
+0 -1 16533
+D2
+~
+~
+0 -1 16530
+D3
+~
+~
+0 -1 16536
+D4
+~
+~
+0 -1 16538
+D5
+~
+~
+0 -1 16520
+S
+#16530
+A Hallway.~
+The lighting conditions have improved considerably.  On the southern wall hangs a portrait of a hooded figure with a great horned beast in the background.  Conversation can be heard from boh the east and the west doorways.
+~
+0 8 0
+D0
+~
+~
+0 -1 16529
+D1
+~
+~
+0 -1 16534
+D3
+~
+~
+0 -1 16537
+S
+#16531
+A Hallway.~
+The lighting conditions have improved considerably.  On the northern wall hangs a portrait of a hooded figure with a great horned beast in the background.  Conversation can be heard from boh the east and the west doorways.
+~
+0 8 0
+D1
+~
+~
+0 -1 16532
+D2
+~
+~
+0 -1 16529
+D3
+~
+~
+0 -1 16535
+S
+#16532
+Study of the Abominations.~
+Upon entering this room thefirst thing you notice is the perfectly clear glass floor.  Hooded figures stand around talking about and poiting to the horribly mutated creatures underneath.  After much deliberation one of them jots something down on his notepad.
+~
+0 8 0
+D2
+~
+~
+0 -1 16533
+D3
+~
+~
+0 -1 16531
+S
+#16533
+Study of the Abominations.~
+Upon entering this room thefirst thing you notice is the perfectly clear glass floor.  Hooded figures stand around talking about and poiting to the horribly mutated creatures underneath.  After much deliberation one of them jots something down on his notepad.
+~
+0 8 0
+D0
+~
+~
+0 -1 16532
+D2
+~
+~
+0 -1 16534
+D3
+~
+~
+0 -1 16529
+S
+#16534
+Study of the Abominations.~
+Upon entering this room thefirst thing you notice is the perfectly clear glass floor.  Hooded figures stand around talking about and poiting to the horribly mutated creatures underneath.  After much deliberation one of them jots something down on his notepad.
+~
+0 8 0
+D0
+~
+~
+0 -1 16533
+D3
+~
+~
+0 -1 16530
+S
+#16535
+Study of Animals.~
+Covering the entire floor is an enourmous slab of crystal clear glass, giving an excellent view of the animals below.  Several hooded figures stare at the animals behaviour and write their observations in a small notepad.
+~
+0 8 0
+D1
+~
+~
+0 -1 16531
+D2
+~
+~
+0 -1 16536
+S
+#16536
+Study of the Animals.~
+Covering the entire floor is an enourmous slab of crystal clear glass, giving an excellent view of the animals below.  Several hooded figures stare at the animals behaviour and write their observations in a small notepad.
+~
+0 8 0
+D0
+~
+~
+0 -1 16535
+D1
+~
+~
+0 -1 16529
+D2
+~
+~
+0 -1 16537
+S
+#16537
+Study of the Animals.~
+Covering the entire floor is an enourmous slab of crystal clear glass, giving an excellent view of the animals below.  Several hooded figures stare at the animals behaviour and write their observations in a small notepad.
+~
+0 0 1
+D0
+~
+~
+0 -1 16536
+D1
+~
+~
+0 -1 16530
+S
+#16538
+A Huge Staircase.~
+You stand in awe at the magnificant work of art that is this set of stairs.  Beasts of all sorts are carved into every step. Some steps  are inlaid with gold, silver, and platinum. Others have jewels inbeded into the stone to look as eyes.
+~
+0 0 1
+D1
+~
+~
+0 -1 16542
+D2
+~
+~
+0 -1 16539
+D3
+~
+~
+0 -1 16540
+D4
+~
+~
+0 -1 16544
+D5
+~
+~
+0 -1 16529
+S
+#16539
+The Advanced Mutations.~
+Maybe entering this room was a mistake. This room is completely dark, save for the red and yellow glowing eyes fifteen feet in the air in front of you.  A loud growl can be heard from every direction.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 16538
+D1
+~
+~
+0 -1 16543
+D3
+~
+~
+0 -1 16541
+S
+#16540
+The Advanced Mutations.~
+Maybe entering this room was a mistake. This room is completely dark, save for the red and yellow glowing eyes fifteen feet in the air in front of you.  A loud growl can be heard from every direction.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 16538
+D2
+~
+~
+0 -1 16541
+S
+#16541
+The Advanced Mutations.~
+Maybe entering this room was a mistake. This room is completely dark, save for the red and yellow glowing eyes fifteen feet in the air in front of you.  A loud growl can be heard from every direction.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 16540
+D1
+~
+~
+0 -1 16539
+S
+#16542
+The Advanced Mutations.~
+Maybe entering this room was a mistake. This room is completely dark, save for the red and yellow glowing eyes fifteen feet in the air in front of you.  A loud growl can be heard from every direction.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 16543
+D3
+~
+~
+0 -1 16538
+S
+#16543
+The Advanced Mutations.~
+Maybe entering this room was a mistake. This room is completely dark, save for the red and yellow glowing eyes fifteen feet in the air in front of you.  A loud growl can be heard from every direction.
+~
+0 8 0
+D0
+~
+~
+0 -1 16542
+D3
+~
+~
+0 -1 16539
+S
+#16544
+A Huge Staircase.~
+You stand in awe at the magnificant work of art that is this set of stairs.  Beasts of all sorts are carved into every step. Some steps  are inlaid with gold, silver, and platinum. Others have jewels inbeded into the stone to look as eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 16548
+D2
+~
+~
+0 -1 16545
+D3
+~
+~
+0 -1 16546
+D4
+~
+~
+0 -1 16550
+D5
+~
+~
+0 -1 16538
+S
+#16545
+The Sitting Room.~
+The plushness, comfort, and overal sense of calm is rather disturbing thing to experience at the moment.  Soft, high-backed chairs stand around a large marble table.  A chalkboard ison the southern wall with some enigmatic pictures and formulas drawn on it.
+~
+0 8 0
+D0
+~
+~
+0 -1 16544
+D1
+~
+~
+0 -1 16549
+D3
+~
+~
+0 -1 16547
+S
+#16546
+The Mutations Labs.~
+Several hooded figures scrable about attending some people strapped into large elaborate looking metal tables.  Several jars of fluid sit above each of the tables, giving its contents to the victims by a long curving tube.
+~
+0 8 0
+D1
+~
+~
+0 -1 16544
+D2
+~
+~
+0 -1 16547
+S
+#16547
+The Mutations Labs.~
+Several hooded figures scrable about attending some people strapped into large elaborate looking metal tables.  Several jars of fluid sit above each of the tables, giving its contents to the victims by a long curving tube.
+~
+0 8 0
+D0
+~
+~
+0 -1 16546
+D1
+~
+~
+0 -1 16545
+S
+#16548
+Chemical Lab.~
+Large beakers of various substances lay about on various marble tables.  Several robed figures busy themselves with pouring, mixing, and distilling the various compounds.  It is wierd however, nearly all the compounds are a thick red or black fluid.
+~
+0 8 0
+D2
+~
+~
+0 -1 16549
+D3
+~
+~
+0 -1 16544
+S
+#16549
+Chemical Lab.~
+Large beakers of various substances lay about on various marble tables.  Several robed figures busy themselves with pouring, mixing, and distilling the various compounds.  It is wierd however, nearly all the compounds are a thick red or black fluid.
+~
+0 8 0
+D0
+~
+~
+0 -1 16548
+D3
+~
+~
+0 -1 16545
+S
+#16550
+The Top of the Tower.~
+Upon climbing the last step, you find yourself within a truely colassal chamber.  Large braziers burn a slightly musky incense.  In the center of the room is a raised dias with a large hooded figure standing upon it with its arms upraised.  All around the dias, other hooded figures are on their knees, arms akimbo, chanting something incomprehensible.
+~
+0 8 0
+D5
+~
+~
+0 -1 16544
+S
+#0
+
+
+#RESETS
+*
+M 1 16500 4 16500			A small onyx gargoyle to Entrance to the Obsidian Tower
+*
+M 1 16502 5 16503			The guard to Guard Post
+*
+M 1 16502 4 16503			The guard to Guard Post
+*
+M 1 16502 5 16503			The guard to Guard Post
+*
+M 1 16502 5 16503			The guard to Guard Post
+*
+M 1 16500 4 16500			A small onyx gargoyle to Entrance to the Obsidian Tower
+*
+M 1 16500 4 16500			A small onyx gargoyle to Entrance to the Obsidian Tower
+*
+M 1 16500 4 16500			A small onyx gargoyle to Entrance to the Obsidian Tower
+*
+M 1 16501 1 16502			An elderly man to Storage room
+O 1 16500 100 16504			hidden step to The Obsidian Stairs
+*
+M 1 16503 5 16508			A hooded mage to A Lab
+*
+M 1 16503 5 16508			A hooded mage to A Lab
+*
+M 1 16503 5 16508			A hooded mage to A Lab
+*
+*
+*
+M 1 16504 5 16507			A sleepy mage to A Bunkroom
+*
+M 1 16504 4 16507			A sleepy mage to A Bunkroom
+*
+*
+M 1 16504 4 16507			A sleepy mage to A Bunkroom
+*
+M 1 16505 10 16506			A wandering mage to The Hallway
+*
+M 1 16505 5 16506			A wandering mage to The Hallway
+*
+*
+M 1 16505 10 16505			A wandering mage to The Obsidian Stairs
+*
+M 1 16505 5 16505			A wandering mage to The Obsidian Stairs
+*
+*
+M 1 16505 10 16511			A wandering mage to A Hallway
+*
+M 1 16505 5 16511			A wandering mage to A Hallway
+*
+*
+M 1 16506 8 16512			A wild beast to The Beasts
+*
+M 1 16506 8 16512			A wild beast to The Beasts
+*
+*
+*
+M 1 16507 10 16513			A madman to The Madmen
+*
+M 1 16507 5 16513			A madman to The Madmen
+*
+*
+*
+*
+M 1 16508 10 16517			A studious mage to A Labratory
+*
+M 1 16508 5 16517			A studious mage to A Labratory
+*
+*
+*
+M 1 16508 10 16518			A studious mage to The Library
+*
+M 1 16508 10 16518			A studious mage to The Library
+*
+*
+*
+M 1 16509 15 16523			An abomination to The Abominations
+*
+M 1 16509 5 16523			An abomination to The Abominations
+*
+*
+*
+*
+M 1 16509 15 16524			An abomination to The Abominations
+*
+M 1 16509 5 16524			An abomination to The Abominations
+*
+*
+*
+*
+M 1 16509 15 16525			An abomination to The Abominations
+*
+M 1 16509 5 16525			An abomination to The Abominations
+*
+*
+*
+*
+M 1 16510 15 16526			A wild predator to The Animal Cages
+*
+M 1 16510 5 16526			A wild predator to The Animal Cages
+*
+*
+*
+*
+M 1 16510 15 16527			A wild predator to The Animal Cages
+*
+M 1 16510 5 16527			A wild predator to The Animal Cages
+*
+*
+*
+*
+M 1 16510 15 16528			A wild predator to The Animal Cages
+*
+M 1 16510 5 16528			A wild predator to The Animal Cages
+*
+*
+*
+*
+M 1 16511 5 16532			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16532			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16532			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16533			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16533			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16533			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16534			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16534			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16534			A researching mage to Study of the Abominations
+*
+M 1 16511 5 16535			A researching mage to Study of Animals
+*
+M 1 16511 5 16535			A researching mage to Study of Animals
+*
+M 1 16511 5 16535			A researching mage to Study of Animals
+*
+M 1 16511 5 16536			A researching mage to Study of the Animals
+*
+M 1 16511 5 16536			A researching mage to Study of the Animals
+*
+M 1 16511 5 16536			A researching mage to Study of the Animals
+*
+M 1 16511 25 16537			A researching mage to Study of the Animals
+*
+*
+*
+M 1 16512 20 16539			An advanced mutant to The Advanced Mutations
+*
+M 1 16512 20 16539			An advanced mutant to The Advanced Mutations
+*
+*
+M 1 16512 20 16540			An advanced mutant to The Advanced Mutations
+*
+M 1 16512 20 16540			An advanced mutant to The Advanced Mutations
+*
+*
+M 1 16512 20 16541			An advanced mutant to The Advanced Mutations
+*
+M 1 16512 20 16541			An advanced mutant to The Advanced Mutations
+*
+*
+M 1 16512 20 16542			An advanced mutant to The Advanced Mutations
+*
+M 1 16512 20 16542			An advanced mutant to The Advanced Mutations
+*
+*
+M 1 16512 20 16543			An advanced mutant to The Advanced Mutations
+*
+M 1 16512 20 16543			An advanced mutant to The Advanced Mutations
+*
+*
+M 1 16513 20 16546			A lab worker to The Mutations Labs
+*
+M 1 16513 20 16546			A lab worker to The Mutations Labs
+*
+*
+*
+M 1 16513 20 16547			A lab worker to The Mutation Labs
+*
+M 1 16513 20 16547			A lab worker to The Mutation Labs
+*
+*
+*
+M 1 16513 20 16548			A lab worker to Chemical Lab
+*
+M 1 16513 20 16548			A lab worker to Chemical Lab
+*
+*
+*
+M 1 16513 20 16549			A lab worker to Chemical Lab
+*
+M 1 16513 20 16549			A lab worker to Chemical Lab
+*
+*
+*
+M 1 16514 1 16550			A great horned demon to The Top of the Tower
+E 1 16502 100 16
+*
+M 1 16515 5 16550			A summoning mage to The Top of the Tower
+*
+M 1 16515 5 16550			A summoning mage to The Top of the Tower
+*
+*
+P 1 16501 100 16500		a crumbling scroll to container hidden step
+S
+
+
+#SPECIALS
+M  16500 spec_breath_acid			A small onyx gargoyle
+M  16502 spec_guard			The guard
+M  16503 spec_cast_mage			A hooded mage
+M  16504 spec_cast_mage			A sleepy mage
+M  16505 spec_cast_mage			A wandering mage
+M  16506 spec_fido			A wild beast
+M  16508 spec_cast_mage			A studious mage
+M  16509 spec_breath_any			An abomination
+M  16511 spec_cast_mage			A researching mage
+M  16512 spec_breath_any			An advanced mutant
+M  16513 spec_cast_mage			A lab worker
+M  16514 spec_breath_any			A great horned demon
+M  16515 spec_cast_mage			A summoning mage
+S
+
+
+#$

@@ -1,0 +1,544 @@
+#AREA   Koolio  Highlander HQ~
+9900
+9999
+
+#MOBILES
+#9900
+healer kahvi~
+The Healer~
+Kahvi the healer is here.
+~
+Although she is dressed in black robes, they do very little to conceal her
+shapely form.  You realise that she has noticed you staring, and quickly
+avert you gaze.  However, she seems pleased at your response and winks
+suggestively at you, running her tongue over her blood red lips.She leans
+forward and whispers softly 'I can do more than cast spells, you know...'.
+You gulp, and desperately try to stop looking down her cleavage.
+~
+1|2 8 300 S
+150 -3 -2 23d23+230 3d10+15
+25000 0
+8 8 1
+#9901
+mcleod duncan~
+Duncan Mcleod~
+Duncan Mcleod stands poised in the room.
+~
+A large formidable man wielding a Katana.
+~
+1|2 8 100 S
+150 1 0 19d19+190 2d10+10
+10000 0
+8 8 2
+#9902
+demonic salesman~
+A demonic salesman~
+A very slick salesman dressed in an armani suit is here.
+~
+This guy could sell ice to eskimos!
+~
+2|64 8|128 1000 S
+50 -10 -20 1d1+1499 1d4+30
+5000 0
+8 8 1
+#9903
+black death knight~
+the Black Death Knight~
+A Knight clad in shiny black armor makes sure no trouble happens.
+~
+Underneath the visor of this knight's helm you think you can see
+a human skull!  Whatever this abomination of nature is... it sure
+looks tough!  The Death Knight is clad in all black.
+~
+1|2|64 8|32|128|512 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#9904
+red death knight~
+the Red Death Knight~
+A Knight clad in shiny red armor makes sure no trouble happens.
+~
+Underneath the visor of this knight's helm you think you can see
+a human skull!  Whatever this abomination of nature is... it sure
+looks tough!  The Death Knight is clad in all red.
+~
+2|64 8|128 1000 S
+800 2 2 1d1+1499 2d4+30
+12000 0
+8 8 1
+#9905
+fire mephit~
+Honus`s pet~
+Honus`s fire mephit is here flying around.
+~
+It hurts your eyes to stare at it.
+~
+2 0 900 S
+23 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+#9906
+your erinye~
+The erinye~
+Your erinye is here waiting for you.
+~
+This is the most beautiful creature you have ever laid your eyes on, the
+only thing that shows she isn't human is a pair of feathred wings on her
+back.
+~
+2 0 900 S
+23 2 2 1d1+30000 1d8+32
+150000 0
+8 8 1
+#9907
+pit fiend~
+The pit fiend~
+The pit fiend stands here waiting to take your soul.
+~
+The pit fiend stands at slightly over 12 feet tall, with pale white skin
+stretched over a body of sharply defined, rippling muscle.  A pair of
+yellow slitted eyes meet your gaze, and you realise that to stand against
+this fell creature means more than simply death...
+~
+1|2 8 100 S
+150 1 0 19d19+190 2d10+10
+10000 0
+8 8 2
+#0
+
+
+#OBJECTS
+#9999
+longsword sword~
+a rusty longsword~
+A rusty old longsword lies here.~
+~
+5 512 1|8192
+0 0 0 3
+5 10 0
+#0
+
+
+#ROOMS
+#9919
+The black pit~
+You clamber down into a large black pit. The temperature is well below
+freezing here, but the thing that really chills you to the bones is the
+realization that the misty vapours you saw earlier were in fact the condemed
+souls of those foolish enough to cross the Highlanders.  You desperately
+try.
+The temperature is well below freezing here, but the thing that really
+chills you to the bones is the realization that the misty vapours you saw
+earlier were in fact the condemed souls of those foolish enough to cross
+the Highlanders. You desperately try  all to no avail. You are trapped,
+and it can only be so long before the master of the pit returns to claim
+his prize...your soul.
+~
+0 1|8|8192 0
+D4
+~
+~
+0 -1 9900
+S
+#9900
+Chamber of the Covenant~
+You stand within the dark halls of the Highlander HQ.  The cult's
+guardians move silently through the shadows ready to turn upon any being not
+initiated into the higher mysteries of the Highlanders.  Dimly lit
+arch-ways lead in all directions.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 9906
+D1
+~
+~
+0 -1 9901
+D2
+~
+~
+0 -1 9916
+D3
+~
+~
+0 -1 9905
+D5
+~
+~
+0 -1 9919
+S
+#9901
+A hallway~
+This is a hallway in the Highlander HQ.  To the north is armortech, where
+you can buy your clan equipment, to the south is a very strange room.  The
+hallway continues to the west, and to the east lies the main chamber.
+~
+0 8|1024 0
+D0
+~
+~
+0 -1 9903
+D1
+~
+~
+0 -1 9902
+D2
+~
+~
+0 -1 9904
+D3
+~
+~
+0 -1 9900
+S
+#9902
+A hallway~
+The hallway ends here.  To the north south and east are the offices of
+the leaders of your clan.  To the west is the begining of the hallway.
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 9913
+D1
+~
+~
+0 -1 9915
+D2
+~
+~
+0 -1 9912
+D3
+~
+~
+0 -1 9901
+S
+#9903
+Armortech~
+This is the store for top of the line state of the art equipment.  The store
+has a limited inventory because it's personalized to the Highlanders' needs.
+There is a faint blue light emanating for a place that you can't seem to
+pinpoint.  This gives the room a very cold effect on you.  You don't like
+this place much but its the only place that carries Highlander signature
+equipment.....the Katana!
+~
+0 1|8|8192 0
+D2
+~
+~
+0 -1 9901
+S
+#9904
+Hall of Mirrors~
+The Many Mc's and Mac's pop up here and there and all over the place.  You
+can't seem to tell wich are real and which are illusions.  The room starts
+to confuse you and you become disoriented.  McBeth show's you the door...
+Or was it McBeth?
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 9901
+S
+#9905
+The holding cell~
+This small chamber serves as the cult's prisoner cell and interro-
+gation room.  Blood stains cover the walls, ceiling, and floor.  Opposite the
+entrance a pair of silver manacles are chained to wall.  It is here that the
+enemies of the cult are tortured for both information as well as for the
+pleasure of sheer violence.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 9900
+S
+#9906
+Room of healing~
+It is in this domed shaped room that the members of the cult come with
+the sacrifices that supplicate the often bizarre and gory hunger of their
+dark patron.  The room is dominated by a black obsidian alter upon which lie
+the bloody remains of the latest sacrifice.  To the north you hear the
+murmor of subdued conversation.  Exits lead in all directions.
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 9910
+D1
+~
+~
+0 -1 9909
+D2
+~
+~
+0 -1 9900
+D3
+~
+~
+0 -1 9907
+S
+#9907
+The donation room~
+This small room is lit by patches of faintly glowing green moss on the
+walls and ceiling.  In the centre of the room sits a large steel box.  It
+seems to be open, and within you can see a selection of odd items, donated
+from various Highlanders to help any brothers or sisters who are lacking
+some vital piece of equipment.  From time to time, a drop of liquid falls
+from the ceiling.  Looking up, you see several small stalactites of
+hardened blood pointing downwards like spears.
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 9906
+D3
+~
+~
+0 -1 9908
+S
+#9908
+a small alcove~
+No one remembers designing this in the plans of the HQ.  You feel it is a
+Holy Place but it doesn't quite fit in with everything else here.
+You notice a starnge smell from the small statue in the back of room.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 9907
+S
+#9909
+The Bulletin Room~
+You walk into a room with notes plastered all over the walls.  The notes
+have been placed here by your fellow clan members for you to read.  The
+Highlanders pride themselves on being well informed.  Make sure that you
+keep up with the bulletins.
+~
+0 8|1024 0
+D3
+~
+~
+0 -1 9906
+S
+#9910
+The Hidden Blade Tavern~
+This is the roudy tavern of the Highlanders.  After a clanwar you may down
+a cold bottle of ale and have a hot meal.  The tavern has paintings of all
+the Highlander hero's on the walls, depicting their infamous conquests.
+This is one of the most relaxing places for a Highlander, everyone needs
+to unwind sometime.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 9911
+D2
+~
+~
+0 -1 9906
+S
+#9911
+A Dimly lit table in the Tavern~
+The Godfather of the Highlander tells you
+"Our clan is a clan dedicated to war, murder, honor, and defeat of
+other clans, we do have a form of honor though.  All Highlanders are like a
+family. We help other Highlanders at all costs, we usually only takes the best
+into our clan, so we dont have a lot of worthless members like some of the
+other clans, so feel special for having been invited to join us. But
+remember......There can be only one!"
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 9910
+S
+#9912
+Honus's Room~
+This small, dark room is devoid of furnishings, save for the heads of
+Sharpe's personal conquests, which hang from the ceiling and walls in
+abundance.  Centuries old blood stains the floor, filling the room with the
+sickly sweetscent of decay.  The damp atmosphere seems to penetrate your
+clothing, chilling you to your very bones.
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 9902
+S
+#9913
+(Still Open for space)'s Room~
+You stand in a room of overwhelming darkness.  Faint patches of glowing
+green moss provide a small measure of light, but this seems only to
+exaggerate the darkness rather than dispel it, and a shudder of repressed
+fear runs down your spine.  Strange arcane symbols of evil have been painted
+in blood upon the floor and walls, and the smell of death lies heavily in
+the air.
+~
+0 1|8|8192 0
+D2
+~
+~
+0 -1 9902
+D5
+~
+~
+0 -1 9914
+S
+#9914
+Chamber of a Highlander~
+You find yourself within the musty confines of an ancient stone room.
+The smell of damp earth emanates from a few cracks in the floor below your
+feet, and an mysterious presence seems to hang menacingly in the air.
+Judging by the inscriptions on the walls, this was obviously designed as
+the final resting place for someone of great importance, in years long
+past.
+~
+0 1|8|8192 0
+D4
+~
+~
+0 -1 9913
+S
+#9915
+Malice's Torture Chamber~
+You enter a large domed room, the ceiling of which is hidden in shadows.
+At the center of the room is a large table upon which lie various implements
+of torture ranging from thumb screws to economics text books.  Around the
+room stands an honor guard of Death Knights, fallen warriors doomed to serve
+their dark master There is a rack at the center of the room.
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 9902
+S
+#9916
+The Tapestries~
+Intricately woven tapestries hang upon the eastern and western walls of
+this hallway.  The tapestry to the east depicts the city of Ofcol which
+has often supplied the Brothers and Sisters of the cult with the lifeforce
+essential to their survival.  The tapestry on the western wall shows the
+market square at the heart of the city of Midgaard.  Other tapestries are
+scattered across the walls.  You can go back by going down.
+~
+0 9900 0
+D0
+~
+~
+0 0 9900
+E
+tapestry~
+The tapestry seems to be pictures of areas.  The following are listed: 
+Midgaard, Staff, Sphinx, Timelord, Arachnos, Hightower, Draconia, Galaxy, Megacity,
+Drow, Canyon, Mahntor.
+~
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2646 0
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+S
+
+#0
+
+
+#RESETS
+M 1 9900 1 9906    healer in healing
+M 1 9901 1 9905    dunkin in cell
+M 1 9902 1 9903    
+M 1 9903 1 9900    
+M 1 9904 1 9900    
+M 1 9905 1 9912			Sharpe`s pet to Sharpe's Room
+M 1 9906 1 9915    
+M 1 9906 1 9915
+M 1 9907 1 9919    
+S
+
+
+#SPECIALS
+M  9900 spec_cast_adept			The Healer
+S
+
+
+#$

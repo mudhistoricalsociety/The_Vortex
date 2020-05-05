@@ -1,0 +1,199 @@
+#AREA	KaVir   Hell~
+3
+7
+
+#MOBILES
+#1234
+demonic cleric~
+A Demonic cleric~
+A Demonic Cleric is here.
+~
+This cleric is detecated to all evil.
+~
+2|64 8|128 1000 S
+50 -10 -20 1d1+29999 2d4+30
+0 0
+8 8 1
+#6
+cerberus~
+Cerberus~
+Cerberus the guardian of hell is here.
+~
+Cerberus is deticated to the protection of evil.  
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#8
+hades lord dead~
+Hades Lord of the Dead~
+Hades Lord of the Dead is here.
+~
+Hades is dedicated to the evil.
+~
+2|64 8|128 1000 S
+500 2 2 1d1+1499 2d4+30
+12000 80000
+8 8 1
+#0
+
+
+#OBJECTS
+#9
+throne of kitty~
+Throne of Kitty~     
+~
+~
+15 0 0
+1000 5 -1 0
+5000 1 1
+#0
+
+
+#ROOMS
+#6
+Hell~
+You are standing in hell.
+~
+0 8 1
+D0
+~
+~
+0 -1 3
+D5
+~
+~
+0 -1 4
+D3
+~
+~
+0 -1 5
+D1
+~
+~
+0 -1 7
+S
+#3
+The Satanic Altar~
+You stand before a great alter to Hades lord of the dead.  You feel his presence 
+all around you here, soothing your wounds and healing your soul.
+~
+0 8|16|32|128|1024 1
+D2
+~
+~
+0 -1 6
+S
+#4
+The Gates of Hell~
+You stand before the gates of hell. There are fiery portals all around you.
+~
+0 8 1
+D4
+~
+~
+0 -1 6
+E
+Gate hell gates~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+Midgaard, Chessboard.
+~
+T
+arachnos~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 6200 0
+T
+hightower~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 1312 0
+T
+draconia~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 2201 0
+T
+galaxy~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 9301 0
+T
+sphinx~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 2652 0
+T 
+chess~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 30605 0
+T
+staff~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 25008 0
+T
+olympus~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 904 0
+T
+mahntor~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 2362 0
+T
+midgaard~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+S
+#5
+The Throne Room~
+~
+0 8 1
+D1
+~
+~
+0 -1 6
+S
+#7
+Along the bank~
+You stand along the bank of the river Styx~
+0 8 1
+D3
+~
+~
+0 -1 6
+S
+#0
+
+
+#RESETS
+M 1 1234 1 3		   demonic cleric At temple
+M 1 6 1 7              cerberus at the bank
+M 1 8 1 5              Hades at throne room
+O 0 9 1 5           throne in throne room
+S
+
+
+#SPECIALS
+M  1234 spec_cast_adept			the demonic cleric
+S
+
+
+#$
+

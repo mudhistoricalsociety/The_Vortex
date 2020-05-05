@@ -1,0 +1,5535 @@
+#AREA	Loimos - Dreamscapes~
+26000
+26159
+#MOBILES
+#26000
+Vertigo ~
+Vertigo~
+Vertigo stands here, waiting to rip the sanity from your mind.
+~
+This look is your last, you know you're done for now.
+~
+2|4|32|64 2|8|32|128|512|8192|32768|65536|524288|1048576 0 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26001
+Vertigo ~
+Vertigo ~
+Vertigo stands here, ready to rip the sanity from your mind.
+~
+One look and you realize this is the last being you would want to face. This one appears not to be aggressive. You breathe a sigh of relief... and hope you don't find one that isn't so nice...
+~
+2|4|64 2|8|32|128|512|8192|32768|65536|524288|1048576 0 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26002
+Dream Master~
+The Dream Master~
+The Dream Master stands here, ready to aid you in your quest.
+~
+The Dream Master is made up purely of shadows. You feel energy pulsing from him, filling you with wisdom.
+~
+2|64 2|8|32|128|512|8192|32768|65536|1048576 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26003
+Vertigo~
+Vertigo~
+Vertigo stands here, waiting to rip the sanity from your mind.
+~
+One look and you realize this is the last being you would want to face. This one appears not to be aggressive. You breathe a sigh of relief... and hope you don't find one that isn't so nice...
+~
+2|4|64 2|8|32|128|512|8192|32768|65536|524288|1048576 0 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26004
+Hatamoto~
+A Hatamoto~
+A Hatamoto is guarding the Palace.
+~
+The Hatamoto looks deadly. You wonder if you could take them all...
+~
+32|64 2|8|128|512|8192|65536 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26005
+Hatamoto Captain~
+Hatamoto Captain~
+A Captain of the Hatamoto's stands here.
+~
+The Hatamoto captains are highly skilled in the art of eq forging.
+~
+32|64 2|8|128|512|8192|65536 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26006
+Emperor Hirohito~
+Emperor Hirohito~
+Emperor Hirohito rises from his throne to attack!
+~
+Emperor Hirohito is a dark and foreboding figure. You have no doubt it was his power that gave him rise to power.
+
+
+[Right Hand    ] (Invis) damnation
+~
+2|4|32|64 2|8|128|512|8192|65536 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#26000
+Insanity~
+insanity~
+Your insanity overcomes you~
+~
+5 32 8192|16384
+0 10 30 11 
+5 0 0
+A
+1 12
+A
+2 12
+A
+3 12
+A
+4 12
+A
+5 12
+A
+18 9999
+A
+19 9999
+A
+17 -999
+#26001
+Imprisonment~
+imprisonment~
+The Imprisonment makes you feel defiled.~
+~
+9 32 1|1024
+0 1 6 11 
+5 0 0
+A
+14 -500
+#26002
+Damnation~
+damnation~
+Damnation makes you feel defiled.~
+~
+9 32 1|8
+0 1 6 11 
+5 0 0
+A
+13 -500
+#26003
+Ignorance~
+ignorance~
+Ignorace makes you feel defiled.~
+~
+9 32 1|16
+0 1 6 11 
+5 0 0
+A
+12 -500
+#26004
+The Key~
+the Key~
+The key is not a key at all, but a parchment. It has a cryptic message written upon it.~
+~
+8 32 1
+0 1 6 11 
+5 0 0
+E
+parchment cryptic~
+In following the path to enlightenment, do not let your knowledge deceive you. 
+
+We see new deeds, we sense new needs. New sewn seeds, eden's unseen weeds. Dense dew send, ensue eden's sudden end. Wend us, use sun's unseen den.
+
+~
+#26005
+Shadow~
+shadow~
+The darkness and shadows overwhelm you.~
+~
+9 32 2|4|8|16|32|64|128|256|512|1024|2048|4096|8192|16384|32768
+0 1 6 11 
+5 0 0
+A
+1 12
+A
+2 12
+A
+3 12
+A
+4 12
+A
+5 12
+A
+17 -999
+A
+18 9999
+A
+19 9999
+#26006
+A Torn piece of paper~
+torn Paper~
+An old torn piece of paper lies here in the dust.~
+~
+8 32 1
+0 1 6 11 
+5 0 0
+E
+Torn Paper Map~
+Worthless looking symbols fill the paper.
+
+1st Fear #$*@
+
+2nd Fear $*@#
+
+3rd Fear *@#$
+
+4th Fear @#$*
+
+~
+#26007
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26008
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26009
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26010
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26011
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26012
+Red Key~
+a Red Key~
+A Red Key looks like it could open a red tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26013
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26014
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26015
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26016
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26017
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26018
+Orange Key~
+an Orange Key~
+An Orange Key looks like it could open an orange tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26019
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26020
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26021
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26022
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26023
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26024
+Yellow Key~
+a Yellow Key~
+A Yellow Key looks like it could open a yellow tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26025
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26026
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26027
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26028
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26029
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26030
+Green Key~
+a Green Key~
+A Green Key looks like it could open a green tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26031
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26032
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26033
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26034
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26035
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26036
+Blue Key~
+a Blue Key~
+A Blue Key looks like it could open a blue tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26037
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26038
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26039
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26040
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26041
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26042
+Violet Key~
+a Violet Key~
+A Violet Key looks like it could open a violet tile.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#26043
+Power~
+power~
+Power radiates with energy.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+#0
+
+
+#ROOMS
+#26000
+The Warning Room: Turn Off Brief!~
+You are standing in a room filled with warnings. A sign hangs on the north wall. A warning is carved into the floor in front of you. A message written in blood drips from the ceiling.
+~
+0 1|4|8 0
+D5
+You brush away the dust to reveal a hidden
+ trapdoor.~
+trapdoor dust hidden trap ~
+2 -1 26001
+E
+sign wall north~
+This area is for avatars only, with 15k across in HP/Mana/Move. All others recall now, or pay the price.
+             United Council of the Gods.
+
+~
+E
+floor warning~
+This is a very dangerous place, one in which only the most skilled of killers can survive.
+               Captain of the Slayers.
+
+~
+E
+ceiling message blood~
+If you choose to explore the wonders of dreamscapes, be very careful to follow the clues given to you. The answers lie within them. When you begin your journey through the maze, be warned not to attempt at guessing your way to enlightenment.  To do so and guess wrong, will lead to your demise, in which you will surely pay with your blood.
+                        The Dream Master
+
+~
+E
+down~
+You see a pile of dust that looks peculiar.
+
+~
+E
+dust~
+You get a closer look at the dust, and brush it away to find a hidden trapdoor!
+
+~
+S
+#26001
+The Dream Master's Hidden Chamber~
+You slip through the trapdoor, and it slams shut behind you. You feel a chill run down your back as you see the door disappear before your eyes. You are trapped! Suddenly the shadows seap together and form an ominous figure. You cower in fear as the Dream Master steps towards you. An ancient tome lies upon an altar behind the Dream Master.
+~
+0 1|4|8 0
+E
+tome book ancient~
+The inscription on the cover reads Dreamscapes. You open the book and find that every page of this enormous book is blank, save the first page. You begin reading the passage: Of all the realms we seek to conquer, none are quite so difficult as that which is contained in our own mind, hidden deep within our dreams. The most powerful of beings are those who have conquered this hidden realm. The pages herein appear to be blank, but they merely await to be written. Each entity writes a different tale, some of victory, some failure, but most... death. The only way to achieve one's full inner power, is to reach the level of high lucidity. To begin your journey, you must first correctly answer the Dream Master's riddle. Only then are you worthy of his guidance. Be wise in your choices, failure to reach high lucidity, once the journey has begun, will prove to be disasterous. 
+You begin to set the book back onto the altar, and notice a riddle inscribed on the back of the ancient tome.
+
+~
+E
+altar~
+A massive tome lays upon the altar.
+
+~
+E
+riddle~
+What force and strength cannot get through, I with a gentle touch can do.
+Many in the street would stand, were I not a friend at hand. What am I?
+
+~
+S
+#26002
+The Blurred Path to Lucidity~
+As you enter the dream, you hear the Dream Master speaking to you from the world of reality. You weigh his words carefully, as he states "read the key with the mind of a small child, the path to lucidity will then be revealed".
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26003
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26003
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26004
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26004
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26005
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26005
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26006
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26006
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26007
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26007
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26008
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26008
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26009
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26009
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26010
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26010
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26011
+S
+#26011
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26012
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26012
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26013
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26013
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26014
+S
+#26014
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26015
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26015
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26016
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26016
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26017
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26017
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26018
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26018
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26019
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26019
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26020
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26020
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26021
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26021
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26022
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26022
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26023
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26023
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26024
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26024
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26025
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26025
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26026
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26026
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26027
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26027
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26028
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26028
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26029
+S
+#26029
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26030
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26030
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26031
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26031
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26032
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26032
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26033
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26033
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26034
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26034
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26035
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26035
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26036
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26036
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26037
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26037
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26038
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26038
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26039
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26039
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26040
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26040
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26041
+S
+#26041
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26042
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26042
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26043
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26043
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26044
+S
+#26044
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26045
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26045
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26046
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26046
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26047
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26047
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26048
+D5
+~
+~
+0 -1 26112
+S
+#26048
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26049
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26049
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26050
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26050
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26051
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26051
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26052
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26052
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26053
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26053
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26054
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26054
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26055
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26055
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26056
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26056
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26057
+S
+#26057
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26058
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26058
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26059
+S
+#26059
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26060
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26060
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26061
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26061
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26062
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26062
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26063
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26063
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26064
+S
+#26064
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26065
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26065
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26066
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26066
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26067
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26067
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26068
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26068
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26069
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26069
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26070
+S
+#26070
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26071
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26071
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26072
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26072
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26073
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26073
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26074
+D5
+~
+~
+0 -1 26112
+S
+#26074
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26075
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26075
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26076
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26076
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26077
+S
+#26077
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26078
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26078
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26079
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26079
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26080
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26080
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26081
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26081
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26082
+D5
+~
+~
+0 -1 26112
+S
+#26082
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26083
+S
+#26083
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26084
+S
+#26084
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26085
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26085
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26086
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26086
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26087
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26087
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26088
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26088
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26089
+S
+#26089
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26090
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26090
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26091
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26091
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26092
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26092
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26093
+S
+#26093
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26094
+D5
+~
+~
+0 -1 26112
+S
+#26094
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26095
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26095
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26096
+D5
+~
+~
+0 -1 26112
+S
+#26096
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26097
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26097
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26098
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26098
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26099
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26099
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26100
+D5
+~
+~
+0 -1 26112
+S
+#26100
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26101
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26101
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26102
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26102
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26103
+D5
+~
+~
+0 -1 26112
+S
+#26103
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26104
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26104
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26105
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26105
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26106
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26106
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26107
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26107
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26108
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26108
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26109
+S
+#26109
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26110
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26110
+The Blurred Path to Lucidity~
+You strain to focus all your mental power to remain conscious of your dream state. You feel the boundary between reality and your subconscious mind being threatened, knowing that if you lose your awareness now, the result could be insanity.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26111
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26111
+Plane of High Lucidity~
+You enter into a strange room, something seems odd about the entryways. You hear the Dream Master's voice, "You've done well, you've reached the plane of high lucidity. To complete your journey you must face your biggest fears from the past."
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 26113
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+E
+entryway~
+Which one? There are 4 cardinal directions.
+
+~
+E
+north~
+You look at the Northern entry, it has a strange symbol on it
+
+@
+
+~
+E
+south~
+You look at the Southern entry, it has a strange symbol on it
+
+#
+
+~
+E
+east~
+You look at the Eastern entry, it has a strange symbol on it
+
+$
+
+~
+E
+west~
+You look at the Western entry, it has a strange symbol on it
+
+*
+
+~
+S
+#26112
+Insanity~
+Your mind snaps as you lose all perception of reality and fantasy. Vertigo sets in to put you out of your misery.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#26113
+Facing Your Fears~
+You carefully make your way down the path. Your skin crawls as you feel your adrenaline begin to enter your veins. You wonder just what you will face...
+You hear the Dream Master's voice... "You must use the magnificent bow to face this fear".
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26114
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26114
+Facing Your Fears~
+You carefully make your way down the path. Your skin crawls as you feel your adrenaline begin to enter your veins. You wonder just what you will face...
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26112
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26115
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26115
+Facing Your Fears~
+You carefully make your way down the path. Your skin crawls as you feel your adrenaline begin to enter your veins. You wonder just what you will face...
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26116
+D1
+~
+~
+0 -1 26112
+D2
+~
+~
+0 -1 26112
+D3
+~
+~
+0 -1 26112
+D4
+~
+~
+0 -1 26112
+D5
+~
+~
+0 -1 26112
+S
+#26116
+The Prism Room~
+You are standing in the prism room. White light enters into an enormous prism in the center of the room, creating natural spectrums all over the room. You wonder what this room has to do with anything, then you quickly realize that dreams often contain elements that are out of place. The white light is coming from the North, aren't you always told to go towards the light?
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26117
+E
+spectrum~
+You look at the spectrum of colors. The spectrum contains the colors violet, blue, green, yellow, orange, and red. Like a rainbow, only a rainbow is somehow different...
+
+~
+E
+rainbow~
+You recall that a rainbow is a natural spectrum. This must be the magnificent bow the Dream Master spoke of! You remember that a rainbow is refracted light, and thus opposite in the order of the colors of the spectrum. The order of the colors of the rainbow are red, orange, yellow, green, blue and violet.
+
+~
+S
+#26117
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26118
+D2
+~
+~
+0 -1 26116
+D5
+~
+~
+2 26025 26112
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26118
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26119
+D2
+~
+~
+0 -1 26117
+D5
+~
+~
+2 26019 26112
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26119
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26120
+D2
+~
+~
+0 -1 26118
+D5
+~
+~
+2 26031 26112
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26120
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26121
+D3
+~
+~
+0 -1 26119
+D5
+~
+~
+2 26007 26123
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26121
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26122
+D3
+~
+~
+0 -1 26120
+D5
+~
+~
+2 26037 26112
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26122
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26121
+D5
+~
+~
+2 26013 26112
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26123
+Entrance to Next Level~
+You are standing in a dark and damp chamber. It appears this room exits into another level of marble hallways.
+~
+0 1|4|8 0
+D2
+~
+~
+0 -1 26124
+D4
+~
+~
+2 26007 26120
+S
+#26124
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26123
+D2
+~
+~
+0 -1 26125
+D5
+~
+~
+2 26032 26112
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26125
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26124
+D2
+~
+~
+0 -1 26126
+D5
+~
+~
+2 26038 26112
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26126
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26125
+D3
+~
+~
+0 -1 26127
+D5
+~
+~
+2 26020 26112
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26127
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26126
+D3
+~
+~
+0 -1 26128
+D5
+~
+~
+2 26008 26112
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26128
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26129
+D1
+~
+~
+0 -1 26127
+D5
+~
+~
+2 26026 26112
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26129
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26128
+D5
+~
+~
+2 26014 26130
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26130
+Entrance to Next Level~
+You are standing in a dark and damp chamber. It appears this room exits into another level of marble hallways.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26131
+D4
+~
+~
+2 26014 26129
+S
+#26131
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26132
+D2
+~
+~
+0 -1 26130
+D5
+~
+~
+2 26009 26112
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26132
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26133
+D3
+~
+~
+0 -1 26131
+D5
+~
+~
+2 26027 26112
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26133
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26134
+D3
+~
+~
+0 -1 26132
+D5
+~
+~
+2 26039 26112
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26134
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26133
+D2
+~
+~
+0 -1 26135
+D5
+~
+~
+2 26015 26112
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26135
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26134
+D3
+~
+~
+0 -1 26136
+D5
+~
+~
+2 26021 26137
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26136
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26135
+D5
+~
+~
+2 26033 26112
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26137
+Entrance to Next Level~
+You are standing in a dark and damp chamber. It appears this room exits into another level of marble hallways.
+~
+0 1|4|8 0
+D3
+~
+~
+0 -1 26138
+D4
+~
+~
+2 26021 26135
+S
+#26138
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26139
+D1
+~
+~
+0 -1 26137
+D5
+~
+~
+2 26028 26144
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26139
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26140
+D2
+~
+~
+0 -1 26138
+D5
+~
+~
+2 26022 26112
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26140
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26141
+D2
+~
+~
+0 -1 26139
+D5
+~
+~
+2 26016 26112
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26141
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26142
+D3
+~
+~
+0 -1 26140
+D5
+~
+~
+2 26034 26112
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26142
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26143
+D3
+~
+~
+0 -1 26141
+D5
+~
+~
+2 26040 26112
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26143
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26142
+D5
+~
+~
+2 26010 26112
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26144
+Entrance to Next Level~
+You are standing in a dark and damp chamber. It appears this room exits into another level of marble hallways.
+~
+0 1|4|8 0
+D2
+~
+~
+0 -1 26145
+D4
+~
+~
+2 26028 26138
+S
+#26145
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26144
+D2
+~
+~
+0 -1 26146
+D5
+~
+~
+2 26029 26112
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26146
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26145
+D2
+~
+~
+0 -1 26147
+D5
+~
+~
+2 26035 26151
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26147
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26146
+D3
+~
+~
+0 -1 26148
+D5
+~
+~
+2 26011 26112
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26148
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26147
+D3
+~
+~
+0 -1 26149
+D5
+~
+~
+2 26041 26112
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26149
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26150
+D1
+~
+~
+0 -1 26148
+D5
+~
+~
+2 26017 26112
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26150
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26149
+D5
+~
+~
+2 26023 26112
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26151
+Entrance to Next Level~
+You are standing in a dark and damp chamber. It appears this room exits into another level of marble hallways.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 26152
+D4
+~
+~
+2 26035 26146
+S
+#26152
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26153
+D2
+~
+~
+0 -1 26151
+D5
+~
+~
+2 26030 26112
+E
+center marble tile~
+The center marble tile is green, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26153
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26154
+D3
+~
+~
+0 -1 26152
+D5
+~
+~
+2 26036 26112
+E
+center marble tile~
+The center marble tile is blue, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26154
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 26155
+D3
+~
+~
+0 -1 26153
+D5
+~
+~
+2 26042 26158
+E
+center marble tile~
+The center marble tile is violet, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26155
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26154
+D2
+~
+~
+0 -1 26156
+D5
+~
+~
+2 26018 26112
+E
+center marble tile~
+The center marble tile is orange, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26156
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 26155
+D3
+~
+~
+0 -1 26157
+D5
+~
+~
+2 26024 26112
+E
+center marble tile~
+The center marble tile is yellow, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26157
+A Marble Hallway~
+You are standing in a hallway made completely of marble tile, the walls ceilings and floors, all marble. The tile in the center of the room looks strange.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 26156
+D5
+~
+~
+2 26012 26112
+E
+center marble tile~
+The center marble tile is red, while the rest of the marble is a brilliant white. Odd indeed... you examine more carefully, and discover it is some sort of passageway.
+
+~
+S
+#26158
+Chilling Silence~
+You wonder what awaits you in the next room. The fear you feel assures you it can't be good.
+~
+0 1|4|8 0
+D5
+~
+~
+0 -1 26159
+S
+#26159
+Emperor Hirohito's Royal Chamber~
+This looks bad... really bad. You truly are facing your greatest fears of the past.
+~
+0 1|4|8 0
+S
+#0
+
+
+#RESETS
+D 1 26000 5 1			; The Warning Room: Turn Off Brief! Close Down
+*
+M 1 26000 1 26112			Vertigo to Insanity
+E 1 26000 100 16
+E 1 26005 100 1
+E 1 26005 100 2
+E 1 26005 100 3
+E 1 26005 100 4
+E 1 26005 100 5
+E 1 26005 100 7
+E 1 26005 100 8
+E 1 26005 100 9
+E 1 26005 100 10
+E 1 26005 100 12
+E 1 26005 100 13
+E 1 26005 100 14
+E 1 26005 100 15
+E 1 26000 100 17
+E 1 26005 100 6
+E 1 26005 100 11
+*
+M 1 26001 109 26002			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26003			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26004			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26005			Vertigo  to The Blurred Path to Lucidity
+*
+M 1 26001 109 26006			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26007			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26008			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26009			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26010			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26011			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26012			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26013			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26014			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26015			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26016			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26017			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26018			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26019			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26020			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26021			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26022			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26023			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26024			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26025			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26026			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26027			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26028			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26029			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26030			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26031			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26032			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26033			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26034			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26035			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26036			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26037			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26038			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26039			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26040			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26041			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26042			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26043			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26044			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26045			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26046			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26047			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26048			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26049			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26050			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26051			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26052			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26053			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26054			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26055			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26056			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26057			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26058			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26059			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26060			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26061			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26062			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26063			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26064			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26065			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26066			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26067			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26068			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26069			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26070			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26071			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26072			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26073			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26074			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26075			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26076			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26077			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26078			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26079			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26080			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26081			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26082			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26083			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26084			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26085			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26086			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26087			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26088			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26089			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26090			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26091			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26092			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26093			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26094			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26095			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26096			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26097			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26098			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26099			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26100			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26101			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26102			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26103			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26104			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26105			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26106			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26107			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26108			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26109			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26110			Vertigo to The Blurred Path to Lucidity
+*
+M 1 26001 109 26111			Vertigo to Plane of High Lucidity
+*
+M 1 26002 1 26001			The Dream Master to The Dream Master's Hidden Chamber
+O 1 26006 100 26111			Torn Paper to Plane of High Lucidity
+*
+M 1 26003 10 26113			Vertigo to Facing Your Fears
+*
+M 1 26003 10 26114			Vertigo to Facing Your Fears
+*
+M 1 26003 10 26115			Vertigo to Facing Your Fears
+*
+M 1 26003 10 26116			Vertigo to Facing Your Fears
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+M 1 26003 10 26123			Vertigo to Entrance to next level
+*
+M 1 26003 10 26130			Vertigo to A room
+*
+M 1 26003 10 26137			Vertigo to Entrance to Next Level
+*
+M 1 26003 10 26144			Vertigo to Entrance to Next Level
+*
+M 1 26003 10 26151			Vertigo to A room
+*
+M 1 26003 10 26158			Vertigo to Chilling Silence
+D 1 26117 5 2			; A Marble Hallway Lock Down
+D 1 26118 5 2			; A Marble Hallway Lock Down
+D 1 26119 5 2			; A Marble Hallway Lock Down
+D 1 26120 5 2			; A Marble Hallway Lock Down
+D 1 26121 5 2			; A Marble Hallway Lock Down
+D 1 26122 5 2			; A Marble Hallway Lock Down
+D 1 26123 4 2			; Entrance to Next Level Lock Up
+D 1 26124 5 2			; A Marble Hallway Lock Down
+D 1 26125 5 2			; A Marble Hallway Lock Down
+D 1 26126 5 2			; A Marble Hallway Lock Down
+D 1 26127 5 2			; A Marble Hallway Lock Down
+D 1 26128 5 2			; A Marble Hallway Lock Down
+D 1 26129 5 2			; A Marble Hallway Lock Down
+D 1 26130 4 2			; Entrance to Next Level Lock Up
+D 1 26131 5 2			; A Marble Hallway Lock Down
+D 1 26132 5 2			; A Marble Hallway Lock Down
+D 1 26133 5 2			; A Marble Hallway Lock Down
+D 1 26134 5 2			; A Marble Hallway Lock Down
+D 1 26135 5 2			; A Marble Hallway Lock Down
+D 1 26136 5 2			; A Marble Hallway Lock Down
+D 1 26138 5 2			; A Marble Hallway Lock Down
+D 1 26139 5 2			; A Marble Hallway Lock Down
+D 1 26140 5 2			; A Marble Hallway Lock Down
+D 1 26141 5 2			; A Marble Hallway Lock Down
+D 1 26142 5 2			; A Marble Hallway Lock Down
+D 1 26143 5 2			; A Marble Hallway Lock Down
+D 1 26144 4 2			; Entrance to Next Level Lock Up
+D 1 26145 5 2			; A Marble Hallway Lock Down
+D 1 26146 5 2			; A Marble Hallway Lock Down
+D 1 26147 5 2			; A Marble Hallway Lock Down
+D 1 26148 5 2			; A Marble Hallway Lock Down
+D 1 26149 5 2			; A Marble Hallway Lock Down
+D 1 26150 5 2			; A Marble Hallway Lock Down
+D 1 26151 4 2			; Entrance to Next Level Lock Up
+D 1 26152 5 2			; A Marble Hallway Lock Down
+D 1 26153 5 2			; A Marble Hallway Lock Down
+D 1 26154 5 2			; A Marble Hallway Lock Down
+D 1 26155 5 2			; A Marble Hallway Lock Down
+D 1 26156 5 2			; A Marble Hallway Lock Down
+D 1 26157 5 2			; A Marble Hallway Lock Down
+D 1 26137 4 2			; Entrance to Next Level Lock Up
+*
+M 1 26004 32 26117			A Hatamoto to A Marble Hallway
+G 1 26007 100
+*
+M 1 26004 32 26117			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26117			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26118			A Hatamoto to A Marble Hallway
+G 1 26013 100
+*
+M 1 26004 32 26118			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26118			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26119			A Hatamoto to A Marble Hallway
+G 1 26019 100
+*
+M 1 26004 32 26119			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26119			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26120			A Hatamoto to A Marble Hallway
+G 1 26025 100
+*
+M 1 26004 32 26121			A Hatamoto to A Marble Hallway
+G 1 26031 100
+*
+M 1 26004 32 26122			A Hatamoto to A Marble Hallway
+G 1 26037 100
+*
+M 1 26005 12 26122			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26122			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26124			A Hatamoto to A Marble Hallway
+G 1 26008 100
+*
+M 1 26004 32 26125			A Hatamoto to A Marble Hallway
+G 1 26014 100
+*
+M 1 26004 32 26126			A Hatamoto to A Marble Hallway
+G 1 26020 100
+*
+M 1 26004 32 26127			A Hatamoto to A Marble Hallway
+G 1 26026 100
+*
+M 1 26004 32 26128			A Hatamoto to A Marble Hallway
+G 1 26032 100
+*
+M 1 26004 32 26129			A Hatamoto to A Marble Hallway
+G 1 26038 100
+*
+M 1 26005 12 26129			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26129			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26131			A Hatamoto to A Marble Hallway
+G 1 26009 100
+*
+M 1 26004 32 26132			A Hatamoto to A Marble Hallway
+G 1 26015 100
+*
+M 1 26004 32 26133			A Hatamoto to A Marble Hallway
+G 1 26021 100
+*
+M 1 26004 32 26134			A Hatamoto to A Marble Hallway
+G 1 26027 100
+*
+M 1 26004 32 26135			A Hatamoto to A Marble Hallway
+G 1 26033 100
+*
+M 1 26004 32 26136			A Hatamoto to A Marble Hallway
+G 1 26039 100
+*
+M 1 26005 12 26136			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26136			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26138			A Hatamoto to A Marble Hallway
+G 1 26010 100
+*
+M 1 26004 32 26139			A Hatamoto to A Marble Hallway
+G 1 26016 100
+*
+M 1 26004 32 26140			A Hatamoto to A Marble Hallway
+G 1 26022 100
+*
+M 1 26004 32 26141			A Hatamoto to A Marble Hallway
+G 1 26028 100
+*
+M 1 26004 32 26142			A Hatamoto to A Marble Hallway
+G 1 26034 100
+*
+M 1 26004 32 26143			A Hatamoto to A Marble Hallway
+G 1 26040 100
+*
+M 1 26005 12 26143			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26143			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26145			A Hatamoto to A Marble Hallway
+G 1 26011 100
+*
+M 1 26004 32 26146			A Hatamoto to A Marble Hallway
+G 1 26017 100
+*
+M 1 26004 32 26147			A Hatamoto to A Marble Hallway
+G 1 26023 100
+*
+M 1 26004 32 26148			A Hatamoto to A Marble Hallway
+G 1 26029 100
+*
+M 1 26004 32 26149			A Hatamoto to A Marble Hallway
+G 1 26035 100
+*
+M 1 26004 32 26150			A Hatamoto to A Marble Hallway
+G 1 26041 100
+*
+M 1 26005 12 26150			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26150			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26152			A Hatamoto to A Marble Hallway
+G 1 26012 100
+*
+M 1 26004 32 26153			A Hatamoto to A Marble Hallway
+G 1 26018 100
+*
+M 1 26004 32 26154			A Hatamoto to A Marble Hallway
+G 1 26024 100
+*
+M 1 26004 32 26155			A Hatamoto to A Marble Hallway
+G 1 26030 100
+*
+M 1 26004 32 26156			A Hatamoto to A Marble Hallway
+G 1 26036 100
+*
+M 1 26004 32 26157			A Hatamoto to A Marble Hallway
+G 1 26042 100
+*
+M 1 26005 12 26157			Hatamoto Captain to A Marble Hallway
+*
+M 1 26005 12 26157			Hatamoto Captain to A Marble Hallway
+*
+M 1 26004 32 26120			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26120			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26121			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26121			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26124			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26124			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26125			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26125			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26126			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26126			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26127			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26127			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26128			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26128			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26131			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26131			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26132			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26132			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26133			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26133			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26134			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26134			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26135			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26135			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26138			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26138			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26139			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26139			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26140			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26140			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26141			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26141			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26142			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26142			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26145			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26145			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26146			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26146			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26147			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26147			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26148			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26148			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26149			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26149			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26152			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26152			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26153			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26153			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26154			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26154			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26155			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26155			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26156			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26156			A Hatamoto to A Marble Hallway
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26004 32 26159			A Hatamoto to Emperor Hirohito's Royal Chamber
+*
+M 1 26006 1 26159			Emperor Hirohito to Emperor Hirohito's Royal Chamber
+G 1 26043 100
+S
+
+
+#SPECIALS
+M  26000 spec_breath_any			Vertigo
+M  26001 spec_breath_any			Vertigo
+M  26002 spec_breath_any			The Dream Master
+M  26003 spec_breath_any			Vertigo
+S
+
+
+#$

@@ -1,0 +1,1026 @@
+#AREA Corruption - Merfolk~
+29120
+29170
+#MOBILES
+#29120
+A Merfolk Guard (30)~
+A Merfolk Guard~
+The Merfolk Guard is here, standing guard.
+~
+Don't look at me!
+~
+2|64 8|32 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29121
+The Merfolk Child (10)~
+The Merfolk Child~
+The Merfolk Child stands here, wandering aimlessly.
+~
+Don't look at me!
+~
+64 8|32 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29122
+Merfolk King~
+The Merfolk King~
+The Merfolk king is here, ruling over you.
+~
+Don't look at me!
+~
+64 8|32 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29123
+merfolk guardian king~
+The King's Guard~
+The King's Guardian is here, guarding the king.
+~
+Don't look at me!
+~
+64 8|32 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29124
+Merfolk Adult~
+The Adult Merfolk~
+The Adult Merfolk is here swimming around.
+~
+Don't look at me!
+~
+64 8|32 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29125
+Merfolk looter~
+The Merfolk Looter~
+The Merfolk looter is here trying to steal from you.
+~
+Don't look at me!
+~
+64 8|32 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29126
+Cephalid Tourist~
+The Cephalid Tourist~
+The Cephalist Tourist is here, looking around.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29127
+Cephalid Constable~
+The Cephalid Constable~
+The Cephalid Constable is here, guarding things.
+~
+Don't look at me!
+~
+64 8|32 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29128
+hungry squid~
+The Hungry Squid~
+The hungry squid is here, looking hungry.
+~
+Don't look at me!
+~
+64 8|32 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29129
+Merfolk pearl trident~
+The Merfolk of pearl trident~
+The merfolk of pearl trident is here, sharpening his weapon.
+~
+Don't look at me!
+~
+64 8|32 0 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29130
+Coral Merfolk~
+The Coral Merfolk~
+The Coral Merfolk is here, looking colorful.
+~
+Don't look at me!
+~
+64 8|32 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29131
+jolting merfolk~
+The Jolting Merfolk~
+The Jolting Merfolk is here, darting back and forth.
+~
+Don't look at me!
+~
+64 8|32 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29132
+merfolk assassin~
+The merfolk assassin~
+The merfolk assassin is here, planning your assassination.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29133
+Merfolk Raiders~
+The Merfolk Raider~
+The Merfolk Raider is here, stealing things.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29134
+sandbar merfolk~
+The Sandbar Merfolk ~
+The Sandbar Merfolk is beached on a sandbar.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29135
+river merfolk~
+The River Merfolk~
+The River Merfolk is here, swimming.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29136
+Merfolk seer~
+A Merfolk Seer~
+A merfolk seer is here, gazing into the future.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29137
+merfolk trader~
+The merfolk trader~
+A merfolk trader is here, peddling items.
+~
+Don't look at me!
+~
+64 8|32 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#29120
+Entrance to the Merfolk City~
+You have found the hidden entrance to the city of the Merfolk.
+~
+0 0 7
+D0
+~
+~
+0 -1 29121
+D1
+~
+~
+0 -1 29142
+D2
+~
+~
+0 -1 29162
+D3
+~
+~
+0 -1 29153
+D4
+~
+~
+0 -1 3201
+S
+#29121
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29122
+D2
+~
+~
+0 -1 29120
+S
+#29122
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29123
+D2
+~
+~
+0 -1 29121
+S
+#29123
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29124
+D2
+~
+~
+0 -1 29122
+S
+#29124
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29125
+D2
+~
+~
+0 -1 29123
+S
+#29125
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29126
+D2
+~
+~
+0 -1 29124
+S
+#29126
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29127
+D2
+~
+~
+0 -1 29125
+S
+#29127
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29128
+D2
+~
+~
+0 -1 29126
+S
+#29128
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29129
+D2
+~
+~
+0 -1 29127
+S
+#29129
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29130
+D2
+~
+~
+0 -1 29128
+S
+#29130
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29131
+D2
+~
+~
+0 -1 29129
+S
+#29131
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29132
+D2
+~
+~
+0 -1 29130
+S
+#29132
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29133
+D2
+~
+~
+0 -1 29131
+S
+#29133
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29134
+D2
+~
+~
+0 -1 29132
+S
+#29134
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29135
+D2
+~
+~
+0 -1 29133
+S
+#29135
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29136
+D2
+~
+~
+0 -1 29134
+S
+#29136
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29137
+D2
+~
+~
+0 -1 29135
+S
+#29137
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29138
+D2
+~
+~
+0 -1 29136
+S
+#29138
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29139
+D2
+~
+~
+0 -1 29137
+S
+#29139
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29140
+D2
+~
+~
+0 -1 29138
+S
+#29140
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29141
+D2
+~
+~
+0 -1 29139
+S
+#29141
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29146
+D2
+~
+~
+0 -1 29140
+S
+#29142
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29143
+D3
+~
+~
+0 -1 29120
+S
+#29143
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29144
+D3
+~
+~
+0 -1 29142
+S
+#29144
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29147
+D3
+~
+~
+0 -1 29143
+S
+#29146
+The Cephalid Temple~
+This is the Cephalid Temple.
+~
+0 0 7
+D2
+~
+~
+0 -1 29141
+S
+#29147
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29148
+D3
+~
+~
+0 -1 29144
+S
+#29148
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29149
+D3
+~
+~
+0 -1 29147
+S
+#29149
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29150
+D3
+~
+~
+0 -1 29148
+S
+#29150
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29151
+D3
+~
+~
+0 -1 29149
+S
+#29151
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29152
+D3
+~
+~
+0 -1 29150
+S
+#29152
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D3
+~
+~
+0 -1 29151
+S
+#29153
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29120
+D3
+~
+~
+0 -1 29154
+S
+#29154
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29153
+D3
+~
+~
+0 -1 29155
+S
+#29155
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29154
+D3
+~
+~
+0 -1 29156
+S
+#29156
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29155
+D3
+~
+~
+0 -1 29157
+S
+#29157
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29156
+D3
+~
+~
+0 -1 29158
+S
+#29158
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29157
+D3
+~
+~
+0 -1 29159
+S
+#29159
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29158
+D3
+~
+~
+0 -1 29160
+S
+#29160
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29159
+D3
+~
+~
+0 -1 29161
+S
+#29161
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D1
+~
+~
+0 -1 29160
+S
+#29162
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29120
+D2
+~
+~
+0 -1 29163
+S
+#29163
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29162
+D2
+~
+~
+0 -1 29164
+S
+#29164
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29163
+D2
+~
+~
+0 -1 29165
+S
+#29165
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29164
+D2
+~
+~
+0 -1 29166
+S
+#29166
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29165
+D2
+~
+~
+0 -1 29167
+S
+#29167
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29166
+D2
+~
+~
+0 -1 29168
+S
+#29168
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29167
+D2
+~
+~
+0 -1 29169
+S
+#29169
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29168
+D2
+~
+~
+0 -1 29170
+S
+#29170
+In the streets of Merfolk City.~
+You stand on one of the many streets in the vast merfolk city.
+~
+0 0 7
+D0
+~
+~
+0 -1 29169
+S
+#0
+
+
+#RESETS
+*
+M 1 29120 4 29120			A Merfolk Guard to Entrance to the Merfolk City
+*
+M 1 29121 4 29120			The Merfolk Child to Entrance to the Merfolk City
+*
+M 1 29121 2 29121			The Merfolk Child to In the streets of Merfolk City.
+*
+M 1 29124 2 29121			The Adult Merfolk to In the streets of Merfolk City.
+*
+M 1 29125 1 29121			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29126 1 29121			The Cephalid Tourist to In the streets of Merfolk City.
+*
+M 1 29136 1 29121			A Merfolk Seer to In the streets of Merfolk City.
+*
+M 1 29137 1 29121			The merfolk trader to In the streets of Merfolk City.
+*
+M 1 29137 1 29121			The merfolk trader to In the streets of Merfolk City.
+*
+M 1 29125 8 29122			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29121 8 29123			The Merfolk Child to In the streets of Merfolk City.
+*
+M 1 29124 8 29124			The Merfolk King to In the streets of Merfolk City.
+*
+M 1 29125 8 29125			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29126 8 29126			The Cephalid Tourist to In the streets of Merfolk City.
+*
+M 1 29127 8 29127			The Cephalid Constable to In the streets of Merfolk City.
+*
+M 1 29128 8 29128			The Hungry Squid to In the streets of Merfolk City.
+*
+M 1 29129 8 29129			The Merfolk of pearl trident to In the streets of Merfolk City.
+*
+M 1 29129 8 29130			The Merfolk of pearl trident to In the streets of Merfolk City.
+*
+M 1 29130 8 29131			The Coral Merfolk to In the streets of Merfolk City.
+*
+M 1 29131 8 29132			The Jolting Merfolk to In the streets of Merfolk City.
+*
+M 1 29132 8 29133			The merfolk assassin to In the streets of Merfolk City.
+*
+M 1 29133 8 29134			The Merfolk Raider to In the streets of Merfolk City.
+*
+M 1 29133 8 29135			The Merfolk Raider to In the streets of Merfolk City.
+*
+M 1 29134 8 29136			The Sandbar Merfolk  to In the streets of Merfolk City.
+*
+M 1 29135 8 29137			The River Merfolk to In the streets of Merfolk City.
+*
+M 1 29136 8 29138			A Merfolk Seer to In the streets of Merfolk City.
+*
+M 1 29137 8 29139			The merfolk trader to In the streets of Merfolk City.
+*
+M 1 29124 8 29140			The Adult Merfolk to In the streets of Merfolk City.
+*
+M 1 29129 8 29141			The Merfolk of pearl trident to In the streets of Merfolk City.
+*
+M 1 29134 8 29142			The Sandbar Merfolk  to In the streets of Merfolk City.
+*
+M 1 29125 8 29143			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29135 8 29144			The River Merfolk to In the streets of Merfolk City.
+*
+M 1 29122 1 29146			The Merfolk King to The Cephalid Temple
+*
+M 1 29123 4 29146			The King's Guard to The Cephalid Temple
+*
+M 1 29121 8 29147			The Merfolk Child to In the streets of Merfolk City.
+*
+M 1 29124 8 29148			The Adult Merfolk to In the streets of Merfolk City.
+*
+M 1 29125 8 29149			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29126 8 29150			The Cephalid Tourist to In the streets of Merfolk City.
+*
+M 1 29128 8 29151			The Hungry Squid to In the streets of Merfolk City.
+*
+M 1 29134 8 29152			The Sandbar Merfolk  to In the streets of Merfolk City.
+*
+M 1 29137 8 29153			The merfolk trader to In the streets of Merfolk City.
+*
+M 1 29126 8 29154			The Cephalid Tourist to In the streets of Merfolk City.
+*
+M 1 29132 8 29155			The merfolk assassin to In the streets of Merfolk City.
+*
+M 1 29126 8 29156			The Cephalid Tourist to In the streets of Merfolk City.
+*
+M 1 29131 8 29157			The Jolting Merfolk to In the streets of Merfolk City.
+*
+M 1 29130 8 29158			The Coral Merfolk to In the streets of Merfolk City.
+*
+M 1 29125 8 29159			The Merfolk Looter to In the streets of Merfolk City.
+*
+M 1 29136 8 29160			A Merfolk Seer to In the streets of Merfolk City.
+*
+M 1 29137 8 29161			The merfolk trader to In the streets of Merfolk City.
+*
+M 1 29128 8 29162			The Hungry Squid to In the streets of Merfolk City.
+*
+M 1 29135 8 29163			The River Merfolk to In the streets of Merfolk City.
+*
+M 1 29120 8 29164			A Merfolk Guard to In the streets of Merfolk City.
+*
+M 1 29124 8 29165			The Adult Merfolk to In the streets of Merfolk City.
+*
+M 1 29129 8 29166			The Merfolk of pearl trident to In the streets of Merfolk City.
+*
+M 1 29127 8 29167			The Cephalid Constable to In the streets of Merfolk City.
+*
+M 1 29132 8 29168			The merfolk assassin to In the streets of Merfolk City.
+*
+M 1 29134 8 29169			The Sandbar Merfolk  to In the streets of Merfolk City.
+*
+M 1 29136 8 29170			A Merfolk Seer to In the streets of Merfolk City.
+S
+
+
+#$

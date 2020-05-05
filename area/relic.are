@@ -1,0 +1,725 @@
+#AREA	Rotain   Menzoberranzan~
+29600
+29699
+
+
+#HELPS
+
+0 $~
+
+
+
+#MOBILES
+#29600
+Lloths spider~
+a spider of Lloth's~
+a spider of Lloth is here.
+~
+The spider bears it fangs at you!!!
+~
+2 0 -1000 S
+10 2 2 1d1+300 1d8+32
+100000 80000 
+8 8 1
+#0
+
+
+
+#OBJECTS
+#29600
+drow sword adamantite~
+a drow adamantite sword~
+A drow adamantite sword lies here.~
+~
+5 16384 8193
+18053 25 50 3
+1 1000000 1
+A
+18 15
+A
+19 15
+#29601
+drow piwafwi~
+a drow piwafwi~
+A drow piwafwi lies here.~
+~
+9 0 1025
+25 0 0 24
+1 1000000 1
+A
+18 15
+A
+19 15
+#29602
+drow adamantite armor~
+a drow adamantite armor~
+A drow adamantite armor lies here.~
+~
+9 0 9
+25 0 0 16
+1 1000000 1
+A
+18 15
+A
+19 15
+#29603
+drow boots~
+a pair of drow boots~
+A pair of drow boots lies here.~
+~
+9 0 65
+25 0 0 23
+1 1000000 1
+A
+18 15
+A
+19 15
+#29604
+drow mask~
+a drow face mask~
+A drow face mask lies here.~
+~
+9 0 32769
+25 0 0 21
+1 1000000 1
+A
+18 10
+A
+19 10
+#29605
+bracers blinding strike drow~
+bracers of blinding strike~
+A pair of gleaming arm bracers lie here.~
+~
+9 0 257
+25 0 0 17
+1 1000000 1
+A
+18 10
+A
+19 10
+#29606
+whip drow black coiled~
+a coiled black whip~
+A coiled black whip, crafted from human hair lies here~
+~
+5 65 8193
+53 25 50 4
+0 1750 500
+A
+18 15
+A
+19 15
+#29607
+dagger adamantium drow~
+an adamantium dagger~
+A Drow adamantium dagger lies here.~
+~
+5 576 8193
+34 25 50 11
+2 12000 1500
+A
+18 7
+A
+19 7
+#29650
+black demonic ring~
+a black demonic ring~
+A ring crafted from black demonsteel lies here.~
+~
+9 0 3
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29651
+black demonic collar~
+a black demonic collar~
+A collar crafted from black demonsteel lies here.~
+~
+9 0 5
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29652
+black demonic armor armour breastplate plate~
+a black demonic breastplate~
+A collar crafted from black demonsteel lies here.~
+~
+9 0 9
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29653
+black demonic helmet~
+a black demonic helmet~
+A helmet crafted from black demonsteel lies here.~
+~
+9 0 17
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29654
+black demonic leggings~
+a pair of black demonic leggings~
+A pair of leggings crafted from black demonsteel lies here.~
+~
+9 0 33
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29655
+black demonic boots~
+a pair of black demonic boots~
+A pair of boots crafted from black demonsteel lies here.~
+~
+9 0 65
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29656
+black demonic gauntlets gloves~
+a pair of black demonic gauntlets~
+A pair of gauntlets crafted from black demonsteel lies here.~
+~
+9 0 129
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29657
+black demonic sleeves~
+a pair of black demonic sleeves~
+A pair of sleeves crafted from black demonsteel lies here.~
+~
+9 0 257
+25 0 0 0
+1 1000000 1
+A
+19 5
+A 
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29658
+black demonic cape~
+a black demonic cape~
+A cape crafted from black demonsilk lies here.~
+~
+9 0 1025
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29659
+black demonic belt~
+a black demonic belt~
+A belt crafted from black demonsteel lies here.~
+~
+9 0 2049
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29660
+black demonic bracer~
+a black demonic bracer~
+A bracer crafted from black demonsteel lies here.~
+~
+9 0 4097
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29661
+black demonic visor~
+a black demonic visor~
+A visor crafted from black demonsteel lies here.~
+~
+9 0 32769
+25 0 0 0
+1 1000000 1
+A
+19 5
+A
+18 5
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29662
+black demonic longsword sword~
+a black demonic longsword~
+A longsword crafted from black demonsteel lies here.~
+~
+5 16384 8193
+18000 25 50 1
+1 1000000 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29663
+black demonic shortsword sword~
+a black demonic shortsword~
+A shortsword crafted from black demonsteel lies here.~
+~
+5 16384 8193
+18000 25 50 1
+1 1000000 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29695
+highlander katana sword~
+a gleaming katana~
+A gleaming silver katana lies on the ground.~
+~
+5 16384 8193
+17000 50 50 1
+1 1000000 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+524288 0
+#29696
+ring moonring full moon~
+a ring of the full moon~
+A gleaming white ring lies here~
+~
+9 1|64 1|2
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+49152 0
+#29697
+belt moon howling~
+a belt of the howling moon~
+A howling belt lies here.~
+~
+9 1|64 1|2048
+25 0 0 16
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+49152 0
+#29698
+platemail plate moon raging~
+the platemail of the raging moon~
+A suit of glowing platemail lies here~
+~
+9 1|64 1|8
+25 0 0 16
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+49152 0
+#29699
+mage mask~ 
+a mage mask~ 
+A mask of ancient power lies here.~ 
+~ 
+9 0 -32767 
+25 0 0 22 
+1 1000000 0 
+A 
+12 1000 
+A 
+19 15 
+A 
+18 15 
+A 
+17 -25 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+0 0 
+#29700
+mage girth~ 
+a mage girth~ 
+A girth made pure magic lies here.~ 
+~ 
+9 0 2049 
+25 0 0 16 
+1 1000000 0 
+A 
+19 15 
+A 
+18 15 
+A 
+12 1000 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+0 0 
+#29701 
+mage cape~ 
+a mage cape~ 
+A cloak made pure magic lies here.~ 
+~ 
+9 0 1025 
+25 0 0 17 
+1 1000000 0 
+A 
+19 15 
+A 
+18 15 
+A 
+12 1000 
+A 
+17 -25 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+0 0
+#29703
+vampire vampiric blood bloody ring~ 
+a vampire ring~ 
+A bloody vampiric ring lies here.~ 
+~ 
+9 0 3 
+25 0 0 0
+1 1000000 0 
+A 
+19 15
+A 
+18 15 
+A 
+17 -15 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+4194304 0 
+#29704 
+vampire vampiric blood bloody helmet~ 
+a vampire helmet~ 
+A bloody vampiric helmet lies here.~ 
+~ 
+9 0 17 
+25 0 0 0
+1 1000000 0 
+A 
+19 15 
+A 
+18 15 
+A 
+17 -15 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+4194304 0 
+#29705 
+vampire vampiric blood bloody plate~ 
+a vampire plate~ 
+A bloody vampiric plate lies here.~ 
+~ 
+9 0 9 
+25 0 0 15 
+1 1000000 0 
+A 
+19 15 
+A 
+18 15 
+A 
+17 -15 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+4194304 0 
+#29706 
+monk god holy bracer~ 
+a godly bracer~ 
+A bracer crafted by God lies here.~ 
+~ 
+9 259 4097 
+25 0 0 23 
+1 1000000 0 
+A 
+24 -10 
+A 
+19 10 
+A 
+18 10 
+A 
+14 500 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+8388608 0 
+#29707 
+monk god holy cloak~ 
+a godly cloak~ 
+A cloak crafted by God lies here.~ 
+~ 
+9 259 1025 
+25 0 0 17 
+1 1000000 0 
+A 
+19 17 
+A 
+18 17 
+A 
+14 250 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+8388608 0 
+#29708 
+monk god holy gloves~ 
+a pair of godly gloves~ 
+A pair of gloves crafted by God lies here.~ 
+~ 
+9 259 129 
+25 0 0 21 
+1 1000000 0 
+A 
+19 17 
+A 
+18 17 
+A 
+5 5 
+A 
+4 5 
+A 
+3 5 
+Q 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+(null)~ 
+8388608 0
+
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SPECIALS
+S
+
+
+
+#$

@@ -1,0 +1,28 @@
+MobHpMult    1
+MobHpDiv     1
+MobLevelMult 1
+MobLevelDiv  1
+MobDamMult   1
+MobDamDiv    1
+ExpMult      4
+ExpDiv       3
+AutoHelp     help~
+TitleNone    #rPeasant#n~
+Title00      #oFoot Soldier#n~
+Title05      #pSquire#n~
+Title10      #gKnight#n~
+Title15      #lBaron#n~
+Title20      #cViscount#n~
+Title25      #1Earl#n~
+Title30      #3Marquis#n~
+Title35      #7Duke#n~
+Title40      #1A#rvatar #0of #1B#rlood#n~
+Title45      #1G#rod #0of #1B#rlood#n~
+Title50      #0A#7vatar #0of #0S#7ou#0ls#n~
+Imm07        #2Builder#n~
+Imm08        #3Quest Maker#n~
+Imm09        #4Enforcer#n~
+Imm10        #5Judge#n~
+Imm11        #6High Judge#n~
+Imm12        #7Implementor#n~
+#END

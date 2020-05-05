@@ -1,0 +1,63 @@
+#AREA	Nuitari	    Chloe's Domain~
+990
+991
+
+#MOBILES
+#990
+white siberian tiger~
+A white Siberian tiger~
+A huge white tiger raises it's head as your enter and ROARS!
+~
+This white Siberian tiger is one of Chloe's favourite pets.
+~
+2|64 8|128 1000 S
+500 2 2 1d1+1499 2d4+30
+12000 0
+8 8 1
+#0
+
+
+#ROOMS
+#990
+The Glass Gates~
+You find yourself before Crystaline Glass Gates. 
+As you attempt to peer through the wall of glass, it reflects 
+back to you, your memories of the past. As you become more aware
+of your surroundings, you notice the imperial pets of this palace 
+are cold white marble statues, As the two statues become seemingly
+alive, you realize a pair of gleaming green eyes are staring at 
+you, disliking tresspassers in their Grand Mistress Chloe's domain.
+~
+0 16|8192|65536 0
+D0
+~
+~
+0 -1 991
+S
+#991
+The Frozen Foyer~
+You find yourself surrounded by icicles of all shapes and sizes.
+The smooth tiles are made of cyne tinted sheets of ice.  The
+chandalier cascades down glinting of illusions and shades of the
+pastel rainbow.  Before you, the grand staircase sweeps up to the
+mezzanine level as you bypass the gigantic Roman pillars of ice.
+~
+0 4|16|1024|2048|8192|16384|65536 0
+D2
+~
+~
+0 -1 990
+S
+#0
+
+
+#RESETS
+*
+M 1 990 5 990			A white Siberian tiger to The Glass Gates
+S
+
+#SPECIALS
+S
+
+
+#$

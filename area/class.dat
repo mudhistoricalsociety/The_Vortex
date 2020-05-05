@@ -1,0 +1,100 @@
+Alie
+Armo 0
+Atta 3
+Damr 0
+Dodg -1
+Hitr 0
+Parr -1
+Powe 0.90~
+Rege 1.25~
+Toug 1.10~
+End
+Apoc
+Armo 0
+Atta 0
+Damr 0
+Dodg 0
+Hitr 0
+Parr 0
+Powe 1.00~
+Rege 1.00~
+Toug 0.85~
+End
+Drag
+Armo 0
+Atta 0
+Damr 0
+Dodg 3
+Hitr 0
+Parr 3
+Powe 1.30~
+Rege 1.00~
+Toug 0.80~
+End
+Drow
+Armo -100
+Atta 0
+Damr 150
+Dodg -4
+Hitr 150
+Parr -4
+Powe 0.90~
+Rege 1.50~
+Toug 0.70~
+End
+Jedi
+Armo 0
+Atta 0
+Damr 0
+Dodg 0
+Hitr 0
+Parr 0
+Powe 1.00~
+Rege 1.00~
+Toug 1.00~
+End
+Monk
+Armo 0
+Atta 0
+Damr 0
+Dodg 0
+Hitr 0
+Parr 0
+Powe 1.15~
+Rege 1.00~
+Toug 0.95~
+End
+Shad
+Armo -200
+Atta 2
+Damr 200
+Dodg 2
+Hitr 200
+Parr 2
+Powe 1.20~
+Rege 1.00~
+Toug 0.95~
+End
+Vamp
+Armo 0
+Atta 0
+Damr 0
+Dodg 0
+Hitr 0
+Parr 0
+Powe 1.55~
+Rege 1.00~
+Toug 0.95~
+End
+Were
+Armo 0
+Atta 0
+Damr 0
+Dodg 0
+Hitr 0
+Parr 0
+Powe 2.00~
+Rege 1.00~
+Toug 0.75~
+End
+EOF

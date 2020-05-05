@@ -1,0 +1,1573 @@
+#AREA	Nuitari PIST~
+19100
+19150
+
+#MOBILES
+#19100
+pist citizen~
+pist citizen~
+A PIST off citizen is standing here ready to kick some ass and bust some heads.
+~
+Piss off, you bloody saut!
+~
+32|64 0 -100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19101
+punk~
+PIST punk~
+A PIST off punk stands here looking for some jocks to rumble with.
+~
+The punk grits his yellow teeth and screams "PIST RULES!!"
+~
+32|64 0 -100 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19102
+jock~
+a jock~
+A jock is here thinking he may have wandered into the wrong part of town.
+~
+Please don't hurt me! I have a big game tonight!
+~
+64|128 0 -100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19103
+plumber~
+pist plumber~
+A PIST off plumber stands here wielding his rusty pipe wrench.
+~
+I'll unclog your bloody pipes!
+~
+2|32|64 8|128 -100 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19104
+carpenter~
+pist carpenter~
+A PIST off carpenter stands here ready to bust a whole in your head!
+~
+Fuck off or I'll drive a nail through your head!!!
+~
+2|32|64 8|128 -100 S
+175 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19105
+teacher~
+pist teacher~
+A PIST off teacher stands here holding a bloody ruler.
+~
+She doesn't seem very happy with you for interrupting her class.. You better get out
+while you still can.
+~
+32|64 8|128 -100 S
+175 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19106
+student~
+pist student~
+A PIST off student sits at a desk throwing spit wads at the teacher.
+~
+He grin evilly at you as they prepare to throw a nice wet spit wad at you.
+~
+2|32|64 8|512 -100 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19107
+doctor~
+pist doctor~
+A PIST off doctor stands here snapping on a pair of rubber gloves.
+~
+Dont worry this won't hurt a bit.
+  muhahahahah
+~
+2|32|64 8|128|512 -100 S
+180 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19108
+patient~
+pist patient~
+A PIST off patient seems rather pissed about their missing limbs.
+~
+He screams "Bugger Off!" and tries to bite you.
+~
+2|32|64 8 -100 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19109
+whore~
+pist whore~
+A PIST off whore stands here trying to look sexy.
+~
+Me sooooo horny!!!!
+~
+64 8 -100 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#19110
+trent reznor~
+trent reznor~
+Trent Reznor is here preparing to Fuck You LIke an Animal!
+~
+Trent Reznor looks down upon you with godlike eyes. You feel humbled by your presence.
+Better get the fuck out of his face if you aren't a member of PIST!
+~
+2|64 8|32|128|512 -200 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19111
+vamp prisoner~
+vamp prisoner~
+A severely beaten vampire lies here in a puddle of blood vomit and urine.
+~
+The prisoner can't seem to say much considering his vocal cords have been severly damaged
+by a kick to the neck.
+~
+2|64 8 100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19112
+monk prisoner~
+monk prisoner~
+A severely beaten monk lies here in a puddle of vomit blood and urine.
+~
+The prisoner can't seem to say much considering his vocal cords have been severly damaged
+by a kick to the neck.
+~
+2|64 8 100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19113
+mage prisoner~
+mage prisoner~
+A severely beaten mage lies here in a puddle of blood vomit and urine.
+~
+The prisoner can't seem to say much considering his vocal cords have been severly damaged by
+a kick to the neck.
+~
+2|64 8 100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19114
+ninja prisoner~
+ninja prisoner~
+A severely beaten ninja lies here in a puddle of blood vomit and urine.
+~
+The prisoner can't seem to say much considering his vocal cords have been severly damaged by
+a kick to the neck.
+~
+2|64 8 100 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19115
+warden ~
+pist warden~
+A PIST off prison warden stands here enjoying his work a little too much.
+~
+The warden looks at you and thinks about how much fun it would be to break you.
+~
+2|32|64 8|32|128|512 -100 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19116
+clerk postal~
+pist postal clerk~
+A PIST off postal clerk stands here..He could go postal at any given time.
+~
+The clerk shakes violently and is insanely muttering something about Hot pink
+ninjitsu bunny rabbits eating his children.
+~
+2|32|64 8 -100 S
+180 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19117
+clerk~
+pist clerk~
+A PIST off convenience store clerk stands here drinking a slurpee..
+~
+The clerk says to you "Take what you want my boss is a dick!"
+~
+2|32|64 8 -100 S
+180 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19118
+bad mofo~
+bad mofo~
+A Bad Mother Fucker stands here clenching his fists in rage.
+~
+This guy doesn't look very friendly..better get outta here before you get the beatdown
+~
+2|32|64 8|32|128|512 -100 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19119
+Acolyte~
+Acolyte~
+A dark acolyte of Nuitari kneels here praying to his god.
+~
+The acolyte glares evilly at you and says "You have violated the sacred grounds of Nuitari.
+Now you must die!"
+~
+2|32|64 8|32|128|512 -1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19120
+kid~
+pist kid~
+A PIST off kid stands here looking devious.
+~
+The PIST off kid kicks you in the face as you turn to look at him.
+~
+32|64 8 -100 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19121
+initiate~
+initiate~
+An initiate of the dark god Nuitari stands here looking for sacrificial candidates.
+~
+The mob looks back at you!
+~
+2|32|64 8|32|128|512 -500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#19100
+tooth knocked out~
+tooth~
+A knocked out tooth lies here.~
+~
+5 0 1|8192
+0 1 6 10 
+2 0 0
+A
+1 0
+#19101
+letter opener~
+a letter opener~
+A letter opener lies here.~
+~
+5 2|512 1|8192
+0 1 6 9 
+2 0 0
+#19102
+spiked wrist band~
+a spiked wrist band~
+A spiked wrist band lies here.~
+~
+9 32|64 1|4096
+0 0 0 0 
+1 0 0
+A
+18 5
+A
+19 5
+#19103
+stick pool sawed off~
+a sawed off pool stick~
+A sawed off pool stick leans against the wall.~
+~
+5 128|512 1|8192
+0 1 6 7 
+3 0 0
+A
+18 5
+#19104
+pist shirt t-shirt~
+a pist t-shirt~
+A PIST t-shirt is on the ground.~
+~
+9 512 1|8
+0 1 6 11 
+5 0 0
+A
+18 5
+A
+13 50
+#19105
+wallet bmf~
+a bmf wallet~
+A wallet embroidered with "Bad Mother Fucker" on it lies here.~
+~
+13 512 1|16384
+0 0 0 0 
+1 0 0
+#19106
+pipe crack~
+a crackpipe~
+A used crackpipe lies in the dirt.~
+~
+13 0 1|16384
+0 0 0 0 
+1 0 0
+#19107
+vial crack~
+a crack vial~
+A vial of crack is here wrapped up in cloth.~
+~
+26 0 1|16384
+50 3 82 72 
+1 0 0
+#19108
+ruler wood wooden~
+a wooden ruler~
+A wooden ruler covered in blood lies here.~
+~
+5 0 1|8192
+0 1 6 3 
+3 0 0
+A
+19 4
+A
+3 2
+#19109
+gun shotgun~
+a sawed off shotgun~
+A sawed off shotgun is here ready to blast.~
+~
+5 512 1|8192
+0 1 6 6 
+5 0 0
+A
+18 10
+A
+17 -25
+A
+14 50
+#19110
+pill yellow caffeine~
+a caffeine pill~
+A little yellow pill lies here.~
+~
+26 0 1|16384
+30 1 28 68 
+1 0 0
+#19111
+boots combat~
+a pair of combat boots~
+A pair of combat boots lie here.~
+~
+9 512 1|64
+10 0 0 0 
+4 0 0
+A
+19 5
+A
+1 2
+#19112
+jacket leather~
+a leather jacket~
+A torn leather jacket lies here.~
+~
+9 16|512 1|8
+15 1 6 11 
+5 0 0
+A
+17 -10
+A
+13 10
+#19113
+board skate~
+a skateboard~
+A highly thrashed skateboard lies here.~
+~
+5 512 1|8192
+0 1 6 7 
+5 0 0
+A
+18 10
+A
+19 10
+A
+2 5
+#19114
+black dagger obsidian~
+a black obsidian dagger~
+A blood-stained black obsidian dagger lies here.~
+~
+5 1|2|16|32|64|512|2048 1|8192
+0 1 6 2 
+2 0 0
+A
+18 8
+A
+19 8
+A
+5 -2
+#19115
+needle hypo~
+a hypodermic needle~
+A hypodermic needle lies here.~
+~
+3 2|512 1|8192
+25 20 20 202 
+5 0 0
+A
+5 -9
+#19116
+cloak darkness black~
+a cloak of darkness~
+A Black Cloak radiating sheer evil lies here.~
+~
+9 512 1|1024
+25 1 6 11 
+5 0 0
+A
+18 5
+A
+19 10
+A
+12 100
+#0
+
+
+#ROOMS
+#19100
+Chief's Quarters.~
+This well decorated room belongs to the chief 
+of the PIST tribe. It has rows of animal head
+trophies and cracked open heads. There is a
+large selection of weapons adorning the many 
+cabinets. Its ceiling slopes upwards to a
+peak. Giving the huge lupis plenty of room 
+for their drunken brawls. A long table sits
+in the corner of the huge room. Here the war
+council debates on which race to wipe out at
+any given day.
+~
+0 8|1024|8192 0
+D1
+~
+~
+0 -1 19101
+S
+#19101
+The Combat Room.~
+Here is where the PIST clan members can come to spar each
+other and enhance their skills. There are drains in the floor
+to allow the pools of blood to drain away. The walls of black
+marble are scratched and dented from the huge wolves battles.
+A non PIST member would feel very vulnerable here.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 19102
+D2
+~
+~
+0 -1 19103
+D3
+~
+~
+0 -1 19100
+S
+#19102
+Shaman's Quarters.~
+This room is property of the sole Shaman of the PIST tribe. It
+contains are large desk that has scattered scrolls and books on
+it. It is tastefully decorated with a few battle worm weapons, and
+the skins of a high ranking vampires. There is a large fire burning
+in the center fireplace. There is a large unreconized animal or
+humanoid being turning on a spit.
+~
+0 8|1024|8192 1
+D3
+~
+~
+0 -1 19101
+S
+#19103
+The Main Hall.~
+When entering this room, you can't help but notice the huge ,roughly
+carved pit in the center of the black marble , round room. Looking down
+into it you see nothing but a long fall ahead of you. It disappears into
+darkness far below you. If you listen closely you hear long moaning wails
+coming from it...
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 19101
+D1
+~
+~
+0 -1 19105
+D3
+~
+~
+0 -1 19104
+D4
+~
+~
+0 -1 19150
+D5
+~
+~
+0 -1 19106
+S
+#19104
+PIST Recall Room.~
+This room is undecorated, this is where all the PIST members enter the clan
+hall from. There is a wooden plaque on the wall. It has pkills and pkdeaths
+scratched on it. There is a huge amount of scratches under the pkills side,
+while the pdeaths remains somewhat bare..
+~
+0 8 0
+D1
+~
+~
+0 -1 19103
+S
+#19105
+PIST Healing Room.~
+Entering the room is like walking into a
+industrial hell. The room is completely dark except for the random flashes
+of red light, hard fucking core industrial bashes your ears till they bleed.
+You see a figure in the room. He screams "I want to Fuck you LIKE An Animal"
+Next thing you know he smashes his mic stand down on your cranium, and spits
+in your face. Oddly its feels good. Hes still screaming. Your getting mad. He
+smashes an amp with a keyboard. Your getting really fucking mad. He finally
+breaks a guitar over your back. Now your PIST!!!
+~
+0 8|1024|8192 0
+D3
+~
+~
+0 -1 19103
+S
+#19106
+Below The Main Hall Of PIST~
+Taking a leap of faith is never an easy thing. Especially when it will do
+nothing but please the person who made this pit if you fall to a slow painful
+death. The walls are slick with growing fungus, though beneath it hard sharp
+marble walls.
+~
+0 8|8192 0
+D4
+~
+~
+0 -1 19103
+D5
+~
+~
+0 -1 19107
+S
+#19107
+The Piss Room.~
+Damn this place stinks like stale urine. Ohhh.........
+You can understand why. There is a large piss trough here. Filled to the brim
+with Lupus excrement, and god only knows how that smells. If your a PIST member,
+take a load off and enjoy one of the many monthly magazines on the shelf in the
+corner. The PIST clan hall is up from here, while a dark tunnel carved from
+solid rock continues on to the south.
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 19108
+D4
+~
+~
+0 -1 19106
+S
+#19108
+A Tunnel.~
+You can barely make out what kind of room your in . You luckily realize you
+are heading north to south. From the south their are wails of torment and a
+greenish gas floating in the air. While to the north their is a rotten foul
+stench assaulting your nostrils.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 19107
+D2
+~
+~
+0 -1 19109
+S
+#19109
+A Tunnel.~
+You can barely make out what kind of room your in . You luckily realize you
+are heading north to south. From the south their are wails of torment and a
+greenish gas floating in the air. While to the north their is a rotten foul
+stench assaulting your nostrils.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 19108
+D2
+~
+~
+0 -1 19110
+S
+#19110
+A Tunnel.~
+You can barely make out what kind of room your in . You luckily realize you
+are heading north to south. From the south their are wails of torment and a
+greenish gas floating in the air. While to the north their is a rotten foul
+stench assaulting your nostrils.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 19109
+D1
+~
+~
+0 -1 19111
+S
+#19111
+A Tunnel.~
+Walking creates loud echoing sounds in this strange tunnel. Guessing the
+creatures that you heard wailing earlier hear you approaching, they cry out
+to you. They scream for you to end their torment.
+~
+0 1|8 0
+D2
+~
+~
+1 -1 19112
+D3
+~
+~
+0 -1 19110
+S
+#19112
+The Silver Grate.~
+Your walk in the pretty pretty pain cave has sadly come to an end. At its end
+you see a large gaping hole in the wall. Its sealed with large grate. It seems
+to be made of solid steel coated in silver. No matter how big and bad you think
+you are, you aint getting through this bitch.
+~
+0 1|8 0
+D0
+~
+~
+1 -1 19111
+D4
+~
+~
+1 -1 19113
+S
+#19113
+PIST Prison Cell.~
+The walls of this cell are covered in what can only be describes as pure filth.
+The prisoner is surely beaten to all hell by the PIST warden. Pools of all kinds
+of fluids that can only be beaten out of a humanoid collect on the floor. Cover
+your mouth and nose, the air seems full of disease... You notice a large silver
+grate on the floor.
+~
+0 1|8 0
+D3
+~
+~
+1 -1 19114
+D5
+~
+~
+1 -1 19112
+S
+#19114
+The Warden's Room.~
+On the walls reign all sorts of wonderous and beautiful torture devices. Cleaned
+and sharpened to mint condition. The room is occupied by a sole tenant. The PIST
+warden. He smiles at you through is think beard. Eyeing you up and down, a shiver
+runs through your body. Only he knows what dark twisted thoughts are going through
+his sick mind...
+~
+0 8 0
+D0
+~
+~
+1 -1 19115
+D1
+~
+~
+1 -1 19113
+D2
+~
+~
+1 -1 19117
+D3
+~
+~
+1 -1 19116
+D4
+~
+~
+1 -1 19118
+S
+#19115
+PIST Prison Cell.~
+The walls of this cell are covered in what can only be describes as pure filth.
+The prisoner is surely beaten to all hell by the PIST warden. Pools of all kinds
+of fluids that can only be beaten out of a humanoid collect on the floor. Cover
+your mouth and nose, the air seems full of disease...
+~
+0 1|8 0
+D2
+~
+~
+1 -1 19114
+S
+#19116
+PIST Prison Cell.~
+The walls of this cell are covered in what can only be describes as pure filth.
+The prisoner is surely beaten to all hell by the PIST warden. Pools of all kinds
+of fluids that can only be beaten out of a humanoid collect on the floor. Cover
+your mouth and nose, the air seems full of disease...
+~
+0 1|8 0
+D1
+~
+~
+1 -1 19114
+S
+#19117
+PIST Prison Cell.~
+The walls of this cell are covered in what can only be describes as pure filth.
+The prisoner is surely beaten to all hell by the PIST warden. Pools of all kinds
+of fluids that can only be beaten out of a humanoid collect on the floor. Cover
+your mouth and nose, the air seems full of disease...
+~
+0 1|8 0
+D0
+~
+~
+1 -1 19114
+S
+#19118
+Entrance To The PIST Prison.~
+There is a solid iron door leading to the prison proper. On the wall it reads
+in Dark Red Letters, PIST PRISON. You hear coughing and tormenting wails coming
+from the depths of this unholy place. Yet in the background you also hear a gruff
+maniacle laughter. The non PIST think it would be best to obey the laws of this
+land. WHile the truly PIST enter the prison to enjoy the show...
+~
+0 8 0
+D3
+~
+~
+0 -1 19119
+D5
+~
+~
+1 -1 19114
+S
+#19119
+Hero's Way.~
+You are standing in the side street named Heroes Way. A large plaque inbedded in
+the cobblestone road is dedicated to a long forgotten Lupis Hero. The law of the
+land is to bow when passing it. Now you can disobey this law, before so maybe one
+should pay a visit to the prison. Its to your east. It has a way of changing
+people's minds.
+~
+0 0 1
+D0
+~
+~
+1 -1 19120
+D1
+~
+~
+0 -1 19118
+D3
+~
+~
+0 -1 19121
+S
+#19120
+The PIST Post Office.~
+Here sits a disgruntled PIST post officer. He glares at you out of his bloodshot
+eyes. Maybe you shoulnd't ask him why the mail is never delivered here, he seems
+quite adept with his letter opener. The building is small and filled with opened
+letters.
+~
+0 8 0
+D2
+~
+~
+1 -1 19119
+S
+#19121
+Hero's Intersection.~
+Entering this place is like taking a knowing step into the past. You feel a intense
+sensation of BLISS. Even in this pist off place. A huge beast of a man stands here.
+He says to all passerbyes. "And you will know my name is the lord when I lay my fingers
+upon thee." Thinking that is a pretty cold mother fucking thing to say to a person before
+he busts a cap in your ass. You best get on your way.
+~
+0 0 1
+D0
+~
+~
+0 -1 19124
+D1
+~
+~
+0 -1 19119
+D2
+~
+~
+0 -1 19129
+D3
+~
+~
+0 -1 19122
+S
+#19122
+West Hero's Way.~
+You are wandering down Hero's Way. You see prostitutes begging for crack on the corner
+and punks thrashing up the curbs on their skateboards.
+~
+0 0 1
+D1
+~
+~
+0 -1 19121
+D3
+~
+~
+1 -1 19123
+S
+#19123
+The PIST Mini-Mart.~
+The door dings happily as you enter this
+store. You dont even bother asking what the clerk has to offer in way of wares. He
+just spits in your general direction when he notices you peering at him. You notice
+the butt of what looks to be quite a dangerous weapon on the counter. Now a smart man
+would leave this place. But your not quite in that category are you??
+~
+0 8 0
+D1
+~
+~
+1 -1 19122
+S
+#19124
+Stairway To The Altar.~
+You are at the base of a long set of black marble stairs. Looking to the summit it
+seems a good long walk to the top. Though you arent quite sure you want to go there.
+At the peek their is a Large Building , it is surrounded by what looks to be a magical 
+darkness. The stairs upon closer inspection have trickles of blood running down them.
+You feel a fear creep onto you, and the presence of a God approaching upon your feeble
+soul.
+~
+0 8 0
+D2
+~
+~
+0 -1 19121
+D4
+~
+~
+0 -1 19125
+S
+#19125
+On The Stairway.~
+Now you know your in the wrong place. Feelings of hatred so pure and untainted bombard
+your very being. This much power can only be created by a god of evil. The evil here
+is absolute. Nothing not even the highest of mortal dare challenge it. It belongs in
+this world it is as right as good. The cloud of darkness begins to envelope you. Your
+soul begins to slip away.
+~
+0 8 0
+D4
+~
+~
+0 -1 19126
+D5
+~
+~
+0 -1 19124
+S
+#19126
+Altar Of The God Nuitari.~
+This unholy place awaits the coming of Nuitari onto this world. Their are altars of
+human sacrifice. Darkness is a thing here. Pain is all you know. The long sleep will
+not bring you peace, and never will after visiting this place dedicated to the one God
+of darkness. You are now his property.
+~
+0 8 0
+D1
+~
+~
+0 -1 19127
+D3
+~
+~
+0 -1 19128
+D5
+~
+~
+0 -1 19125
+S
+#19127
+Sacrificial Chamber.~
+This is a large altar poised in the center of this small room. Trenches are carved
+into its solid surface for the letting of blood. The roof is open, So the Gods of
+Evilness can stare down those souls that are being handed to them on so many Ritual
+Daggers.
+~
+0 8 0
+D3
+~
+~
+0 -1 19126
+S
+#19128
+Sacrificial Chamber.~
+This is a large altar poised in the center of this small room. Trenches are carved
+into its solid surface for the letting of blood. The roof is open, So the Gods of
+Evilness can stare down those souls that are being handed to them on so many Ritual
+Daggers.
+~
+0 8 0
+D1
+~
+~
+0 -1 19126
+S
+#19129
+PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D0
+~
+~
+0 -1 19121
+D1
+~
+~
+0 -1 19130
+D2
+~
+~
+0 -1 19132
+D3
+~
+~
+0 -1 19134
+S
+#19130
+PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D2
+~
+~
+0 -1 19131
+D3
+~
+~
+0 -1 19129
+S
+#19131
+PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D0
+~
+~
+0 -1 19130
+D3
+~
+~
+0 -1 19132
+S
+#19132
+PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D0
+~
+~
+0 -1 19129
+D1
+~
+~
+0 -1 19131
+D2
+~
+~
+0 -1 19135
+D3
+~
+~
+0 -1 19133
+S
+#19133
+PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D0
+~
+~
+0 -1 19134
+D1
+~
+~
+0 -1 19132
+S
+#19134
+The Centre Of PIST Square.~
+You are standing in the middle of the PIST stronghold. To the North you see a pyramid
+rising up into pure darkness. To the East and West your gaze meets the Huge stone walls
+of the town. To the South you see the beggining of the town, A street with suburban
+housing though it probably has a twist to it.
+~
+0 0 1
+D1
+~
+~
+0 -1 19129
+D2
+~
+~
+0 -1 19133
+S
+#19135
+A Civilian Street.~
+On this street rows of houses line. Regular suburbia. The houses belong to PIST Plumber,
+Carpenter, Teacher and lastly PIST Doctor. PIST punks, and jocks line the streets. Of
+course the jocks are getting their heads cracked by the punks as usual.....
+~
+0 0 1
+D0
+~
+~
+0 -1 19132
+D1
+~
+~
+0 -1 19138
+D2
+~
+~
+0 -1 19148
+D3
+~
+~
+0 -1 19136
+S
+#19136
+A Civilian Street.~
+On this street rows of houses line. Regular suburbia. The houses belong to PIST Plumber,
+Carpenter, Teacher and lastly PIST Doctor. PIST punks, and jocks line the streets. Of
+course the jocks are getting their heads cracked by the punks as usual.....
+~
+0 0 1
+D0
+~
+~
+1 -1 19143
+D1
+~
+~
+0 -1 19135
+D3
+~
+~
+0 -1 19137
+S
+#19137
+A Civilian Street.~
+On this street rows of houses line. Regular suburbia. The houses belong to PIST Plumber,
+Carpenter, Teacher and lastly PIST Doctor. PIST punks, and jocks line the streets. Of
+course the jocks are getting their heads cracked by the punks as usual.....
+~
+0 0 1
+D0
+~
+~
+1 -1 19140
+D1
+~
+~
+0 -1 19136
+S
+#19138
+A Civilian Street.~
+On this street rows of houses line. Regular suburbia. The houses belong to PIST Plumber,
+Carpenter, Teacher and lastly PIST Doctor. PIST punks, and jocks line the streets. Of
+course the jocks are getting their heads cracked by the punks as usual.....
+~
+0 0 1
+D0
+~
+~
+1 -1 19141
+D1
+~
+~
+0 -1 19139
+D3
+~
+~
+0 -1 19135
+S
+#19139
+A Civilian Street.~
+On this street rows of houses line. Regular suburbia. The houses belong to PIST Plumber,
+Carpenter, Teacher and lastly PIST Doctor. PIST punks, and jocks line the streets. Of
+course the jocks are getting their heads cracked by the punks as usual.....
+~
+0 0 1
+D0
+~
+~
+1 -1 19142
+D3
+~
+~
+0 -1 19138
+S
+#19140
+Abode Of The PIST plumber.~
+There are pipes all over the floor. The
+ass stink of the place is overwhelming. There are calenders filled with the babes of Bay-watch.
+The plumber swears profusely at you and says "Time to pay the piper, Timmy"
+~
+0 8 0
+D2
+~
+~
+1 -1 19137
+S
+#19141
+Abode Of The PIST Carpenter.~
+This humble abode is nearly falling over.
+The walls have nails sticking dangerously 
+out of them. Half the floor has fallen into the basement. And a nasty old man is here playing
+with his comp trying to figure out cads. When he sees you he grabs a hammer off the floor and
+growl menacingly at you.
+~
+0 8 0
+D2
+~
+~
+1 -1 19138
+S
+#19142
+The Schoolhouse Of PIST.~
+This school house seems to be a trap for the unwary. Everything is booby trapped. The teacher
+is tied up in the corner, and oddly her tongue is laying on the floor in front of her. Peeking
+your interest you investigate further. Looking out the back window as the teacher gives you
+pleading eyes. You see a group of well behaved children playing in a playground.
+~
+0 8 0
+D0
+~
+~
+1 -1 19144
+D2
+~
+~
+1 -1 19139
+S
+#19143
+Abode Of The PIST Off Docta.~
+This room seems not unlike the wardens room. The tools the doctors uses seems to come from the
+spanish inquisition. Strange hooked knives and drilling aparatuses adorn the walls. A most
+unfortunate patient lies on a surgical bed in a forced sleep. Odd that the doctor has removed
+what seems all of his perfectly good arms and legs.
+~
+0 8 0
+D2
+~
+~
+1 -1 19136
+S
+#19144
+PIST County Playground.~
+This sweet little area is dedicated to the well behaved up and growing PIST soceity. The
+children here smile at you gayly. Though you swear you saw the glint of a knife behind one
+of the closer ones back. Thinking maybe these children aren't what they seem. They slowly
+circle you. They begin a chorus of one of the songs Uncle Trent taught them. Closing in...
+~
+0 0 2
+D1
+~
+~
+0 -1 19145
+D2
+~
+~
+1 -1 19142
+D3
+~
+~
+0 -1 19146
+S
+#19145
+PIST Playground.~
+This sweet little area is dedicated tothe well behaved up and growing PIST soceity. The
+children here smile at you gayly. Though you swear you saw the glint of a knife behind one
+of the closer ones back. Thinking maybe these children aren't what they seem. They slowly 
+circle you. They begin a chorus of one of the songs Uncle Trent taught them. Closing in...
+~
+0 0 2
+D3
+~
+~
+0 -1 19144
+S
+#19146
+PIST Playground.~
+This sweet little area is dedicated to the well behaved up and growing PIST soceity. The
+children here smile at you gayly. Though you swear you saw the glint of a knife behind one
+of the closer ones back. Thinking maybe these children aren't what they seem. They slowly
+circle you. They begin a chorus of one of the songs Uncle Trent taught them. Closing in...
+~
+0 0 2
+D0
+~
+~
+0 -1 19147
+D1
+~
+~
+0 -1 19144
+S
+#19147
+PIST Playground.~
+This sweet little area is dedicated to the well behaved up and growing PIST soceity. The
+children here smile at you gayly. Though you swear you saw the glint of a knife behind one
+of the closer ones back. Thinking maybe these children aren't what they seem. They slowly
+circle you. They begin a chorus of one of the songs Uncle Trent taught them. Closing in...
+~
+0 0 2
+D2
+~
+~
+0 -1 19146
+S
+#19148
+The Gates Of PIST.~
+You are standing before the great gates of PIST. From the other side of the gate you can
+hear gunshots and screams of agonizing pain. There is a bullet-hole riddled sign next to
+the gates.
+~
+0 0 1
+D0
+~
+~
+0 -1 19135
+D2
+~
+~
+0 -1 19149
+E
+sign~
+(Surgeon Generals Warning: Entering the town of PIST can be hazardous to your mind, health and soul.)
+*This area is NOT for low level players*
+  Created by Nuitari and Dalamar, edited by Adreno.~
+S
+#19149
+Approaching Some Large Gates.~
+As you near the end of the path you see some large silver gates off in the distance. You wonder
+what lies in store for you.
+~
+0 0 1
+D0
+~
+~
+0 -1 19148
+D2
+~
+~
+0 -1 3554
+S
+#19150
+A Portal To Midgaard.~
+A dark swirling vortex hovers above you. If you wish to go back to Midgaard, step into it.
+~
+0 8 0
+D4
+~
+~
+0 -1 3001
+D5
+~
+~
+0 -1 19103
+S
+#0
+
+
+#RESETS
+D 1 19112 0 1			; The Silver Grate. Close North
+D 1 19111 2 1			; A Tunnel. Close South
+D 1 19113 5 2			; PIST Prison Cell. Lock Down
+D 1 19112 4 2			; The Silver Grate. Lock Up
+D 1 19114 1 2			; The Warden's Room. Lock East
+D 1 19113 3 2			; PIST Prison Cell. Lock West
+D 1 19115 2 2			; PIST Prison Cell. Lock South
+D 1 19114 0 2			; The Warden's Room. Lock North
+D 1 19116 1 2			; PIST Prison Cell. Lock East
+D 1 19114 3 2			; The Warden's Room. Lock West
+D 1 19117 0 2			; PIST Prison Cell. Lock North
+D 1 19114 2 2			; The Warden's Room. Lock South
+D 1 19118 5 1			; Entrance To The PIST Prison. Close Down
+D 1 19114 4 1			; The Warden's Room. Close Up
+D 1 19120 2 1			; The PIST Post Office. Close South
+D 1 19119 0 1			; Hero's Way. Close North
+D 1 19123 1 1			; The PIST Mini-Mart. Close East
+D 1 19122 3 1			; West Hero's Way. Close West
+D 1 19140 2 1			; Abode Of The PIST plumber. Close South
+D 1 19137 0 1			; A Civilian Street. Close North
+D 1 19141 2 1			; Abode Of The PIST Carpenter. Close South
+D 1 19138 0 1			; A Civilian Street. Close North
+D 1 19142 2 1			; The Schoolhouse Of PIST. Close South
+D 1 19139 0 1			; A Civilian Street. Close North
+D 1 19143 2 1			; Abode Of The PIST Off Docta. Close South
+D 1 19136 0 1			; A Civilian Street. Close North
+D 1 19144 2 1			; PIST County Playground. Close South
+D 1 19142 0 1			; The Schoolhouse Of PIST. Close North
+*
+M 1 19110 1 19105			trent reznor to PIST Healing Room.
+*
+M 1 19111 1 19113			vamp prisoner to PIST Prison Cell.
+E 1 19100 100 16
+*
+M 1 19112 1 19115			monk prisoner to PIST Prison Cell.
+E 1 19100 100 16
+*
+M 1 19113 1 19116			mage prisoner to PIST Prison Cell.
+E 1 19100 100 16
+*
+M 1 19114 1 19117			ninja prisoner to PIST Prison Cell.
+E 1 19100 100 16
+*
+M 1 19115 1 19114			pist warden to The Warden's Room.
+E 1 19111 100 8
+E 1 19102 100 14
+E 1 19102 100 15
+E 1 19109 100 16
+G 1 19107 100
+*
+M 1 19102 3 19118			a jock to Entrance To The PIST Prison.
+*
+M 1 19100 1 19118			pist citizen to Entrance To The PIST Prison.
+*
+M 1 19109 1 19118			pist whore to Entrance To The PIST Prison.
+*
+M 1 19101 1 19118			PIST punk to Entrance To The PIST Prison.
+*
+M 1 19102 2 19119			a jock to Hero's Way.
+*
+M 1 19100 1 19119			pist citizen to Hero's Way.
+*
+M 1 19101 1 19119			PIST punk to Hero's Way.
+*
+M 1 19116 1 19120			pist postal clerk to The PIST Post Office.
+E 1 19101 100 16
+*
+M 1 19100 1 19120			pist citizen to The PIST Post Office.
+*
+M 1 19118 1 19121			bad mofo to Hero's Intersection.
+E 1 19112 100 5
+E 1 19111 100 8
+E 1 19102 100 14
+E 1 19102 100 15
+E 1 19113 100 16
+G 1 19105 100
+*
+M 1 19101 1 19121			PIST punk to Hero's Intersection.
+*
+M 1 19100 1 19121			pist citizen to Hero's Intersection.
+*
+M 1 19109 1 19121			pist whore to Hero's Intersection.
+*
+M 1 19120 1 19121			pist kid to Hero's Intersection.
+*
+M 1 19109 1 19122			pist whore to West Hero's Way.
+*
+M 1 19102 2 19122			a jock to West Hero's Way.
+*
+M 1 19117 1 19123			pist clerk to The PIST Mini-Mart.
+E 1 19111 100 8
+E 1 19109 100 16
+G 1 19110 100
+*
+M 1 19100 1 19124			pist citizen to Stairway To The Altar.
+*
+M 1 19101 2 19124			PIST punk to Stairway To The Altar.
+*
+M 1 19102 1 19124			a jock to Stairway To The Altar.
+*
+M 1 19121 1 19125			initiate of nuitari to On The Stairway.
+*
+M 1 19119 1 19126			Acolyte of Nuitari to Altar Of The God Nuitari.
+E 1 19114 100 16
+*
+M 1 19121 2 19127			initiate of nuitari to Sacrificial Chamber.
+*
+M 1 19121 2 19128			initiate of nuitari to Sacrificial Chamber.
+*
+M 1 19100 3 19129			pist citizen to PIST Square.
+*
+M 1 19101 2 19129			PIST punk to PIST Square.
+*
+M 1 19102 2 19129			a jock to PIST Square.
+*
+M 1 19102 2 19130			a jock to PIST Square.
+*
+M 1 19109 2 19130			pist whore to PIST Square.
+*
+M 1 19120 1 19130			pist kid to PIST Square.
+*
+M 1 19101 1 19130			PIST punk to PIST Square.
+*
+M 1 19100 3 19131			pist citizen to PIST Square.
+*
+M 1 19101 1 19131			PIST punk to PIST Square.
+*
+M 1 19102 1 19131			a jock to PIST Square.
+*
+M 1 19100 2 19132			pist citizen to PIST Square.
+*
+M 1 19101 1 19132			PIST punk to PIST Square.
+*
+M 1 19102 3 19132			a jock to PIST Square.
+*
+M 1 19109 1 19132			pist whore to PIST Square.
+*
+M 1 19100 2 19133			pist citizen to PIST Square.
+*
+M 1 19101 2 19133			PIST punk to PIST Square.
+*
+M 1 19102 1 19133			a jock to PIST Square.
+*
+M 1 19101 3 19134			PIST punk to The Centre Of PIST Square.
+*
+M 1 19100 2 19134			pist citizen to The Centre Of PIST Square.
+*
+M 1 19102 1 19134			a jock to The Centre Of PIST Square.
+*
+M 1 19109 1 19134			pist whore to The Centre Of PIST Square.
+*
+M 1 19100 2 19135			pist citizen to A Civilian Street.
+*
+M 1 19101 4 19135			PIST punk to A Civilian Street.
+*
+M 1 19102 1 19135			a jock to A Civilian Street.
+*
+M 1 19109 1 19135			pist whore to A Civilian Street.
+*
+M 1 19102 3 19136			a jock to A Civilian Street.
+*
+M 1 19100 2 19136			pist citizen to A Civilian Street.
+*
+M 1 19109 1 19136			pist whore to A Civilian Street.
+*
+M 1 19101 5 19137			PIST punk to A Civilian Street.
+*
+M 1 19102 2 19137			a jock to A Civilian Street.
+*
+M 1 19100 5 19138			pist citizen to A Civilian Street.
+*
+M 1 19101 1 19138			PIST punk to A Civilian Street.
+*
+M 1 19100 3 19139			pist citizen to A Civilian Street.
+*
+M 1 19109 2 19139			pist whore to A Civilian Street.
+*
+M 1 19103 1 19140			pist plumber to Abode Of The PIST Carpenter.
+E 1 19104 100 5
+E 1 19111 100 8
+E 1 19100 100 16
+E 1 19106 100 17
+G 1 19107 100
+*
+M 1 19104 1 19141			pist carpenter to Abode Of The PIST Carpenter.
+E 1 19111 100 8
+E 1 19102 100 14
+E 1 19108 100 16
+E 1 19104 100 5
+*
+M 1 19105 1 19142			pist teacher to The Schoolhouse Of PIST.
+E 1 19108 100 16
+*
+M 1 19120 3 19142			pist kid to The Schoolhouse Of PIST.
+*
+M 1 19107 1 19143			pist doctor to Abode Of The PIST Off Docta.
+E 1 19115 100 16
+*
+M 1 19120 5 19144			pist kid to PIST County Playground.
+*
+M 1 19120 5 19145			pist kid to PIST Playground.
+*
+M 1 19120 4 19146			pist kid to PIST Playground.
+*
+M 1 19120 2 19147			pist kid to PIST Playground.
+*
+M 1 19109 1 19147			pist whore to PIST Playground.
+*
+M 1 19100 1 19148			pist citizen to The Gates Of PIST.
+*
+M 1 19108 5 19143			pist patient to Abode Of The PIST Off Docta.
+S
+
+
+#SPECIALS
+M  19115 spec_guard			pist warden
+S
+
+
+#$

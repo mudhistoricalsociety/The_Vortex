@@ -1,0 +1,5571 @@
+#AREA Spawn - Crypt~
+13000
+13130
+#MOBILES
+#13000
+skeleton~
+a skeleton warrior~
+A skeleton warrior, wearing only simple cloth is wandering endlessly.
+~
+A skeleton warrior.
+~
+64 512 -1000 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13001
+graveyard zombie~
+a graveyard zombie~
+A graveyard zombie moans loudly as it steps forward...
+~
+A graveyard zombie.
+~
+64 512 0 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13002
+bat~
+a large bat~
+A large, vampiric bat flies around frantically.
+~
+A large,vampiric bat.
+~
+64 512 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13003
+tomb tombraider raider~
+a tomb raider~
+A tomb raider is looking about the graveyard, trying to find artifacts.
+~
+An old tomb raider.
+~
+64 512 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13004
+vampire~
+a cloaked vampire~
+A cloaked vampire roams about the dark depths.
+~
+The mob looks back at you!
+~
+64 512 0 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13005
+hound~
+a ferocious hound~
+A large, ferocious shadow hound growls as you approach.
+~
+A shadow hound.
+~
+64 512 0 S
+68 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#13006
+ghost~
+a ghost~
+A transparent ghost floats around the room.
+~
+A transparent ghost.
+~
+64 128|512|32768|65536|1048576 0 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#13000
+An Old, Midieval Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 4 2
+D0
+~
+~
+0 -1 13001
+D2
+~
+~
+0 -1 2038
+S
+#13001
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13002
+D2
+~
+~
+0 -1 13000
+S
+#13002
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13003
+D2
+~
+~
+0 -1 13001
+S
+#13003
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13004
+D2
+~
+~
+0 -1 13002
+S
+#13004
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13005
+D1
+~
+~
+0 -1 13016
+D2
+~
+~
+0 -1 13003
+S
+#13005
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D1
+~
+~
+0 -1 13006
+D2
+~
+~
+0 -1 13004
+S
+#13006
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D1
+~
+~
+0 -1 13007
+D2
+~
+~
+0 -1 13016
+D3
+~
+~
+0 -1 13005
+S
+#13007
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D1
+~
+~
+0 -1 13008
+D2
+~
+~
+0 -1 13015
+D3
+~
+~
+0 -1 13006
+S
+#13008
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D1
+~
+~
+0 -1 13009
+D2
+~
+~
+0 -1 13014
+D3
+~
+~
+0 -1 13007
+S
+#13009
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D1
+~
+~
+0 -1 13010
+D2
+~
+~
+0 -1 13013
+D3
+~
+~
+0 -1 13008
+S
+#13010
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D2
+~
+~
+0 -1 13011
+D3
+~
+~
+0 -1 13009
+S
+#13011
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13010
+D2
+~
+~
+0 -1 13022
+D3
+~
+~
+0 -1 13012
+S
+#13012
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13010
+D1
+~
+~
+0 -1 13011
+D2
+~
+~
+0 -1 13021
+D3
+~
+~
+0 -1 13013
+S
+#13013
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13009
+D1
+~
+~
+0 -1 13012
+D2
+~
+~
+0 -1 13020
+D3
+~
+~
+0 -1 13014
+S
+#13014
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13008
+D1
+~
+~
+0 -1 13013
+D2
+~
+~
+0 -1 13019
+D3
+~
+~
+0 -1 13015
+S
+#13015
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13007
+D1
+~
+~
+0 -1 13014
+D2
+~
+~
+0 -1 13018
+D3
+~
+~
+0 -1 13016
+S
+#13016
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13006
+D1
+~
+~
+0 -1 13015
+D2
+~
+~
+0 -1 13017
+D3
+~
+~
+0 -1 13004
+S
+#13017
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13016
+D1
+~
+~
+0 -1 13018
+D3
+~
+~
+0 -1 13004
+S
+#13018
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13015
+D1
+~
+~
+0 -1 13019
+D2
+~
+~
+0 -1 13028
+D3
+~
+~
+0 -1 13017
+S
+#13019
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13014
+D1
+~
+~
+0 -1 13020
+D2
+~
+~
+0 -1 13027
+D3
+~
+~
+0 -1 13018
+S
+#13020
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13013
+D1
+~
+~
+0 -1 13021
+D2
+~
+~
+0 -1 13026
+D3
+~
+~
+0 -1 13019
+S
+#13021
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13012
+D1
+~
+~
+0 -1 13022
+D2
+~
+~
+0 -1 13025
+D3
+~
+~
+0 -1 13020
+S
+#13022
+At The Entrance To The Crypt~
+You are standing before the entrance to the graveyard that was here before last. Inside are many tombs and much older graves then the ones that exist out here.
+~
+0 0 2
+D0
+~
+~
+0 -1 13011
+D2
+~
+~
+0 -1 13023
+D3
+~
+~
+0 -1 13021
+D5
+~
+~
+0 -1 13035
+S
+#13023
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13022
+D2
+~
+~
+0 -1 13034
+D3
+~
+~
+0 -1 13024
+S
+#13024
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13021
+D1
+~
+~
+0 -1 13023
+D2
+~
+~
+0 -1 13033
+D3
+~
+~
+0 -1 13025
+S
+#13025
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13021
+D1
+~
+~
+0 -1 13024
+D2
+~
+~
+0 -1 13032
+D3
+~
+~
+0 -1 13026
+S
+#13026
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13020
+D1
+~
+~
+0 -1 13025
+D2
+~
+~
+0 -1 13031
+D3
+~
+~
+0 -1 13027
+S
+#13027
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13019
+D1
+~
+~
+0 -1 13026
+D2
+~
+~
+0 -1 13030
+D3
+~
+~
+0 -1 13028
+S
+#13028
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13018
+D1
+~
+~
+0 -1 13027
+D2
+~
+~
+0 -1 13029
+S
+#13029
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13028
+D1
+~
+~
+0 -1 13030
+S
+#13030
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13027
+D1
+~
+~
+0 -1 13031
+D3
+~
+~
+0 -1 13029
+S
+#13031
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13026
+D1
+~
+~
+0 -1 13032
+D3
+~
+~
+0 -1 13030
+S
+#13032
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13025
+D1
+~
+~
+0 -1 13033
+D3
+~
+~
+0 -1 13031
+S
+#13033
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13024
+D1
+~
+~
+0 -1 13034
+D3
+~
+~
+0 -1 13032
+S
+#13034
+An Old Graveyard~
+Tombstones and empty graves can be seen littered about this graveyard. This place seems haunted, though, because many undead creatures groan loudly as they walk slowly toward everything that moves...
+~
+0 0 2
+D0
+~
+~
+0 -1 13023
+D3
+~
+~
+0 -1 13033
+S
+#13035
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 1 2
+D0
+~
+~
+0 -1 13036
+D1
+~
+~
+0 -1 13046
+D2
+~
+~
+0 -1 13078
+D3
+~
+~
+0 -1 13062
+D4
+~
+~
+0 -1 13022
+D5
+~
+~
+0 -1 13088
+S
+#13036
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13037
+D2
+~
+~
+0 -1 13035
+S
+#13037
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13038
+D2
+~
+~
+0 -1 13036
+S
+#13038
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13039
+D2
+~
+~
+0 -1 13037
+S
+#13039
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13040
+D2
+~
+~
+0 -1 13038
+S
+#13040
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13041
+D2
+~
+~
+0 -1 13039
+S
+#13041
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13042
+D2
+~
+~
+0 -1 13040
+S
+#13042
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13043
+D2
+~
+~
+0 -1 13041
+S
+#13043
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13044
+D2
+~
+~
+0 -1 13042
+S
+#13044
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13045
+D2
+~
+~
+0 -1 13043
+S
+#13045
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13044
+S
+#13046
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13047
+D3
+~
+~
+0 -1 13035
+S
+#13047
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13048
+D3
+~
+~
+0 -1 13046
+S
+#13048
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13049
+D3
+~
+~
+0 -1 13047
+S
+#13049
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13050
+D3
+~
+~
+0 -1 13048
+S
+#13050
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13051
+D3
+~
+~
+0 -1 13049
+S
+#13051
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13052
+D3
+~
+~
+0 -1 13050
+S
+#13052
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13053
+D3
+~
+~
+0 -1 13051
+S
+#13053
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13054
+D3
+~
+~
+0 -1 13052
+S
+#13054
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13055
+D3
+~
+~
+0 -1 13053
+S
+#13055
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13056
+D2
+~
+~
+0 -1 13059
+D3
+~
+~
+0 -1 13054
+S
+#13056
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13057
+D2
+~
+~
+0 -1 13055
+S
+#13057
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13058
+D2
+~
+~
+0 -1 13056
+S
+#13058
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13057
+S
+#13059
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13055
+D2
+~
+~
+0 -1 13060
+S
+#13060
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13059
+D2
+~
+~
+0 -1 13061
+S
+#13061
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13060
+S
+#13062
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13035
+D3
+~
+~
+0 -1 13063
+S
+#13063
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13062
+D3
+~
+~
+0 -1 13064
+S
+#13064
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13063
+D3
+~
+~
+0 -1 13065
+S
+#13065
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13064
+D3
+~
+~
+0 -1 13066
+S
+#13066
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13065
+D3
+~
+~
+0 -1 13067
+S
+#13067
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13066
+D3
+~
+~
+0 -1 13068
+S
+#13068
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13067
+D3
+~
+~
+0 -1 13069
+S
+#13069
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13068
+D3
+~
+~
+0 -1 13070
+S
+#13070
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13069
+D3
+~
+~
+0 -1 13071
+S
+#13071
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13072
+D1
+~
+~
+0 -1 13070
+D2
+~
+~
+0 -1 13075
+S
+#13072
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13073
+D2
+~
+~
+0 -1 13071
+S
+#13073
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13074
+D2
+~
+~
+0 -1 13072
+S
+#13074
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13073
+S
+#13075
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13071
+D2
+~
+~
+0 -1 13076
+S
+#13076
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13075
+D2
+~
+~
+0 -1 13077
+S
+#13077
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13076
+S
+#13078
+Inside An Old Crypt~
+YThis dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13035
+D2
+~
+~
+0 -1 13079
+S
+#13079
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13078
+D2
+~
+~
+0 -1 13080
+S
+#13080
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13079
+D2
+~
+~
+0 -1 13081
+S
+#13081
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13080
+D2
+~
+~
+0 -1 13082
+S
+#13082
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13081
+D2
+~
+~
+0 -1 13083
+S
+#13083
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13082
+D2
+~
+~
+0 -1 13084
+S
+#13084
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13083
+D2
+~
+~
+0 -1 13085
+S
+#13085
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13084
+D2
+~
+~
+0 -1 13086
+S
+#13086
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13085
+D2
+~
+~
+0 -1 13087
+S
+#13087
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13086
+S
+#13088
+Further Down Into The Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13089
+D1
+~
+~
+0 -1 13109
+D2
+~
+~
+0 -1 13099
+D3
+~
+~
+0 -1 13120
+D4
+~
+~
+0 -1 13035
+S
+#13089
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13090
+D2
+~
+~
+0 -1 13088
+S
+#13090
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13091
+D2
+~
+~
+0 -1 13089
+S
+#13091
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13092
+D2
+~
+~
+0 -1 13090
+S
+#13092
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13093
+D2
+~
+~
+0 -1 13091
+S
+#13093
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13094
+D2
+~
+~
+0 -1 13092
+S
+#13094
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13095
+D2
+~
+~
+0 -1 13093
+S
+#13095
+Inside An Old Crypt~
+YThis dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13096
+D2
+~
+~
+0 -1 13094
+S
+#13096
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13097
+D2
+~
+~
+0 -1 13095
+S
+#13097
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13098
+D2
+~
+~
+0 -1 13096
+S
+#13098
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13097
+S
+#13099
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13088
+D2
+~
+~
+0 -1 13100
+S
+#13100
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13099
+D2
+~
+~
+0 -1 13101
+S
+#13101
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13100
+D2
+~
+~
+0 -1 13102
+S
+#13102
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13101
+D2
+~
+~
+0 -1 13103
+S
+#13103
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13102
+D2
+~
+~
+0 -1 13104
+S
+#13104
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13103
+D2
+~
+~
+0 -1 13105
+S
+#13105
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13104
+D2
+~
+~
+0 -1 13106
+S
+#13106
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13105
+D2
+~
+~
+0 -1 13107
+S
+#13107
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13106
+D2
+~
+~
+0 -1 13108
+S
+#13108
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13107
+S
+#13109
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13110
+D3
+~
+~
+0 -1 13088
+S
+#13110
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13111
+D3
+~
+~
+0 -1 13109
+S
+#13111
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13112
+D3
+~
+~
+0 -1 13110
+S
+#13112
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13113
+D3
+~
+~
+0 -1 13111
+S
+#13113
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13114
+D2
+~
+~
+0 -1 13117
+D3
+~
+~
+0 -1 13112
+S
+#13114
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13115
+D2
+~
+~
+0 -1 13113
+S
+#13115
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13116
+D2
+~
+~
+0 -1 13114
+S
+#13116
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13115
+S
+#13117
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13113
+D2
+~
+~
+0 -1 13118
+S
+#13118
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13117
+D2
+~
+~
+0 -1 13119
+S
+#13119
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13118
+S
+#13120
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13088
+D3
+~
+~
+0 -1 13121
+S
+#13121
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13120
+D3
+~
+~
+0 -1 13122
+S
+#13122
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13121
+D3
+~
+~
+0 -1 13123
+S
+#13123
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D1
+~
+~
+0 -1 13122
+D3
+~
+~
+0 -1 13124
+S
+#13124
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13125
+D1
+~
+~
+0 -1 13123
+D2
+~
+~
+0 -1 13128
+S
+#13125
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13126
+D2
+~
+~
+0 -1 13124
+S
+#13126
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13127
+D2
+~
+~
+0 -1 13125
+S
+#13127
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D2
+~
+~
+0 -1 13126
+S
+#13128
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13124
+D2
+~
+~
+0 -1 13129
+S
+#13129
+Inside An Old Crypt~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13128
+D2
+~
+~
+0 -1 13130
+S
+#13130
+A Room Full of Tombs~
+This dark crypt has remenance of old torches that still hang on the interior walls. Various tombs can be seen, and old skeletal heaps lay on the ground in certain places. The sounds of each step make bats fly away in fright. The sounds of bones grinding and hitting each other can be heard down the halls of this old crypt.
+~
+0 0 2
+D0
+~
+~
+0 -1 13129
+S
+#0
+
+
+#RESETS
+*
+M 1 13000 130 13001			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13001			a skeleton warrior to An Old Graveyard
+*
+*
+M 1 13001 130 13001			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13001			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13001			a large bat to An Old Graveyard
+*
+M 1 13002 130 13001			a large bat to An Old Graveyard
+*
+M 1 13003 130 13001			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13001			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13001			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13001			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13001			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13001			a ferocious hound to An Old Graveyard
+*
+M 1 13000 130 13002			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13002			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13002			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13002			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13002			a large bat to An Old Graveyard
+*
+M 1 13002 130 13002			a large bat to An Old Graveyard
+*
+M 1 13003 130 13002			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13002			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13002			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13002			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13002			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13002			a ferocious hound to An Old Graveyard
+*
+M 1 13000 130 13003			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13003			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13003			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13003			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13003			a large bat to An Old Graveyard
+*
+M 1 13002 130 13003			a large bat to An Old Graveyard
+*
+M 1 13003 130 13003			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13003			a cloaked vampire to An Old Graveyard
+*
+M 1 13003 130 13003			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13003			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13003			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13003			a ferocious hound to An Old Graveyard
+*
+M 1 13000 130 13004			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13004			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13004			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13004			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13004			a large bat to An Old Graveyard
+*
+M 1 13002 130 13004			a large bat to An Old Graveyard
+*
+M 1 13003 130 13004			a tomb raider to An Old Graveyard
+*
+*
+*
+M 1 13003 130 13004			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13004			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13004			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13004			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13004			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13004			a ghost to An Old Graveyard
+*
+M 1 13006 130 13004			a ghost to An Old Graveyard
+*
+M 1 13006 130 13003			a ghost to An Old Graveyard
+*
+M 1 13006 130 13003			a ghost to An Old Graveyard
+*
+M 1 13006 130 13002			a ghost to An Old Graveyard
+*
+M 1 13006 130 13002			a ghost to An Old Graveyard
+*
+M 1 13006 130 13001			a ghost to An Old Graveyard
+*
+M 1 13006 130 13001			a ghost to An Old Graveyard
+*
+M 1 13000 130 13005			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13005			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13005			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13005			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13005			a large bat to An Old Graveyard
+*
+M 1 13002 130 13005			a large bat to An Old Graveyard
+*
+M 1 13003 130 13005			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13005			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13005			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13005			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13005			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13005			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13005			a ghost to An Old Graveyard
+*
+M 1 13006 130 13005			a ghost to An Old Graveyard
+*
+M 1 13000 130 13006			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13006			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13006			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13006			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13006			a large bat to An Old Graveyard
+*
+M 1 13002 130 13006			a large bat to An Old Graveyard
+*
+M 1 13003 130 13006			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13006			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13006			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13006			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13006			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13006			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13006			a ghost to An Old Graveyard
+*
+M 1 13006 130 13006			a ghost to An Old Graveyard
+*
+M 1 13000 130 13007			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13007			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13007			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13007			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13007			a large bat to An Old Graveyard
+*
+M 1 13002 130 13007			a large bat to An Old Graveyard
+*
+M 1 13003 130 13007			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13007			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13007			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13007			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13007			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13007			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13007			a ghost to An Old Graveyard
+*
+M 1 13006 130 13007			a ghost to An Old Graveyard
+*
+M 1 13000 130 13008			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13008			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13008			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13008			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13008			a large bat to An Old Graveyard
+*
+M 1 13002 130 13008			a large bat to An Old Graveyard
+*
+M 1 13003 130 13008			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13008			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13008			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13008			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13008			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13008			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13008			a ghost to An Old Graveyard
+*
+M 1 13006 130 13008			a ghost to An Old Graveyard
+*
+M 1 13000 130 13009			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13009			a graveyard zombie to An Old Graveyard
+*
+M 1 13000 130 13009			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13009			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13009			a large bat to An Old Graveyard
+*
+M 1 13002 130 13009			a large bat to An Old Graveyard
+*
+M 1 13003 130 13009			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13009			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13009			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13009			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13009			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13009			a ghost to An Old Graveyard
+*
+M 1 13006 130 13009			a ghost to An Old Graveyard
+*
+M 1 13000 130 13010			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13010			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13010			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13010			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13010			a large bat to An Old Graveyard
+*
+M 1 13002 130 13010			a large bat to An Old Graveyard
+*
+M 1 13003 130 13010			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13010			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13010			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13010			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13010			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13010			a ghost to An Old Graveyard
+*
+M 1 13006 130 13010			a ghost to An Old Graveyard
+*
+M 1 13000 130 13011			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13011			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13011			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13011			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13011			a large bat to An Old Graveyard
+*
+M 1 13002 130 13011			a large bat to An Old Graveyard
+*
+M 1 13003 130 13011			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13011			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13011			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13011			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13011			a ferocious hound to An Old Graveyard
+*
+M 1 13004 130 13011			a cloaked vampire to An Old Graveyard
+*
+M 1 13006 130 13011			a ghost to An Old Graveyard
+*
+M 1 13006 130 13011			a ghost to An Old Graveyard
+*
+M 1 13000 130 13022			a skeleton warrior to At The Entrance To The Crypt
+*
+M 1 13001 130 13022			a graveyard zombie to At The Entrance To The Crypt
+*
+M 1 13000 130 13022			a skeleton warrior to At The Entrance To The Crypt
+*
+M 1 13001 130 13022			a graveyard zombie to At The Entrance To The Crypt
+*
+M 1 13002 130 13022			a large bat to At The Entrance To The Crypt
+*
+M 1 13002 130 13022			a large bat to At The Entrance To The Crypt
+*
+M 1 13003 130 13022			a tomb raider to At The Entrance To The Crypt
+*
+M 1 13003 130 13022			a tomb raider to At The Entrance To The Crypt
+*
+M 1 13004 130 13022			a cloaked vampire to At The Entrance To The Crypt
+*
+M 1 13004 130 13022			a cloaked vampire to At The Entrance To The Crypt
+*
+M 1 13005 130 13022			a ferocious hound to At The Entrance To The Crypt
+*
+M 1 13005 130 13022			a ferocious hound to At The Entrance To The Crypt
+*
+M 1 13006 130 13022			a ghost to At The Entrance To The Crypt
+*
+M 1 13006 130 13022			a ghost to At The Entrance To The Crypt
+*
+M 1 13000 130 13023			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13023			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13023			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13023			a large bat to An Old Graveyard
+*
+M 1 13001 130 13023			a graveyard zombie to An Old Graveyard
+*
+M 1 13003 130 13023			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13023			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13023			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13023			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13023			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13023			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13023			a ghost to An Old Graveyard
+*
+M 1 13006 130 13023			a ghost to An Old Graveyard
+*
+M 1 13000 130 13034			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13034			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13034			a large bat to An Old Graveyard
+*
+M 1 13003 130 13034			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13034			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13034			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13034			a ghost to An Old Graveyard
+*
+M 1 13000 130 13034			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13034			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 2 13034			a large bat to An Old Graveyard
+*
+M 1 13000 130 13033			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13033			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13033			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13033			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13033			a large bat to An Old Graveyard
+*
+M 1 13002 130 13033			a large bat to An Old Graveyard
+*
+M 1 13003 130 13033			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13033			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13033			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13033			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13033			a ferocious hound to An Old Graveyard
+*
+*
+M 1 13005 130 13033			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13033			a ghost to An Old Graveyard
+*
+M 1 13006 130 13033			a ghost to An Old Graveyard
+*
+M 1 13000 130 13032			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13032			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13032			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13032			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13032			a large bat to An Old Graveyard
+*
+M 1 13002 130 13032			a large bat to An Old Graveyard
+*
+M 1 13003 130 13032			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13032			a cloaked vampire to An Old Graveyard
+*
+M 1 13003 130 13032			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13032			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13032			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13032			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13032			a ghost to An Old Graveyard
+*
+M 1 13006 130 13032			a ghost to An Old Graveyard
+*
+M 1 13000 130 13031			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13031			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13031			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13031			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13031			a large bat to An Old Graveyard
+*
+M 1 13002 130 13031			a large bat to An Old Graveyard
+*
+M 1 13003 130 13031			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13031			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13031			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13031			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13031			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13031			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13031			a ghost to An Old Graveyard
+*
+M 1 13006 130 13031			a ghost to An Old Graveyard
+*
+M 1 13000 130 13030			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13030			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13030			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13030			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13030			a large bat to An Old Graveyard
+*
+M 1 13002 130 13030			a large bat to An Old Graveyard
+*
+M 1 13003 130 13030			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13030			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13030			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13030			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13030			a ferocious hound to An Old Graveyard
+*
+*
+M 1 13005 130 13030			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13030			a ghost to An Old Graveyard
+*
+M 1 13006 130 13030			a ghost to An Old Graveyard
+*
+M 1 13000 130 13029			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13029			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13029			a large bat to An Old Graveyard
+*
+M 1 13000 130 13029			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13029			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13029			a large bat to An Old Graveyard
+*
+M 1 13004 130 13029			a cloaked vampire to An Old Graveyard
+*
+M 1 13003 130 13029			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13029			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13029			a cloaked vampire to An Old Graveyard
+*
+M 1 13006 130 13029			a ghost to An Old Graveyard
+*
+M 1 13006 130 13029			a ghost to An Old Graveyard
+*
+M 1 13000 130 13028			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13028			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13028			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13028			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13028			a large bat to An Old Graveyard
+*
+M 1 13002 130 13028			a large bat to An Old Graveyard
+*
+M 1 13003 130 13028			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13028			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13028			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13028			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13028			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13028			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13028			a ghost to An Old Graveyard
+*
+*
+M 1 13006 130 13028			a ghost to An Old Graveyard
+*
+M 1 13000 130 13018			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13018			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13018			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13018			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13018			a large bat to An Old Graveyard
+*
+M 1 13002 130 13018			a large bat to An Old Graveyard
+*
+M 1 13003 130 13018			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13018			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13018			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13018			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13018			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13018			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13018			a ghost to An Old Graveyard
+*
+*
+M 1 13006 130 13018			a ghost to An Old Graveyard
+*
+M 1 13000 130 13027			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13027			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13027			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13027			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13027			a large bat to An Old Graveyard
+*
+M 1 13002 130 13027			a large bat to An Old Graveyard
+*
+M 1 13003 130 13027			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13027			a cloaked vampire to An Old Graveyard
+*
+M 1 13003 130 13027			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13027			a cloaked vampire to An Old Graveyard
+*
+M 1 13006 130 13027			a ghost to An Old Graveyard
+*
+M 1 13006 130 13027			a ghost to An Old Graveyard
+*
+M 1 13005 130 13027			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13027			a ferocious hound to An Old Graveyard
+*
+M 1 13000 130 13020			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13020			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13020			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13020			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13020			a large bat to An Old Graveyard
+*
+M 1 13002 130 13020			a large bat to An Old Graveyard
+*
+M 1 13004 130 13020			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13020			a cloaked vampire to An Old Graveyard
+*
+M 1 13003 130 13020			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13020			a tomb raider to An Old Graveyard
+*
+M 1 13000 130 13025			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13025			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13025			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13025			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13025			a graveyard zombie to An Old Graveyard
+*
+M 1 13003 130 13025			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13025			a tomb raider to An Old Graveyard
+*
+M 1 13006 130 13025			a ghost to An Old Graveyard
+*
+M 1 13006 130 13025			a ghost to An Old Graveyard
+*
+M 1 13000 130 13035			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13035			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13035			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13035			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13035			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13035			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13035			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13035			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13035			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13035			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13035			a ferocious hound to Inside An Old Crypt
+*
+*
+M 1 13005 130 13035			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13035			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13035			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13036			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13036			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13036			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13036			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13036			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13036			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13036			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13036			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13036			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13036			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13036			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13036			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13036			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13036			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13037			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13037			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13037			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13037			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13037			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13037			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13037			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13037			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13037			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13037			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13037			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13037			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13037			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13037			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13038			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13038			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13038			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13038			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13038			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13038			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13038			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13038			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13038			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13038			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13038			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13038			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13038			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13038			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13045			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13045			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13045			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13045			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13045			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13045			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13045			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13045			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13045			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13045			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13045			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13045			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13045			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13045			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13044			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13044			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13044			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13044			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13044			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13044			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13044			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13044			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13044			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13044			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13044			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13044			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13044			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13044			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13043			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13043			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13043			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13043			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13043			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13043			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13043			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13043			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13043			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13043			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13043			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13043			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13043			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13043			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13042			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13042			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13042			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13042			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13042			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13042			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13042			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13042			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13042			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13042			a ferocious hound to Inside An Old Crypt
+*
+*
+M 1 13004 130 13042			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13042			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13042			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13042			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13041			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13041			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13041			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13041			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13041			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13041			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13041			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13041			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13041			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13041			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13041			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13041			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13041			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13041			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13040			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13040			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13040			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13040			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13040			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13040			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13040			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13040			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13040			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13040			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13040			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13040			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13040			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13040			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13039			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13039			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13039			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13039			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13039			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13039			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13039			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13039			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13039			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13039			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13039			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13039			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13078			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13078			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13078			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13078			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13078			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13078			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13078			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13078			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13078			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13078			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13078			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13078			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13078			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13078			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13079			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13079			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13079			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13079			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13079			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13079			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13079			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13079			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13079			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13079			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13079			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13079			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13079			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13079			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13087			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13087			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13087			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13087			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13087			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13087			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13087			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13087			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13087			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13087			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13087			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13087			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13087			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13087			a ghost to Inside An Old Crypt
+*
+M 1 13001 130 13086			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13086			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13086			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13086			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13086			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13086			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13086			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13086			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13086			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13086			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13086			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13086			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13086			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13086			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13085			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13085			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13085			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13085			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13085			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13085			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13085			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13085			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13085			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13085			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13085			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13085			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13085			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13085			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13019			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13019			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13019			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13019			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13019			a large bat to An Old Graveyard
+*
+M 1 13002 130 13019			a large bat to An Old Graveyard
+*
+M 1 13003 130 13019			a tomb raider to An Old Graveyard
+*
+*
+M 1 13003 130 13019			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13019			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13019			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13019			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13019			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13019			a ghost to An Old Graveyard
+*
+M 1 13006 130 13019			a ghost to An Old Graveyard
+*
+M 1 13000 130 13012			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13012			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13012			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13012			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13012			a large bat to An Old Graveyard
+*
+M 1 13002 130 13012			a large bat to An Old Graveyard
+*
+M 1 13003 130 13012			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13012			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13012			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13012			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13012			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13012			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13012			a ghost to An Old Graveyard
+*
+M 1 13006 130 13012			a ghost to An Old Graveyard
+*
+M 1 13000 130 13013			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13013			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13013			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13013			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13013			a large bat to An Old Graveyard
+*
+M 1 13002 130 13013			a large bat to An Old Graveyard
+*
+M 1 13003 130 13013			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13013			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13013			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13013			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13013			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13013			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13013			a ghost to An Old Graveyard
+*
+M 1 13006 130 13013			a ghost to An Old Graveyard
+*
+M 1 13000 130 13016			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13016			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13016			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13016			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13016			a large bat to An Old Graveyard
+*
+M 1 13002 130 13016			a large bat to An Old Graveyard
+*
+M 1 13003 130 13016			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13016			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13016			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13016			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13016			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13016			a ghost to An Old Graveyard
+*
+M 1 13005 130 13016			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13016			a ghost to An Old Graveyard
+*
+M 1 13000 130 13015			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13015			a graveyard zombie to An Old Graveyard
+*
+M 1 13000 130 13015			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13015			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13015			a large bat to An Old Graveyard
+*
+M 1 13002 130 13015			a large bat to An Old Graveyard
+*
+M 1 13003 130 13015			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13015			a tomb raider to An Old Graveyard
+*
+M 1 13004 130 13015			a cloaked vampire to An Old Graveyard
+*
+M 1 13004 130 13015			a cloaked vampire to An Old Graveyard
+*
+M 1 13005 130 13015			a ferocious hound to An Old Graveyard
+*
+M 1 13005 130 13015			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13015			a ghost to An Old Graveyard
+*
+M 1 13006 130 13015			a ghost to An Old Graveyard
+*
+M 1 13000 130 13014			a skeleton warrior to An Old Graveyard
+*
+M 1 13000 130 13014			a skeleton warrior to An Old Graveyard
+*
+M 1 13001 130 13014			a graveyard zombie to An Old Graveyard
+*
+M 1 13001 130 13014			a graveyard zombie to An Old Graveyard
+*
+M 1 13002 130 13014			a large bat to An Old Graveyard
+*
+M 1 13002 130 13014			a large bat to An Old Graveyard
+*
+M 1 13003 130 13014			a tomb raider to An Old Graveyard
+*
+M 1 13003 130 13014			a tomb raider to An Old Graveyard
+*
+M 1 13005 130 13014			a ferocious hound to An Old Graveyard
+*
+*
+M 1 13005 130 13014			a ferocious hound to An Old Graveyard
+*
+M 1 13006 130 13014			a ghost to An Old Graveyard
+*
+M 1 13006 130 13014			a ghost to An Old Graveyard
+*
+M 1 13000 130 13079			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13079			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13080			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13080			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13080			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13080			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13080			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13080			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13080			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13080			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13080			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13080			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13080			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13080			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13080			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13080			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13081			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13081			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13081			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13081			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13081			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13081			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13081			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13081			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13081			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13081			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13081			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13081			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13081			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13081			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13084			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13084			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13084			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13084			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13084			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13084			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13084			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13084			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13084			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13084			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13084			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13084			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13084			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13084			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13083			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13083			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13083			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13083			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13083			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13083			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13083			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13083			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13083			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13083			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13083			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13083			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13083			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13083			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13082			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13082			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13082			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13082			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13082			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13082			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13082			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13082			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13082			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13082			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13082			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13082			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13082			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13082			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13074			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13074			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13074			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13074			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13074			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13074			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13074			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13074			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13074			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13074			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13074			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13074			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13074			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13074			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13073			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13073			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13073			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13073			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13073			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13073			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13073			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13073			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13073			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13073			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13073			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13073			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13073			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13073			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13072			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13072			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13072			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13072			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13072			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13072			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13072			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13072			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13072			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13072			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13072			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13072			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13072			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13072			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13071			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13071			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13071			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13071			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13071			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13071			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13071			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13071			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13071			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13071			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13071			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13071			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13071			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13075			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13075			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13075			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13075			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13075			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13075			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13075			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13075			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13075			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13075			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13075			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13075			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13075			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13075			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13076			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13076			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13076			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13076			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13076			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13076			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13076			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13076			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13076			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13076			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13076			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13076			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13076			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13076			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13077			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13077			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13000 130 13077			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13077			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13003 130 13077			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13077			a tomb raider to A Room Full of Tombs
+*
+M 1 13002 130 13077			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13077			a large bat to A Room Full of Tombs
+*
+M 1 13004 130 13077			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13077			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13077			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13077			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13077			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13077			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13070			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13070			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13070			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13070			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13070			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13070			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13070			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13070			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13070			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13070			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13070			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13070			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13070			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13070			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13069			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13069			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13069			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13069			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13069			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13069			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13069			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13069			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13069			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13069			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13069			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13069			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13069			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13069			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13068			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13068			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13068			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13068			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13068			a graveyard zombie to Inside An Old Crypt
+*
+*
+M 1 13002 130 13068			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13068			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13068			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13068			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13068			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13068			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13068			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13068			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13068			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13067			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13067			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13067			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13067			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13067			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13067			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13067			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13067			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13067			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13067			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13067			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13067			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13067			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13067			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13066			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13066			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13066			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13066			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13066			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13066			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13066			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13066			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13066			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13066			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13066			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13066			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13066			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13066			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13065			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13065			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13065			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13065			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13065			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13065			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13065			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13065			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13065			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13065			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13065			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13065			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13065			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13065			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13064			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13064			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13064			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13064			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13064			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13064			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13064			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13064			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13064			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13064			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13064			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13064			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13064			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13064			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13063			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13063			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13063			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13063			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13063			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13063			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13063			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13063			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13063			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13063			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13063			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13063			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13063			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13063			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13062			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13062			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13062			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13062			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13062			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13062			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13062			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13062			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13062			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13062			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13062			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13062			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13062			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13062			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13062			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13046			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13046			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13046			a graveyard zombie to Inside An Old Crypt
+*
+*
+M 1 13001 130 13046			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13046			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13046			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13046			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13046			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13046			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13046			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13046			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13046			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13046			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13046			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13047			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13047			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13047			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13047			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13047			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13047			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13047			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13047			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13047			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13047			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13047			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13047			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13047			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13047			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13048			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13048			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13048			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13048			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13048			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13048			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13048			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13048			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13048			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13048			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13048			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13048			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13048			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13048			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13049			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13049			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13049			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13049			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13049			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13049			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13049			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13049			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13049			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13049			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13049			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13049			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13049			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13049			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13050			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13050			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13050			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13050			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13050			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13050			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13050			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13050			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13050			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13050			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13050			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13050			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13050			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13051			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13051			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13051			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13051			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13051			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13051			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13051			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13051			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13051			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13051			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13051			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13051			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13052			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13052			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13052			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13052			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13052			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13052			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13052			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13052			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13052			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13052			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13052			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13052			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13052			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13053			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13053			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13053			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13053			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13053			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13053			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13053			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13053			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13053			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13053			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13053			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13053			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13053			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13053			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13054			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13054			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13054			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13054			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13054			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13054			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13054			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13054			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13054			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13054			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13054			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13054			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13054			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13054			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13054			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13054			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13055			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13055			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13055			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13055			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13055			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13055			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13055			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13055			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13055			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13055			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13055			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13055			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13056			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13056			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13056			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13056			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13056			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13056			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13056			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13056			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13056			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13056			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13056			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13056			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13056			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13056			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13056			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13057			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13057			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13057			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13005 130 13057			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13057			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13057			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13057			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13057			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13057			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13057			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13057			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13057			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13057			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13057			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13058			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13058			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13058			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13058			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13058			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13058			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13058			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13058			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13058			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13058			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13058			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13058			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13058			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13058			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13059			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13059			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13059			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13059			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13059			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13059			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13059			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13059			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13059			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13059			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13059			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13059			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13059			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13059			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13060			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13060			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13060			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13060			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13060			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13060			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13060			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13060			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13060			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13060			a cloaked vampire to Inside An Old Crypt
+*
+*
+M 1 13005 130 13060			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13060			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13060			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13060			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13061			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13061			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13061			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13061			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13061			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13061			a tomb raider to A Room Full of Tombs
+*
+M 1 13002 130 13061			a large bat to A Room Full of Tombs
+*
+M 1 13004 130 13061			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13061			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13061			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13061			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13061			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13061			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13088			a skeleton warrior to Further Down Into The Crypt
+*
+M 1 13000 130 13088			a skeleton warrior to Further Down Into The Crypt
+*
+M 1 13001 130 13088			a graveyard zombie to Further Down Into The Crypt
+*
+M 1 13001 130 13088			a graveyard zombie to Further Down Into The Crypt
+*
+M 1 13002 130 13088			a large bat to Further Down Into The Crypt
+*
+M 1 13002 130 13088			a large bat to Further Down Into The Crypt
+*
+M 1 13003 130 13088			a tomb raider to Further Down Into The Crypt
+*
+M 1 13003 130 13088			a tomb raider to Further Down Into The Crypt
+*
+M 1 13004 130 13088			a cloaked vampire to Further Down Into The Crypt
+*
+M 1 13004 130 13088			a cloaked vampire to Further Down Into The Crypt
+*
+M 1 13005 130 13088			a ferocious hound to Further Down Into The Crypt
+*
+M 1 13005 130 13088			a ferocious hound to Further Down Into The Crypt
+*
+M 1 13006 130 13088			a ghost to Further Down Into The Crypt
+*
+M 1 13006 130 13088			a ghost to Further Down Into The Crypt
+*
+M 1 13000 130 13109			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13109			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13109			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13109			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13109			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13109			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13109			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13109			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13109			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13109			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13109			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13109			a ferocious hound to Inside An Old Crypt
+*
+*
+M 1 13006 130 13109			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13109			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13110			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13110			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13110			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13110			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13110			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13110			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13110			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13110			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13110			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13110			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13110			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13110			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13110			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13110			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13111			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13111			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13111			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13111			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13111			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13111			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13111			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13111			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13111			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13111			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13111			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13111			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13111			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13111			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13112			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13112			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13112			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13112			a graveyard zombie to Inside An Old Crypt
+*
+*
+M 1 13002 130 13112			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13112			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13112			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13112			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13112			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13112			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13112			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13112			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13112			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13112			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13113			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13113			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13113			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13113			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13113			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13113			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13113			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13113			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13113			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13113			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13113			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13113			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13113			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13113			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13114			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13114			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13114			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13114			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13114			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13114			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13114			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13114			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13114			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13114			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13114			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13114			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13114			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13115			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13115			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13115			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13115			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13115			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13115			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13115			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13115			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13115			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13115			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13115			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13115			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13115			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13116			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13116			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13116			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13116			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13116			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13116			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13116			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13116			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13116			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13116			a ferocious hound to A Room Full of Tombs
+*
+M 1 13004 130 13116			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13116			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13116			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13116			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13117			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13117			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13117			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13117			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13117			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13117			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13117			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13117			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13117			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13117			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13117			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13117			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13117			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13117			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13118			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13118			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13118			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13118			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13118			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13118			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13118			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13118			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13118			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13118			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13118			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13118			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13118			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13118			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13119			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13119			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13002 130 13119			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13119			a large bat to A Room Full of Tombs
+*
+M 1 13001 130 13119			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13119			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13003 130 13119			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13119			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13003 130 13119			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13119			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13119			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13119			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13119			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13119			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13120			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13120			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13120			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13120			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13120			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13120			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13120			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13120			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13120			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13120			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13120			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13120			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13120			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13120			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13121			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13121			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13121			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13121			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13121			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13121			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13121			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13121			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13121			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13121			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13121			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13121			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13122			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13122			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13122			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13122			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13122			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13122			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13122			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13122			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13122			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13122			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13122			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13122			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13122			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13122			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13123			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13123			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13123			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13123			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13123			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13123			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13123			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13123			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13123			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13123			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13123			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13123			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13123			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13124			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13124			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13124			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13124			a graveyard zombie to Inside An Old Crypt
+*
+*
+M 1 13002 130 13124			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13124			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13124			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13124			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13124			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13124			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13124			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13124			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13124			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13124			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13125			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13125			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13125			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13125			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13125			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13125			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13125			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13125			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13125			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13125			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13125			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13125			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13125			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13125			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13126			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13126			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13126			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13126			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13126			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13126			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13126			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13126			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13126			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13126			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13126			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13126			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13127			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13127			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13000 130 13127			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13127			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13127			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13127			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13127			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13127			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13127			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13127			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13127			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13127			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13127			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13127			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13130			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13000 130 13130			a skeleton warrior to A Room Full of Tombs
+*
+M 1 13001 130 13130			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13001 130 13130			a graveyard zombie to A Room Full of Tombs
+*
+M 1 13002 130 13130			a large bat to A Room Full of Tombs
+*
+M 1 13002 130 13130			a large bat to A Room Full of Tombs
+*
+M 1 13003 130 13130			a tomb raider to A Room Full of Tombs
+*
+M 1 13003 130 13130			a tomb raider to A Room Full of Tombs
+*
+M 1 13004 130 13130			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13004 130 13130			a cloaked vampire to A Room Full of Tombs
+*
+M 1 13005 130 13130			a ferocious hound to A Room Full of Tombs
+*
+M 1 13005 130 13130			a ferocious hound to A Room Full of Tombs
+*
+M 1 13006 130 13130			a ghost to A Room Full of Tombs
+*
+M 1 13006 130 13130			a ghost to A Room Full of Tombs
+*
+M 1 13000 130 13129			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13129			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13129			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13129			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13129			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13129			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13129			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13129			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13129			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13129			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13129			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13129			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13129			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13129			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13128			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13128			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13128			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13128			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13128			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13128			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13128			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13128			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13128			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13128			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13128			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13128			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13128			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13128			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13099			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13099			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13099			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13099			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13099			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13099			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13099			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13099			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13099			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13099			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13099			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13099			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13099			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13099			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13100			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13100			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13100			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13100			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13100			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13100			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13100			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13100			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13100			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13100			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13100			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13100			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13100			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13100			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13101			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13101			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13101			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13101			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13101			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13101			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13101			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13101			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13101			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13101			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13006 130 13101			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13101			a ghost to Inside An Old Crypt
+*
+M 1 13005 130 13101			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13101			a ferocious hound to Inside An Old Crypt
+*
+M 1 13000 130 13102			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13102			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13102			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13102			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13102			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13102			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13102			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13102			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13102			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13102			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13102			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13102			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13102			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13102			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13103			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13103			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13103			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13103			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13103			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13103			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13103			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13103			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13103			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13103			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13103			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13103			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13103			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13103			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13104			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13104			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13104			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13104			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13104			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13104			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13104			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13104			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13104			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13104			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13104			a ferocious hound to Inside An Old Crypt
+*
+*
+M 1 13005 130 13104			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13104			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13104			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13105			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13105			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13105			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13105			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13105			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13105			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13105			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13105			a tomb raider to Inside An Old Crypt
+*
+M 1 13005 130 13105			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13105			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13105			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13105			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13105			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13105			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13108			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13108			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13108			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13108			a graveyard zombie to Inside An Old Crypt
+*
+*
+M 1 13003 130 13108			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13108			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13108			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13108			a ferocious hound to Inside An Old Crypt
+*
+M 1 13004 130 13108			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13108			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13108			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13108			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13107			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13107			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13107			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13107			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13107			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13107			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13107			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13107			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13107			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13107			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13107			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13107			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13107			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13107			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13106			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13106			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13106			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13106			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13106			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13106			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13106			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13106			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13106			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13106			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13106			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13106			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13106			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13106			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13089			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13089			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13089			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13089			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13089			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13089			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13089			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13089			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13089			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13089			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13089			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13089			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13089			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13089			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13090			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13090			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13090			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13090			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13090			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13090			a large bat to Inside An Old Crypt
+*
+*
+M 1 13003 130 13090			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13090			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13090			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13090			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13090			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13090			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13090			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13090			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13091			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13091			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13091			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13091			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13091			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13091			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13091			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13091			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13091			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13091			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13091			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13091			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13091			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13091			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13092			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13092			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13000 130 13092			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13092			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13092			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13092			a tomb raider to Inside An Old Crypt
+*
+M 1 13002 130 13092			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13092			a large bat to Inside An Old Crypt
+*
+M 1 13004 130 13092			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13092			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13092			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13092			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13092			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13092			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13093			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13093			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13093			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13093			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13093			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13093			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13093			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13093			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13093			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13093			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13093			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13093			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13093			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13093			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13094			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13094			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13002 130 13094			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13094			a large bat to Inside An Old Crypt
+*
+M 1 13001 130 13094			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13094			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13003 130 13094			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13094			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13094			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13094			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13094			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13094			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13094			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13094			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13098			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13098			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13098			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13098			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13098			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13098			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13098			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13098			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13003 130 13098			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13098			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13098			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13098			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13098			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13098			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13097			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13097			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13097			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13097			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13097			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13097			a large bat to Inside An Old Crypt
+*
+*
+M 1 13003 130 13097			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13097			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13097			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13097			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13097			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13097			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13097			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13097			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13096			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13096			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13096			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13096			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13096			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13096			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13096			a tomb raider to Inside An Old Crypt
+*
+M 1 13003 130 13096			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13096			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13004 130 13096			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13096			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13096			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13096			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13096			a ghost to Inside An Old Crypt
+*
+M 1 13000 130 13095			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13000 130 13095			a skeleton warrior to Inside An Old Crypt
+*
+M 1 13001 130 13095			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13001 130 13095			a graveyard zombie to Inside An Old Crypt
+*
+M 1 13002 130 13095			a large bat to Inside An Old Crypt
+*
+M 1 13002 130 13095			a large bat to Inside An Old Crypt
+*
+M 1 13003 130 13095			a tomb raider to Inside An Old Crypt
+*
+M 1 13004 130 13095			a cloaked vampire to Inside An Old Crypt
+*
+M 1 13005 130 13095			a ferocious hound to Inside An Old Crypt
+*
+M 1 13005 130 13095			a ferocious hound to Inside An Old Crypt
+*
+M 1 13006 130 13095			a ghost to Inside An Old Crypt
+*
+M 1 13006 130 13095			a ghost to Inside An Old Crypt
+S
+
+
+#SPECIALS
+M  13004 spec_poison			a cloaked vampire
+S
+
+
+#$

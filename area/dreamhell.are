@@ -1,0 +1,87 @@
+#AREA	Loimos    Dream Hell~
+26300
+26300
+#MOBILES
+#26300
+Garet Jax~
+The Weapons Master~
+Garet Jax grins evilly at you.
+~
+Garet Jax  looks like he is a very dangerous
+man. Fortunately for you, he's forged the proper
+equipment to keep him from hurting you
+while he 
+trains you.
+~
+2|64 128 0 S
+1100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#26300
+Dragon Scale Hindering~
+a Dragon Scale of Hindering~
+The Dragon Scale's hum draws you to it.~
+~
+9 64|128|4096 8
+0 1 6 11 
+5 0 0
+A
+17 -100000000
+A
+18 -4000
+A
+19 -4000
+E
+dragon scale hindering~
+There is an inscription that reads "DO NOT WEAR!"~
+#0
+
+
+#ROOMS
+#26300
+Hell~
+You are standing in hell. Only this doesn't look like the hell you know... you
+must be dreaming! If you wish to leave, speak the word awaken, or to enter
+deeper into the dream and find the dream master, say enter dream. 
+If I am too powerful for you still, say enough and I will cease my attacks.
+
+~
+0 1|4|8|1024|8192 0
+T
+&enter*dream*~
+$n fades into nothingness before your eyes!~
+Your surroundings blur as you fall into a deeper sleep
+
+~
+all~
+16384 26000 0
+T
+|awaken*~
+$n fades into nothingness before your eyes!~
+Your surroundings blur as the deep sleep begins to lift,
+and you find yourself back in the Hall of Worship.
+
+~
+all~
+16384 3054 0
+T|enough*~
+Garet Jax ceases his attack and laughs at $n's lack of skill.~
+Garet Jax ceases his attack and laughs at your lack of skill.~
+all~
+16384 3054 0
+S
+#0
+
+
+#RESETS
+*
+M 1 26300 1 26300			The Weapons Master to Hell
+E 1 26300 100 5
+S
+
+
+#$

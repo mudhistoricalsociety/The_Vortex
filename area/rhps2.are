@@ -1,0 +1,2113 @@
+#AREA	 Rainman  Rocky Horror Picture Show~
+25675
+25735
+
+#HELPS
+52 Rocky Horror rhps~
+Welcome to the Rocky Horror Picture Show. 
+
+RHPS should connect easily into any city or town where a movie house would
+or could be appropriate. Only room 25675 should connect to any other area.
+
+Thanks and Enjoy!
+
+Rainman, Mar 95~
+
+-1 rocky horror rhps~
+Based on The Rocky Horror Picture Show, music and lyrics by Richard O'Brien.
+
+Special thanks to Simba, Cuervo, Slash, Lok, and Amadeus for without whom this
+area would not be possible.
+
+RHPS was written by Rainman using Make Zones Fast, an area editor for 
+MS-Windows. The area is intended for levels 30-35. Enjoy!
+
+- Rainman, Mar 95 -~
+
+0 $~
+
+
+#MOBILES
+#25675
+frank-n-furter frank dr. dr scientist transvestite sweet~
+Dr. Frank-N-Furter~
+A sweet transvestite scientist stands here crooning.
+~
+Don't get strung out by the way he looks...Don't judge a book by it's cover...
+He's not much of a man by the light of day, but by night he's one hell of a 
+lover. He's just a sweet transvestite...from Transexual, Transylvania.
+~
+2|64|128 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25676
+majors brad hero~
+Brad Majors~
+A hero stands here adjusting his glasses.
+~
+Brad is the unlikely hero of the story. He is quite nerdy, and seems to have
+lost his pants somewhere.
+~
+2|64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25677
+weiss janet heroine~
+Janet Weiss~
+A heroine stands here begging you to touch-a touch her.
+~
+Janet has been recently engaged to Brad. She even more recently had her first
+sexual experience. Without Brad. At the moment she's feeling a bit insatiable,
+so it might be best to keep some distance.
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#25678
+riff raff handyman faithful~
+Riff Raff~
+A faithful handyman greets you at the door.
+~
+Riff Raff is a little brought down because when you knocked, he thought you 
+were the candyman. His long stringy blond hair is offset by a hug bald patch
+on the top of his head. He is bent over at the waist due to a hunched back.
+His evil grin pierces your very soul.
+~
+2|64 0 -100 S
+39 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25679
+columbia groupie tap dancer~
+Columbia~
+A groupie is here tap-dancing.
+~
+Columbia sings and dances for you, then stumbles and falls. Clutz!
+~
+2|64 0 0 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#25680
+magenta domestic~
+Magenta~
+A domestic is here waiting to serve you.
+~
+Magenta is Riff Raff's sister and lover. Hmmmmm.
+~
+2|64 0 0 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#25681
+horror rocky creation~
+Rocky Horror~
+The creation stands here, completely clueless.
+~
+Rocky has blond hair, a tan, lotsa bulging muscles, and only half of a brain.
+~
+2|64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25682
+scott dr. dr everett v von scientist rival~
+Dr. Everett Von Scott~
+A rival scientist is here in a wheelchair.
+~
+The rival scientist seems to know what evil is taking place here.
+~
+2|64 0 0 S
+36 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25683
+eddie boy ex-delivery~
+Eddie~
+An ex-delivery boy is here on a motorcycle.
+~
+Eddie is the epitome of a 50's biker dude. You can't help but notice the huge 
+gash across his forehead and wonder what tortures he has endured here. Eddie 
+stomps out the chorus of his rock-and-roll song for you. "Hot patootie, bless
+my soul. I really love that rock and roll."
+~
+2|64 0 0 S
+38 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25684
+criminologist~
+The Criminologist~
+The criminologist is here looking for his neck.
+~
+The criminologist brings you up to date with all of the recent events at the 
+Franskenstein castle.
+~
+2|64 0 0 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25685
+transvestite transylvanian~
+a transvestite~
+A Transylvanian is here doing the time-warp.
+~
+The transylvanian is here doing an interesting dance.
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25686
+dancer transvestite transylvanian~
+a transvestite dancer~
+A Transylvanian is here dancing.
+~
+The dancer jumps to the left!
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25687
+mechanic satanic~
+a satanic mechanic~
+A satanic mechanic is here looking for something to fix.
+~
+It is too dark. You can't see anything!
+~
+2|32|64 2|8|32|512|32768|65536 -500 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25688
+transylvanian~
+a transylvanian~
+A transylvanian is here doing the time-warp.
+~
+The transylvanian takes a step to the right. The dance seems pretty easy, why 
+not join in?
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25689
+motorcyclist~
+a motorcyclist~
+A motorcyclist rides by you.
+~
+He's traveling too quick to get a good look.
+~
+4|64 512|32768 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25690
+dancer time-warp~
+a time-warp dancer~
+A time-warp dancer is here doing the time-warp.
+~
+The transylvanian does a pelvic thrust for you. Attractive, isn't it?
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25691
+lips lip HUGE mouth~
+a HUGE disembodied mouth~
+A HUGE disembodied mouth on the screen sings a ballad to you.
+~
+The mouth is HUGE! It floats on the screen, telling you the story of a science fiction picture show. It hypnotizes you! No, actually you're just getting dizzy. You may even be sick! You look for the nearest exit...
+~
+2|64 0 0 S
+54 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25692
+dog~
+a guard dog~
+A guard dog patrols the yard.
+~
+The guard dog looks very fierce and very mean.
+~
+4|64 32768 -100 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#25693
+teenager zitty acne~
+the zitty teenager~
+A teenager with a face full of acne stands here waiting to take your order.
+~
+This kid looks just thrilled to serve you. As you get closer you notice that 
+he hasn't brushed his teeth since puberty, and you're beginning to wonder if 
+he has ever bathed.
+~
+2|64 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25694
+teenager geeky~
+a geeky teenager~
+A geeky teenager is here selling tickets.
+~
+Yep, she's as stupid as she looks.
+~
+2|64 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#25695
+usher annoying~
+the usher~
+The usher asks you to take a seat.
+~
+The usher looks back at you sternly and waves his flashlight in your eyes.
+~
+64 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#25696
+smell odor~
+a foul smell~
+A very foul odor assails your nostrils!!
+~
+You look but see nothing!
+
+You can't do that!
+~
+2|32 2|8|32|128|8192|32768|65536|524288|1048576 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#25675
+bouquet bridal~
+a bridal bouquet~
+A lovely bridal bouquet has been dropped here.~
+~
+8 0 1|16384
+0 0 0 0 
+1 0 0
+A
+23 -1
+#25676
+ring engagement diamond~
+an engagement ring~
+A sparkly diamond solitaire lies here.~
+~
+8 1 1|2
+0 0 0 0 
+2 0 0
+#25677
+coffin~
+a coffin~
+A coffin is here on display.~
+~
+15 0 0
+500 5 -1 0 
+5 0 0
+#25678
+skeleton~
+a skeleton~
+A skeleton lies here.~
+~
+12 128|512|4096 1|16384
+0 0 0 0 
+50 0 0
+A
+14 -200
+#25679
+holder cigarette~
+a cigarette holder~
+A sheik plastic cigarette holder was dropped here.~
+~
+3 0 1|16384
+30 10 10 65 
+1 0 0
+#25680
+newspaper~
+a Plain-Dealer newspaper~
+A wet newspaper lies here.~
+~
+2 0 1|16384
+30 30 6 11 
+1 0 0
+#25681
+car abandoned~
+an abandoned car~
+A automobile with a flat tire is parked on the side of the road.~
+~
+12 0 0
+0 0 0 0 
+5 0 0
+#25682
+glasses black framed~
+a pair of black framed glasses~
+A pair of glasses rests here.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+#25683
+casket~
+a casket~
+A casket is an eerie sight.~
+~
+12 0 0
+0 0 0 0 
+5 0 0
+#25684
+hat party~
+a party hat~
+A glittery party hat is perfect for celebrating in.~
+~
+9 1 1|16
+0 0 0 0 
+3 0 0
+A
+2 2
+#25685
+outfit french maid's black white~
+a French maid's outfit~
+A black and white outfit lies crumpled here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+17 0
+#25686
+hunched-back lump~
+a hunched-back lump~
+A prosthetic hunched-back has been discarded here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+5 -2
+#25687
+tophat sequined~
+a sequined tophat~
+A glittery tophat got left here.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+A
+4 1
+#25688
+tuxedo~
+a tuxedo coat~
+A short tux with tails lies here.~
+~
+9 0 1|1024
+0 0 0 0 
+4 0 0
+#25689
+bow tie red~
+a red bow tie~
+A glittery bow tie was forgotten here.~
+~
+9 0 1|4
+0 0 0 0 
+1 0 0
+A
+12 10
+#25690
+cape black~
+a black cape~
+This cape looks to be right out of a Dracula movie.~
+~
+9 0 1|1024
+0 0 0 0 
+3 0 0
+A
+12 30
+#25691
+stockings fishnet~
+fishnet stockings~
+A small pile of netted material lies here.~
+~
+9 0 1|32
+15 0 0 0 
+1 0 0
+A
+2 2
+#25692
+gloves long black leather~
+long black leather gloves~
+Some arm length gloves were tossed here.~
+~
+9 0 1|256
+0 0 0 0 
+2 0 0
+A
+19 2
+#25693
+necklace pearl gaudy costume~
+costume pearl necklace~
+A piece of gaudy costume jewelry has been left here.~
+~
+8 0 1|4
+0 0 0 0 
+2 0 0
+A
+17 -10
+#25694
+tattoo love~
+a "LOVE" tattoo~
+A tattoo would look just lovely on your knuckles.~
+~
+9 1024|2048 1|128
+0 0 0 0 
+1 0 0
+A
+18 2
+A
+19 2
+#25695
+tattoo hate~
+a "HATE" tattoo~
+A hateful looking tattoo is here, skin and all.~
+~
+9 16|2048 1|128
+0 0 0 0 
+1 0 0
+A
+13 35
+#25696
+briefs men's white pair~
+a pair of white men's briefs~
+A pair of geeky men's white briefs have been left here.~
+~
+5 1|1024|4096 1|2048
+0 8 16 6 
+3 0 0
+A
+5 1
+#25697
+champagne glass~
+a glass of champagne~
+Some bubbly might cheer you up!~
+~
+17 0 1|16384
+1 1 8 0 
+0 0 0
+#25698
+gloves rubber pink~
+a pair of pink rubber gloves~
+Some bright colored gloves draw your attention.~
+~
+9 1|4096 1|128
+15 0 0 0 
+3 0 0
+A
+12 25
+#25699
+choker spiked collar~
+a spiked choker~
+A collar with cool looking spikes rests here.~
+~
+9 0 1|4
+10 0 0 0 
+4 0 0
+A
+19 2
+#25700
+noise-maker party~
+a party noise-maker~
+A little party favor was dropped here.~
+~
+4 0 1|16384
+30 5 5 37 
+1 0 0
+A
+13 10
+#25701
+hat party~
+a party hat~
+A little party hat makes you look a little foolish.~
+~
+9 0 1|16
+0 0 0 0 
+5 0 0
+A
+4 1
+#25702
+pajamas~
+pajamas~
+A baby blue nightshirt was placed here.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+2 2
+#25703
+bandages gauze~
+some gauze bandages~
+Layers and layers of white gauze are in a pile here.~
+~
+13 0 1|8
+0 0 0 0 
+5 0 0
+#25704
+sword damocles~
+the Sword of Damocles~
+A sword is hanging over your head.~
+~
+5 0 1|8192
+0 10 17 3 
+15 0 0
+A
+19 3
+A
+18 3
+A
+13 35
+#25705
+briefs golden~
+golden briefs~
+A cute little gold number could be kind of sexy.~
+~
+9 1 1|2048
+0 0 0 0 
+5 0 0
+A
+1 2
+#25706
+apron~
+an apron~
+A cute little white apron for you.~
+~
+9 0 1|1024
+0 0 0 0 
+5 0 0
+#25707
+barbell candy~
+a candy cane barbell~
+A barbell tests your strength.~
+~
+4 0 1|16384
+30 10 10 63 
+500 0 0
+#25708
+helmet nazi~
+a nazi helmet~
+A helmet of war was thrown here.~
+~
+9 512 1|16
+0 0 0 0 
+15 0 0
+A
+5 4
+#25709
+jeans blue ripped~
+a pair of ripped blue jeans~
+Some dungarees are laying crumpled here.~
+~
+9 0 1|32
+0 0 0 0 
+5 0 0
+#25710
+scar bloody gash~
+a bloody scar~
+A nasty looking gash is probably pretty painful.~
+~
+13 4096 1|16
+0 0 0 0 
+1 0 0
+A
+5 -4
+#25711
+saxophone~
+a saxophone~
+A groovin wind instrument could play a little tune.~
+~
+4 0 1|16384
+40 10 10 25 
+5 0 0
+#25712
+ring silver skull~
+a silver skull ring~
+A manly ring of silver got dropped here.~
+~
+9 4096 1|2
+0 0 0 0 
+5 0 0
+A
+13 10
+#25713
+meatloaf corpse~
+some meatloaf~
+No matter how ya slice it, it comes up meatloaf!~
+~
+23 0 1
+0 0 0 0 
+5 0 0
+#25714
+vest denim~
+a denim vest~
+A cool denim vest lies here.~
+~
+5 0 1|1024
+0 10 15 7 
+5 0 0
+A
+18 1
+A
+19 1
+#25715
+axe pick pick-axe~
+a pick-axe~
+A bloody axe was just used to commit a murder.~
+~
+5 512 1|8192
+0 12 19 13 
+30 0 0
+A
+18 2
+A
+19 2
+#25716
+candlebra~
+a candlebra~
+Many candles light your way.~
+~
+1 1 1|16384
+0 0 12 0 
+25 0 0
+A
+12 30
+A
+14 -50
+#25717
+hat mouseketeer~
+a mouseketeer hat~
+A little black cap with ears was left here.~
+~
+9 0 1|16
+0 0 0 0 
+12 0 0
+#25718
+dryer hair~
+a hair dryer~
+A hair dryer is a handy little item.~
+~
+3 2 1|8192
+40 25 25 30 
+15 0 0
+#25719
+whip leather black~
+a black leather whip~
+A black leather whip makes you 'snap' to attention.~
+~
+5 0 1|8192
+0 20 25 4 
+5 0 0
+A
+17 -5
+A
+18 2
+A
+19 1
+#25720
+jacket leather black~
+a black leather jacket~
+A leather jacket makes you look pretty cool.~
+~
+9 0 1|1024
+0 0 0 0 
+5 0 0
+A
+5 2
+#25721
+umbrella~
+an umbrella~
+An umbrella has been opened to dry here.~
+~
+5 64 1|16384
+0 10 15 11 
+2 0 0
+A
+18 3
+A
+19 3
+#25722
+note eddie's~
+eddie's note~
+A note has been written in blood.~
+~
+2 0 1|16384
+40 15 15 42 
+1 0 0
+E
+blood~
+The words say:
+
+IM OUT OF
+MY HED.
+O HURRY*
+I MAY BE DEAD!
+THEY MUSN"T
+CARRY OUT THEIR
+EVIL DEEDS
+LOVE
+    EDDIE~
+#25723
+boa black feathery~
+a black feathery boa~
+A grooooovy boa looks quite sexy.~
+~
+9 0 1|4
+0 0 0 0 
+3 0 0
+#25724
+cards sorrow pain~
+cards of sorrow and pain~
+Some playing cards have been thrown about the room.~
+~
+13 0 1|16384
+0 0 0 0 
+1 0 0
+#25725
+laser transsexual~
+a transsexual laser~
+The perfect weapon rests here.~
+~
+5 0 1
+0 1 1 9 
+40 0 0
+A
+1 -7
+A
+5 -7
+E
+weapon~
+Simba says "No guns", so I complied. Sort of.
+
+Rainman - Mar 95~
+#25726
+hotdog foot-long~
+a foot-long hotdog~
+A foot-long hotdog looks pretty satisfying.~
+~
+19 0 1
+3 0 0 0 
+1 0 0
+#25727
+popcorn buttered~
+some buttered popcorn~
+Some delicious hot buttery popcorn is just waiting to be munched on.~
+~
+19 0 1
+2 0 0 0 
+1 0 0
+#25728
+cola~
+a cola~
+An extra large huge cup of cola has been pored for you.~
+~
+17 0 1
+5 5 15 0 
+1 0 0
+#25729
+candy~
+a candy bar~
+A yummy looking chocolate bar is here.~
+~
+19 0 1
+1 0 0 0 
+0 0 0
+#25730
+ticket movie~
+a movie ticket~
+A ticket stub was dropped here.~
+~
+18 0 1|16384
+0 0 0 0 
+5 0 0
+#25731
+urinal~
+a urinal~
+A urinal that really needs to be cleaned hangs here.~
+~
+15 0 0
+25 4 -1 0 
+5 0 0
+#25732
+flashlight~
+a flashlight~
+A huge flashlight lies here.~
+~
+1 1 1
+0 0 10 0 
+1 0 0
+#25733
+odor foul~
+an unbearable odor!~
+A very unbearable odor wafts up your nose.~
+~
+5 32|512|1024 1|1024
+0 15 20 0 
+30 0 0
+A
+14 -400
+A
+5 -5
+A
+12 -200
+#25734
+table dinner~
+a dinner table~
+A dinner table is in the center of the room.~
+~
+15 0 0
+200 5 -1 0 
+500 0 0
+#25735
+meatloaf~
+some meatloaf~
+No matter how ya slice it, it comes up meatloaf!~
+~
+19 0 1
+0 0 0 0 
+150 0 0
+E
+corpse dinner Eddie meatloaf~
+Well, apparently Eddie has met his maker. Not only that, it seems he was the 
+guest of honor at dinner. He WAS dinner! You search frantically for a 
+bathroom!~
+#25736
+rice~
+some white rice~
+Small white specks cover the ground.~
+~
+19 0 1
+0 0 0 0 
+0 0 0
+#25737
+teddy black~
+a black teddy~
+A revealing garment draws your eye.~
+~
+9 0 1|8
+0 0 0 0 
+5 0 0
+A
+12 20
+#0
+
+
+#ROOMS
+#25675
+Outside a Movie Theater~
+You are standing outside of a very old looking movie house. A large marquee 
+above the entrance grabs your attention. The box office is to the north.
+~
+0 0 1
+D0
+~
+door~
+1 -1 25676
+D2
+~
+~
+0 -1 6002
+E
+marquee~
+The sign reads 
+
+        NOW PLAYING
+The Rocky Horror Picture Show
+
+    Showtime: Midnight~
+S
+#25676
+A Box Office~
+You are standing at the box office window. An underpaid teenager is here 
+selling tickets to the show.
+~
+0 8 0
+D2
+~
+door~
+1 -1 25675
+D3
+~
+door~
+1 25730 25677
+S
+#25677
+The Lobby~
+You have entered the lobby of a theater. The aroma that fills the air is a 
+conglomeration of different smells, but mostly that of buttered popcorn. 
+POPCORN! MmmMMMmMMm. Your feet stick to the floor where some soda has been 
+spilled. There is a nearby concession stand.
+~
+0 8 0
+D0
+~
+~
+0 -1 25729
+D1
+~
+door~
+1 -1 25676
+D2
+~
+~
+0 -1 25732
+D3
+~
+~
+0 -1 25678
+S
+#25678
+The Darkened Theater~
+You are in the back of a darkened theater. The movie is just starting. Better
+get a seat up front so you don't miss anything! There are only a few open 
+seats left, so hurry up and decide. You may have better luck finding a seat 
+down front.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25733
+D1
+~
+~
+0 -1 25677
+D3
+~
+~
+0 -1 25679
+S
+#25679
+In Front of a Movie Screen~
+You are standing right smack in front of the movie screen. You have to crane 
+your neck to see what's going on. The patrons behind you start to mumble and 
+grumble. Better take a seat before this crowd gets ugly. The disembodied mouth
+is singing a very compelling song. Perhaps it does warrant one last look.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 25678
+D3
+~
+screen~
+1 -1 25680
+S
+#25680
+A Graveyard Outside the Church~
+This is dilapidated little graveyard next to a little white church. There are 
+a few old head stones that are showing some signs of age. A huge billboard in 
+a nearby field that draws your attention. The path leads south.
+~
+0 0 2
+D2
+~
+~
+0 -1 25681
+E
+Billboard~
+The Billboard reads: 
+
+          - DENTON -
+  "The Home of Happiness"~
+S
+#25681
+In Front of a Church~
+You are standing in front of a small white church. You notice a sign. The 
+church is to the east, and a small graveyard is to the north. The road leads 
+back south. Apparently there was a wedding here recently, as specks of rice 
+cover the ground.
+~
+0 0 2
+D0
+~
+~
+0 -1 25680
+D1
+~
+door~
+1 -1 25682
+D2
+~
+~
+0 -1 25683
+E
+sign~
+The sign reads:
+
+
+                 *********************
+                 *                   *
+                 *      DENTON       *
+                 *  EPISCOPAL CHURCH *
+                 *                   *
+                 * ------------------*
+                 *      Be Just      *
+                 *    And Fear Not   *
+                 *                   *
+                 *********************~
+S
+#25682
+Inside the Church~
+You are standing inside of a little white church. It is quiet and serene, the 
+perfect place for a country wedding. Light shines through a stained glass 
+window, lighting the room with a beautiful afternoon glow. Oddly, a casket 
+has been left here. Wasn't there a wedding here today? Hmmmm...
+~
+0 8|16384 0
+D3
+~
+door~
+1 -1 25681
+S
+#25683
+Outside the Church~
+You are standing outside of a little white church. Nearby fields are abuzz 
+with insects and wildflowers. It's very relaxing and peaceful here.
+~
+0 0 2
+D0
+~
+~
+0 -1 25681
+D1
+~
+~
+0 -1 25684
+S
+#25684
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. The weather has taken
+an abrupt change for the worse, as it begins to rain. Time also seems to have 
+slipped, as it has become very dark. The road continues to the east and west. 
+What could possibly be out here?
+~
+0 0 2
+D1
+~
+~
+0 -1 25685
+D3
+~
+~
+0 -1 25683
+S
+#25685
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the east and west. What could possibly
+be out here?
+~
+0 0 2
+D1
+~
+~
+0 -1 25686
+D3
+~
+~
+0 -1 25684
+S
+#25686
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the east and west. What could possibly
+be out here?
+~
+0 0 2
+D1
+~
+~
+0 -1 25687
+D3
+~
+~
+0 -1 25685
+S
+#25687
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the east and takes a sharp turn to the
+south. What could possibly be out here?
+~
+0 0 2
+D2
+~
+~
+0 -1 25688
+D3
+~
+~
+0 -1 25686
+S
+#25688
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south. What could 
+possibly be out here?
+~
+0 0 2
+D0
+~
+~
+0 -1 25687
+D2
+~
+~
+0 -1 25689
+S
+#25689
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south. What could 
+possibly be out here?
+~
+0 0 2
+D0
+~
+~
+0 -1 25688
+D2
+~
+~
+0 -1 25690
+S
+#25690
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south, and a small 
+path leads to the east. What could possibly be out here?
+~
+0 4 2
+D0
+~
+~
+0 -1 25689
+D1
+~
+~
+0 -1 25695
+D2
+~
+~
+0 -1 25691
+S
+#25691
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south. What could 
+possibly be out here?
+~
+0 0 2
+D0
+~
+~
+0 -1 25690
+D2
+~
+~
+0 -1 25692
+S
+#25692
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south. What could 
+possibly be out here?
+~
+0 0 2
+D0
+~
+~
+0 -1 25691
+D2
+~
+~
+0 -1 25693
+S
+#25693
+A Dark Road in Denton~
+You are traveling on a very dark road through the woods. It is dark and 
+storming outside. The road continues to the north and south. There doesn't 
+seem to be much of anything out here. Perhaps you should turn back now and 
+save yourself a lot of agony.
+~
+0 0 2
+D0
+~
+~
+0 -1 25692
+D2
+~
+~
+0 -1 25694
+S
+#25694
+A Dead End~
+The road through the woods comes to an abrupt end here. The road leads only 
+back to the north. Now what are you going to do?
+~
+0 0 2
+D0
+~
+~
+0 -1 25693
+S
+#25695
+Outside the Castle~
+You stand in front of an eerie castle out in the woods. The castle has many 
+spires, and is quite gothic in appearance. There is a gate here with a small 
+sign on it.
+~
+0 0 2
+D1
+The gate has a warning sign on it.~
+gate~
+1 -1 25696
+D3
+~
+~
+0 -1 25690
+E
+sign~
+The sign on the gate reads:
+
+               ENTER AT 
+            YOUR OWN RISK!~
+S
+#25696
+In Front of the Castle~
+You stand on the front entrance to an ominous looking castle. Stone gargoyles 
+guard the entrance.
+~
+0 4 2
+D0
+~
+~
+0 -1 25721
+D1
+~
+door~
+1 -1 25697
+D2
+~
+~
+0 -1 25720
+D3
+~
+~
+1 -1 25695
+S
+#25697
+A Foyer~
+You enter the foyer of a huge castle. This place seems pretty eerie. Perhaps 
+you should turn back now.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25709
+D2
+~
+~
+0 -1 25722
+D3
+~
+door~
+1 -1 25696
+D4
+~
+~
+0 -1 25698
+S
+#25698
+The Stairs~
+You are on the staircase which leads to the second floor. Are you sure that 
+you really want to go up there?
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 25699
+D5
+~
+~
+0 -1 25697
+S
+#25699
+A Hallway~
+This hallway is dark and quiet. Perhaps it would be a good idea to reconsider
+and leave this place at once.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25700
+D2
+~
+~
+0 -1 25698
+S
+#25700
+A Hallway~
+The hallway is dark and quiet. Doors lead east and west, probably to someone's
+bedroom.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25701
+D1
+~
+door~
+1 -1 25705
+D2
+~
+~
+0 -1 25699
+D3
+~
+door~
+1 -1 25723
+S
+#25701
+A Hallway~
+The hallway is dark and quiet. Doors lead east and west, probably to someone's
+bedroom.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25702
+D1
+~
+door~
+1 -1 25704
+D2
+~
+~
+0 -1 25700
+D3
+~
+door~
+1 -1 25724
+S
+#25702
+A Hallway~
+The hallway continues north and south. It is very dark and kind of creepy.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25703
+D2
+~
+~
+0 -1 25701
+S
+#25703
+A Laboratory~
+You have entered the laboratory of Dr. Frankenfurter. It is here that he 
+reveals his proud creation. The walls are adorned by weird looking gadgets. 
+Might be best not to touch them.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25706
+D2
+~
+~
+0 -1 25702
+S
+#25704
+A Bedroom~
+This bedroom is quite plain, most likely it is used as a guest room. The bed 
+itself is a canopy type, covered in a shroud of netting.
+~
+0 1|8 0
+D3
+~
+door~
+1 -1 25701
+S
+#25705
+A Bedroom~
+You have entered Magenta's bedroom.
+~
+0 1|8 0
+D3
+~
+door~
+1 -1 25700
+S
+#25706
+An Elevator~
+The elevator serves as transportation from the ballroom to the laboratory.
+~
+0 1|4|8 0
+D2
+~
+~
+0 -1 25703
+D5
+~
+~
+0 -1 25707
+S
+#25707
+An Elevator~
+The elevator serves as transportation from the ballroom up to the laboratory.
+You look down to a dark and bottomless pit.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 25714
+D2
+~
+~
+0 -1 25713
+D4
+~
+~
+0 -1 25706
+D5
+It looks like one hell of a drop down the shaft. You may want to reconsider.~
+down shaft~
+0 -1 25708
+S
+#25708
+An Elevator Shaft~
+You fell a long ways down a dark elevator shaft. BONK! OUCH! DOH!
+
+You are too badly hurt for that!
+~
+0 1|4|8 0
+S
+#25709
+A Hallway~
+The hallway here is dark and ominous.
+~
+0 1|4|8 10
+D0
+~
+~
+0 -1 25710
+D2
+~
+~
+0 -1 25697
+S
+#25710
+A Ballroom~
+You are in the south-west corner of a huge fancy ballroom deep within the 
+confines of the outrageously weird castle. There seems to be a party going 
+on.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25711
+D1
+~
+~
+0 -1 25718
+D2
+~
+~
+0 -1 25709
+S
+#25711
+A Ballroom~
+You are on the floor of a huge ballroom within the confines of the castle. 
+There is a party going on, are you an invited guest? The attendees seem to be 
+dressed for some sort of gaudy soiree.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25712
+D1
+~
+~
+0 -1 25717
+D2
+~
+~
+0 -1 25710
+S
+#25712
+A Ballroom~
+The ballroom is quite large, and many transvestites are dancing about.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25713
+D1
+~
+~
+0 -1 25716
+D2
+~
+~
+0 -1 25711
+S
+#25713
+A Ballroom~
+The ballroom is quite large and open. Perfect for dancing.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25707
+D1
+~
+~
+0 -1 25715
+D2
+~
+~
+0 -1 25712
+D3
+~
+freezer~
+1 -1 25728
+S
+#25714
+A Ballroom~
+There's quite a party going on in here. Put on your dancing shoes and do the 
+time warp again. It's just a jump to the left...
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25725
+D2
+~
+~
+0 -1 25715
+D3
+~
+~
+0 -1 25707
+S
+#25715
+A Ballroom~
+Many transylvanians are here dancing. The room is quite large, and the party 
+is in full swing.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25714
+D1
+~
+~
+0 -1 25719
+D2
+~
+~
+0 -1 25716
+D3
+~
+~
+0 -1 25713
+S
+#25716
+A Ballroom~
+The ballroom is alive with the sounds of a party. Do the time warp! ...and a 
+step to the right...There is a huge banner hanging on the wall.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25715
+D2
+~
+~
+0 -1 25717
+D3
+~
+~
+0 -1 25712
+E
+banner~
+The banner reads: Annual Transylvanian Convention~
+S
+#25717
+A Ballroom~
+Put your hands on your hips...the ballroom is quite large, almost never 
+ending. You gaze in awe upon the dancing transylvanians.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25716
+D2
+~
+~
+0 -1 25718
+D3
+~
+~
+0 -1 25711
+S
+#25718
+A Ballroom~
+You bring your knees in tight...But it's the pelvic thrust...they really 
+drive you insane...what in the heck are they singing. You never witnessed 
+such a strange demonstration before.
+
+You wiggle your bottom.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25717
+D3
+~
+~
+0 -1 25710
+S
+#25719
+A Honeymoon Suite~
+The room is decorated with beautiful new furniture, and the walls are bright 
+and aglow with a happy light. Dr. Frankenfurter plans to relieve some of his 
+tensions here later.
+~
+0 1|8 0
+D3
+~
+~
+0 -1 25715
+S
+#25720
+The Castle Grounds~
+You stand outside of the scary castle. The moon is full and large, the trees 
+around you glowing in it's light.
+~
+0 1 2
+D0
+~
+~
+0 -1 25696
+S
+#25721
+The Castle Grounds~
+You are standing outside of a strange, out of place looking castle. The grass 
+is wet from the recent downpour of rain.
+~
+0 1 2
+D2
+~
+~
+0 -1 25696
+S
+#25722
+A Dining Room~
+The table is set for dinner, perhaps you can join them later for a bite. 
+Perhaps you will be the main course!
+~
+0 1|8 0
+D0
+~
+~
+0 -1 25697
+S
+#25723
+A Bedroom~
+Yet another bedroom in the castle. Fortunately, no one is in here right now. 
+You sure are snoopy.
+~
+0 1|8 0
+D1
+~
+door~
+1 -1 25700
+S
+#25724
+A Bedroom~
+This is a quiet bedroom in the castle. Nothing going on in here.
+~
+0 1|8 0
+D1
+~
+door~
+1 -1 25701
+S
+#25725
+The Auditorium~
+Strangely enough, there is a small auditorium in the castle. The stage is 
+adorned by some unlikely props, such as an Eiffel Tower. Rows and rows of 
+seats face the stage.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 25727
+D2
+~
+~
+0 -1 25714
+S
+#25726
+The Transit Beam~
+You are pulled up with the transit beam. The show is over.
+~
+0 1|8|8192 0
+D1
+~
+door~
+1 -1 25735
+D4
+~
+~
+0 -1 25734
+S
+#25727
+The Pool~
+A small indoor pool is here. On the bottom of the pool is a painting of 
+some mythological characters.
+~
+0 1|8 6
+D3
+~
+~
+0 -1 25725
+S
+#25728
+A Freezer~
+The deep freeze. Brrrrrrrrrrrrrrr.....it's cold in here!
+~
+0 1|8|512|1024 0
+D1
+~
+freezer~
+1 -1 25713
+S
+#25729
+The Lobby~
+You stand in the lobby of an old movie house. There are very few movie 
+patrons milling about. You wonder how this place even stays in business. 
+The restrooms are north and east. You can tell by the foul odor that 
+pernetrates your nostrils
+~
+0 8 0
+D0
+A horrible smell wafts from this direction.~
+door~
+1 -1 25731
+D1
+~
+door~
+1 -1 25730
+D2
+~
+~
+0 -1 25677
+D3
+~
+door~
+1 -1 25733
+S
+#25730
+A Ladies Room~
+You are standing in the ladies room. It seems to be nice and clean, and 
+what's this? A couch?? As you look around you start noticing that everything 
+in here is in nice shape and...what's this?? The paper products are actually 
+fully stocked. So is the hand soap. There is a nasty smell wafting up your 
+nostrils, but somehow you don't think it's coming from inside this room.
+~
+0 1|8 0
+D3
+~
+door~
+1 -1 25729
+S
+#25731
+A Men's Room~
+You have entered the men's room. Yuuuuuuuuuuuuuck! This place should be 
+considered unsafe! It looks like it hasn't been cleaned in ages. Nasty 
+graffiti covers the walls. A horrible aroma envelopes you...
+~
+0 1|8 0
+D2
+~
+door~
+1 -1 25729
+E
+graffiti wall~
+The Graffiti reads:
+
+"LoK was HErE"         BR ROCKS!
+
+   "For a good time call Soleil"
+
+ "Marc is a geek"
+
+       "Autumn wears army boots"
+"Newbies rule!"
+
+JUVENILES!~
+S
+#25732
+The Concession Stand~
+You are standing in a line at the concession stand. 
+
+<  0hp  0m   0mv -1000a> You are hungry.
+
+<  0hp  0m   0mv -1000a> You feel thirsty.
+~
+0 8 0
+D0
+~
+~
+0 -1 25677
+S
+#25733
+A Darkened Theatre~
+You are standing in a darkened Theatre. Some other movie goers can't see 
+what's going on because you are standing in the aisle. Have a seat and enjoy 
+the show.
+~
+0 1|8 0
+D1
+~
+door~
+1 -1 25729
+D2
+~
+~
+0 -1 25678
+S
+#25734
+~
+You have been transferred!
+
+You can't do that!
+
+You can't see anything!
+
+You are cursed!
+~
+0 1|4|8|512|8192 0
+S
+#25735
+An Office~
+You have entered the office of a criminologist. The walls are lined with 
+shelves of many books. From the looks of it, could he possibly been in 
+conspiracy with the transvestites all along?
+~
+0 8192 1
+D3
+~
+door~
+1 -1 25726
+S
+#0
+
+
+#RESETS
+* 
+* Doors
+* 
+D 1 25675 0 1			; Outside a Movie Theater Close North
+D 1 25676 2 1                 ; A Box Office Close South
+D 1 25676 3 2                 ; A Box Office Lock West
+D 1 25677 1 1                 ; The Lobby Close East
+D 1 25679 3 1	             ; In Front of a Movie Screen Close West
+D 1 25681 1 1                 ; In Front of a Church Close East
+D 1 25682 3 1                 ; Inside the Church Close West
+D 1 25695 1 1                 ; Outside the Castle Close East
+D 1 25696 1 1                 ; In Front of the Castle Close East
+D 1 25700 1 1                 ; A Hallway Close East
+D 1 25700 3 1                 ; A Hallway Close West
+D 1 25701 1 1                 ; A Hallway Close East
+D 1 25701 3 1                 ; A Hallway Close West
+D 1 25704 3 1                 ; A Bedroom Close West
+D 1 25705 3 1                 ; A Bedroom Close West
+D 1 25713 3 1                 ; A Ballroom Close West
+D 1 25723 1 1                 ; A Bedroom Close East
+D 1 25724 1 1                 ; A Bedroom Close East
+D 1 25726 1 1                 ; The Transit Beam Close East
+D 1 25728 1 1                 ; A Freezer Close East
+D 1 25729 3 1                 ; The Lobby Close West
+D 1 25729 0 1                 ; The Lobby Close North
+D 1 25729 1 1                 ; The Lobby Close East
+D 1 25730 3 1                 ; A Ladies Room Close West
+D 1 25731 2 1                 ; A Men's Room Close South
+D 1 25733 1 1                 ; A Darkened Theatre Close East
+D 1 25735 3 1                 ; An Office Close West
+*
+* Mobiles and Equip
+*
+M 1 25675 1 25707   load Frankenfurter to elevator
+E 1 25693 100 3     wears pearl necklace
+E 1 25698 100 9     wears pink rubber gloves
+E 1 25692 100 10    wears long black gloves
+E 1 25690 100 12    wears black cape
+E 1 25719 100 16    wields long black whip
+E 1 25724 100 17    holds cards of sorrow
+E 1 25737 100 5     wears black teddy
+G 1 25715 100       give pick axe
+G 1 25697 100       give champagne        
+*
+M 1 25693 1 25732   load teenager to concession
+G 1 25726 100       give hotdog
+G 1 25727 100       give popcorn
+G 1 25728 100       give cola
+G 1 25729 100       give candybar
+*
+M 1 25691 1 25679   load mouth to screen
+M 1 25694 1 25676   load geeky teenager
+G 1 25730 100       give tickets
+*
+M 1 25696 1 25731   load smell men's room
+E 1 25733 100 12
+*
+M 1 25695 1 25733   load usher to theatre
+E 1 25732 100 0     wears flashlight
+*
+M 1 25687 1 25694   load mechanic to dead end
+*
+M 1 25678 1 25697   load riffraff to foyer
+E 1 25686 100 5     wears hunched back
+E 1 25688 100 12    wears tuxedo
+E 1 25716 100 17    holds candelabra
+*
+M 1 25681 1 25703   load rocky to lab
+E 1 25705 100 13    wears briefs
+E 1 25704 100 16    wields sword
+E 1 25703 100 5     wears gauze
+E 1 25707 100 17    holds barbell
+*
+M 1 25692 3 25721   load dogs to grounds (3)
+E 1 25699 100 3     wear collar
+*
+M 1 25680 1 25722   load magenta to diningroom
+E 1 25718 100 16    holds hair dryer
+E 1 25685 100 5     wears maid outfit
+E 1 25706 100 12    wears apron
+*
+M 1 25683 1 25728   load Eddie to freezer
+E 1 25712 100 1     wears skull ring
+E 1 25712 100 2     wears skull ring
+E 1 25710 100 6     wears scar
+E 1 25709 100 7     wears jeans
+E 1 25694 100 9     wears love tattoo
+E 1 25714 100 12    wears vest
+E 1 25711 100 17    holds saxophone
+G 1 25695 100       give hate tattoo
+G 1 25708 100       give helmet
+G 1 25735 100       give meatloaf
+*
+M 1 25677 1 25704   load Janet to bedroom
+E 1 25676 100 1     wears engagement ring
+E 1 25702 100 5     wears pajamas
+E 1 25675 100 17    holds bouquet
+G 1 25680 100       give newspaper
+*
+*
+M 1 25676 1 25725   load Brad to auditorium
+E 1 25702 100 5     wears pajamas
+E 1 25682 100 6     wears glasses
+E 1 25696 100 13    wears briefs
+*
+M 1 25679 1 25710   load Columbia to Ballroom
+E 1 25723 100 3     wears boa
+E 1 25699 100 4     wears choker
+E 1 25687 100 6     wears tophat
+E 1 25691 100 7     wears stockings
+E 1 25688 100 12    wears tuxedo
+*
+M 1 25682 1 25702   load Scott to hallway
+E 1 25691 100 7     wears stockings
+E 1 25721 100 17    holds umbrella
+G 1 25722 100       give note
+*
+M 1 25684 1 25735   load criminologist to office
+E 1 25679 100 17    wears holder
+*
+M 1 25685 2 25711   load transvestite to ballroom (2)
+E 1 25684 100 6     wears party hat
+*
+M 1 25686 1 25712   load dancer to ballroom
+E 1 25701 100 6     wears party hat
+E 1 25688 100 12    wears tuxedo
+*
+M 1 25688 3 25715   load transylvanians to ballroom
+*
+M 1 25689 1 25687   load motorcyclist to road
+E 1 25720 100 12    wears leather jacket
+*
+M 1 25690 3 25717   load warp dancer to ballroom (3)
+E 1 25701 100 6     wears party hat
+E 1 25700 100 17    wears noisemaker
+*
+* static objects
+*
+O 1 25677 100 25697			coffin to foyer
+O 1 25681 100 25694			abandoned car to A Dead End
+O 1 25683 100 25682			casket to Inside the Church
+O 1 25717 100 25723			mouseketeer hat to A Bedroom
+O 1 25725 100 25725			transsexual laser to The Auditorium
+O 1 25731 100 25731			urinal to A Men's Room
+O 1 25734 100 25722			dinner table to A Dining Room
+O 1 25736 100 25683			white rice to Outside the Church
+O 1 25736 100 25681			white rice to In Front of a Church
+*
+* Objects in containers
+*
+P 1 25678 1 25677			Put skeleton in coffin
+P 1 25713 1 25734			Put meatloaf (NPC) in dinner table
+P 1 25735 1 25713			Put meatloaf in meatloaf (NPC)
+S
+
+
+
+#SPECIALS
+M  25680 spec_janitor           Magenta
+M  25692 spec_fido              guard dog
+S
+
+
+#$

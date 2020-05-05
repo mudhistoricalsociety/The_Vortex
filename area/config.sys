@@ -1,0 +1,17 @@
+Config.sys - Configuration file for BTL code
+1   = Mobile Hp Multiplier
+1   = Mobile Hp Divider
+1   = Mobile Level Multiplier
+1   = Mobile Level Divider
+1   = Mobile Dam Multiplier
+2   = Mobile Dam Divider
+1   = Prac exp mult
+1   = Prac exp div
+1   = Train exp mult
+1   = Train exp div
+4   = Research exp mult
+3   = Research exp div
+1   = Research time mult
+1   = Research time div
+help~ = Auto Help
+0   = Max Players ever logged on

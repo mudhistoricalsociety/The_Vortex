@@ -1,0 +1,139 @@
+/bin/nice: startup: No such file or directory
+1770: old priority 5, new priority 5
+Logfile - 1000.log
+10241: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 10244 Floating point exception(core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1006.log
+12353: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 12357 Floating point exception(core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1007.log
+6822: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  6825 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1010.log
+13175: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 13179 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1011.log
+17456: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 17459 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1000.log
+18107: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 18110 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1001.log
+19273: old priority 0, new priority 5
+Logfile - 1002.log
+19913: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 19916 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1003.log
+8419: old priority 0, new priority 5
+Logfile - 1004.log
+11296: old priority 0, new priority 5
+Logfile - 1005.log
+17728: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 17731 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1020.log
+17754: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 17757 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1021.log
+2936: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  2939 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1025.log
+15187: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 15190 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1009.log
+8830: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  8834 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1010.log
+14337: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 14340 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1011.log
+18025: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 18028 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1012.log
+2732: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  2736 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1013.log
+3219: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  3222 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1014.log
+3333: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  3336 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1015.log
+15773: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 15776 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1023.log
+30298: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 30302 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1024.log
+4557: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  4560 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1044.log
+28749: old priority 0, new priority 5
+15134: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 15160 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1049.log
+16893: old priority 0, new priority 5
+Logfile - 1050.log
+14419: old priority 0, new priority 5
+15453: old priority 0, new priority 5
+Logfile - 1016.log
+15672: old priority 0, new priority 5
+Logfile - 1018.log
+16777: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 16780 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1019.log
+16829: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 16832 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1020.log
+16850: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 16853 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1021.log
+21419: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 21422 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1029.log
+23700: old priority 0, new priority 5
+Logfile - 1032.log
+896: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:   900 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1034.log
+9605: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  9608 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1040.log
+10294: old priority 0, new priority 5
+Logfile - 1041.log
+12486: old priority 0, new priority 5
+Logfile - 1042.log
+12498: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 12501 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1043.log
+14667: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 14670 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1044.log
+14703: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 14706 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1045.log
+1399: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  1402 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1047.log
+8827: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  8830 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1048.log
+7013: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51:  7016 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1051.log
+9163: old priority 0, new priority 5
+Logfile - 1001.log
+14712: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 14715 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1005.log
+20346: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 20351 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1007.log
+18107: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 18110 Segmentation fault      (core dumped) ../src/merc $port >$logfile 2>&1
+Logfile - 1008.log
+28644: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 28647 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1009.log
+18686: old priority 0, new priority 5
+/home/icrontic/vortex/src/startup: line 51: 18689 Killed                  ../src/merc $port >$logfile 2>&1
+Logfile - 1000.log

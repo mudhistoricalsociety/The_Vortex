@@ -1,0 +1,114 @@
+#AREA	{ 5 35} Angus Dragon recall~
+770
+773
+
+#MOBILES
+#770
+Dragon Guardian~
+Ancient Dragon~
+An ancient, dragon spirit stands here cautiously watching all directions.
+~
+A massive, scaly creature glares down at you.
+~
+2|64 8|32|128|512|8192 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#770
+Amulet of the Ancients~
+amulet of the Ancients~
+The Amulet of the Ancients has a strange ~
+~
+9 32|64 1|4
+0 0 0 0 
+25 0 0
+A
+1 2
+A
+4 2
+A
+5 2
+A
+13 0
+A
+17 -100
+A
+19 10
+A
+18 10
+A
+14 0
+A
+12 0
+#0
+
+
+#ROOMS
+#770
+Temple of the Dragons~
+You are standing in a huge, open colosseum.  A large statue of a beast towers over you.  Inscribed on the base of the statue, "To the legendary first dragon, Olaf Trygvesson.  May your spirit forever live on."  Gigantic steps, which could only be for beast of enormous proportions, run around the outer edges of the arena.  This must be the meeting place of the legendary creatures.
+~
+0 0 0
+D1
+~
+~
+0 -1 773
+D2
+~
+~
+0 -1 772
+D3
+~
+~
+0 -1 771
+S
+#771
+Hall of the Tarosis Family~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 770
+S
+#772
+Sparring Room.~
+This room seems to have been ravaged by the gods themselves.  The walls are charred from what you can only presume is the infamous dragon fire.  There is an opening in the extremely high dome.  Chipped pieces of the wall lye all about, but amazingly the battle arena seems capable to withstand a thousand more years of dragons honing their skills.
+~
+0 0 0
+D0
+~
+~
+0 -1 770
+S
+#773
+Hall of the Draco Family~
+You stand in the middle of a wide hall.  By the markings all around, this must be the Draco war room.  A large, cloth banner is spread across the far wall, depicting the ancient Dragon Wars; which, obviously, the Dracos won.  You feel the ground rumbling, as of hard footfalls in the distance.
+~
+0 1024|8192 0
+D3
+~
+~
+0 -1 770
+S
+#0
+
+
+#RESETS
+*
+M 1 770 1 770			Ancient Dragon to Temple of the Dragons
+G 1 770 100
+S
+
+
+#SPECIALS
+M  770 spec_breath_any			Dragon Guardian
+S
+
+
+#$

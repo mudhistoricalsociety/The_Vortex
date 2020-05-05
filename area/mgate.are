@@ -1,0 +1,32 @@
+#AREA Moon gate and stuff~
+30042
+30072
+#OBJECTS
+#30072
+gate moon moongate~
+A gate fashioned from moonlight.~
+A Gate fashioned from pure moonlight hovers before you~
+~
+27 0 0
+102 0 0 0
+1000 300 100
+
+#30073
+blood rod~
+A rod of blood~
+A rod of unholy blood lies here.~
+~
+25 64 1
+100000 100000 13 0
+1 10 100000
+
+#30042
+gate blood bloodgate~
+A gateway fashioned from human blood.~
+A swirling portal of blood floats here.~
+~
+27 0 0
+102 0 0 0
+1000 300 100
+#0
+#$

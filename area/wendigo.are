@@ -1,0 +1,169 @@
+#AREA	Tim    Wendigo HQ~
+14500
+14507
+
+#MOBILES
+#14500
+Farshak Wendigo~
+Farshak the Shaman~
+Farshak the Wendigo's Shaman heals your wounds and saves your soul.
+~
+Farshak was the original Shaman of Wendigos.  When he died, he was so pious that his soul was kept in the clanhall to heal those who needed it.
+~
+2|64 8|32|128|512|32768 1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#14501
+Raging Wolf Defender Gaia~
+the Raging Wolf~
+The Raging Wolf, Defender of Gaia, prowls these halls.
+~
+The Raging Wolf, the sum of the spirits of all the fallen werewolves, protects the members of this clan from harm.
+~
+2|64 2|8|32|128|512|32768|65536|524288|1048576 1000 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#14500
+water dish bowl wendigos~
+a water dish~
+A filled water dish is here for clanmembers to drink from.~
+~
+25 1|2|32|64 0
+0 1 6 11 
+400 0 0
+#0
+
+
+#ROOMS
+#14500
+Wendigo's Return Chamber~
+This is where the members of the Wendigos Tribe enter when they return from battle.  Their scars are stripped away as the portal transports them back to the safety of their clanhall.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 14501
+S
+#14501
+A Hallway in the Wendigo's Clanhall~
+This hallway is dark, making you leery of walking down it.  You hear a roaring at the end of the hallway.  You shiver.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 14504
+D2
+~
+~
+0 -1 14502
+D3
+~
+~
+0 -1 14500
+S
+#14502
+A Hallway in the Wendigo's Clanhall~
+This hallway is dark, making you leery of walking down it.  You hear a roaring at the end of the hallway.  You shiver.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 14501
+D1
+~
+~
+0 -1 14505
+D2
+~
+~
+0 -1 14503
+S
+#14503
+A Hallway in the Wendigo's Clanhall~
+This hallway is dark, making you leery of walking down it.  You hear a roaring at the end of the hallway.  You shiver.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 14502
+D1
+~
+~
+0 -1 14507
+S
+#14504
+Wendigo's Rest and Relaxation Room~
+Their leader has stocked this room full of women, food and liquor for the members to enjoy on their off moments from battle.  A healer stands in the corner repairing their bodies while the women repair their souls.
+~
+0 1|8|1024 0
+D1
+~
+~
+0 -1 14501
+D3
+~
+~
+0 -1 14501
+S
+#14505
+The Wendigos Room of Congregation~
+Here many animals mill around, waiting to be called by the great wolves of the Wendigos.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 14502
+D3
+~
+~
+0 -1 14502
+D5
+~
+~
+1 -1 14506
+S
+#14506
+The Hidden Room of Power~
+Here you rest in seclusion...safe from intrusion.
+~
+0 1|8|1024 0
+D4
+~
+~
+1 -1 14505
+S
+#14507
+Trophy Room of the Wendigos~
+Here we celebrate the death of our enemies.  We revel in crushing those who oppose us.
+~
+0 1|8 0
+D3
+~
+~
+0 -1 14503
+S
+#0
+
+
+#RESETS
+D 1 14506 4 1			; The Hidden Room of Power Close Up
+*
+M 1 14500 1 14504			Farshak the Shaman to Wendigo's Rest and Relaxation Room
+O 1 14500 100 14504			a water dish to Wendigo's Rest and Relaxation Room
+*
+M 1 14501 1 14505			the mob to The Wendigos Room of Congregation
+S
+
+
+#$

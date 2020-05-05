@@ -1,0 +1,395 @@
+Sender  Kickle~
+Date    Tue Feb 11 23:31:12 2003~
+To      ~
+Subject EQ~
+Text
+this is regarding a rather annoying problem....... every time i log in im missing  something be it a container (with atleast 5 diamonds and steel) or trans with i have lost many, and it is very annoying so i was wondering if u could reimburse some eq. thanks
+~
+
+Sender  Yaron~
+Date    Wed Feb 12 01:39:37 2003~
+To      immortal~
+Subject older eq~
+Text
+it seems that the eq I made a long time ago has 13 for base ac and is anti-good/evil
+the newer eq I have has the base of 30 and doesn't have those flags 
+think it might be a bug or something and am wondering if it can be fixed
+Yaron
+~
+
+Sender  Sluggo~
+Date    Fri Feb 14 01:25:21 2003~
+To      imm~
+Subject big dog VS under dog~
+Text
+I like for large players to not be able to bully little guys...
+At the same time, a small player should not be able to endlessly taunt
+a larger char.
+
+What I propose is putting in fight timers on chat channels for curse words.
+This would put in many new variables to the role-playing...
+"thems are fighting words"
+
+A larger player could taunt a little player... The little player is safe
+from abuse  The larger player can use obscene language, but gets a fight timer.
+The smaller player can use their wits while advoiding obscene language.
+If the smaller player circumvents our dictionary of obscene language, then the larger player has extra fire for his or her silly campaign.
+"Thats right, call me a F4cking donkey licker will ya... you fear me."
+I've only been playing for 20 minutes you moron, there is no way I can put up a fight
+
+I think chat channel should be pretty clean anyway, is it feasible to put in a check for obsene language?   While I have no intention of censoring the mud, this  might be a nice angle for having folks censor themselves.
+
+Although we have many rules in place, the mud should be able to run itself
+for the most part when we are not there.  :-)
+Sluggo
+~
+
+Sender  Kale~
+Date    Fri Feb 14 11:57:02 2003~
+To      all~
+Subject Status ranges~
+Text
+Ok i'm gonna refine the status range stuff soon as i get back from work today
+(i actually got my security clearance so i can now do my job).  Make it so that only people less than
+10 status are safe from big guys, after that much you should know how to kill and run
+if not, too fuckin bad.
+~
+
+Sender  Kale~
+Date    Sat Feb 15 22:37:03 2003~
+To      all~
+Subject re:hack~
+Text
+Such is the fact when a good player picks any class.  It's something that has plague
+the godwars mud genre since its creation.  There are usually a handfull of players that
+know what they are doing, so which ever class they choose tends to be overpowered.
+All this simply because most of the mud refuses to admit that there might be some
+more tactics and such that they may need to learn.  Lord forbid someone admit to
+themselves that they arent as good as they think they are.
+~
+
+Sender  Ambient~
+Date    Sun Feb 16 01:12:22 2003~
+To      all~
+Subject Desperation~
+Text
+Please fix it soon!
+~
+
+Sender  Sluggo~
+Date    Mon Feb 17 01:19:32 2003~
+To      all~
+Subject links, trades, etc~
+Text
+Please use this note forum only for issues related to the mud.
+
+thanks,
+Sluggo
+~
+
+Sender  Gaud~
+Date    Tue Feb 18 00:21:08 2003~
+To      all~
+Subject Remort~
+Text
+with the whole remort thing, maybe there could be a damage multiplier? like every time you remort, your damage is multiplied by 1.1%, then 1.2%, then 1.3%, and so on
+~
+
+Sender  Kelogas~
+Date    Wed Feb 19 19:52:08 2003~
+To      kline~
+Subject the setup of Identifying items~
+Text
+I thought it'd be a cool idea to put why type of item the item is that you are id'ing..
+Like with essences and stuff.
+~
+
+Sender  Mortiphobia~
+Date    Wed Feb 19 21:49:21 2003~
+To      all~
+Subject Ambient Cheating~
+Text
+Sluggo's Chamber.
+Exits: none
+Dragon Ambient is here.
+Just thought you'd like to know he likes to hide in immland
+~
+
+Sender  Sluggo~
+Date    Thu Feb 27 01:23:24 2003~
+To      imm~
+Subject sandworms~
+Text
+Hey, can somebody please make some big sandworms for me to use in quests?
+If possible, 3 different sizes.
+Sandworm, Shai-Hulad, Shaitan.
+
+and possibly a big squid?
+
+
+later,
+~
+
+Sender  Kale~
+Date    Thu Feb 27 18:11:51 2003~
+To      all~
+Subject Hack~
+Text
+hack has been sitebanned, i tire of him skating around the rules.  Rule are a guide.
+not to be used as a shield, act like an ass you'll be dealt with as such
+~
+
+Sender  Kale~
+Date    Fri Feb 28 17:11:27 2003~
+To      all~
+Subject changes to the rules~
+Text
+be sure to re-read the first paragraph in the rules.  Make that read it, and understand it.
+~
+
+Sender  DasIch~
+Date    Mon Mar  3 01:55:23 2003~
+To      all~
+Subject Please!~
+Text
+I like the idea of notes.  I like the idea of passing information on to discuss stuff.. But, can people please stop using notes to whine about other players?
+Nobody wants to read it, I'm sure.  It just looks annoying, and I have a hard time deleting them from my show list..
+We all know this is a pKill mud.  Yeah, that means that some people are stronger than others.  This is a GAME above anything else.  Your char will die on occasion, maybe even Leorick =P
+Just accept it, get revenge.. But, c'mon.. Can't we all just get along (j/k).  The people on here can be a lot of fun, that's why I stay..  Everyone bitches sometimes (see this note)..
+But, if people constantly abuse the note system by trying to hurt other players, only bad things will come of it.  The note posting ability could be removed or something.  Plus, you'll just get on people's bad side... 
+I'm sorry this isn't formatted well, I'm not all that great with these things.. I just wanted to say that I like this mud, and just wish people would try to make it work more..
+Thanks, DasIch...
+~
+
+Sender  Kale~
+Date    Mon Mar  3 19:57:53 2003~
+To      all~
+Subject the note system~
+Text
+if people can't use the note system for what it's supposed to  (ideas, general information, notices)
+and not personal vendettas, whining, etc i'll bring back note trust.
+~
+
+Sender  Clayfoot~
+Date    Tue Mar  4 01:05:13 2003~
+To      darknight~
+Subject the info bar thingie...~
+Text
+Hey, I kinda gots a bit of a problem thingie... When I let you log antihope a while back, you changed the way the status bar looked, and now i don't know how to get it back to the normal way... Do you rememeber how?
+Hey, I kinda gots a bit of a problem thingie... When I let you log antihope a while back, you changed the way the status bar looked, and now i don't know how to get it back to the normal way... Do you rememeber how?
+sorry for the double header.. damn enter key..
+~
+
+Sender  Cloud~
+Date    Wed Mar  5 20:09:36 2003~
+To      all~
+Subject Bugged...~
+Text
+My damn dragon is bugged... I swear it is... 'Cause earlier today my stats like str were all 25...Right now they were all set back to 18...
+And I stopped aging... Now lately Sargatta and Amarant have been bugged... I've got em fixed... But this time I have no idea whats wrong... And it seems everytime I log Sargatta or Amarant I get bugged.
+~
+
+Sender  Kale~
+Date    Sun Mar  9 17:30:13 2003~
+To      all~
+Subject re:marriage~
+Text
+this is a pkmud, not a happy happy fluffy mud.  I took out marriage cuz it's highly lame
+and i always get complaints of people wanting to be divorced when they find out their new mud wife
+is not actually a woman.
+~
+
+Sender  Clayfoot~
+Date    Mon Mar 10 03:01:49 2003~
+To      all~
+Subject heterosexuality~
+Text
+yeah, marriages would be quite difficult to manage.  It would basically have to be a fight for which of the guys gets the ONE(?) female on this damn mud.. which would be me.  Of course, I have 3 chars (which may or may not be char'd female).. I still don't think that would actually satisfy the masses of men..
+ESPECIALLY since the lone female things the idea of online mud marriages is completely retarded, and wouldn't do it.. (unless perhaps for a super-nice set of armor - one that puts steel/diamond armor to shame..)
+Of course, the people in the mud could agree to be pretend married.. Call it "domestic partnership" and just be happy to be in homosexual relationships with eachother.  It would be one step forward in the equal treatment of gays in society.  Sadly, I don't think most of you guys would want that, though..
+Why the hell am I writing this note?
+~
+
+Sender  Cliff~
+Date    Mon Mar 10 10:58:07 2003~
+To      all~
+Subject global transporting~
+Text
+can we have cglobal porting/transporting placed bgack in the mud?
+~
+
+Sender  Blank~
+Date    Mon Mar 10 10:58:54 2003~
+To      all~
+Subject re: global transporting~
+Text
+good idea!
+~
+
+Sender  Sluggo~
+Date    Mon Mar 10 23:46:00 2003~
+To      clayfoot~
+Subject RE: heterosexuality~
+Text
+ROFL!!!   That was hilarious.
+~
+
+Sender  Pact~
+Date    Wed Mar 12 19:31:18 2003~
+To      all~
+Subject re: global transporting~
+Text
+What a slendid idea!
+~
+
+Sender  Sargatta~
+Date    Wed Mar 12 19:32:54 2003~
+To      all~
+Subject re: global transporting~
+Text
+i think thats a good idea too
+~
+
+Sender  Nostalgia~
+Date    Thu Mar 13 00:41:56 2003~
+To      all~
+Subject global transport~
+Text
+yeah give back class transporting travel!!! cool kickass!
+~
+
+Sender  Blank~
+Date    Thu Mar 13 16:19:08 2003~
+To      kline~
+Subject Sargatta Bugged~
+Text
+His discs are jacked up again :\
+~
+
+Sender  Amarant~
+Date    Thu Mar 13 16:23:04 2003~
+To      kline~
+Subject Sargatta Password~
+Text
+Blank logged Sargatta cause I capped him.  He's just like Hack.  Gets pissy cause he gets capped.  If won't be too much trouble, will you change it back?
+~
+
+Sender  Cloud~
+Date    Thu Mar 13 18:53:22 2003~
+To      kline~
+Subject forget about that~
+Text
+sorry...he did it for fun....jus bein the ass he is...
+~
+
+Sender  Kale~
+Date    Sat Mar 29 17:52:54 2003~
+To      all~
+Subject Who still plays~
+Text
+does anyone still play this mud, if not we're going to take it down and find something else to do with
+this space.
+~
+
+Sender  Sluggo~
+Date    Sun Mar 30 00:38:35 2003~
+To      imm~
+Subject alas...~
+Text
+I haven't seen anyone online in weeks!
+I'm afraid it may, in fact, be time to let it die... :-(
+Its a shame, but its been a long run and there were definite high points.
+~
+
+Sender  Corum~
+Date    Sun Mar 30 05:54:52 2003~
+To      all~
+Subject i do~
+Text
+i play but im often away for a week or so then back for a week.
+i tend to play in the mornings only too.
+please other people try the mornings.
+corum
+~
+
+Sender  Antihope~
+Date    Mon Mar 31 02:37:53 2003~
+To      all~
+Subject sometimes~
+Text
+I don't play that often as there are rarely people on.  I know.  I suck.  If more people came back and played, I would, too.
+Lately I just check to see if there are any new notes or other players still on.
+It would suck to watch the Vortex go down.  I'm not sure exactly why people stopped playing.
+That's my half a cent.. For what it's worth..
+~
+
+Sender  Antihope~
+Date    Mon Mar 31 02:39:26 2003~
+To      all~
+Subject on another note...~
+Text
+I just figured I'd send my regards out to anyone that's either in the military and shipping off, or anyone that knows people that are.
+The world is a fucked up place.  Dunno what else to say.
+~
+
+Sender  Malac~
+Date    Mon Mar 31 02:54:43 2003~
+To      all~
+Subject I'm still here~
+Text
+I still play
+~
+
+Sender  Nostalgia~
+Date    Mon Mar 31 02:58:20 2003~
+To      all~
+Subject I PLAY~
+Text
+Leorick/Darknight/Ambient and I still play here.
+~
+
+Sender  Leorick~
+Date    Mon Mar 31 03:22:52 2003~
+To      all~
+Subject I PLAY HERE~
+Text
+This mud is still cool
+~
+
+Sender  Cyroth~
+Date    Mon Mar 31 19:22:49 2003~
+To      all~
+Subject playing~
+Text
+I still play here once and awhile, which is MUCH less than I would like to play but due to stuff irl I have almost zero free time.
+I have enjoyed playin here and I just think that it would suck if this mud shuts down.
+-Cyroth
+~
+
+Sender  Wilfred~
+Date    Tue Apr  1 15:39:41 2003~
+To      all~
+Subject A good mud shouldn't go to waste.~
+Text
+As the title said, this mud shouldn't go to waste.
+All of you, be the immortals, have worked hard on this mud.
+It would be a lot of wasted hours. Don't let that happen.
+Look. You have some, although not a lot of old players.
+
+
+Start advertising the mud more. That's what you gotta do.
+Period. Try various boards, those that are popular in specifics.
+I know a few sites. The Mud Connector, which I'm sure
+we all know already. However, http://www.fark.com will get
+this mud a lot of hits. Just post a few times on there and I'm
+sure you'll get a lot of new players rolling in. I've seen it
+happen on other MUDs in the past. If you want players, post there.
+If you want even more players, post some where else.
+
+Advertising is the frickin' key to getting players!
+
+
+
+Sir Wilfred the first Slasher & Hacker.
+~
+

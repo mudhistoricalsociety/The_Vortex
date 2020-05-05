@@ -1,0 +1,3297 @@
+#AREA	Jarra - Tarwins Gap~
+22000
+22095
+
+#MOBILES
+#22000
+trolloc wolf muzzle~
+the wolf trolloc~
+A Trolloc with a wolf for a face looks for an easy kill
+~
+This Evil looking trolloc has the eyes
+of a wolf but the fangs look even more  
+dangerous
+~
+64 0 -1000 S
+62 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22001
+trolloc bear paws~
+the bear trolloc~
+A massive Trolloc with paws that of a bear walks here
+~
+Over 7 feet tall this massive trolloc is
+almost an exact look alike to a bear
+except for its human-like body
+~
+64 0 -1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22002
+trolloc hawk beak~
+the hawk trolloc~
+Screaching loudly a Trolloc with the beak of a hawk snips at you
+~
+With the beak of a hawk and the feathers
+of also the hawk this trolloc looks to
+frail and skinny to attempt to fly.
+~
+64 0 -1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22003
+fade dark ~
+the Fade~
+Standing still almost as if the wind moves away from him a Fade stands here
+~
+Looking into his eyes you realize you
+are overcome by fear.  Looking deeper
+you see nothing for this fade has no eyes
+of which for you to see his gaze and no
+face to see his expression.
+~
+64 0 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22004
+trolloc~
+the trolloc~
+A trolloc stands here waiting for invaders
+~
+A standard Trolloc stands here waiting  
+for fresh blood.
+~
+64 0 -1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22005
+Female Trolloc~
+the female trolloc~
+With the grunt of a man, a female Trolloc prepares to attack
+~
+Almost as if she were never meant to be
+born a women this Trolloc is ready for
+anything that comes her way.
+~
+64 0 -1000 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22006
+raven bird~
+the raven~
+A raven swoops overhead as an eye for the Fade.
+~
+Black probably to its core this Raven circles
+around you waiting for a chance to see
+you slip up.
+~
+64 524288 -1000 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22007
+rat~
+the rat~
+A rat scurries across the floor no doubt serving the same purpose as a Raven
+~
+A small rodent type creature with the
+ballz of an elephant.
+~
+64 0 -1000 S
+61 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22008
+aiel swordsmen aielmen~
+The Aiel Swordmen~
+An Aielmen from the spine of the world has come to battle the darkness
+~
+Dressed for desert use this Male Aielmen
+can be barely seen for its quickness.
+~
+64 65536 0 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22009
+aiel female swordsmen~
+The Female Aiel soilder~
+A Female Aielmen stands tall and proud ready to destroy the darkness
+~
+A female Aielmen with red hair and blue
+eyes catches your glaze as you feel your
+cheeks start to blush.
+~
+64 65536 0 S
+73 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22010
+darkfriend high lord~
+The Darkfriend~
+A Darkfriend dressed as only a High lord is stares at you.
+~
+Obviously this High lord has sold his
+soul for something even more.
+~
+64 0 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22011
+soldier seven towers~
+The Soldier~
+A Soldier from the long Forgotten Seven Towers stands here ready to fight
+~
+From the once forgotten land of the seven
+towers now overrun by the darkness he
+stands ready to give his life.
+~
+64 0 1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22012
+banner soldier~
+The Banner Soldier~
+A soldier dressed in fine armor waves a banner of his army high in the air
+~
+Dressed to bring fear into the enemy this
+soldier soul purpose is to bring hope
+into all the surrounding soldiers.
+~
+64 0 1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22013
+horsemen men soldier~
+The horsemen~
+A horseman who appearently lost his horse stands ready to battle on the ground
+~
+Looking like a lost cub from the pack a
+horsemen soldier stands ready for anything
+~
+64 0 1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22014
+darkfriend female servant~
+The Darkfriend~
+A Female Darkfriend dressed in servant clothes awaits to slit your throat
+~
+Dressed with torn clothing and a small
+dagger in her hand she has the look of
+a fade on her
+~
+64 0 -1000 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22015
+darkfriend mistress high lord~
+The Darkfriend~
+A Female Darkfriend with an elogant Dress glides infront of you
+~
+Even though her look my take your breath
+watch out because she'll be wanting to take your breath away...permanently
+~
+64 0 -1000 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#22016
+Darkfriend male stable boy~
+The Darkfriend~
+A Male Darkfriend is sulking around obviously dressed like a stable boy
+~
+Although he may just be a stable boy years
+of working hard labor has made him into  
+a strong tool of the darkness
+~
+64 0 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22017
+gryll monster~
+The Gryll~
+A Monster the size of a horse but with the look of a frog sits here waiting
+~
+Looking closer you realize it has Scales
+instead of skin and also it has 3 eyes
+of which it stares at you with
+~
+64 0 -1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22018
+Fal Dara soldier~
+The Fal Dara Soldier~
+A Fal Dara soldier lunges at the shadows obviously spooked
+~
+Certainly from Fal Dara this soldier has
+even the banner from the Fortress on his
+back.
+~
+64 0 1000 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22019
+Fal moran recruit back up soldier~
+The Fal Morian Soldier~
+A Fal Morian reserve soldiers looks around not knowing what to do
+~
+Wondering through the Blasted Land this  
+soldier has no clue whats going on.
+~
+64 0 1000 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22020
+horse fade ~
+The Fades Horse~
+A pure black horse trots towards you with more courage any mere man could muster
+~
+Watch out for the owner...he should be near
+~
+64 0 -1000 S
+68 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#22021
+horse soldier ~
+The Lone Horse~
+A horse runs around the battle field disoriented.
+~
+Looking at the horse you wonder where the
+owner is.  upon closer inspection you notice
+the fear in this animals eyes that you
+wish you could take away
+~
+64 0 1000 S
+72 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22022
+lancer soldier~
+The Lancer~
+A Lancer stands here ready to attack for his commander
+~
+Dressed in heavy thick armor this lancer
+may look like he is not of a threat but
+come near him and you might wish you had
+that thick of armor.
+~
+64 0 1000 S
+79 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#22023
+commander soldier~
+The Commander~
+The Commander to the soldier stands here barking out orders
+~
+Cut and dirtied from battle this commander
+takes his job seriously and will defend his lands honor with his death.
+~
+64 0 1000 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#22000
+Tarwin's Gap~
+Looking around you notice the mountains seem to open up to let you through.   
+Sounds of metal clanging and screams of death fill your ears as you feel an  
+uncontrolable excitment fill you.
+~
+0 0 2
+D0   
+~ 
+~ 
+0 -1 3584
+D2
+~
+~
+0 -1 22001
+S
+#22001
+Tarwin's Gap~
+Reaching further into this semi-valley, you see the ground start to darken.   
+Light around you seems to now shift into shadows.  Sounds of now long forgotten  
+battle ring throught the valley almost into you very soul.
+~
+0 4 2
+D0
+~
+~
+0 -1 22000
+D2
+~
+~
+0 -1 22002
+S
+#22002
+White Towers~
+Luming over you high white towers stretch high into the air.  Connecting  
+one tower to the next are what once used to be huge white walls but now are  
+half of there original size and have holes throught them.
+~
+0 0 2
+D0
+~
+~
+0 -1 22001
+D1
+~
+~
+0 -1 22003
+D2
+~
+~
+0 -1 22007
+D3
+~
+~
+0 -1 22005
+S
+#22003
+White Towers~
+Luming over you high white towers stretch high into the air.  Connecting  
+one tower to the next are what once used to be huge white walls but now are  
+half of there original size and have holes throught them.
+~
+0 0 2
+D1
+~
+~
+0 -1 22004
+D3
+~
+~
+0 -1 22002
+S
+#22004
+White Towers~
+Luming over you high white towers stretch high into the air.  Connecting  
+one tower to the next are what once used to be huge white walls but now are  
+half of there original size and have holes throught them.
+~
+0 0 2
+D3
+~
+~
+0 -1 22003
+S
+#22005
+White Towers~
+Luming over you high white towers stretch high into the air.  Connecting  
+one tower to the next are what once used to be huge white walls but now are  
+half of there original size and have holes throught them.
+~
+0 0 2
+D1
+~
+~
+0 -1 22002
+D3
+~
+~
+0 -1 22006
+S
+#22006
+White Towers~
+Luming over you high white towers stretch high into the air.  Connecting  
+one tower to the next are what once used to be huge white walls but now are  
+half of there original size and have holes throught them.
+~
+0 0 2
+D1
+~
+~
+0 -1 22005
+S
+#22007
+Beyond the White Towers~
+After passing the White Towers you feel the darkness creep closer towards you.   
+Soldiers scream can be heard ahead as open war seems to happen everyday here.   
+Glancing around blood is splattered on the ground everywhere.
+~
+0 0 2
+D0
+~
+~
+0 -1 22002
+D2
+~
+~
+0 -1 22008
+S
+#22008
+Flickers of Light~
+Walking further into the battle field you see the lights around you  
+dim and start to flicker.  Surrounding you high cliffs and mountains  
+black all transportation except in the immediate direction of North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22007
+D1
+~
+~
+0 -1 22009
+D2
+~
+~
+0 -1 22019
+D3
+~
+~
+0 -1 22010
+S
+#22009
+Dense Shrubbery~
+Surrounding around you is Shrubs as far as the eye can see.  It seems  
+that the shrubs continue even further on till they reach the Cliffs.   
+Looking around you, you notice a whole different kinda of battle directly  
+up from your position.
+~
+0 0 2
+D1
+~
+~
+0 -1 22015
+D2
+~
+~
+0 -1 22023
+D3
+~
+~
+0 -1 22008
+S
+#22010
+Dense Shrubbery~
+Surrounding around you is Shrubs as far as the eye can see.  It seems  
+that the shrubs continue even further on till they reach the Cliffs.   
+Looking around you, you notice a whole different kinda of battle directly  
+up from your position.
+~
+0 0 2
+D1
+~
+~
+0 -1 22008
+D2
+~
+~
+0 -1 22020
+D3
+~
+~
+0 -1 22011
+S
+#22011
+More Dense Shrubbery~
+Going Deeper into the shrubbery you come face to face with a sheer cliff face.   
+Spanning around you, you see the cliff face continue south.
+~
+0 0 2
+D1
+~
+~
+0 -1 22010
+D2
+~
+~
+0 -1 22012
+D4
+~
+~
+0 -1 22079
+S
+#22012
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at other  
+times you can almost make sense of the black marks as if they were a long  
+forgotten language.  The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22011
+D1
+~
+~
+0 -1 22020
+D2
+~
+~
+0 -1 22013
+S
+#22013
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22012
+D1
+~
+~
+0 -1 22021
+D2
+~
+~
+0 -1 22014
+S
+#22014
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22013
+D1
+~
+~
+0 -1 22022
+D2
+~
+~
+0 -1 22028
+S
+#22015
+More Dense Shrubbery~
+Going Deeper into the shrubbery you come face to face with a sheer cliff face.   
+Spanning around you, you see the cliff face continue south.
+~
+0 0 2
+D2
+~
+~
+0 -1 22016
+D3
+~
+~
+0 -1 22009
+S
+#22016
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22015
+D2
+~
+~
+0 -1 22017
+D3
+~
+~
+0 -1 22023
+S
+#22017
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22016
+D2
+~
+~
+0 -1 22018
+D3
+~
+~
+0 -1 22024
+S
+#22018
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22017
+D2
+~
+~
+0 -1 22052
+D3
+~
+~
+0 -1 22027
+S
+#22019
+Open Battlefield~
+Blood and Weapons are laid scattered around.  Aromas of Death and Decay  
+fill your nostrils as you feel your stomach try to leave your body.   
+Spinning rappidly around to stop the screaming and slaughter you seem to  
+stop and feel a calm come over you.
+~
+0 0 2
+D0
+~
+~
+0 -1 22008
+D1
+~
+~
+0 -1 22023
+D2
+~
+~
+0 -1 22025
+D3
+~
+~
+0 -1 22020
+S
+#22020
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22010
+D1
+~
+~
+0 -1 22019
+D2
+~
+~
+0 -1 22021
+D3
+~
+~
+0 -1 22012
+S
+#22021
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22020
+D1
+~
+~
+0 -1 22025
+D2
+~
+~
+0 -1 22022
+D3
+~
+~
+0 -1 22013
+S
+#22022
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22021
+D1
+~
+~
+0 -1 22026
+D2
+~
+~
+0 -1 22034
+D3
+~
+~
+0 -1 22014
+S
+#22023
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22009
+D1
+~
+~
+0 -1 22016
+D2
+~
+~
+0 -1 22024
+D3
+~
+~
+0 -1 22019
+D4
+~
+~
+0 -1 22067
+S
+#22024
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22023
+D1
+~
+~
+0 -1 22017
+D2
+~
+~
+0 -1 22027
+D3
+~
+~
+0 -1 22025
+S
+#22025
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22019
+D1
+~
+~
+0 -1 22024
+D2
+~
+~
+0 -1 22026
+D3
+~
+~
+0 -1 22021
+S
+#22026
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22025
+D1
+~
+~
+0 -1 22027
+D2
+~
+~
+0 -1 22035
+D3
+~
+~
+0 -1 22022
+S
+#22027
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22024
+D1
+~
+~
+0 -1 22018
+D2
+~
+~
+0 -1 22036
+D3
+~
+~
+0 -1 22026
+S
+#22028
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22014
+D1
+~
+~
+0 -1 22034
+D2
+~
+~
+0 -1 22029
+S
+#22029
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22028
+D1
+~
+~
+0 -1 22037
+D2
+~
+~
+0 -1 22030
+S
+#22030
+Hole in the Cliff~
+While tracing your hand along you notice all of a sudden your hand goes in.   
+While all it looks like is a cliff face you put you hand back on the cliff  
+and it once again just goes through.   
+The Cliff Face still continues north and south.
+~
+0 0 2
+D0
+~
+~
+0 -1 22029
+D1
+~
+~
+0 -1 22042
+D2
+~
+~
+0 -1 22031
+S
+#22031
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they  
+were a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22030
+D1
+~
+~
+0 -1 22043
+D2
+~
+~
+0 -1 22032
+S
+#22032
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they  
+were a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22031
+D1
+~
+~
+0 -1 22044
+D2
+~
+~
+0 -1 22033
+S
+#22033
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they  
+were a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22032
+D1
+~
+~
+0 -1 22045
+S
+#22034
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22022
+D1
+~
+~
+0 -1 22035
+D2
+~
+~
+0 -1 22037
+D3
+~
+~
+0 -1 22028
+S
+#22035
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22026
+D1
+~
+~
+0 -1 22036
+D2
+~
+~
+0 -1 22038
+D3
+~
+~
+0 -1 22034
+S
+#22036
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22027
+D1
+~
+~
+0 -1 22052
+D2
+~
+~
+0 -1 22039
+D3
+~
+~
+0 -1 22035
+S
+#22037
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22034
+D1
+~
+~
+0 -1 22038
+D2
+~
+~
+0 -1 22042
+D3
+~
+~
+0 -1 22029
+S
+#22038
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22035
+D1
+~
+~
+0 -1 22039
+D2
+~
+~
+0 -1 22041
+D3
+~
+~
+0 -1 22037
+S
+#22039
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22036
+D1
+~
+~
+0 -1 22053
+D2
+~
+~
+0 -1 22040
+D3
+~
+~
+0 -1 22038
+S
+#22040
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22039
+D1
+~
+~
+0 -1 22054
+D2
+~
+~
+0 -1 22049
+D3
+~
+~
+0 -1 22041
+S
+#22041
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22038
+D1
+~
+~
+0 -1 22040
+D2
+~
+~
+0 -1 22050
+D3
+~
+~
+0 -1 22042
+S
+#22042
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22037
+D1
+~
+~
+0 -1 22041
+D2
+~
+~
+0 -1 22043
+D3
+~
+~
+0 -1 22030
+S
+#22043
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22042
+D2
+~
+~
+0 -1 22044
+D3
+~
+~
+0 -1 22031
+S
+#22044
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22043
+D1
+~
+~
+0 -1 22051
+D2
+~
+~
+0 -1 22045
+D3
+~
+~
+0 -1 22032
+S
+#22045
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22044
+D1
+~
+~
+0 -1 22046
+D3
+~
+~
+0 -1 22033
+S
+#22046
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22051
+D1
+~
+~
+0 -1 22047
+D2
+~
+~
+0 -1 22058
+D3
+~
+~
+0 -1 22045
+S
+#22047
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22048
+D1
+~
+~
+0 -1 22057
+D3
+~
+~
+0 -1 22046
+S
+#22048
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22049
+D1
+~
+~
+0 -1 22056
+D2
+~
+~
+0 -1 22047
+D3
+~
+~
+0 -1 22051
+S
+#22049
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22040
+D1
+~
+~
+0 -1 22055
+D2
+~
+~
+0 -1 22048
+D3
+~
+~
+0 -1 22050
+S
+#22050
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22041
+D1
+~
+~
+0 -1 22049
+D2
+~
+~
+0 -1 22051
+S
+#22051
+Open Battlefield~
+Surrounding you weapons and blood mark each mans grave in a strange  
+twist of fate.  Slaughter and Murder can be heard further down south  
+as you feel yourself start to tremble for the thought of why people  
+would do this to eachother.
+~
+0 0 2
+D0
+~
+~
+0 -1 22050
+D1
+~
+~
+0 -1 22048
+D2
+~
+~
+0 -1 22046
+D3
+~
+~
+0 -1 22044
+S
+#22052
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22018
+D2
+~
+~
+0 -1 22053
+D3
+~
+~
+0 -1 22036
+S
+#22053
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22052
+D2
+~
+~
+0 -1 22054
+D3
+~
+~
+0 -1 22039
+S
+#22054
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22053
+D2
+~
+~
+0 -1 22055
+D3
+~
+~
+0 -1 22040
+S
+#22055
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they  
+were a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22054
+D2
+~
+~
+0 -1 22056
+D3
+~
+~
+0 -1 22049
+S
+#22056
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22055
+D2
+~
+~
+0 -1 22057
+D3
+~
+~
+0 -1 22048
+S
+#22057
+Cliff Face~
+Tracing your hand across the cliff you feel every noke and cranny.   
+Parts have been cut off and black marks cover this wall.  It seems at  
+other times you can almost make sense of the black marks as if they were  
+a long forgotten language.
+The Cliff face continues North and South.
+~
+0 0 2
+D0
+~
+~
+0 -1 22056
+D3
+~
+~
+0 -1 22047
+S
+#22058
+Fields of Sand~
+Grass quickly starts to die underneath you.  Each step is as if it  
+were 200 paces.  Blood still lingers on the ground here followed by  
+little patches of plants that seem to almost thrive from the spilt blood.
+~
+0 0 2
+D0
+~
+~
+0 -1 22046
+D2
+~
+~
+0 -1 22059
+S
+#22059
+Entrance to the Blasted Lands~
+Sands cover the ground as if a sea once flowed beautifully around this  
+area.  All existence of what was once to be is gone now, replaced by  
+skeletons and death all around.
+~
+0 0 10
+D0
+~
+~
+0 -1 22058
+D1
+~
+~
+0 -1 22060
+D2
+~
+~
+0 -1 22068
+D3
+~
+~
+0 -1 22081
+S
+#22060
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 22061
+D2
+~
+~
+0 -1 22067
+D3
+~
+~
+0 -1 22059
+S
+#22061
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D1
+~
+~
+0 -1 22062
+D2
+~
+~
+0 -1 22066
+D3
+~
+~
+0 -1 22060
+S
+#22062
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D1
+~
+~
+0 -1 22063
+D2
+~
+~
+0 -1 22065
+D3
+~
+~
+0 -1 22061
+S
+#22063
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D2
+~
+~
+0 -1 22064
+D3
+~
+~
+0 -1 22062
+S
+#22064
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22063
+D2
+~
+~
+0 -1 22069
+D3
+~
+~
+0 -1 22065
+S
+#22065
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22062
+D1
+~
+~
+0 -1 22064
+D2
+~
+~
+0 -1 22075
+D3
+~
+~
+0 -1 22066
+S
+#22066
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22061
+D1
+~
+~
+0 -1 22065
+D2
+~
+~
+0 -1 22076
+D3
+~
+~
+0 -1 22067
+S
+#22067
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22060
+D1
+~
+~
+0 -1 22066
+D2
+~
+~
+0 -1 22077
+D3
+~
+~
+0 -1 22068
+S
+#22068
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22059
+D1
+~
+~
+0 -1 22067
+D2
+~
+~
+0 -1 22078
+D3
+~
+~
+0 -1 22086
+S
+#22069
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22064
+D2
+~
+~
+0 -1 22070
+D3
+~
+~
+0 -1 22075
+S
+#22070
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22069
+D3
+~
+~
+0 -1 22071
+S
+#22071
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22075
+D1
+~
+~
+0 -1 22070
+D3
+~
+~
+0 -1 22072
+S
+#22072
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22076
+D1
+~
+~
+0 -1 22071
+D3
+~
+~
+0 -1 22073
+S
+#22073
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22077
+D1
+~
+~
+0 -1 22072
+D3
+~
+~
+0 -1 22074
+S
+#22074
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22078
+D1
+~
+~
+0 -1 22073
+D3
+~
+~
+0 -1 22091
+S
+#22075
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22065
+D1
+~
+~
+0 -1 22069
+D2
+~
+~
+0 -1 22071
+D3
+~
+~
+0 -1 22076
+S
+#22076
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22066
+D1
+~
+~
+0 -1 22075
+D2
+~
+~
+0 -1 22072
+D3
+~
+~
+0 -1 22077
+S
+#22077
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22067
+D1
+~
+~
+0 -1 22076
+D2
+~
+~
+0 -1 22073
+D3
+~
+~
+0 -1 22078
+S
+#22078
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22068
+D1
+~
+~
+0 -1 22077
+D2
+~
+~
+0 -1 22074
+D3
+~
+~
+0 -1 22087
+S
+#22079
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 22081
+D2
+~
+~
+0 -1 22085
+D3
+~
+~
+0 -1 22080
+S
+#22080
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D1
+~
+~
+0 -1 22079
+D2
+~
+~
+0 -1 22084
+D3
+~
+~
+0 -1 22082
+S
+#22081
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D1
+~
+~
+0 -1 22059
+D2
+~
+~
+0 -1 22086
+D3
+~
+~
+0 -1 22079
+S
+#22082
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D1
+~
+~
+0 -1 22080
+D2
+~
+~
+0 -1 22083
+S
+#22083
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22082
+D1
+~
+~
+0 -1 22084
+D2
+~
+~
+0 -1 22090
+S
+#22084
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22080
+D1
+~
+~
+0 -1 22085
+D2
+~
+~
+0 -1 22089
+D3
+~
+~
+0 -1 22083
+S
+#22085
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22079
+D1
+~
+~
+0 -1 22086
+D2
+~
+~
+0 -1 22088
+D3
+~
+~
+0 -1 22084
+S
+#22086
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22081
+D1
+~
+~
+0 -1 22068
+D2
+~
+~
+0 -1 22087
+D3
+~
+~
+0 -1 22085
+S
+#22087
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22086
+D1
+~
+~
+0 -1 22078
+D2
+~
+~
+0 -1 22091
+D3
+~
+~
+0 -1 22088
+S
+#22088
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22085
+D1
+~
+~
+0 -1 22087
+D2
+~
+~
+0 -1 22092
+D3
+~
+~
+0 -1 22089
+S
+#22089
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22084
+D1
+~
+~
+0 -1 22088
+D2
+~
+~
+0 -1 22093
+D3
+~
+~
+0 -1 22090
+S
+#22090
+Blasted Lands~
+War and battles still endure even in this deadly enviroment.  Screams  
+almost to be unhuman can still be heard coming from what now seems to  
+be all around.  Horrid monsters and soldiers seem to almost poor from  
+the south.
+~
+0 0 10
+D0
+~
+~
+0 -1 22083
+D1
+~
+~
+0 -1 22089
+D2
+~
+~
+0 -1 22094
+S
+#22091
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22087
+D1
+~
+~
+0 -1 22074
+D3
+~
+~
+0 -1 22092
+S
+#22092
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of rock.   
+Looking up you notice that this wall spans up further then the eye can see.   
+In awe you find yourself staring at this rock wall for a long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22088
+D1
+~
+~
+0 -1 22091
+D3
+~
+~
+0 -1 22093
+S
+#22093
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22089
+D1
+~
+~
+0 -1 22092
+D3
+~
+~
+0 -1 22094
+S
+#22094
+Rock Wall~
+Almost as if you never saw it from far off you come to a huge wall of  
+rock.  Looking up you notice that this wall spans up further then the  
+eye can see.  In awe you find yourself staring at this rock wall for a  
+long time.
+~
+0 0 10
+D0
+~
+~
+0 -1 22090
+D1
+~
+~
+0 -1 22093
+S
+#0
+
+
+#RESETS
+*
+M 1 22022 10 22000			The Lancer to Tarwin's Gap
+*
+M 1 22022 10 22000			The Lancer to Tarwin's Gap
+*
+M 1 22022 10 22000			The Lancer to Tarwin's Gap
+*
+M 1 22022 10 22000			The Lancer to Tarwin's Gap
+*
+M 1 22022 10 22001			The Lancer to A room
+*
+M 1 22022 10 22001			The Lancer to A room
+*
+M 1 22011 10 22001			The Soldier to A room
+*
+M 1 22012 10 22001			The Banner Soldier to A room
+*
+M 1 22013 10 22001			The horsemen to A room
+*
+M 1 22023 10 22004			The Commander to White Towers
+*
+M 1 22018 10 22004			The Fal Dara Soldier to White Towers
+*
+M 1 22018 10 22004			The Fal Dara Soldier to White Towers
+*
+M 1 22019 10 22004			The Fal Morian Soldier to White Towers
+*
+M 1 22019 10 22004			The Fal Morian Soldier to White Towers
+*
+M 1 22006 10 22003			the raven to White Towers
+*
+M 1 22012 10 22003			The Banner Soldier to White Towers
+*
+M 1 22011 10 22003			The Soldier to White Towers
+*
+M 1 22011 10 22003			The Soldier to White Towers
+*
+M 1 22022 10 22003			The Lancer to White Towers
+*
+M 1 22023 10 22002			The Commander to White Towers
+*
+M 1 22022 10 22002			The Lancer to White Towers
+*
+M 1 22022 10 22002			The Lancer to White Towers
+*
+M 1 22022 10 22002			The Lancer to White Towers
+*
+M 1 22022 10 22002			The Lancer to White Towers
+*
+M 1 22013 8 22006			The horsemen to White Towers
+*
+M 1 22011 8 22006			The Soldier to White Towers
+*
+M 1 22011 8 22006			The Soldier to White Towers
+*
+M 1 22011 8 22006			The Soldier to White Towers
+*
+M 1 22011 8 22006			The Soldier to White Towers
+*
+M 1 22022 8 22007
+*
+M 1 22021 8 22007
+*
+M 1 22022 8 22007			The Lancer to Beyond the White Towers
+*
+M 1 22021 8 22007			The Lone Horse to Beyond the White Towers
+*
+M 1 22011 8 22007			The Soldier to Beyond the White Towers
+*
+M 1 22011 8 22007			The Soldier to Beyond the White Towers
+*
+M 1 22011 8 22007			The Soldier to Beyond the White Towers
+*
+M 1 22013 8 22008			The horsemen to A room
+*
+M 1 22022 8 22008			The Lancer to A room
+*
+M 1 22022 8 22008			The Lancer to A room
+*
+M 1 22021 8 22008			The Lone Horse to A room
+*
+M 1 22021 8 22008			The Lone Horse to A room
+*
+M 1 22008 8 22010
+*
+M 1 22009 8 22009			The Female Aiel soilder to Dense Shrubbery
+*
+M 1 22008 8 22009			The Aiel Swordmen to Dense Shrubbery
+*
+M 1 22019 8 22009			The Fal Morian Soldier to Dense Shrubbery
+*
+M 1 22012 8 22009			The Banner Soldier to Dense Shrubbery
+*
+M 1 22009 8 22009			The Female Aiel soilder to Dense Shrubbery
+*
+M 1 22018 8 22010			The Fal Dara Soldier to Dense Shrubbery
+*
+M 1 22008 8 22010			The Aiel Swordmen to Dense Shrubbery
+*
+M 1 22009 8 22010			The Female Aiel soilder to Dense Shrubbery
+*
+M 1 22008 8 22010			The Aiel Swordmen to Dense Shrubbery
+*
+M 1 22009 8 22010			The Female Aiel soilder to Dense Shrubbery
+*
+M 1 22014 8 22014			The Darkfriend to Cliff Face
+*
+M 1 22003 8 22014			the Fade to Cliff Face
+*
+M 1 22000 8 22014			the wolf trolloc to Cliff Face
+*
+M 1 22019 8 22014			The Fal Morian Soldier to Cliff Face
+*
+M 1 22023 8 22014			The Commander to Cliff Face
+*
+M 1 22005 8 22013			the female trolloc to Cliff Face
+*
+M 1 22004 8 22013			the trolloc to Cliff Face
+*
+M 1 22008 8 22013			The Aiel Swordmen to Cliff Face
+*
+M 1 22018 8 22013			The Fal Dara Soldier to Cliff Face
+*
+M 1 22019 8 22013			The Fal Morian Soldier to Cliff Face
+*
+M 1 22020 8 22012			The Fades Horse to Cliff Face
+*
+M 1 22003 8 22012			the Fade to Cliff Face
+*
+M 1 22012 8 22012			The Banner Soldier to Cliff Face
+*
+M 1 22011 8 22012			The Soldier to Cliff Face
+*
+M 1 22011 8 22012			The Soldier to Cliff Face
+*
+M 1 22021 8 22011			The Lone Horse to More Dense Shrubbery
+*
+M 1 22009 8 22011			The Female Aiel soilder to More Dense Shrubbery
+*
+M 1 22008 8 22011			The Aiel Swordmen to More Dense Shrubbery
+*
+M 1 22010 8 22011			The Darkfriend to More Dense Shrubbery
+*
+M 1 22008 8 22015			The Aiel Swordmen to More Dense Shrubbery
+*
+M 1 22009 8 22015			The Female Aiel soilder to More Dense Shrubbery
+*
+M 1 22007 8 22015			the rat to More Dense Shrubbery
+*
+M 1 22000 8 22015			the wolf trolloc to More Dense Shrubbery
+*
+M 1 22003 8 22016			the Fade to Cliff Face
+*
+M 1 22005 8 22016			the female trolloc to Cliff Face
+*
+M 1 22000 8 22016			the wolf trolloc to Cliff Face
+*
+M 1 22000 8 22016			the wolf trolloc to Cliff Face
+*
+M 1 22001 8 22016			the bear trolloc to Cliff Face
+*
+M 1 22014 8 22017			The Darkfriend to Cliff Face
+*
+M 1 22015 8 22017			The Darkfriend to Cliff Face
+*
+M 1 22016 8 22017			The Darkfriend to Cliff Face
+*
+M 1 22010 8 22017			The Darkfriend to Cliff Face
+*
+M 1 22023 8 22018			The Commander to Cliff Face
+*
+M 1 22021 8 22018			The Lone Horse to Cliff Face
+*
+M 1 22016 8 22018			The Darkfriend to Cliff Face
+*
+M 1 22017 8 22018			The Gryll to Cliff Face
+*
+M 1 22020 8 22018			The Fades Horse to Cliff Face
+*
+M 1 22006 8 22019			the raven to Open Battle Field
+*
+M 1 22007 8 22019			the rat to Open Battle Field
+*
+M 1 22011 8 22019			The Soldier to Open Battle Field
+*
+M 1 22015 8 22019			The Darkfriend to Open Battle Field
+*
+M 1 22016 8 22020			The Darkfriend to Open Battle Field
+*
+M 1 22017 8 22020			The Gryll to Open Battle Field
+*
+M 1 22023 8 22020			The Commander to Open Battle Field
+*
+M 1 22022 8 22020			The Lancer to Open Battle Field
+*
+M 1 22020 8 22020			The Fades Horse to Open Battle Field
+*
+M 1 22002 8 22021			the hawk trolloc to Open Battle Field
+*
+M 1 22001 8 22021			the bear trolloc to Open Battle Field
+*
+M 1 22005 8 22021			the female trolloc to Open Battle Field
+*
+M 1 22004 8 22021			the trolloc to Open Battle Field
+*
+M 1 22004 8 22022			the trolloc to Open Battlefield
+*
+M 1 22001 8 22022			the bear trolloc to Open Battlefield
+*
+M 1 22000 8 22022			the wolf trolloc to Open Battlefield
+*
+M 1 22001 8 22023			the bear trolloc to Open Battlefield
+*
+M 1 22005 8 22023			the female trolloc to Open Battlefield
+*
+M 1 22009 8 22023			The Female Aiel soilder to Open Battlefield
+*
+M 1 22008 8 22023			The Aiel Swordmen to Open Battlefield
+*
+M 1 22012 8 22023			The Banner Soldier to Open Battlefield
+*
+M 1 22003 8 22024			the Fade to Open Battlefield
+*
+M 1 22011 8 22024			The Soldier to Open Battlefield
+*
+M 1 22015 8 22024			The Darkfriend to Open Battlefield
+*
+M 1 22016 8 22024			The Darkfriend to Open Battlefield
+*
+M 1 22017 8 22024			The Gryll to Open Battlefield
+*
+M 1 22004 8 22025			the trolloc to Open Battlefield
+*
+M 1 22005 8 22025			the female trolloc to Open Battlefield
+*
+M 1 22006 8 22025			the raven to Open Battlefield
+*
+M 1 22013 8 22025			The horsemen to Open Battlefield
+*
+M 1 22011 8 22025			The Soldier to Open Battlefield
+*
+M 1 22003 8 22026			the Fade to Open Battlefield
+*
+M 1 22002 8 22026			the hawk trolloc to Open Battlefield
+*
+M 1 22001 8 22026			the bear trolloc to Open Battlefield
+*
+M 1 22000 8 22026			the wolf trolloc to Open Battlefield
+*
+M 1 22004 8 22026			the trolloc to Open Battlefield
+*
+M 1 22014 8 22027			The Darkfriend to Open Battlefield
+*
+M 1 22023 8 22027			The Commander to Open Battlefield
+*
+M 1 22022 8 22027			The Lancer to Open Battlefield
+*
+M 1 22011 8 22027			The Soldier to Open Battlefield
+*
+M 1 22022 8 22028			The Lancer to Cliff Face
+*
+M 1 22022 8 22028			The Lancer to Cliff Face
+*
+M 1 22022 8 22028			The Lancer to Cliff Face
+*
+M 1 22023 8 22028			The Commander to Cliff Face
+*
+M 1 22021 8 22028			The Lone Horse to Cliff Face
+*
+M 1 22012 8 22029			The Banner Soldier to Cliff Face
+*
+M 1 22016 8 22029			The Darkfriend to Cliff Face
+*
+M 1 22017 8 22029			The Gryll to Cliff Face
+*
+M 1 22008 8 22030			The Aiel Swordmen to Hole in the Cliff
+*
+M 1 22008 8 22030			The Aiel Swordmen to Hole in the Cliff
+*
+M 1 22009 8 22030			The Female Aiel soilder to Hole in the Cliff
+*
+M 1 22009 8 22031			The Female Aiel soilder to Cliff Face
+*
+M 1 22008 8 22031			The Aiel Swordmen to Cliff Face
+*
+M 1 22008 8 22031			The Aiel Swordmen to Cliff Face
+*
+M 1 22013 8 22032			The horsemen to Cliff Face
+*
+M 1 22010 8 22032			The Darkfriend to Cliff Face
+*
+M 1 22002 8 22032			the hawk trolloc to Cliff Face
+*
+M 1 22000 8 22032			the wolf trolloc to Cliff Face
+*
+M 1 22003 8 22033			the Fade to Cliff Face
+*
+M 1 22006 8 22033			the raven to Cliff Face
+*
+M 1 22007 8 22033			the rat to Cliff Face
+*
+M 1 22005 8 22034			the female trolloc to Open Battlefield
+*
+M 1 22006 8 22034			the raven to Open Battlefield
+*
+M 1 22007 8 22034			the rat to Open Battlefield
+*
+M 1 22014 8 22035			The Darkfriend to Open Battlefield
+*
+M 1 22015 8 22035			The Darkfriend to Open Battlefield
+*
+M 1 22012 8 22036			The Banner Soldier to Open Battlefield
+*
+M 1 22011 8 22036			The Soldier to Open Battlefield
+*
+M 1 22011 8 22036			The Soldier to Open Battlefield
+*
+M 1 22009 8 22037			The Female Aiel soilder to Open Battlefield
+*
+M 1 22008 8 22037			The Aiel Swordmen to Open Battlefield
+*
+M 1 22008 8 22037			The Aiel Swordmen to Open Battlefield
+*
+M 1 22013 8 22038			The horsemen to Open Battlefield
+*
+M 1 22021 8 22038			The Lone Horse to Open Battlefield
+*
+M 1 22020 8 22038			The Fades Horse to Open Battlefield
+*
+M 1 22003 8 22038			the Fade to Open Battlefield
+*
+M 1 22023 8 22039			The Commander to Open Battlefield
+*
+M 1 22022 8 22039			The Lancer to Open Battlefield
+*
+M 1 22022 8 22039			The Lancer to Open Battlefield
+*
+M 1 22022 8 22039			The Lancer to Open Battlefield
+*
+M 1 22001 8 22040			the bear trolloc to Open Battlefield
+*
+M 1 22001 8 22040			the bear trolloc to Open Battlefield
+*
+M 1 22002 8 22040			the hawk trolloc to Open Battlefield
+*
+M 1 22000 8 22040			the wolf trolloc to Open Battlefield
+*
+M 1 22004 8 22041			the trolloc to Open Battlefield
+*
+M 1 22007 8 22041			the rat to Open Battlefield
+*
+M 1 22006 8 22041			the raven to Open Battlefield
+*
+M 1 22000 8 22041			the wolf trolloc to Open Battlefield
+*
+M 1 22005 8 22042			the female trolloc to Open Battlefield
+*
+M 1 22001 8 22042			the bear trolloc to Open Battlefield
+*
+M 1 22000 8 22042			the wolf trolloc to Open Battlefield
+*
+M 1 22003 8 22042			the Fade to Open Battlefield
+*
+M 1 22001 8 22043			the bear trolloc to Open Battlefield
+*
+M 1 22012 8 22043			The Banner Soldier to Open Battlefield
+*
+M 1 22011 8 22043			The Soldier to Open Battlefield
+*
+M 1 22012 8 22043			The Banner Soldier to Open Battlefield
+*
+M 1 22018 8 22044			The Fal Dara Soldier to Open Battlefield
+*
+M 1 22018 8 22044			The Fal Dara Soldier to Open Battlefield
+*
+M 1 22019 8 22044			The Fal Morian Soldier to Open Battlefield
+*
+M 1 22019 8 22044			The Fal Morian Soldier to Open Battlefield
+*
+M 1 22014 8 22045			The Darkfriend to Open Battlefield
+*
+M 1 22017 8 22045			The Gryll to Open Battlefield
+*
+M 1 22020 8 22045			The Fades Horse to Open Battlefield
+*
+M 1 22001 8 22045			the bear trolloc to Open Battlefield
+*
+M 1 22003 8 22046			the Fade to Open Battlefield
+*
+M 1 22009 8 22046			The Female Aiel soilder to Open Battlefield
+*
+M 1 22008 8 22046			The Aiel Swordmen to Open Battlefield
+*
+M 1 22007 8 22046			the rat to Open Battlefield
+*
+M 1 22015 8 22047			The Darkfriend to Open Battlefield
+*
+M 1 22017 8 22047			The Gryll to Open Battlefield
+*
+M 1 22003 8 22047			the Fade to Open Battlefield
+*
+M 1 22023 8 22047			The Commander to Open Battlefield
+*
+M 1 22004 8 22048			the trolloc to Open Battlefield
+*
+M 1 22007 8 22048			the rat to Open Battlefield
+*
+M 1 22006 8 22048			the raven to Open Battlefield
+*
+M 1 22006 8 22048			the raven to Open Battlefield
+*
+M 1 22008 8 22049			The Aiel Swordmen to Open Battlefield
+*
+M 1 22009 8 22049			The Female Aiel soilder to Open Battlefield
+*
+M 1 22009 8 22049			The Female Aiel soilder to Open Battlefield
+*
+M 1 22009 8 22049			The Female Aiel soilder to Open Battlefield
+*
+M 1 22018 8 22050			The Fal Dara Soldier to Open Battlefield
+*
+M 1 22004 8 22050			the trolloc to Open Battlefield
+*
+M 1 22003 8 22050			the Fade to Open Battlefield
+*
+M 1 22000 8 22050			the wolf trolloc to Open Battlefield
+*
+M 1 22011 8 22051			The Soldier to Open Battlefield
+*
+M 1 22012 8 22051			The Banner Soldier to Open Battlefield
+*
+M 1 22011 8 22051			The Soldier to Open Battlefield
+*
+M 1 22023 8 22051			The Commander to Open Battlefield
+*
+M 1 22011 8 22005			The Soldier to White Towers
+*
+M 1 22011 8 22005			The Soldier to White Towers
+*
+M 1 22022 8 22005			The Lancer to White Towers
+*
+M 1 22022 8 22005			The Lancer to White Towers
+*
+M 1 22007 8 22052			the rat to Cliff Face
+*
+M 1 22021 8 22052			The Lone Horse to Cliff Face
+*
+M 1 22023 8 22052			The Commander to Cliff Face
+*
+M 1 22011 8 22052			The Soldier to Cliff Face
+*
+M 1 22011 8 22052			The Soldier to Cliff Face
+*
+M 1 22001 8 22053			the bear trolloc to Cliff Face
+*
+M 1 22000 8 22053			the wolf trolloc to Cliff Face
+*
+M 1 22002 8 22053			the hawk trolloc to Cliff Face
+*
+M 1 22003 8 22053			the Fade to Cliff Face
+*
+M 1 22003 8 22053			the Fade to Cliff Face
+*
+M 1 22011 8 22054			The Soldier to Cliff Face
+*
+M 1 22011 8 22054			The Soldier to Cliff Face
+*
+M 1 22022 8 22054			The Lancer to Cliff Face
+*
+M 1 22022 8 22054			The Lancer to Cliff Face
+*
+M 1 22021 8 22054			The Lone Horse to Cliff Face
+*
+M 1 22005 8 22055			the female trolloc to Cliff Face
+*
+M 1 22006 8 22055			the raven to Cliff Face
+*
+M 1 22007 8 22055			the rat to Cliff Face
+*
+M 1 22013 8 22055			The horsemen to Cliff Face
+*
+M 1 22013 8 22055			The horsemen to Cliff Face
+*
+M 1 22013 8 22056			The horsemen to Cliff Face
+*
+M 1 22012 8 22056			The Banner Soldier to Cliff Face
+*
+M 1 22020 8 22056			The Fades Horse to Cliff Face
+*
+M 1 22003 8 22056			the Fade to Cliff Face
+*
+M 1 22023 8 22056			The Commander to Cliff Face
+*
+M 1 22005 8 22057			the female trolloc to Cliff Face
+*
+M 1 22004 8 22057			the trolloc to Cliff Face
+*
+M 1 22018 8 22057			The Fal Dara Soldier to Cliff Face
+*
+M 1 22019 8 22057			The Fal Morian Soldier to Cliff Face
+*
+M 1 22018 8 22057			The Fal Dara Soldier to Cliff Face
+*
+M 1 22022 8 22058			The Lancer to Fields of Sand
+*
+M 1 22022 8 22058			The Lancer to Fields of Sand
+*
+M 1 22009 8 22058			The Female Aiel soilder to Fields of Sand
+*
+M 1 22017 8 22058			The Gryll to Fields of Sand
+*
+M 1 22017 8 22058			The Gryll to Fields of Sand
+*
+M 1 22003 8 22059			the Fade to Entrance to the Blasted Lands
+*
+M 1 22003 8 22059			the Fade to Entrance to the Blasted Lands
+*
+M 1 22011 8 22059			The Soldier to Entrance to the Blasted Lands
+*
+M 1 22001 8 22059			the bear trolloc to Entrance to the Blasted Lands
+*
+M 1 22002 8 22059			the hawk trolloc to Entrance to the Blasted Lands
+*
+M 1 22000 8 22060			the wolf trolloc to Blasted Lands
+*
+M 1 22002 8 22060			the hawk trolloc to Blasted Lands
+*
+M 1 22001 8 22060			the bear trolloc to Blasted Lands
+*
+M 1 22003 8 22060			the fade to Blasted Lands
+*
+M 1 22004 8 22060			the trolloc to Blasted Lands
+*
+M 1 22005 8 22061			the female trolloc to Blasted Lands
+*
+M 1 22006 8 22061			the raven to Blasted Lands
+*
+M 1 22008 8 22061			The Aiel Swordmen to Blasted Lands
+*
+M 1 22008 8 22061			The Aiel Swordmen to Blasted Lands
+*
+M 1 22007 8 22061			the rat to Blasted Lands
+*
+M 1 22014 8 22062			The Darkfriend to Blasted Lands
+*
+M 1 22010 8 22062			The Darkfriend to Blasted Lands
+*
+M 1 22015 8 22062			The Darkfriend to Blasted Lands
+*
+M 1 22016 8 22062			The Darkfriend to Blasted Lands
+*
+M 1 22017 8 22063			The Gryll to Blasted Lands
+*
+M 1 22020 8 22063			The Fades Horse to Blasted Lands
+*
+M 1 22003 8 22063			the Fade to Blasted Lands
+*
+M 1 22010 8 22063			The Darkfriend to Blasted Lands
+*
+M 1 22001 8 22063			the bear trolloc to Blasted Lands
+*
+M 1 22002 8 22064			the hawk trolloc to Blasted Lands
+*
+M 1 22000 8 22064			the wolf trolloc to Blasted Lands
+*
+M 1 22005 8 22064			the female trolloc to Blasted Lands
+*
+M 1 22009 8 22064			The Female Aiel soilder to Blasted Lands
+*
+M 1 22008 8 22064			The Aiel Swordmen to Blasted Lands
+*
+M 1 22018 8 22065			The Fal Dara Soldier to Blasted Lands
+*
+M 1 22023 8 22065			The Commander to Blasted Lands
+*
+M 1 22023 8 22065			The Commander to Blasted Lands
+*
+M 1 22022 8 22065			The Lancer to Blasted Lands
+*
+M 1 22022 8 22065			The Lancer to Blasted Lands
+*
+M 1 22004 8 22066			the trolloc to Blasted Lands
+*
+M 1 22000 8 22066			the wolf trolloc to Blasted Lands
+*
+M 1 22002 8 22066			the hawk trolloc to Blasted Lands
+*
+M 1 22001 8 22066			the bear trolloc to Blasted Lands
+*
+M 1 22005 8 22066			the female trolloc to Blasted Lands
+*
+M 1 22007 8 22067			the rat to Blasted Lands
+*
+M 1 22006 8 22067			the raven to Blasted Lands
+*
+M 1 22001 8 22067			the bear trolloc to Blasted Lands
+*
+M 1 22017 8 22067			The Gryll to Blasted Lands
+*
+M 1 22015 8 22067			The Darkfriend to Blasted Lands
+*
+M 1 22011 8 22068			The Soldier to Blasted Lands
+*
+M 1 22011 8 22068			The Soldier to Blasted Lands
+*
+M 1 22008 8 22068			The Aiel Swordmen to Blasted Lands
+*
+M 1 22009 8 22068			The Female Aiel soilder to Blasted Lands
+*
+M 1 22003 8 22068			the Fade to Blasted Lands
+*
+M 1 22006 8 22069			the raven to Blasted Lands
+*
+M 1 22003 8 22069			the Fade to Blasted Lands
+*
+M 1 22004 8 22069			the trolloc to Blasted Lands
+*
+M 1 22000 8 22069			the wolf trolloc to Blasted Lands
+*
+M 1 22001 8 22069			the bear trolloc to Blasted Lands
+*
+M 1 22003 8 22070			the Fade to Rock Wall
+*
+M 1 22014 8 22070			The Darkfriend to Rock Wall
+*
+M 1 22015 8 22070			The Darkfriend to Rock Wall
+*
+M 1 22018 8 22070			The Fal Dara Soldier to Rock Wall
+*
+M 1 22019 8 22070			The Fal Morian Soldier to Rock Wall
+*
+M 1 22022 8 22071			The Lancer to Rock Wall
+*
+M 1 22021 8 22071			The Lone Horse to Rock Wall
+*
+M 1 22023 8 22071			The Commander to Rock Wall
+*
+M 1 22013 8 22071			The horsemen to Rock Wall
+*
+M 1 22013 8 22071			The horsemen to Rock Wall
+*
+M 1 22000 8 22072			the wolf trolloc to Rock Wall
+*
+M 1 22001 8 22072			the bear trolloc to Rock Wall
+*
+M 1 22002 8 22072			the hawk trolloc to Rock Wall
+*
+M 1 22002 8 22072			the hawk trolloc to Rock Wall
+*
+M 1 22001 8 22072			the bear trolloc to Rock Wall
+*
+M 1 22007 8 22073			the rat to Rock Wall
+*
+M 1 22001 8 22073			the bear trolloc to Rock Wall
+*
+M 1 22003 8 22073			the Fade to Rock Wall
+*
+M 1 22005 8 22073			the female trolloc to Rock Wall
+*
+M 1 22004 8 22073			the trolloc to Rock Wall
+*
+M 1 22010 8 22074			The Darkfriend to Rock Wall
+*
+M 1 22014 8 22074			The Darkfriend to Rock Wall
+*
+M 1 22014 8 22074			The Darkfriend to Rock Wall
+*
+M 1 22016 8 22074			The Darkfriend to Rock Wall
+*
+M 1 22015 8 22074			The Darkfriend to Rock Wall
+*
+M 1 22020 8 22075			The Fades Horse to Blasted Lands
+*
+M 1 22003 8 22075			the Fade to Blasted Lands
+*
+M 1 22003 8 22075			the Fade to Blasted Lands
+*
+M 1 22020 8 22075			The Fades Horse to Blasted Lands
+*
+M 1 22006 8 22075			the raven to Blasted Lands
+*
+M 1 22006 8 22076			the raven to Blasted Lands
+*
+M 1 22007 8 22076			the rat to Blasted Lands
+*
+M 1 22014 8 22076			The Darkfriend to Blasted Lands
+*
+M 1 22016 8 22076			The Darkfriend to Blasted Lands
+*
+M 1 22017 8 22076			The Gryll to Blasted Lands
+*
+M 1 22000 8 22076			the wolf trolloc to Blasted Lands
+*
+M 1 22008 8 22077			The Aiel Swordmen to Blasted Lands
+*
+M 1 22008 8 22077			the Aeil Swordmen to Blased Lands
+*
+M 1 22009 8 22077			The Female Aiel soilder to Blasted Lands
+*
+M 1 22009 8 22077			The Female Aiel soilder to Blasted Lands
+*
+M 1 22009 8 22077			The Female Aiel soilder to Blasted Lands
+*
+M 1 22004 8 22078			the trolloc to Blasted Lands
+*
+M 1 22005 8 22078			the female trolloc to Blasted Lands
+*
+M 1 22000 8 22078			the wolf trolloc to Blasted Lands
+*
+M 1 22002 8 22078			the hawk trolloc to Blasted Lands
+*
+M 1 22001 8 22078			the bear trolloc to Blasted Lands
+*
+M 1 22011 8 22079			The Soldier to Blasted Lands
+*
+M 1 22011 8 22079			The Soldier to Blasted Lands
+*
+M 1 22013 8 22079			The horsemen to Blasted Lands
+*
+M 1 22013 8 22079			The horsemen to Blasted Lands
+*
+M 1 22012 8 22079			The Banner Soldier to Blasted Lands
+*
+M 1 22022 8 22080			The Lancer to Blasted Lands
+*
+M 1 22022 8 22080			The Lancer to Blasted Lands
+*
+M 1 22023 8 22080			The Commander to Blasted Lands
+*
+M 1 22021 8 22080			The Lone Horse to Blasted Lands
+*
+M 1 22011 8 22080			The Soldier to Blasted Lands
+*
+M 1 22018 8 22081			The Fal Dara Soldier to Blasted Lands
+*
+M 1 22018 8 22081			The Fal Dara Soldier to Blasted Lands
+*
+M 1 22018 8 22081			The Fal Dara Soldier to Blasted Lands
+*
+M 1 22019 8 22081			The Fal Morian Soldier to Blasted Lands
+*
+M 1 22019 8 22081			The Fal Morian Soldier to Blasted Lands
+*
+M 1 22003 8 22082			the Fade to Blasted Lands
+*
+M 1 22020 8 22082			The Fades Horse to Blasted Lands
+*
+M 1 22006 8 22082			the raven to Blasted Lands
+*
+M 1 22012 8 22082			The Banner Soldier to Blasted Lands
+*
+M 1 22011 8 22082			The Soldier to Blasted Lands
+*
+M 1 22002 8 22083			the hawk trolloc to Blasted Lands
+*
+M 1 22001 8 22083			the bear trolloc to Blasted Lands
+*
+M 1 22000 8 22083			the wolf trolloc to Blasted Lands
+*
+M 1 22004 8 22083			the trolloc to Blasted Lands
+*
+M 1 22005 8 22083			the female trolloc to Blasted Lands
+*
+M 1 22006 8 22084			the raven to Blasted Lands
+*
+M 1 22007 8 22084			the rat to Blasted Lands
+*
+M 1 22006 8 22084			the raven to Blasted Lands
+*
+M 1 22007 8 22084			the rat to Blasted Lands
+*
+M 1 22010 8 22085			The Darkfriend to Blasted Lands
+*
+M 1 22014 8 22085			The Darkfriend to Blasted Lands
+*
+M 1 22015 8 22085			The Darkfriend to Blasted Lands
+*
+M 1 22016 8 22085			The Darkfriend to Blasted Lands
+*
+M 1 22017 8 22085			The Gryll to Blasted Lands
+*
+M 1 22007 8 22086			the rat to Blasted Lands
+*
+M 1 22008 8 22086			The Aiel Swordmen to Blasted Lands
+*
+M 1 22010 8 22086			The Darkfriend to Blasted Lands
+*
+M 1 22009 8 22086			The Female Aiel soilder to Blasted Lands
+*
+M 1 22008 8 22086			The Aiel Swordmen to Blasted Lands
+*
+M 1 22012 8 22087			The Banner Soldier to Blasted Lands
+*
+M 1 22010 8 22087			The Darkfriend to Blasted Lands
+*
+M 1 22011 8 22087			The Soldier to Blasted Lands
+*
+M 1 22011 8 22087			The Soldier to Blasted Lands
+*
+M 1 22017 8 22087		the Gryll to Blasted Lands
+*
+M 1 22001 8 22088			the bear trolloc to Blasted Lands
+*
+M 1 22001 8 22088			the bear trolloc to Blasted Lands
+*
+M 1 22000 8 22088			the wolf trolloc to Blasted Lands
+*
+M 1 22002 8 22088			the hawk trolloc to Blasted Lands
+*
+M 1 22003 8 22088			the Fade to Blasted Lands
+*
+M 1 22007 8 22089			the rat to Blasted Lands
+*
+M 1 22005 8 22089			the female trolloc to Blasted Lands
+*
+M 1 22004 8 22089			the trolloc to Blasted Lands
+*
+M 1 22020 8 22089			The Fades Horse to Blasted Lands
+*
+M 1 22023 8 22089			The Commander to Blasted Lands
+*
+M 1 22003 8 22090			the Fade to Blasted Lands
+*
+M 1 22015 8 22090			The Darkfriend to Blasted Lands
+*
+M 1 22010 8 22090			The Darkfriend to Blasted Lands
+*
+M 1 22015 8 22090			The Darkfriend to Blasted Lands
+*
+M 1 22016 8 22090			The Darkfriend to Blasted Lands
+*
+M 1 22010 8 22091			The Darkfriend to Rock Wall
+*
+M 1 22013 8 22091			The horsemen to Rock Wall
+*
+M 1 22011 8 22091			The Soldier to Rock Wall
+*
+M 1 22011 8 22091			The Soldier to Rock Wall
+*
+M 1 22021 8 22091			The Lone Horse to Rock Wall
+*
+M 1 22022 8 22092			The Lancer to Rock Wall
+*
+M 1 22022 8 22092			The Lancer to Rock Wall
+*
+M 1 22001 8 22092			the bear trolloc to Rock Wall
+*
+M 1 22000 8 22092			the wolf trolloc to Rock Wall
+*
+M 1 22004 8 22092			the trolloc to Rock Wall
+*
+M 1 22012 8 22093			The Banner Soldier to Rock Wall
+*
+M 1 22011 8 22093			The Soldier to Rock Wall
+*
+M 1 22011 8 22093			The Soldier to Rock Wall
+*
+M 1 22014 8 22093			The Darkfriend to Rock Wall
+*
+M 1 22015 8 22093			The Darkfriend to Rock Wall
+*
+M 1 22001 8 22094			the bear trolloc to Rock Wall
+*
+M 1 22000 8 22094			the wolf trolloc to Rock Wall
+*
+M 1 22002 8 22094			the hawk trolloc to Rock Wall
+*
+M 1 22003 8 22094			the Fade to Rock Wall
+*
+M 1 22020 8 22094			The Fades Horse to Rock Wall
+S
+
+
+#SPECIALS
+M  22003 spec_breath_acid			the Fade
+S
+
+
+#$

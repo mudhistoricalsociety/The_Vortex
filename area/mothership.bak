@@ -1,0 +1,1076 @@
+#AREA	Vortex    MotherShip~
+
+
+#HELPS
+0 $~
+
+#MOBILES
+#0
+
+#OBJECTS
+#0
+
+#ROOMS
+
+#10000
+Mother Ship Main Deck~
+You stand on the Main Deck of the Mother Ship.  There is a hallway leading
+to various parts of the ship.  There is an elevator to take you to any level
+of the ship.  The ships computer is on the wall here.
+~
+0 12 0
+E
+computer~
+Welcome to the Mother Ship.  I am the main computer.  I can assist you in your 
+journey.  To use the elevator, say the floor you want to go to.  
+There are 4 floors to this ship:
+
+     Main Deck
+     Training Deck
+     Transport Deck
+     Command Deck
+
+So to go to the Transport Deck, say "transport"
+~
+D0
+~
+~
+0 -1 10008
+D1
+~
+~
+0 -1 10004
+D2
+~
+~
+0 -1 10009
+D3
+~
+~
+0 -1 10001
+T
+main~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10000 0
+T
+training~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10100 0
+T
+transport~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10200 0
+T
+command~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10300 0
+S
+
+#10001
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10015
+D2
+~
+~
+0 -1 10016
+D1
+~
+~
+0 -1 10000
+D3
+~
+~
+0 -1 10002
+S
+
+#10002
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10013
+D2
+~
+~
+0 -1 10014
+D1
+~
+~
+0 -1 10001
+D3
+~
+~
+0 -1 10003
+S
+
+#10003
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10011
+D2
+~
+~
+0 -1 10012
+D1
+~
+~
+0 -1 10002
+S
+
+#10004
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10017
+D2
+~
+~
+0 -1 10018
+D1
+~
+~
+0 -1 10005
+D3
+~
+~
+0 -1 10000
+S
+
+#10005
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10019
+D2
+~
+~
+0 -1 10020
+D1
+~
+~
+0 -1 10006
+D3
+~
+~
+0 -1 10004
+S
+
+#10006
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10021
+D2
+~
+~
+0 -1 10022
+D3
+~
+~
+0 -1 10005
+S
+
+#10007
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10024
+D3
+~
+~
+0 -1 10023
+D2
+~
+~
+0 -1 10008
+S
+
+#10008
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10026
+D3
+~
+~
+0 -1 10025
+D0
+~
+~
+0 -1 10007
+D2
+~
+~
+0 -1 10000
+S
+
+#10009
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10028
+D3
+~
+~
+0 -1 10027
+D0
+~
+~
+0 -1 10000
+D2
+~
+~
+0 -1 10010
+S
+
+#10010
+Mother Ship Main Deck~
+You are in the Main Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10030
+D3
+~
+~
+0 -1 10029
+D0
+~
+~
+0 -1 10009
+S
+
+#10011
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10003
+S
+
+#10012
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10003
+S
+
+#10013
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10002
+S
+
+#10014
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10002
+S
+
+#10015
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10001
+S
+
+#10016
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10001
+S
+
+#10017
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10004
+S
+
+#10018
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10004
+S
+
+#10019
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10005
+S
+
+#10020
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10005
+S
+
+#10021
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D2
+~
+~
+0 -1 10006
+S
+
+#10022
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D0
+~
+~
+0 -1 10006
+S
+
+#10023
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D1
+~
+~
+0 -1 10007
+S
+
+#10024
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D3
+~
+~
+0 -1 10007
+S
+
+#10025
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D1
+~
+~
+0 -1 10008
+S
+
+#10026
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D3
+~
+~
+0 -1 10008
+S
+
+#10027
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D1
+~
+~
+0 -1 10009
+S
+
+#10028
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D3
+~
+~
+0 -1 10009
+S
+
+#10029
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D1
+~
+~
+0 -1 10010
+S
+
+#10030
+Main Deck Sleeping Quarters~
+You are in the Ships Sleeping Quarters
+~
+0 12 0
+D3
+~
+~
+0 -1 10010
+S
+
+#10100
+Mother Ship Training Deck~
+Training Deck
+~
+0 12 0
+D0
+~
+~
+0 -1 10108
+D1
+~
+~
+0 -1 10104
+D2
+~
+~
+0 -1 10109
+D3
+~
+~
+0 -1 10101
+T
+main~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10000 0
+T
+training~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10100 0
+T
+transport~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10200 0
+T
+command~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10300 0
+S
+
+#10101
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10100
+D3
+~
+~
+0 -1 10102
+S
+
+#10102
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10101
+D3
+~
+~
+0 -1 10103
+S
+
+#10103
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10102
+S
+
+#10104
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10105
+D3
+~
+~
+0 -1 10100
+S
+
+#10105
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10106
+D3
+~
+~
+0 -1 10104
+S
+
+#10106
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D3
+~
+~
+0 -1 10105
+S
+
+#10107
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D2
+~
+~
+0 -1 10108
+S
+
+#10108
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10107
+D2
+~
+~
+0 -1 10100
+S
+
+#10109
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10100
+D2
+~
+~
+0 -1 10110
+S
+
+#10110
+Mother Ship Training Deck~
+You are in the Training Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10109
+S
+
+#10200
+Mother Ship Transport Deck~
+Transport Deck
+~
+0 12 0
+D0
+~
+~
+0 -1 10208
+D1
+~
+~
+0 -1 10204
+D2
+~
+~
+0 -1 10209
+D3
+~
+~
+0 -1 10201
+T
+main~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10000 0
+T
+training~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10100 0
+T
+transport~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10200 0
+T
+command~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10300 0
+S
+
+#10201
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10200
+D3
+~
+~
+0 -1 10202
+S
+
+#10202
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10201
+D3
+~
+~
+0 -1 10203
+S
+
+#10203
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10202
+S
+
+#10204
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10205
+D3
+~
+~
+0 -1 10200
+S
+
+#10205
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10206
+D3
+~
+~
+0 -1 10204
+S
+
+#10206
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D3
+~
+~
+0 -1 10205
+S
+
+#10207
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D2
+~
+~
+0 -1 10208
+S
+
+#10208
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10207
+D2
+~
+~
+0 -1 10200
+S
+
+#10209
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10200
+D2
+~
+~
+0 -1 10210
+S
+
+#10210
+Mother Ship Transport Deck~
+You are in the Transport Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10209
+S
+
+#10300
+Mother Ship Command Deck~
+Command Deck
+~
+0 12 0
+D0
+~
+~
+0 -1 10308
+D1
+~
+~
+0 -1 10304
+D2
+~
+~
+0 -1 10309
+D3
+~
+~
+0 -1 10301
+T
+main~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10000 0
+T
+training~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10100 0
+T
+transport~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10200 0
+T
+command~
+A bright light surrounds $n as $n disappears!~
+A bright light surrounds you as you disappear!~
+all~
+16384 10300 0
+S
+
+#10301
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10300
+D3
+~
+~
+0 -1 10302
+S
+
+#10302
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10301
+D3
+~
+~
+0 -1 10303
+S
+
+#10303
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10302
+S
+
+#10304
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10305
+D3
+~
+~
+0 -1 10300
+S
+
+#10305
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D1
+~
+~
+0 -1 10306
+D3
+~
+~
+0 -1 10304
+S
+
+#10306
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D3
+~
+~
+0 -1 10305
+S
+
+#10307
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D2
+~
+~
+0 -1 10308
+S
+
+#10308
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10307
+D2
+~
+~
+0 -1 10300
+S
+
+#10309
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10300
+D2
+~
+~
+0 -1 10310
+S
+
+#10310
+Mother Ship Command Deck~
+You are in the Command Hallway
+~
+0 12 0
+D0
+~
+~
+0 -1 10309
+S
+
+#0
+
+#RESETS
+*
+*; -- Text on line for notes
+*
+*M -- Mob 
+*E -- Item on Mob
+*G -- sets inventory to sell
+*O -- Object in Room
+*D -- Sets Door locked, closed, etc
+*     1 VNUM DIR(0 1 2 3 4 5) 1-closed 2-locked
+*P -- put item in item
+*S -- to end section
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

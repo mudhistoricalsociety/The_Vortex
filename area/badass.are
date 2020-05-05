@@ -1,0 +1,98 @@
+#AREA BadAss Clanhall~
+515
+530
+#ROOMS
+#515
+BadAss Room~
+An empty room.
+~
+0 0 0
+D0
+~
+~
+0 -1 3001
+D1
+~
+~
+0 -1 521
+D2
+~
+~
+0 -1 519
+D3
+~
+~
+0 -1 518
+D4
+~
+~
+0 -1 517
+D5
+~
+~
+0 -1 520
+S
+#516
+BadAss Room~
+An empty room.
+~
+0 0 0
+D2
+~
+~
+0 -1 515
+S
+#517
+BadAss Room~
+An empty room.
+~
+0 0 0
+D5
+~
+~
+0 -1 515
+S
+#518
+BadAss Room~
+An empty room.
+~
+0 0 0
+D1
+~
+~
+0 -1 515
+S
+#519
+BadAss Room~
+An empty room.
+~
+0 0 0
+D0
+~
+~
+0 -1 515
+S
+#520
+BadAss Room~
+An empty room.
+~
+0 0 0
+D4
+~
+~
+0 -1 515
+S
+#521
+BadAss Room~
+An empty room.
+~
+0 0 0
+D3
+~
+~
+0 -1 515
+S
+#0
+
+
+#$

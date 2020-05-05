@@ -1,0 +1,412 @@
+#AREA	Adreno  Return to Caine~
+27000
+27024
+
+#HELPS
+0 $~
+
+#MOBILES
+#27000
+caine vampire~
+Caine~
+Caine is here, laughing at your misfortune.....
+~
+"Welcome to my abode child". The words issuing from Caine's mouth are soft spoken and slightly slurred by the razor sharp canines protruding from under his top lip. Elegantly dressed, as if recently returned from a social function, Caine's superbly muscled form towers above you. Red eyes gleam softly from a palid visage. Cold sweat runs down your spine as He moves towards you, laughing....
+~
+2|64 2|8|32|128|16384 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27020
+guardian~
+the Clan Guardian~
+A Guadian of the Clan sits here keeping peace.
+~
+*** description goes here ***
+~
+1|2|64 8|32|128|512 -1000 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#27000
+teeth~
+a set of vampires teeth~
+Some sharp looking teeth lie here. ~
+~
+5 16|32|512|2048 1|8192
+0 10 25 10 
+3 0 0
+#27001
+black marble fountain~
+a black marble fountain~
+A large black marble fountain spews blood over the floor.~
+~
+25 64 0
+100000 100000 13 0 
+5000 10 0
+#0
+
+
+#ROOMS
+#27000
+The Return to Caine.~
+This is the demesne of Caine, Lord and Master of all Vampire kind. The broken skeletons of previous "visitors" have been discarded carelessly around the floor here, blighted bones splinter under your feet as you make your way through the room. There are two dark arches in the eastern and western walls.
+~
+0 1|8|17420 0
+D1
+~
+~
+0 -1 27002
+D2
+~
+~
+1 -1 27003
+D3
+~
+~
+0 -1 27001
+S
+#27001
+The Wellspring of Evil.~
+Torchlight flickers eerily across the dark stone walls. A crypt-like atmosphere pervades here, the smells of fresh turned earth and corruption are strong in your nostrils. A perverse spring bubbles from the ground here, covering the floor and the base of the walls with an almost black fluid. You realise the fluid is blood, the life essence of a thousand unlucky souls drenching your feet....
+~
+0 1|4|8|16384 0
+D1
+~
+~
+0 -1 27000
+S
+#27002
+Caine's Sanctum Sanctorium.~
+You are standing in Caine's Sanctum Sanctorium. Torchlight flickers eerily across the dark stone walls. A crypt-like atmosphere pervades here, the smells of fresh turned earth and corruption are strong in your nostrils. A huge stone throne stands upon a dais at one end of the room wreathed in shadows. You see two glints of red light that remind you of eyes above the throne.....
+~
+0 1|8|16384 0
+D3
+~
+~
+0 -1 27000
+S
+#27003
+At the bottom of the stairs.~
+Worn stone steps lead up into the fitfull light above. Darkness greets you as you make your way across the room, brushing dusty cobwebs from your face. The sense of evil you felt above ground seems more potent here, as if you are nearing the epicentre. A ancient wooden door stands to the north. Tread carefully, my friend.....
+~
+0 1|4|8|16384 0
+D0
+~
+~
+1 -1 27000
+D4
+~
+~
+0 -1 27004
+S
+#27004
+The stairs below the Crypt.~
+Worn stone steps lead down into darkness....and who knows what else!
+~
+0 1|4|8|16384 0
+D4
+~
+~
+0 -1 27005
+D5
+~
+~
+0 -1 27003
+S
+#27005
+The Crypt.~
+Broken coffins line the walls here, whilst dust and cobwebs cover everything. A deep feeling of dread and unease fills you as you see the worn stone steps leading downwards...
+~
+0 1|4|8|16384 0
+D2
+~
+~
+1 -1 27006
+D5
+~
+~
+0 -1 27004
+S
+#27006
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis.... A bleak stone edifice stands to the north.
+~
+0 4|16384 2
+D0
+~
+~
+1 -1 27005
+D1
+~
+~
+0 -1 27007
+D3
+~
+~
+0 -1 27013
+S
+#27007
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the north-east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27008
+D3
+~
+~
+0 -1 27006
+S
+#27008
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the west.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27009
+D2
+~
+~
+0 -1 27007
+S
+#27009
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south-west.
+~
+0 4|16384 2
+D2
+~
+~
+0 -1 27008
+D3
+~
+~
+0 -1 27010
+S
+#27010
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south.
+~
+0 4|16384 2
+D1
+~
+~
+0 -1 27009
+D3
+~
+~
+0 -1 27011
+S
+#27011
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south-east.
+~
+0 4|16384 2
+D1
+~
+~
+0 -1 27010
+D2
+~
+~
+0 -1 27012
+S
+#27012
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27011
+D2
+~
+~
+0 -1 27013
+S
+#27013
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the north-east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27012
+D1
+~
+~
+0 -1 27006
+S
+#27020
+Clan HQ~
+This is a blank Clan Headquaters Main Room
+~
+0 16384 0
+D0
+~
+~
+0 0 27021
+D1
+~
+~
+0 0 27022
+D2
+~
+~
+0 0 27023
+D3
+~
+~
+0 0 27024
+D5
+~
+~
+0 0 3001
+S
+#27021
+Clan HQ~
+This is a blank Clan Headquarters Healers Room
+~
+0 1032 0
+D2
+~
+~
+0 0 27020
+S
+#27022
+Clan HQ~
+This is a blank Clan Headquarters Training Room
+~
+0 16384 0
+D3
+~
+~
+0 0 27020
+S
+#27023
+Clan HQ~
+This is a blank Clan Headquarters Transport Room
+Look at the sign for transports.
+~
+0 16384 0
+E
+sign~
+The sign seems to be pictures of areas.  The following are listed: 
+Midgaard, Staff, Sphinx, Timelord, Arachnos, Hightower, Draconia, Galaxy, Megacity,
+Drow, Canyon, Mahntor.
+~
+D0
+~
+~
+0 0 27020
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2646 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+S
+#27024
+Clan HQ~
+This is a blank Clan Headquarters Information Room
+~
+0 16384 0
+D1
+~
+~
+0 0 27020
+S
+#0
+
+
+#RESETS
+D 1 27003 0 1			; At the bottom of the stairs. Close North
+D 1 27000 2 1			; The Return to Caine. Close South
+D 1 27005 2 1			; The Crypt. Close South
+D 1 27006 0 1			; The Necropolis. Close North
+*
+M 1 27000 1 27002			Caine to Caine's Sanctum Sanctorium.
+E 1 27000 100 16
+O 1 27001 100 27001			a black marble fountain to The Wellspring of Evil.
+M 1 27020 1 27020           Guardian to Main Room of Clan Hall 
+S
+
+
+#$

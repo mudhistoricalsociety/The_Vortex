@@ -1,0 +1,179 @@
+#AREA	Adreno The Gods Lounge~
+
+
+#MOBILES
+#1200
+cerberus dog~
+Cerberus, the guardian of hell~
+A three headed dog, spitting fire and kicking your ass!~
+
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+#1206
+fang's ho's~
+A Ho, the beautiful ho's of the Shack!~
+A Ho stands here waiting for Fang to return to here.!~
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+ 
+#OBJECTS
+#1200
+throne~
+SaTaN's Throne~
+A large throne, filled with fire.~
+~
+25 0 0
+0 0 0 0 
+5000 0 0
+#0
+
+#ROOMS
+#1200
+The Chat Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out.  Clearly the owner of this room needs none.
+~
+0 4|8|16|1024 0
+S
+#1201
+The God's Lounge~
+You are in a large room with many chairs and footrests, some fabric, some
+leather.  A fireplace burns brightly here, and you feel at peace.  There are 
+several doors leading to and from this mystical place.
+~
+0 4|8|16|1024 0
+D0
+~
+~
+1 -1 1204
+D1
+~
+~
+1 -1 1203
+D2
+~
+~
+1 -1 1205
+D3
+~
+~
+1 -1 1206
+D4
+~
+~
+1 -1 1207
+D5
+~
+~
+1 -1 1202
+S
+#1202
+The Commons.~
+It is hard to tell if you just stepped outdoors or you are still
+inside. This room rests against an enormous redwood tree, which forms the 
+inner wall.  Some lower branches reach out across the room towards the
+sunlight which streams through the glass ceiling.  Large Wratton basket
+chairs filled with enormous soft cushions swing from the tree's branches. 
+During the heat of the day the glass
+ceiling darkens until the room has the comfort of a shaded spot in deep
+forest or a cave buried in the face of a mountain.  The roof slants
+gradually from its peak 20 feet up the side of the tree to a bare 8
+inches from the thick dark green moss which cushions the floor.  A very
+fine screen forms the short remaining wall.  The mesh seems to disappear
+when you attempt to look closely at it.  A bubbling stream fills the pond 
+at the center of the room, and the force of the water forms a small
+fountain.
+~
+0 16|1024|8192 2
+D4
+~
+~
+1 -1 1201
+S
+#1203
+SaTaN's Hellfire.~
+You are standing in SaTan's private chamber. (add description here) 
+~
+0 4|8 0
+D3
+~
+~
+1 -1 1201
+S
+#1204
+Sluggo's Chamber.~
+You are standing in Sluggo's private chamber. (add description here)
+~
+0 4|8 0
+D2
+~
+~
+1 -1 1201
+S
+#1205
+Chasm's Chamber.~
+You are standing in Chasm's private chamber. (add description here)
+~
+0 4|8|1024|16384 0
+D0
+~
+~
+1 -1 1201
+S
+#1206
+Fang's Shack of PiMpIn'.~
+You are standing in Fang's private shack.  This is where he comes to pimp
+his ho's.  You see a lot of beautiful women in this shack.  In the middle
+of the room you see a big golden throne with a lot of ho's around it, this
+is were the Pimp Daddy comes to relax.
+~ 
+0 4|8|1024|16384 0
+D1
+~
+~
+1 -1 1201
+S
+#1207
+Havok's Chamber.~
+You are standing in Havok's private chamber. (add description here)
+~
+0 4|8|1024|16384 0
+D5
+~
+~
+1 -1 1201
+S
+#0
+
+
+#RESETS
+D 1 1201 0 1			; The God's Lounge Close North
+D 1 1204 2 1			; Sluggo's Chamber. Close South
+D 1 1201 1 1			; The God's Lounge Close East
+D 1 1203 3 1			; SaTaN's Chamber. Close West
+D 1 1201 2 1			; The God's Lounge Close South
+D 1 1205 0 1			; Chasm's Chamber. Close North
+D 1 1201 3 1			; The God's Lounge Close West
+D 1 1206 1 1			; Fang's Chamber. Close East
+D 1 1201 4 1			; The God's Lounge Close Up
+D 1 1207 5 1			; Havok's Chamber. Close Down
+*
+M 1 1200 1 1203			Cerberus to SaTaN's Hellfire.
+O 1 1200 100 1203			a throne to SaTaN's Hellfire.
+D 1 1201 5 1			; The God's Lounge Close Down
+D 1 1202 4 1			; The Commons. Close Up
+M 4 1206   3 1206			Ho's to Fang's Shack
+O 1 1200 100 1206				a throne to Fang's Shack
+S
+
+
+#$

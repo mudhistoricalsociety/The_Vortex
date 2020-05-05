@@ -1,0 +1,73 @@
+#! /bin/ksh
+
+if [ "$3" == "" ] ; then
+    echo ""
+    echo "Syntax: $0 <area> <newarea> <newbase vnum>"
+    echo ""
+    exit 1
+fi
+
+if [ ! -r "$1" ] ; then
+    echo ""
+    echo "Can't read input area \"$1\""
+    echo ""
+    exit 1
+fi
+
+if [ -f "$2" ] ; then
+    echo ""
+    echo "Destination name exits! Cannot continue"
+    echo ""
+    exit 1
+fi
+
+infile=$1
+outfile=$2
+tempfile=${HOME}/rename`date +%Y%m%d%H%M%S`
+
+vnumrange=`grep "^V" $infile`
+origbase=`echo $vnumrange | awk '{print $2}'`
+origtop=`echo $vnumrange | awk '{print $3}'`
+origtopp=$((origtop+1))
+
+offset=$(($3-origbase))
+
+echo ""
+echo "Reading: $infile"
+echo "Writing: $outfile"
+echo "tempfile: $tempfile"
+echo "vnums  : $origbase - $origtop"
+echo "offset : $offset"
+echo ""
+
+vnum=$origbase
+
+cp -f $infile $tempfile
+
+while [ "$vnum" -lt "$origtopp" ]; do
+    changeto=$((vnum+offset))
+    echo "converting: $vnum to $changeto"
+
+    count=1
+    while [ "$count" -lt "3" ]; do
+
+        grep $vnum $tempfile > /dev/null
+        if [ "$?" != "0" ] ; then
+            break;
+        fi
+
+        sed \
+            -e "s/\b$vnum\b/$changeto/" \
+            $tempfile > $outfile
+        mv -f $outfile $tempfile
+
+	count=$((count+1))
+    done
+    
+    vnum=$((vnum+1))
+done
+
+mv $tempfile $outfile
+
+echo "done"
+

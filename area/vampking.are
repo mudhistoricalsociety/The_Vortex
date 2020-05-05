@@ -1,0 +1,673 @@
+#AREA	{ 5 35} M.Z.F.  Prototype for New Area~
+
+
+#MOBILES
+#19000
+vampire~
+a vampire~
+A vampire flashes her fangs at you.
+~
+A vampire is small and is looking rather dead.
+~
+32|64 0 -1000 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#19001
+healer~
+the nuppibero~
+The nuppirbero stands here, completely imersed in getting you into a fighting mood again.
+~
+The nuppirbero looks at you with a blue glow in IT'S eyes.
+~
+64|512|1024 8 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#19002
+Vlad~
+Vlad~
+Vlad stares at you, not caring how old you are.
+~
+Vlad looks back at you!
+~
+64|512|1024 8|32|256|524288 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19003
+bunny~
+a bunny~
+The bunny stands here, completely clueless.
+~
+A bunny get's a weird look in it's eyes
+~
+2|4|32|64 8 -1000 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19004
+Aztec GOD~
+the Aztec GOD~
+The Aztec GOD swoops towards you.
+~
+The Aztec GOD snarls, "WTF you looking at?"
+~
+32|64 32768 -1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#19005
+Garou Warrior~
+the Garou Warrior~
+The Garou warrior laffs as he measures you up.
+~
+The Garou warrior has fur covering his body. His red eyes stare at you and lighten the room. His sences far surpass yours.
+~
+32 8|32|512 -3000 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19006
+Fenris~
+the Great Fenris Wolf~
+The Great Fenris Wolf stands here, a hulking 10 foot monster.
+~
+The Great Fenris Wolf snarls back at you.
+~
+32 8|32|512 -1000 S
+3000 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#19007
+The spirit of the Gaia~
+The spirit of the Gaia~
+The spirit of the Gaia floats here, full of awareness.
+~
+The spirit of the Gaia laff's at you.
+~
+512|1024 8|32|512 -1000 S
+4000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19008
+keeper of the key~
+the keeper of the key~
+the keeper of the key stands here, completely clueless.
+~
+The keeper of the key looks back at you wondering what your thinking.
+~
+32|64 8|32|512 -100 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#19000
+magma rock key~
+a magma rock key~
+A magma rock key rests here.~
+~
+18 0 1|16384
+0 0 0 0
+10 0 0
+#0
+
+
+#ROOMS
+#19000
+Alter Of the Vampires~
+You are standing in the great sacrifiacial alter of the Kindred. Many who betrayed their own kind are slayed here.
+~
+0 4 1
+D0
+~
+~
+0 -1 19003
+D1
+~
+~
+0 -1 19002
+D2
+~
+~
+0 -1 19004
+D3
+~
+~
+0 -1 19001
+S
+#19001
+Vlad's smoke shop~
+You are standing in a room full of cigars and such. The faint sent of Marijuhauna is in the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 19000
+S
+#19002
+Sacraficial Pit~
+You are standing in a gaping pit. Bodies litter the area. The air reaks of death.
+~
+0 4 10
+S
+#19003
+The damned healer's alter~
+You are standing on a circular alter. A cross is enscribed with sheeps blood before your feet. A healer is standing in front of you, or is it?
+~
+0 1024|16384 0
+D2
+~
+~
+0 -1 19000
+S
+#19004
+Temple outskirts~
+Grass grows wildly here. The sickening sent of flowers makes you weaken. You wonder when it will all end.
+~
+0 0 2
+D0
+~
+~
+0 -1 19000
+D1
+~
+~
+0 -1 19010
+D2
+~
+~
+0 -1 19027
+D3
+~
+~
+0 -1 19005
+D5
+~
+~
+2 19000 19037
+S
+#19005
+A stone covered path~
+Trip... trip... are you ok? There over turned rocks are annoying huh? 
+ You are walking on a stone covered path... it seems to go on forever....
+~
+0 0 2
+D1
+~
+~
+0 -1 19004
+D3
+~
+~
+0 -1 19006
+S
+#19006
+A mist covered path~
+WOW, you've made it this far HAHA... Good luck, MORTAL!!!
+ A stone covered path is covered with..... MIST? As you travel onward is get's to be quite misty...
+~
+0 0 2
+D1
+~
+~
+0 -1 19005
+D3
+~
+~
+0 -1 19007
+S
+#19007
+Rocky Stairs~
+What is this?!?!
+Did the Aztecs build this... what a piece of shit!!!
+  The stairs crumble beneath you as you climb upwards. Will you make it?
+~
+0 0 2
+D1
+~
+~
+0 -1 19006
+D4
+~
+~
+0 -1 19008
+S
+#19008
+BEAM~
+Your being beamed up... I bet you wanna kill Scottie.
+~
+0 0 2
+D4
+~
+~
+0 -1 19009
+D5
+~
+~
+0 -1 19007
+S
+#19009
+SPACE~
+Well, here you are. SPACE the crappy frontier. Is that a comet hurdling towards your beloved earth. NO IT's It's... 
+some really weird snake-dragon mix. Looks like an Aztec god.
+~
+0 0 2
+D5
+~
+~
+0 -1 19008
+S
+#19010
+Worn Path~
+You are standing on a worn path. You are in a forest. Light filters in through the leaves. Many animals are here.
+~
+0 0 3
+D1
+~
+~
+0 -1 19011
+D3
+~
+~
+0 -1 19004
+S
+#19011
+Worn Path~
+The ground beneath you is fertile. You hear a volcano in the distance. The ground rumbles beneath your feet.
+~
+0 0 3
+D2
+~
+~
+0 -1 19012
+D3
+~
+~
+0 -1 19010
+S
+#19012
+A Bend in the Path~
+You turn a corner. The path continues south. Wildlife is amoungst you.
+~
+0 0 3
+D0
+~
+~
+0 -1 19011
+D2
+~
+~
+0 -1 19013
+S
+#19013
+Foot of the volcano.~
+You are standing at the foot of a volcano. It is raining ash.
+You peer upwards... nothing, the grayness infront of you is unbearable. You continue upwards.
+~
+0 0 3
+D0
+~
+~
+0 -1 19012
+D4
+~
+~
+0 -1 19014
+S
+#19014
+On the volcano.~
+You are standing on a steep ledge. You can't see a thing.
+~
+0 1 5
+D4
+~
+~
+0 -1 19015
+D5
+~
+~
+0 -1 19013
+S
+#19015
+A split trail on the ledge.~
+You are standing on a ledge.. paths go upwards and east. You can't see a thing.
+~
+0 1 5
+D1
+~
+~
+0 -1 19016
+D4
+~
+~
+0 -1 19019
+D5
+~
+~
+0 -1 19014
+S
+#19016
+On the ledge towards the east.~
+You peer down at the temple of the vampires. Glowwing red eyes are running all about there.
+~
+0 1 5
+D0
+~
+~
+0 -1 19017
+D3
+~
+~
+0 -1 19015
+S
+#19017
+A bend on the ledge.~
+You stare into the distance. You cannot see a thing. It is getting hot. A blast of steam hit's you in the side.
+~
+0 1 5
+D0
+~
+~
+0 -1 19018
+D2
+~
+~
+0 -1 19016
+S
+#19018
+Lava spill.~
+CRASH!!!! The volcano explodes. Lava slowly rolls down the side of the volcano. A thick cloud of gasses races towards you. 
+     !!!!RUN!!!!
+           But you can't. Lava is on either side of you. 
+                 !!!!!!!!CRACKLE!!!!!!!
+                        Your skin sears. Leaving a grey, stone, statue of your fallen self. But the lava slowly eats it away.
+~
+0 1|4 5
+S
+#19019
+Continueing upwards.~
+Well you've made it this far. You still can't see a thing.
+This really sucks for you, doesn't it?
+~
+0 1|4 5
+D4
+~
+~
+0 -1 19020
+D5
+~
+~
+0 -1 19015
+S
+#19020
+A strait edge.~
+Wow, looks like it's over. You stand before a cliff, a straight up climb. Looks like many climb here. Claw marks in the wall, foot holds, you can do it, climb upwards.
+~
+0 1 5
+D4
+~
+~
+0 -1 19021
+D5
+~
+~
+0 -1 19019
+S
+#19021
+Cliff Face.~
+You look down. 50 feet below you is the bottom of this cliff face.
+~
+0 1 5
+D4
+~
+~
+0 -1 19022
+D5
+~
+~
+0 -1 19020
+S
+#19022
+Outter rim of the valcano~
+You look down. WOW! the rocks are formed in a perfect doam. How pretty. Let's go jump on it.
+~
+0 1 5
+D3
+~
+~
+0 -1 19023
+D5
+~
+~
+0 -1 19021
+S
+#19023
+Volcano doam.~
+AIE!?! the ground is shaking underneath you. BOOM!! Better run, she's gonna blow. Rocks move about beneath you feet.
+~
+0 0 5
+D4
+~
+~
+0 -1 19024
+S
+#19024
+Midair...~
+You have been blasted into midair by an explosion. You begin falling to the ground.
+~
+0 0 2
+D1
+~
+~
+0 -1 19025
+S
+#19025
+Falling.~
+You fall towards the earth at 180 miles an hour. The pyroclastic flow is catching behind you.
+~
+0 0 2
+D5
+~
+~
+0 -1 19026
+S
+#19026
+SPLAT!!!!!~
+You hit a pile of rocks in a field. You cannot move. The pyrovlastic flow is catching up to you, better recall.
+~
+0 4 2
+S
+#19027
+Entrance into the land of the Great Garous~
+The sky is swirling with amillion blue portals. Right here is where the werewolves access earth and irradicate the evils of the human race. The ground is of a great field. The fields edges are surrounded by tall RED WOOD trees. You feel the presence of the great Gaia.
+~
+0 4 2
+D0
+~
+~
+0 -1 19004
+D2
+~
+~
+0 -1 19028
+S
+#19028
+A grassy meadow.~
+You hear great howls in the distance, are you afraid? You better be. You are standing in grassy medow.
+~
+0 0 2
+D0
+~
+~
+0 -1 19027
+D2
+~
+~
+0 -1 19029
+S
+#19029
+Into the DEEP DARK forest.~
+You traverse into a dark forest. The light thins out and you begin the get scared. You hear something in the woods, but dare not look.
+~
+0 0 3
+D0
+~
+~
+0 -1 19028
+D2
+~
+~
+0 -1 19030
+S
+#19030
+Along a path.~
+You travel along a well worn path. Red eyes stare at you from the woods.
+~
+0 1 3
+D0
+~
+~
+0 -1 19029
+D2
+~
+~
+0 -1 19031
+S
+#19031
+A worn path.~
+You see a large temple up ahead on the trail. It is covered with ivy and such plant forms. Flowers line the woods in the clearing it sets in.
+~
+0 1 3
+D0
+~
+~
+0 -1 19030
+D2
+~
+~
+0 -1 19032
+S
+#19032
+A clearing.~
+You are standsing just before a great temple. Wildlife runs freely here.
+~
+0 1 2
+D0
+~
+~
+0 -1 19031
+D3
+~
+~
+0 -1 19033
+S
+#19033
+Foot of a stair case.~
+You are standing before a small stone stair case.
+~
+0 1 2
+D1
+~
+~
+0 -1 19032
+D4
+~
+~
+0 -1 19034
+S
+#19034
+In the temple of the Great Gaia~
+You are standing amoungst happiness and tranquility. The temple has faded into a world of unlimited possibilities. Behind you is a gateway into the real world. But is this one not so real?
+~
+0 4|8 9
+D2
+~
+~
+0 -1 19035
+D4
+~
+~
+0 -1 19036
+D5
+~
+~
+0 -1 19033
+S
+#19035
+The den of Fenris.~
+You are standing in the presence of a great wolf. The den is filled with roses, and embrosary of elegances.
+~
+0 8 9
+D0
+~
+~
+0 -1 19034
+S
+#19036
+The Great Light.~
+You are standing in an intensly lit room, you cannot stand the light.
+~
+0 8 9
+D5
+~
+~
+0 -1 19034
+S
+#19037
+Down to HELL~
+You are falling... falling
+~
+0 0 1
+D4
+~
+~
+2 19000 19004
+S
+#0
+
+
+#RESETS
+*
+*
+M 1 19002 1 19001			Vlad to Vlad's smoke shop
+*
+M 1 19001 1 19003			the nuppibero to The damned healer's alter
+*
+M 1 19004 1 19009			the Aztec GOD to SPACE
+*
+M 1 19003 10 19007			a bunny to Rocky Stairs
+*
+M 1 19003 5 19006			a bunny to A mist covered path
+*
+M 1 19005 2 19028			the Garou Warrior to A grassy medow.
+*
+M 1 19005 1 19032			the Garou Warrior to A clearing.
+*
+M 1 19006 1 19035			the Great Fenris Wolf to The den of Fenris.
+*
+M 1 19007 1 19036
+D 1 19037 4 2			; Down to HELL Lock Up
+D 1 19004 5 2			; Temple outskirts Lock Down
+*
+M 1 19008 1 19018			the keeper of the key to Lava spill.
+G 1 19000 100
+S
+
+
+#SPECIALS
+M  19000 spec_breath_gas			a vampire
+M  19001 spec_cast_adept			the nuppibero
+M  19002 spec_breath_lightning			Vlad
+M  19004 spec_breath_fire			the Aztec GOD
+M  19005 spec_guard			the Garou Warrior
+M  19006 spec_executioner			the Great Fenris Wolf
+M  19008 spec_cast_mage			the keeper of the key
+S
+
+
+#$

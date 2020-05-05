@@ -1,0 +1,469 @@
+#AREA	Adreno   Equipment storage~
+0
+0
+
+#OBJECTS
+#27931
+Red hellish ring~ 
+#1a Red hellish ring#n~ 
+A ring crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 3 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27932 
+Red hellish collar~ 
+#1a Red hellish collar#n~ 
+A collar crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 5 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27933 
+Red hellish armor armour breastplate plate~ 
+#1a Red hellish breastplate#n~ 
+A collar crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 9 
+25 0 0 54 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#27934 
+Red hellish helmet~ 
+#1a Red hellish helmet#n~ 
+A helmet crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 17 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27935 
+Red hellish leggings~ 
+#1a pair of Red hellish leggings#n~ 
+A pair of leggings crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 33 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0 
+#27936 
+Red hellish boots~ 
+#1a pair of Red hellish boots#n~ 
+A pair of boots crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 65 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27937 
+Red hellish gauntlets~ 
+#1a pair of Red hellish gauntlets#n~ 
+A pair of gauntlets crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 129 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0 
+#27938
+Red hellish sleeves~ 
+#1a pair of Red hellish sleeves#n~ 
+A pair of sleeves crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 257 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0 
+#27939
+Red hellish cape~ 
+#1a Red hellish cape#n~ 
+A cape crafted from #1Red#n demonsilk lies here.~ 
+~ 
+9 0 1025 
+25 0 0 57 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27940
+Red hellish belt~ 
+#1a Red hellish belt#n~ 
+A belt crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 2049 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27941
+Red hellish bracer~ 
+#1a Red hellish bracer#n~ 
+A bracer crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 4097 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0  
+#27942
+Red hellish visor~ 
+#1a Red hellish visor#n~ 
+A visor crafted from #1Red#n demonsteel lies here.~ 
+~ 
+9 0 -32767 
+25 0 0 0 
+1 1000000 0 
+A 
+5 2 
+A 
+2 2 
+A 
+1 2 
+A 
+19 10 
+A 
+18 10 
+A 
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#27943
+amazon mask~
+an Amazon mask~
+An Amazon facemask lies here.~
+~
+9 64 1|32768|65536|131072|262144|524288|1048576|2097152|4194304|8388608|16777216|33554432|67108864|134217728|268435456|536870912|1073741824
+25 0 0 22 
+1 1000000 0
+A
+19 15
+A
+18 15
+A
+17 -25
+#27944
+amazon bracers~
+bracers of swiftness~
+A pair of sleek arm bracers lie here.~
+~
+9 64 1|4096
+25 0 0 17 
+1 1000000 0
+A
+18 10
+A
+19 10
+A
+17 -25
+#27945
+amazon lorica~
+an Amazon lorica~
+A leather Amazon lorica lies here.~
+~
+9 64 1|8
+25 0 0 21 
+1 1000000 0
+A
+17 -100
+A
+18 10
+A
+19 10
+#27946
+amazon gloves~
+a pair of Amazon gloves~
+A pair of camouflaged gloves lie here.~
+~
+9 64|256 1|128
+25 0 0 21 
+1 1000000 0
+A
+19 10
+A
+18 10
+A
+17 -25
+#27947
+amazon cape~
+an Amazon cape~
+A cape crafted from camouflaged material lies here.~
+~
+9 64 1|1024
+25 0 0 57 
+1 1000000 0
+A
+19 10
+A
+18 10
+A
+17 -25
+#27948
+amazon boots~
+a pair of Amazon boots~
+A stealthy-looking pair of thigh-high boots lie here.~
+~
+9 64 1|64
+25 0 0 12 
+1 1000000 0
+A
+19 10
+A
+18 10
+A
+17 -25
+#27949
+amazon spear~
+an Amazon spear~
+A razor sharp spear lies here.~
+~
+5 64|16384 1|8192
+18000 15 25 2 
+1 1000000 0
+A
+18 50
+A
+19 50
+#27950
+Circlet dragonkind~
+Circlet of DragonKind~
+A huge circlet made of platinum and gold lies forgotten in time.~
+~  
+9 0 17
+25 0 0 57
+1 1000000 0
+A
+5 3
+A
+2 3
+A
+1 3
+A
+19 15   
+A
+18 15
+A
+17 -50
+Q
+(null)~ 
+(null)~  
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#0
+
+
+#$

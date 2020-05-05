@@ -1,0 +1,1198 @@
+#AREA	Adreno Dark Citadel~
+27100
+27144
+
+#MOBILES
+#27100
+small black bat~
+the small black bat~
+A small, black bat hangs from the ceiling here.
+~
+The small, black bat has a shiny coat and two beady red eyes that stare at you hungrily!
+~
+2|32|64 8|32|512|65536 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#27101
+large brown rat~
+the large brown rat~
+A large brown rat stands here, guarding her nest.
+~
+Better not mess with mommy rat, she can be a real bitch when it come to protecting her kids!
+~
+2|4|32|64 8|32|512 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27102
+baby rat~
+the baby rat~
+The baby rat is here, gnawing on an old bone.
+~
+Better get clear before mommy rat finds you messing with her kids!
+~
+2|4|32|64 8|32|512|65536 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27103
+spider man~
+the spider-man~
+A creature, half spider and half man bellows a challenge at you!
+~
+Thick grey skin covers the body of this half spider, half man creature.
+~
+2|4|32|64 8|32|128|512 -1000 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27104
+vellin lord damned~
+Vellin, lord of the damned~
+Vellin, the Lord of the damned, laughs heartily at you and attacks!
+~
+Vellin, lord of the Damned, is the leader of the unfortunate race that inhabit these foul caverns.
+~
+2|32|64 8|32|128|512 -1000 S
+450 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27105
+ape face monster~
+the ape faced monster~
+An enormous monster with the face of an ape roars at you!
+~
+Another genetic mutation, ape face stands almost eight feet tall. Dark venom drips from his mighty canine teeth.
+~
+2|32|64 8|32|128|512 -1000 S
+225 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27106
+chaicken head monster~
+the chicken headed monster~
+A huge man with the head of a chicken stands here.
+~
+This enormously muscled man has been mutated somehow, so now he has a head like a chicken.
+~
+2|32|64 8|32|128|512 -1000 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27107
+bogle ~
+the Bogle~
+The Bogle stands here, taunting you.
+~
+Resplendant in wine coloured breeches and shirt, with a flame coloured vest atop, the Bogle stands here taunting you.
+~
+2|32|64 8|32|128|512 -1000 S
+275 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27108
+statue amazon maiden~
+the Amazon statue~
+An enormous stone statue of a warrior maiden stands here.
+~
+An enormous sandstone statue of an Amazon Warrioress stands here.
+~
+2|64 8|32|128|512|8192 0 S
+280 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27109
+amazon guard~
+the Amazon guard~
+The Amazon guard screams a challenge at you and attacks!
+~
+
+~
+2|32|64 8|32|128|512 0 S
+275 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27110
+amazon slave~
+the Amazon slave~
+A worn, tired looking slave is here, carrying out his work.
+~
+
+~
+4|64 8|32|512 0 S
+175 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27111
+amazon bodyguard~
+the amazon bodyguard~
+The Amazon bodyguard is here guarding her post.
+~
+
+~
+2|32|64 8|32|128|512 0 S
+275 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27112
+virago amazon queen~
+Virago the Amazon Queen~
+Virago, the Amazon Queen casts her gaze down upon you and sneers.
+~
+
+~
+2|32|64 8|32|128|512|8192 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27113
+satrina chief bodyguard~
+Satrina the chief bodyguard~
+Satrina, the queen's personal bodyguard stands here.
+~
+
+~
+2|32|64 8|32|128|512|8192 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27114
+tobias tavern keeper~
+Tobias the tavern keeper~
+Tobias, the tavern keeper stands here polishing a glass with a dirty rag.
+~
+Once an adventurer like yourself, Tobias was captured by the Amazons and put to work as a slave. Having a good head for making money, he was put in charge of running the city's tavern.
+~
+2|64 8|32|512 0 S
+180 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27115
+amazonian slave~
+the Amazonian slave~
+An old slave stands here, muttering under his breath.
+~
+The mob looks back at you!
+~
+64 0 0 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27116
+large black rat~
+a large black rat~
+A large black rat is here, gnawing on an old bone.
+~
+
+~
+2|32|64 512 0 S
+155 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27117
+ghost kane~
+the ghost of Kane~
+The ghost of Kane haunts what was his home.
+~
+Kane, the former owner and manager of the hostal, is still here...in spirit, if not in body :)
+~
+2|64 8|32|512 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27118
+vate high priestess~
+Vate the high priestess~
+Vate the priestess kneels here, praying to her Gods.
+~
+
+~
+2|32|64 8|32|128|512 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27119
+temple disciple~
+the temple disciple~
+The temple disciple is here, learning her priestcraft.
+~
+
+~
+2|64 8|32|128|512 0 S
+175 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#27120
+white siberian tiger~
+The white Siberian tiger~
+A huge white tiger raises it's head as your enter and ROARS!
+~
+This huge white Siberian tiger is one of Chloe's favourite pets.
+~
+2|64 8|32|128|512 1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#27100
+bronze shortsword~
+a bronze shortsword~
+A bronze shortsword rests here.~
+~
+5 64|512|1024 1|8192
+0 4 12 1 
+3 0 0
+A
+1 2
+#27101
+compound bow~
+a compound bow~
+A compound bow lies here.~
+~
+5 64|512|1024 1|8192
+0 0 1 3 
+7 0 0
+A
+19 5
+#27102
+arrow~
+an arrow~
+An arrow lies here.~
+~
+5 64|512|1024 1|16384
+100 25 50 3 
+1 0 0
+#27103
+bottle beer~
+a bottle of beer~
+A brown glass bottle has been left here.~
+~
+17 0 1
+1 1 1 0 
+1 0 0
+#27104
+amazon leather lorica~
+an amazon lorica~
+A discarded leather lorica lies here.~
+~
+9 64|512|1024 1|8
+20 1 6 0 
+9 0 0
+A
+1 1
+A
+2 1
+A
+5 2
+#27105
+bronze longsword~
+a bronze longsword~
+A bronze longsword rests here.~
+~
+5 64|512|1024 1|8192
+0 8 14 3 
+5 0 0
+A
+18 2
+#27106
+crested helm~
+a crested helm~
+A crested helm lies here.~
+~
+9 64|512|1024 1|16
+10 1 6 0 
+5 0 0
+A
+17 -5
+#27107
+bronze grieves~
+a pair of bronze grieves~
+A pair of bronze grieves lie here~
+~
+9 64|512|1024 1|32
+10 1 6 0 
+5 0 0
+#27108
+red guard cloak ~
+a red guard's cloak~
+A dark red cloak lies in a heap here.~
+~
+9 64|512|1024 1|1024
+5 1 6 0 
+5 0 0
+A
+23 2
+#27109
+gold fountain~
+a gold fountain~
+A small gold fountain gurgles merrily here.~
+~
+25 1|64 0
+0 0 0 0 
+2000 0 0
+#27110
+purple bodyguards cloak~
+a purple bodyguards cloak~
+A heap of purple material lies here.~
+~
+9 64|512|1024 1|1024
+10 1 6 0 
+3 0 0
+A
+17 -5
+#27111
+gnawed bone~
+a gnawed bone~
+An old partially gnawed bone lies here.~
+~
+13 0 1
+0 0 0 0 
+5 0 0
+#27112
+slaves robe~
+a slaves robe~
+A tattered old robe lies in a pile here~
+~
+9 0 1|8
+0 1 6 0 
+1 0 0
+#27113
+slaves sandals~
+a pair of slaves sandals~
+A pair of slaves sandals rests here.~
+~
+9 0 1|64
+0 1 6 0 
+2 0 0
+#27114
+pile gold coins~
+a pile of gold coins~
+A pile of gold coins gleam in the light.~
+~
+20 0 1
+2000 0 0 0 
+10 0 0
+#27115
+small wooden chest~
+a small wooden chest~
+A small wooden chest lies forgotten here.~
+~
+15 0 1
+10 5 0 0 
+5 0 0
+#27116
+priestess robe~
+a priestess's robe~
+A priestess's robe lies here on the floor.~
+~
+9 64|512|1024 1|8
+10 0 0 0 
+2 0 0
+A
+24 2
+A
+3 2
+#27117
+disciple robe~
+a disciple's robe~
+A disciple's robe lies here.~
+~
+9 64|512|1024 1|8
+5 0 0 0 
+2 0 0
+#27118
+priestess headdress~
+a priestess's headdress~
+A priestess's headdress lies here.~
+~
+9 64|512|1024 1|16
+5 0 0 0 
+1 0 0
+A
+24 2
+#27119
+disciple headdress~
+a disciple's headdress~
+A disciple's headdress lies here.~
+~
+9 64|512|1024 1|16
+5 0 0 0 
+1 0 0
+#27120
+holy symbol~
+a holy symbol~
+A holy symbol lies here.~
+~
+5 64|512|1024 1|8192
+0 4 8 8 
+3 0 0
+E
+holy symbol~
+This holy symbol is carried by the high priestess and often doubles as a weapon.~
+#27121
+ritual dagger~
+a ritual dagger~
+A ritual dagger lies here.~
+~
+5 64|512|1024 1|8192
+0 1 6 11 
+1 0 0
+#0
+
+
+#ROOMS
+#27100
+A dark wet stairway.~
+The stairs before you lead down into darkness. A cold wet breeze flows up at you from below, carrying a fetid stench that makes your eyes begin to water. A strange light glows from below...
+~
+0 1|4|8 4
+D5
+~
+~
+0 -1 27101
+S
+#27101
+A dark wet landing.~
+You are now standing next to a raging watercourse that flow beneath the city. A thin stone bridge seems to be the only way to access the far side. Dark stalactites hang above you, among which beady reds eyes watch you. A damp stone staircase rises to the south whilst a  thin stone bridge, lacking any handrails, stand before you to the north. The strange light is stronger here...
+~
+0 1|4|8 1
+D0
+~
+~
+0 -1 27102
+D4
+~
+~
+0 -1 27100
+S
+#27102
+A stone bridge spanning the river.~
+Dark water speeds past below you as you inch your way carefully across the bridge. A cold fetid wind gusts across the waters surface, making your journey along the bridge difficult as you fight for balance. Dark wet landings stand to your north and south, whilst to the east and west stands a long drop into the foaming torrent below, which glows with an eerie green light. Maybe it's the glow of some kind of bioluminescent algae that lives in the water.....and maybe not...
+~
+0 1|8 1
+D0
+~
+~
+0 -1 27103
+D1
+~
+~
+0 -1 27109
+D2
+~
+~
+0 -1 27101
+D3
+~
+~
+0 -1 27109
+S
+#27103
+Another dark wet landing.~
+You are now standing next to a raging watercourse that flow beneath the city. A thin stone bridge seems to be the only way to access the far side. Dark stalactites hang above you, among which beady reds eyes watch you. A damp stone staircase descends to the north whilst a thin stone bridge, lacking any handrails, stands to the south.
+~
+0 1|8 1
+D0
+~
+~
+0 -1 27104
+D2
+~
+~
+0 -1 27102
+S
+#27104
+At the top of the stairs.~
+The staircase below you descends as far as you can see. Crusty limescale deposits cover the stairs and the lower parts of the walls at the top, whilst lower down the stairs seem free from any obstructions.
+~
+0 1|8 4
+D2
+~
+~
+0 -1 27103
+D5
+~
+~
+0 -1 27105
+S
+#27105
+On the stairs.~
+Thick dust covers the floor, rising up with every step you make, clouding your vision and causing you to sneeze. A few dust laden cobwebs hang from the ceiling and a high pitched squeaking comes from lower down the stairs. The stairs continue down into darkness and up into the light.
+~
+0 1|8|8192 4
+D4
+~
+~
+0 -1 27104
+D5
+~
+~
+0 -1 27106
+S
+#27106
+Further down the stairs.~
+Dark, cold and damp are the only words that can describe these stairs. Thick dust covers the floor, rising up with every step you make, clouding your vision and causing you to sneeze. A few dust laden cobwebs hang from the ceiling and a high pitched squeaking comes from lower down the stairs. The stairs continue down into darkness.
+~
+0 1|8|8192 4
+D4
+~
+~
+0 -1 27105
+D5
+~
+~
+0 -1 27107
+S
+#27107
+Even further down the stairs.~
+Thick dust covers the floor, rising up with every step you make, clouding your vision and causing you to sneeze. A few dust laden cobwebs hang from the ceiling and a high pitched squeaking comes from lower down the stairs. The bottom of the stairs can be seen from here. The high pitched squeaking you could hear earlier is louder now...
+~
+0 1|8|8192 4
+D4
+~
+~
+0 -1 27106
+D5
+~
+~
+0 -1 27108
+S
+#27108
+At the bottom of the stairs.~
+This dark landing extends some thirty feet in diameter, illuminated by strangely glowing mosses growing about the walls. A crude archway has been carved into the southern wall. A dark stairway rises upwards.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 27110
+D4
+~
+~
+0 -1 27107
+S
+#27109
+The raging torrent.~
+BIG MISTAKE!!
+You feel yourself drag under the surface by the frenzied current. The freezing waters leech the heat from your body and your frozen remains are swept off to the bowels of the earth...
+~
+0 4|8 0
+S
+#27110
+A narrow tunnel.~
+This tunnel has been carved rather amaturishly through the stone, obviously a recent edition to the natural caverns that abound through this area. To the east the tunnel continues into darkness.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 27108
+D1
+~
+~
+0 -1 27111
+S
+#27111
+Along the narrow tunnel.~
+This tunnel has been carved rather amaturishly through the stone, obviously a recent edition to the natural caverns that abound through this area. The tunnel continues west and south, whilst to the north is a small secluded alcove.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 27112
+D2
+~
+~
+0 -1 27113
+D3
+~
+~
+0 -1 27110
+S
+#27112
+The rat's nest.~
+This small alcove appears to be the home of a family of abnormally large rats. Scraps of rotten food lay all about the floor nad the stench here is next to unbearable. Looks like you found out where all that squeaking ws coming from...
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 27111
+S
+#27113
+A dimly lit cavern.~
+This dimly lit cavern extends some thirty feet in diameter, illuminated by guttering torches held in bronze sconces spaced evenly about the walls. The light sparkles off of the flecks of mica embedded in the black stone walls. A crude archway has been carved into the eastern wall.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27111
+D1
+~
+~
+0 -1 27114
+E
+black attractive stone walls~
+This attractive black stone appears to be Nivenite, a highly radioactive stone containing uranium and radium, often found in deep caverns.~
+S
+#27114
+A dimly lit corridor.~
+This corridor is completely out of place amongst the rest of the natural caverns. Evidently of manmade(?) origin, these smooth stone walls and flagged floors tell of a highly organised society. Brass torchiere stand at intervals, casting a warm glow over the ornately carved ceiling.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 27115
+D3
+~
+~
+0 -1 27113
+S
+#27115
+A dimly lit corridor.~
+This corridor is completely out of place amongst the rest of the natural caverns. Evidently of manmade(?) origin, these smooth stone walls and flagged floors tell of a highly organised society. Brass torchiere stand at intervals, casting a warm glow over the ornately carved ceiling. An intricately incised door stands to the north.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27114
+D1
+~
+~
+0 -1 27116
+S
+#27116
+A dimly lit corridor.~
+This corridor is completely out of place amongst the rest of the natural caverns. Evidently of manmade(?) origin, these smooth stone walls and flagged floors tell of a highly organised society. Brass torchiere stand at intervals, casting a warm glow over the ornately carved ceiling.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 27117
+D3
+~
+~
+0 -1 27115
+S
+#27117
+The webbed chamber.~
+Webs, webs and more webs. This chamber is completely covered in them. The floor is covered by the rotting remains of old webs. A crude hammock has been fashioned out of some of the webs. This room is far from uninhabited...
+~
+0 8|8192 2
+D1
+~
+~
+1 -1 27118
+D2
+~
+~
+1 -1 27116
+S
+#27118
+The plant chamber.~
+This chamber is completely covered in plants. The floor is covered by the rotting remains of old, dead plants. A tangle of vines appear to have been fashioned into a bed of some kind...
+~
+0 8|8192 2
+D0
+~
+~
+1 -1 27119
+D3
+~
+~
+1 -1 27117
+D5
+~
+~
+1 -1 27122
+S
+#27119
+The corn chamber.~
+Amazingly enough, this chamber is completely filled with growing corn. A fierce light burns brightly from the ceiling, aiding the growth of the crops. Strange circle-like disturbances have flattened the corn in places...
+~
+0 8|8192 2
+D0
+~
+~
+1 -1 27120
+D1
+~
+~
+1 -1 27121
+D2
+~
+~
+1 -1 27118
+S
+#27120
+The dark antechamber.~
+It's too dark to make out much in this room, the very air seems to drink any light cast here. You can just about make out a rough wooden bench, lined with arcane looking apparatus standing to one side, whilst on the other side of the room is a tall bookcase filled with dusty tomes.
+~
+0 1|8|8192 2
+D2
+~
+~
+1 -1 27119
+S
+#27121
+The dark Throne room.~
+An enormous throne dominates this room. Shaped from attractive black stone, this epic construction is the seat of power of Vellin, Lord of the Damned.
+~
+0 1|8|8192 1
+D3
+~
+~
+1 -1 27119
+S
+#27122
+A secret tunnel.~
+This dry and dusty tunnel leads down from the realm of Aranea to the main gates of the Dark Citadel. Famed in legend, this once mighty city was the homestead of a race of mighty Amazons. Many have tried to find the location of this place, hoping to find some of the fabled wealth reported to have been left by it's denizens. Many have tried, none have returned.....
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 27123
+D4
+~
+~
+1 -1 27118
+S
+#27123
+Entrance to the Dark Citadel.~
+Two tremendous gates stand before you, age hardened wood sheathed in copper and intricately inscribed with runes and sigils of a long lost language. Either side of the gates stands a statue of a woman garbed in armour and girt with sword and bow. Maybe it was a trick of the light, but...didn't that statue blink.....?
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 27124
+D2
+~
+~
+0 -1 27122
+S
+#27124
+The first guardpost.~
+This is the first guardpost of the Dark Citadel. A faded and tattered tapestry hangs on one wall. Spotlessly clean, this room appears to still be in use...
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27125
+D2
+~
+~
+1 -1 27123
+S
+#27125
+Amazonian Way.~
+This "road" runs straight north from here, through what appears to be a massive cavern. Buildings line each side, some in pristine condition, others mere jumbled piles of rubble. The once famous splendor of the Dark Citadel becomes more apparent to you as you look at these buildings. Fluted marble columns support the awnings of many of the buildings, fine scupltures abound and most are picked out in gold-leaf or encrusted with many rare gems. South is a large guardpost, the road continues north.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27128
+D2
+~
+~
+0 -1 27124
+D3
+~
+~
+1 -1 27126
+S
+#27126
+The Tavern.~
+This once well peopled tavern has fallen into disrepair along with most of the city. Rough timbers make do as tables and old barrels have been cut down to form chairs. A long thick wooden bar runs the length of the western wall.
+~
+0 8|8192 1
+D1
+~
+~
+1 -1 27125
+S
+#27127
+An abandoned hostel.~
+This was once the premiere place for travellers to stay in the Dark Citadel. With all but the lobby collapsed into one huge pile of rubble, this building is now useless.
+~
+0 1|8|8192 0
+D3
+~
+~
+1 -1 27128
+S
+#27128
+Amazonian Way.~
+This "road" runs straight north from here, through what appears to be a massive cavern. Buildings line each side, some in pristine condition, others mere jumbled piles of rubble. The once famous splendor of the Dark Citadel becomes more apparent to you as you look at these buildings. Fluted marble columns support the awnings of many of the buildings, fine scupltures abound and most are picked out in gold-leaf or encrusted with many rare gems. The road continues north and south.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27129
+D1
+~
+~
+1 -1 27127
+D2
+~
+~
+0 -1 27125
+S
+#27129
+Amazonian Way.~
+This "road" runs straight north from here, through what appears to be a massive cavern. Buildings line each side, some in pristine condition, others mere jumbled piles of rubble. The once famous splendor of the Dark Citadel becomes more apparent to you as you look at these buildings. Fluted marble columns support the awnings of many of the buildings, fine scupltures abound and most are picked out in gold-leaf or encrusted with many rare gems. The road continues north and south.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27130
+D2
+~
+~
+0 -1 27128
+D3
+~
+~
+1 -1 27131
+S
+#27130
+Amazonian Way.~
+This "road" runs straight north from here, through what appears to be a massive cavern. Buildings line each side, some in pristine condition, others mere jumbled piles of rubble. The once famous splendor of the Dark Citadel becomes more apparent to you as you look at these buildings. Fluted marble columns support the awnings of many of the buildings, fine scupltures abound and most are picked out in gold-leaf or encrusted with many rare gems. The road continues north and south.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27132
+D2
+~
+~
+0 -1 27129
+S
+#27131
+An abandoned shop.~
+This shop has long since been looted. Everything has been taken, probably to be reused somewhere else in the city. It now appears to have other inhabitants...
+~
+0 1|8|8192 0
+D1
+~
+~
+1 -1 27129
+S
+#27132
+Amazonian way.~
+This "road" runs straight north from here, through what appears to be a massive cavern. Buildings line each side, some in pristine condition, others mere jumbled piles of rubble. The once famous splendor of the Dark Citadel becomes more apparent to you as you look at these buildings. Fluted marble columns support the awnings of many of the buildings, fine scupltures abound and most are picked out in gold-leaf or encrusted with many rare gems. To the north is a large square dominated by an imposing stone temple. The road runs south from here.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 27133
+D2
+~
+~
+0 -1 27130
+S
+#27133
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The tinkling of water catches your ear from somewhere to the north.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27134
+D3
+~
+~
+0 -1 27132
+S
+#27134
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues east and west, whilst to the north is an imposing temple.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27135
+D1
+~
+~
+0 -1 27136
+D2
+~
+~
+0 -1 27133
+D3
+~
+~
+0 -1 27142
+S
+#27135
+The Temple portico.~
+This is the entrance to the grand temple of the Dark Citadel. A flight of white marble stairs lead up to the temple proper.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 27134
+D4
+~
+~
+0 -1 27143
+S
+#27136
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues north and west, whilst to the northwest is an imposing temple.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27137
+D3
+~
+~
+0 -1 27134
+S
+#27137
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues north and south, whilst to the west is an imposing temple.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27138
+D2
+~
+~
+0 -1 27136
+S
+#27138
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues west and south, whilst to the southwest is an imposing temple.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 27137
+D3
+~
+~
+0 -1 27139
+S
+#27139
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues east and west, whilst to the south is an imposing temple.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 27138
+D3
+~
+~
+0 -1 27140
+S
+#27140
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues east and south, whilst to the southeast is an imposing temple.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 27139
+D2
+~
+~
+0 -1 27141
+S
+#27141
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues north and south, whilst to the east is an imposing temple.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27140
+D2
+~
+~
+0 -1 27142
+S
+#27142
+Citadel Square.~
+This square is one of the last parts of the city that still show the once famed splendor of the Dark Citadel. Marble flagstones line the square, graceful pilasters soar upwards and finely scuptured statues of women in armour stand on gold chased marble pedestals. The square continues north and east, whilst to the northeast is an imposing temple.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 27141
+D1
+~
+~
+0 -1 27134
+S
+#27143
+The Temple of the Dark Citadel.~
+This temple is the epitome of opulence. White marble and gold are the two main building materials used here. Exquisite tapestries and paintings of a religious demeanor bedeck the walls. A large gold wrought sunburst dominates the centre of the floor. A black marble altar stands at the north end of the temple. Doors lead to several small rooms and a flight of golden stairs spirals upwards.
+~
+0 8|8192 0
+D4
+~
+~
+0 -1 27144
+D5
+~
+~
+0 -1 27135
+S
+#27144
+On the spiral stairs.~
+These ornate stairs lead upwards towards the home of the Amazon Goddess Chloe. Her wrath is not something a mortal or avatar would wish to experience..
+~
+0 4|8|8192 0
+D5
+~
+~
+0 -1 27143
+S
+#0
+
+
+#RESETS
+D 1 27116 0 1			; A dimly lit corridor. Close North
+D 1 27117 2 1			; The webbed chamber. Close South
+D 1 27117 1 1			; The webbed chamber. Close East
+D 1 27118 3 1			; The plant chamber. Close West
+D 1 27118 0 1			; The plant chamber. Close North
+D 1 27119 2 1			; The corn chamber. Close South
+D 1 27119 0 1			; The corn chamber. Close North
+D 1 27120 2 1			; The dark antechamber. Close South
+D 1 27119 1 1			; The corn chamber. Close East
+D 1 27121 3 1			; The dark Throne room. Close West
+D 1 27118 5 1			; The plant chamber. Close Down
+D 1 27122 4 1			; A secret tunnel. Close Up
+D 1 27123 0 2			; Entrance to the Dark Citadel. Lock North
+D 1 27124 2 2			; The first guardpost. Lock South
+D 1 27125 3 0			; Amazonian Way. Open West
+D 1 27126 1 0			; The Tavern. Open East
+D 1 27128 1 0			; Amazonian Way. Open East
+D 1 27127 3 0			; An abandoned hostel. Open West
+D 1 27129 3 1			; Amazonian Way. Close West
+D 1 27131 1 1			; An abandoned shop. Close East
+*
+M 1 27100 3 27101			the small black bat to A dark wet landing.
+*
+M 1 27100 4 27102			the small black bat to A stone bridge spanning the river.
+*
+M 1 27103 3 27110			the spider-man to A narrow tunnel.
+*
+M 1 27103 5 27111			the spider-man to Along the narrow tunnel.
+*
+M 1 27101 1 27112			the large brown rat to The rat's nest.
+*
+M 1 27102 5 27112			the baby rat to The rat's nest.
+*
+M 1 27103 5 27117			the spider-man to The webbed chamber.
+*
+M 1 27105 5 27118			the ape faced monster to The plant chamber.
+*
+M 1 27106 5 27119			the chicken headed monster to The corn chamber.
+*
+M 1 27107 1 27120			the Bogle to The dark antechamber.
+*
+M 1 27103 2 27120			the spider-man to The dark antechamber.
+*
+M 1 27105 2 27120			the ape faced monster to The dark antechamber.
+*
+M 1 27106 2 27120			the chicken headed monster to The dark antechamber.
+*
+M 1 27104 1 27121			Vellin, lord of the damned to The dark Throne room.
+*
+M 1 27103 1 27121			the spider-man to The dark Throne room.
+*
+M 1 27105 1 27121			the ape faced monster to The dark Throne room.
+*
+M 1 27106 1 27121			the chicken headed monster to The dark Throne room.
+*
+M 1 27108 2 27123			the Amazon statue to Entrance to the Dark Citadel.
+E 1 27100 100 16
+*
+M 1 27109 5 27124			the Amazon guard to The first guardpost.
+E 1 27104 100 5
+E 1 27106 100 6
+E 1 27107 100 7
+E 1 27108 100 12
+E 1 27100 100 16
+*
+M 1 27114 1 27126			Tobias the tavern keeper to The Tavern.
+*
+M 1 27101 1 27127			the large brown rat to An abandoned hostel.
+*
+M 1 27116 1 27127			a large black rat to An abandoned hostel.
+*
+M 1 27102 3 27127			the baby rat to An abandoned hostel.
+*
+M 1 27117 1 27127			the ghost of Kane to An abandoned hostel.
+*
+M 1 27116 5 27131			a large black rat to An abandoned shop.
+O 1 27111 100 27131			a gnawed bone to An abandoned shop.
+O 1 27111 100 27112			a gnawed bone to The rat's nest.
+O 1 27109 100 27134			a gold fountain to Citadel Square.
+*
+M 1 27111 2 27135			the amazon bodyguard to The Temple portico.
+E 1 27104 100 5
+E 1 27106 100 6
+E 1 27107 100 7
+E 1 27110 100 12
+E 1 27105 100 16
+G 1 27102 100
+G 1 27102 100
+G 1 27102 100
+G 1 27101 100
+*
+M 1 27110 1 27136			the Amazon slave to Citadel Square.
+E 1 27112 100 5
+*
+M 1 27118 1 27143			Vate the high priestess to The Temple of the Dark Citadel.
+E 1 27116 100 5
+E 1 27118 100 6
+E 1 27120 100 16
+G 1 27115 100
+*
+S
+
+
+#SPECIALS
+M  27103 spec_poison			the spider-man
+M  27105 spec_poison			the ape faced monster
+M  27110 spec_janitor			the Amazon slave
+M  27116 spec_fido			a large black rat
+M  27118 spec_cast_cleric			Vate the high priestess
+S
+
+
+#$

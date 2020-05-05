@@ -1,0 +1,2604 @@
+#AREA	Jarra - Steeding EXP Zone~
+23000
+23103		
+
+#MOBILES
+#23000
+Squirrel~
+the squirrel~
+A cute Squirrel runs by your feet
+~
+Upon seeing you stare at him the Squirrel promply lifts his tail at you
+~
+4|64 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23001
+Deer~
+the deer~
+Flowing gracefully a beautiful deer walks into your path.
+~
+Looking up from grazing in the grass the Deer returns your stare
+~
+64 0 0 S
+13 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23002
+The Rabid Deer~
+the rabid deer~
+Almost running out in front of you this deer thats foaming at the mouth looks more then worried
+~
+Meeting your stare this rabid deer quickly looks around and drolls on itself some more
+~
+64 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23003
+Racoon~
+the racoon~
+Wandering through out the forest this racoon seems only intent on food
+~
+Covered in filth the Racoon would as soon bite you as wander off...maybe it will do both.
+~
+4|64 0 0 S
+14 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23004
+Skunk~
+the skunk~
+The Racoon swiftly walks past you as an odor catches your nose
+~
+Better not look to close...might be sprayed...yet I was always told not to stare at a racoon, they tend to spray yeah...yep thats what they say allright
+~
+4|64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23005
+Magical Slug~
+the magical slug~
+A weird looking slug slowly creeps by you
+~
+On request by Lord Sluggo.  In other words complain to him if it poisons you.
+~
+4|64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23006
+Rabbit~
+the rabbit~
+Small furry Rabbits run by you...man theres a lot
+~
+Aren't they so cute? you seem overwhelmed to pick one up and cuddle it.
+~
+4|64 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23007
+Rat~
+the rat~
+A rat scurries across the ground trying to hide
+~
+Sly and Slender the rats seem to make an afformadable foe when in large numbers.
+~
+4|64 0 0 S
+11 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23008
+Frog~
+the frog~
+A Frog leaps to and fro very happy
+~
+A semi large frog..try to squish it
+~
+4|64 0 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23009
+Falcon~
+the falcon~
+Seemingly unaware of you this Falcon is resting on the ground
+~
+Its on the ground... easy kill
+~
+4|64 0 0 S
+14 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23010
+Fox~
+the fox~
+Walking stealthfully a skinny fox waits for its prey
+~
+Only 2 feet high this fox has the usual brown and red markings on it.
+~
+4|64 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23011
+Male Wolf~
+the male wolf~
+Stalking from behind a tree, a pair of wolves eyes stare at you
+~
+Its looking dead at you...better take care of it soon.
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23012
+Female Wolf~
+the female wolf~
+Stalking gracefully a female Wolf walks straight into your path
+~
+She's confident...wonder why?
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#23013
+Tree Frog~
+the tree frog~
+A tree frog ribbits at the sight of you
+~
+A little bigger then the other frogs but at least the other frogs aren't poisonous.
+~
+64 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23014
+Leopard~
+the leopard~
+A strange sight to see but infront of you is a Leopard
+~
+Almost blending in even with its Orange spots this leopard might cause some problems
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23015
+Paca~
+the paca~
+Digging out of the ground a small Paca sits in front of you
+~
+Dirty beyond belief this thing needs a bath soon.
+~
+64 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23016
+Opposum~
+the opposum~
+An opposum dangles before you
+~
+Dangling in front of you a opposum seems interested in you
+~
+4|64 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23017
+BushMaster~
+the bushmaster~
+Hiding under a bush the BushMaster is ready to strike
+~
+If you can see it, then its already got you
+~
+64 65536 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23018
+Blue-Crown Motmot~
+the Blue-crown Motmot~
+Fluttering past you, you quickly eye a Blue-Crown Motmot
+~
+To fast to see my friend
+~
+64 524288 0 S
+21 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#23019
+Cock-of-the-Rock~
+the cock-of-the-rock~
+Lifting your head a cock-of-the-rock is staring down at you
+~
+Funny name isn't it?
+~
+64 524288 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23020
+Satin Bowerbird~
+the satin bowerbird~
+Looking like a piece of Satin a Satin Bowerbird flies by
+~
+Looks just like Satin..not Satan damnit
+~
+64 524288 0 S
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23021
+Owl butterfl~
+the owl butterfly~
+You spot a owl butterfly fluttering past you
+~
+Its so beautiful and elegant isn't it?
+~
+64 524288 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#23022
+Red Panda~
+the red panda~
+A cute little red panda is sitting here
+~
+NO!!! DONT KILL THE CUTE RED PANDA!!! need a better look?
+http://www.animalsoftherainforest.com/redpanda.htm
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23023
+Puma~
+the puma~
+A strong Puma eyes around for more food
+~
+Puma, "not just a shoe."
+~
+64 0 0 S
+26 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23024
+Glass Frog~
+the glass frog~
+A Glass Frog sits no doubt its guarding its eggs
+~
+Does it have eggs or does it just feel like sitting around?
+~
+64 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23025
+male Ogier~
+the male ogier~
+A male Ogier stands here tending the forest
+~
+Large Ogiers at that but with a hint of happiness
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23026
+Female Ogier~
+the female Ogier~
+A female Ogier stands here tending the flowers   
+~
+Nothing like the sweet smell of flowers that surround this Ogier
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#23027
+Forest Ogier~
+the Forest Ogier~
+A Forest Ogier stands protecting the land from Evil invaders
+~
+Better not look to close
+~
+64 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23028
+travelers traveling people male~
+a male traveler~
+A peaceful Male Traveler dances around a fire
+~
+Covered in different colors this male Traveler doesn't even see you
+~
+2|64 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23029
+female traveler traveling~
+a female traveler~
+A female Traveler dances to remember "The Song".
+~
+Catching you eyes from watching the Female Traveler to much you cant help to notice her beauty
+~
+2|64 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#ROOMS
+#23000
+Flat Plains~
+Upon Entering you feel a slight breeze ruffle your shirt.  Walking slowly the soft  
+Grass is bending at your every step and accepting your way.  Looking behind you  
+the way you came has been blurred but the desire to leave probably will never come.   
+Up ahead you see a Gigantic Forest with Several Ancient Oaks Towering above everything.
+~
+0 4 2
+D0
+~
+~
+0 -1 23001
+D2
+~
+~
+0 -1 923
+S
+#23001
+Rise in The Plains~
+After several short climbs you find yourself in a higher part of the plains.  Spanning  
+to the west you spot several caravans of traveling people obviously without a care in  
+the world.  To the West is more plains while the Towering Trees you spotted north  
+become nearer and nearer.
+~
+0 0 2
+D0
+~
+~
+0 -1 23003
+D2
+~
+~
+0 -1 23000
+D3
+~
+~
+0 -1 23002
+S
+#23002
+Travelers Caravan.~
+Bright colors and sweet aromas reach into you nostrils has women come and dance  
+around you.  Wagons painted in more colors then you thought possible are huddled  
+toghether as it seems they celebrate life every day.
+~
+0 4 2
+D1
+~
+~
+0 -1 23001
+S
+#23003
+Beggining of Forest~
+Slightly walking down the plains you come face to face with the beggining of the  
+forest almost as if a wall stood between the two.  Inside the forest you cant  
+hear a single noise but you can easily spot the Gigantic Trees to the north.
+~
+0 0 2
+D0
+~
+~
+0 -1 23004
+D2
+~
+~
+0 -1 23001
+S
+#23004
+Forest~
+When you enter the forest you hear sounds ringing in your ear a thousand upon  
+a thousand over.  Desperate pleas are heard through out this Forest while the  
+sounds of bones breaking and being crushed are heard.  The trees seem to  
+slowly reach out to you to embrace your life and steal your soul.
+~
+0 0 3
+D0
+~
+~
+0 -1 23009
+D1
+~
+~
+0 -1 23006
+D2
+~
+~
+0 -1 23003
+D3
+~
+~
+0 -1 23005
+S
+#23005
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider  
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D0
+~
+~
+0 -1 23012
+D1
+~
+~
+0 -1 23004
+D3
+~
+~
+0 -1 23008
+S
+#23006
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider  
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D0
+~
+~
+0 -1 23010
+D1
+~
+~
+0 -1 23007
+D3
+~
+~
+0 -1 23004
+S
+#23007
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider  
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D0
+~
+~
+0 -1 23011
+D3
+~
+~
+0 -1 23006
+S
+#23008
+Forest ~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider
+webs ready to consume you.  Looking around you feel dizzy and almost not able
+to find your way around.
+~
+0 0 3
+D0
+~
+~
+0 -1 23013
+D1
+~
+~
+0 -1 23005
+S
+#23009
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could
+hug half around.  Vines lay across from tree to tree in the vision of spider
+webs ready to consume you.  Looking around you feel dizzy and almost not able
+to find your way around.
+~
+0 0 3
+D0
+~
+~
+0 -1 23015
+D1
+~
+~
+0 -1 23010
+D2
+~
+~
+0 -1 23004
+D3
+~
+~
+0 -1 23012
+S
+#23010
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could
+hug half around.  Vines lay across from tree to tree in the vision of spider  
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D1
+~
+~
+0 -1 23011
+D2
+~
+~
+0 -1 23006
+D3
+~
+~
+0 -1 23009
+S
+#23011
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could
+hug half around.  Vines lay across from tree to tree in the vision of spider
+webs ready to consume you.  Looking around you feel dizzy and almost not able
+to find your way around.
+~
+0 0 3
+D2
+~
+~
+0 -1 23007
+D3
+~
+~
+0 -1 23010
+S
+#23012
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider  
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D1
+~
+~
+0 -1 23009
+D2
+~
+~
+0 -1 23005
+D3
+~
+~
+0 -1 23013
+S
+#23013
+Forest~
+Lumbering around you are huge Trees of which not the biggest Man you know could  
+hug half around.  Vines lay across from tree to tree in the vision of spider
+webs ready to consume you.  Looking around you feel dizzy and almost not able  
+to find your way around.
+~
+0 0 3
+D1
+~
+~
+0 -1 23012
+D2
+~
+~
+0 -1 23008
+S
+#23014
+Builders Square~
+Around the Area are huge monsters of machines digging and plowing through.  In the
+center you see one man waving his hands in the air manipulating the machines to do
+his bidding.  Glancing a look at you Jarra quickly hollars for you to leave his
+place of bussiness.
+~
+0 4|8|512|1024 9
+S
+#23015
+Soothing Forest~
+Almost as if stepping past another wall you feel a slight breeze as the Forest
+seems to open up.  While Trees still stand around you it almost looks like  
+they were set with the most delicate hands to where they would grow the most.
+~
+0 0 3
+D0
+~
+~
+0 -1 23016
+D2
+~
+~
+0 -1 23009
+S
+#23016
+Soothing Forest~
+Almost as if stepping past another wall you feel a slight breeze as the Forest
+seems to open up.  While Trees still stand around you it almost looks like  
+they were set with the most delicate hands to where they would grow the most.
+~
+0 0 3
+D0
+~
+~
+0 -1 23019
+D1
+~
+~
+0 -1 23018
+D2
+~
+~
+0 -1 23015
+D3
+~
+~
+0 -1 23017
+S
+#23017
+Dense Orchard~
+Smells of Fruits beyond taste pull you into this room.  Surrounded by hundreds
+of small Plants you cant help but pick some of the berries and fruits and  
+taste them.  The Feeling of overwhelming calm comes over you as the fruit's  
+taste reaches your mouth's senses.
+~
+0 0 3
+D1
+~
+~
+0 -1 23016
+S
+#23018
+Forest Temple~
+Slight breezes ruffle your shirt as you step into a small clearing where it  
+looks like the trunks of trees have been molded into seats.  Sitting in the  
+middle is a small shrine where a small tree is growing.  Looking at the  
+Engraving underneath the shrine is says, "The future One Tree."
+~
+0 0 3
+D3
+~
+~
+0 -1 23016
+S
+#23019
+Forest Huts~
+Walking Deeper into the forest you look around and find yourself startled to
+see what looks like small huts.  It seems like these huts weren't built but
+were naturally made part of this forest and opened itself to the dwellers.
+~
+0 0 3
+D0
+~
+~
+0 -1 23024
+D1
+~
+~
+0 -1 23022
+D2
+~
+~
+0 -1 23016
+D3
+~
+~
+0 -1 23020
+S
+#23020
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among  
+more of the Forest Huts.  Upon closer inspection you realize that its not  
+just Dirt and Trees that have intwined themselves but stone also the make  
+this small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D0
+~
+~
+0 -1 23027
+D1
+~
+~
+0 -1 23019
+D3
+~
+~
+0 -1 23021
+S
+#23021
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among
+more of the Forest Huts.  Upon closer inspection you realize that its not  
+just Dirt and Trees that have intwined themselves but stone also the make  
+this small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D0
+~
+~
+0 -1 23028
+D1
+~
+~
+0 -1 23020
+S
+#23022
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among
+more of the Forest Huts.  Upon closer inspection you realize that its not  
+just Dirt and Trees that have intwined themselves but stone also the make  
+this small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D0
+~
+~
+0 -1 23025
+D1
+~
+~
+0 -1 23023
+D3
+~
+~
+0 -1 23019
+S
+#23023
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among  
+more of the Forest Huts.  Upon closer inspection you realize that its not just
+Dirt and Trees that have intwined themselves but stone also the make this  
+small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D0
+~
+~
+0 -1 23026
+D3
+~
+~
+0 -1 23022
+S
+#23024
+Forest Huts~
+Once Reaching this room you seem to feel tired for not being able to stop into  
+one of those huts.  Stepping further into the Forest a strange feeling comes
+over you almost like needles being rammed at your back but as soon as they  
+came they went.
+~
+0 0 3
+D0
+~
+~
+0 -1 23029
+D1
+~
+~
+0 -1 23025
+D2
+~
+~
+0 -1 23019
+D3
+~
+~
+0 -1 23027
+S
+#23025
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among
+more of the Forest Huts.  Upon closer inspection you realize that its not just
+Dirt and Trees that have intwined themselves but stone also the make this  
+small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D1
+~
+~
+0 -1 23026
+D2
+~
+~
+0 -1 23022
+D3
+~
+~
+0 -1 23024
+S
+#23026
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among  
+more of the Forest Huts.  Upon closer inspection you realize that its not just
+Dirt and Trees that have intwined themselves but stone also the make this  
+small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D2
+~
+~
+0 -1 23023
+D3
+~
+~
+0 -1 23025
+S
+#23027
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among  
+more of the Forest Huts.  Upon closer inspection you realize that its not just
+Dirt and Trees that have intwined themselves but stone also the make this  
+small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D1
+~
+~
+0 -1 23024
+D2
+~
+~
+0 -1 23020
+D3
+~
+~
+0 -1 23028
+S
+#23028
+Forest Huts~
+Walking at a steady pace of which the Forest has set you find yourself among
+more of the Forest Huts.  Upon closer inspection you realize that its not just
+Dirt and Trees that have intwined themselves but stone also the make this  
+small hut appear to have the strength of a thousand palaces.
+~
+0 0 3
+D1
+~
+~
+0 -1 23027
+D2
+~
+~
+0 -1 23021
+S
+#23029
+Outer Steeding~
+Appearing all around you, you seem to have now entered where the gigantic  
+trees stand.  Huge Trunks the size of two Caravans little the ground to
+where the eyes can see.  Almost as if by will of nature you see the trees  
+tops almost intwined with eachother creating a beautiful roof to shelter  
+yourself from the rain
+~
+0 0 3
+D0
+~
+~
+0 -1 23030
+D2
+~
+~
+0 -1 23024
+S
+#23030
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature
+allow them to stand so high but yet can stand against the mightest of blows.
+All around in every direction you see more and more of the Trees standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23040
+D1
+~
+~
+0 -1 23035
+D2
+~
+~
+0 -1 23029
+D3
+~
+~
+0 -1 23031
+S
+#23031
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23041
+D1
+~
+~
+0 -1 23030
+D3
+~
+~
+0 -1 23032
+S
+#23032
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23042
+D1
+~
+~
+0 -1 23031
+D3
+~
+~
+0 -1 23033
+S
+#23033
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23043
+D1
+~
+~
+0 -1 23032
+D3
+~
+~
+0 -1 23034
+S
+#23034
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23044
+D1
+~
+~
+0 -1 23033
+S
+#23035
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23045
+D1
+~
+~
+0 -1 23036
+D3
+~
+~
+0 -1 23030
+S
+#23036
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23039
+D1
+~
+~
+0 -1 23037
+D3
+~
+~
+0 -1 23035
+S
+#23037
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23046
+D1
+~
+~
+0 -1 23038
+D3
+~
+~
+0 -1 23036
+S
+#23038
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23047
+D3
+~
+~
+0 -1 23037
+S
+#23039
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23054
+D1
+~
+~
+0 -1 23046
+D2
+~
+~
+0 -1 23036
+D3
+~
+~
+0 -1 23045
+S
+#23040
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23048
+D1
+~
+~
+0 -1 23045
+D2
+~
+~
+0 -1 23030
+D3
+~
+~
+0 -1 23041
+S
+#23041
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23049
+D1
+~
+~
+0 -1 23040
+D2
+~
+~
+0 -1 23031
+D3
+~
+~
+0 -1 23042
+S
+#23042
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23050
+D1
+~
+~
+0 -1 23041
+D2
+~
+~
+0 -1 23032
+D3
+~
+~
+0 -1 23043
+S
+#23043
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23051
+D1
+~
+~
+0 -1 23042
+D2
+~
+~
+0 -1 23033
+D3
+~
+~
+0 -1 23044
+S
+#23044
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23052
+D1
+~
+~
+0 -1 23043
+D2
+~
+~
+0 -1 23034
+S
+#23045
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23053
+D1
+~
+~
+0 -1 23039
+D2
+~
+~
+0 -1 23035
+D3
+~
+~
+0 -1 23040
+S
+#23046
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23055
+D1
+~
+~
+0 -1 23047
+D2
+~
+~
+0 -1 23037
+D3
+~
+~
+0 -1 23039
+S
+#23047
+Outer Steeding~
+Around you more of the huge Trees stand almost as if the forces of nature  
+allow them to stand so high but yet can stand against the mightest of  
+blows.  All around in every direction you see more and more of the Trees  
+standing.
+~
+0 0 1
+D0
+~
+~
+0 -1 23056
+D2
+~
+~
+0 -1 23038
+D3
+~
+~
+0 -1 23046
+S
+#23048
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.  
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D0
+~
+~
+0 -1 23058
+D1
+~
+~
+0 -1 23053
+D2
+~
+~
+0 -1 23040
+D3
+~
+~
+0 -1 23049
+S
+#23049
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D1
+~
+~
+0 -1 23048
+D2
+~
+~
+0 -1 23041
+D3
+~
+~
+0 -1 23050
+S
+#23050
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D0
+~
+~
+0 -1 23059
+D1
+~
+~
+0 -1 23049
+D2
+~
+~
+0 -1 23042
+D3
+~
+~
+0 -1 23051
+S
+#23051
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D1
+~
+~
+0 -1 23050
+D2
+~
+~
+0 -1 23043
+D3
+~
+~
+0 -1 23052
+S
+#23052
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D1
+~
+~
+0 -1 23051
+D2
+~
+~
+0 -1 23044
+S
+#23053
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D1
+~
+~
+0 -1 23054
+D2
+~
+~
+0 -1 23045
+D3
+~
+~
+0 -1 23048
+S
+#23054
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D0
+~
+~
+0 -1 23057
+D1
+~
+~
+0 -1 23055
+D2
+~
+~
+0 -1 23039
+D3
+~
+~
+0 -1 23053
+S
+#23055
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D1
+~
+~
+0 -1 23056
+D2
+~
+~
+0 -1 23046
+D3
+~
+~
+0 -1 23054
+S
+#23056
+Outer Steeding~
+Coming deeper into the Steeding you feel an eye watching you as you walk.   
+Looking around you see Trees like before but slowly growing bigger.   
+It seems that if given enough time this forest could consume the whole world.
+~
+0 0 1
+D2
+~
+~
+0 -1 23047
+D3
+~
+~
+0 -1 23055
+S
+#23057
+Long Plain~
+Almost instantly you notice all the trees end and lying several paces  
+ahead of you is one Gigantic Tree.  Looking up you feel dizzy trying to
+follow the top of the tree but straining with your eyes even you cant
+see the Tree Top.
+~
+0 0 2
+D0
+~
+~
+0 -1 23070
+D1
+~
+~
+0 -1 23062
+D2
+~
+~
+0 -1 23054
+D3
+~
+~
+0 -1 23060
+S
+#23058
+Long Plain~
+Almost instantly you notice all the trees end and lying several paces  
+ahead of you is one Gigantic Tree.  Looking up you feel dizzy trying  
+to follow the top of the tree but straining with your eyes even you  
+cant see the Tree Top.
+~
+0 0 2
+D0
+~
+~
+0 -1 23064
+D1
+~
+~
+0 -1 23060
+D2
+~
+~
+0 -1 23048
+D3
+~
+~
+0 -1 23061
+S
+#23059
+Long Plain~
+Almost instantly you notice all the trees end and lying several paces  
+ahead of you is one Gigantic Tree.  Looking up you feel dizzy trying  
+to follow the top of the tree but straining with your eyes even you  
+cant see the Tree Top.
+~
+0 0 2
+D0
+~
+~
+0 -1 23073
+D1
+~
+~
+0 -1 23061
+D2
+~
+~
+0 -1 23050
+D3
+~
+~
+0 -1 23063
+S
+#23060
+Long Plain~
+Walking along the Plains you feel the eye that was watching you no  
+longer there.  Peace and Harmony overcome you as a sweet song is sung.   
+Listening closer you cant tell if the song is actually sung with words  
+or hummed.  Looking back you see the top of the trees swaying back and  
+forth to this sweet melody.
+~
+0 0 2
+D0
+~
+~
+0 -1 23069
+D1
+~
+~
+0 -1 23057
+D3
+~
+~
+0 -1 23058
+S
+#23061
+Long Plain~
+Walking along the Plains you feel the eye that was watching you no  
+longer there.  Peace and Harmony overcome you as a sweet song is sung.   
+Listening closer you cant tell if the song is actually sung with words  
+or hummed.  Looking back you see the top of the trees swaying back and  
+forth to this sweet melody.
+~
+0 0 2
+D0
+~
+~
+0 -1 23072
+D1
+~
+~
+0 -1 23058
+D3
+~
+~
+0 -1 23059
+S
+#23062
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23071
+D3
+~
+~
+0 -1 23057
+S
+#23063
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23074
+D1
+~
+~
+0 -1 23059
+S
+#23064
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23065
+D1
+~
+~
+0 -1 23069
+D2
+~
+~
+0 -1 23058
+D3
+~
+~
+0 -1 23072
+S
+#23065
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23066
+D1
+~
+~
+0 -1 23078
+D2
+~
+~
+0 -1 23064
+D3
+~
+~
+0 -1 23075
+S
+#23066
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23067
+D1
+~
+~
+0 -1 23081
+D2
+~
+~
+0 -1 23065
+D3
+~
+~
+0 -1 23084
+S
+#23067
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23068
+D1
+~
+~
+0 -1 23087
+D2
+~
+~
+0 -1 23066
+D3
+~
+~
+0 -1 23090
+S
+#23068
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23093
+D2
+~
+~
+0 -1 23067
+D3
+~
+~
+0 -1 23096
+S
+#23069
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23078
+D1
+~
+~
+0 -1 23070
+D2
+~
+~
+0 -1 23060
+D3
+~
+~
+0 -1 23064
+S
+#23070
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23079
+D1
+~
+~
+0 -1 23071
+D2
+~
+~
+0 -1 23057
+D3
+~
+~
+0 -1 23069
+S
+#23071
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23080
+D2
+~
+~
+0 -1 23062
+D3
+~
+~
+0 -1 23070
+S
+#23072
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23075
+D1
+~
+~
+0 -1 23064
+D2
+~
+~
+0 -1 23061
+D3
+~
+~
+0 -1 23073
+S
+#23073
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23076
+D1
+~
+~
+0 -1 23072
+D2
+~
+~
+0 -1 23059
+D3
+~
+~
+0 -1 23074
+S
+#23074
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23077
+D1
+~
+~
+0 -1 23073
+D2
+~
+~
+0 -1 23063
+S
+#23075
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23084
+D1
+~
+~
+0 -1 23065
+D2
+~
+~
+0 -1 23072
+D3
+~
+~
+0 -1 23076
+S
+#23076
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23085
+D1
+~
+~
+0 -1 23075
+D2
+~
+~
+0 -1 23073
+D3
+~
+~
+0 -1 23077
+S
+#23077
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23086
+D1
+~
+~
+0 -1 23076
+D2
+~
+~
+0 -1 23074
+S
+#23078
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23081
+D1
+~
+~
+0 -1 23079
+D2
+~
+~
+0 -1 23069
+D3
+~
+~
+0 -1 23065
+S
+#23079
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23082
+D1
+~
+~
+0 -1 23080
+D2
+~
+~
+0 -1 23070
+D3
+~
+~
+0 -1 23078
+S
+#23080
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23083
+D2
+~
+~
+0 -1 23071
+D3
+~
+~
+0 -1 23079
+S
+#23081
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23087
+D1
+~
+~
+0 -1 23082
+D2
+~
+~
+0 -1 23078
+D3
+~
+~
+0 -1 23066
+S
+#23082
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23088
+D1
+~
+~
+0 -1 23083
+D2
+~
+~
+0 -1 23079
+D3
+~
+~
+0 -1 23081
+S
+#23083
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23089
+D2
+~
+~
+0 -1 23080
+D3
+~
+~
+0 -1 23082
+S
+#23084
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23090
+D1
+~
+~
+0 -1 23066
+D2
+~
+~
+0 -1 23075
+D3
+~
+~
+0 -1 23085
+S
+#23085
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23091
+D1
+~
+~
+0 -1 23084
+D2
+~
+~
+0 -1 23076
+D3
+~
+~
+0 -1 23086
+S
+#23086
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23092
+D1
+~
+~
+0 -1 23085
+D2
+~
+~
+0 -1 23077
+S
+#23087
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23093
+D1
+~
+~
+0 -1 23088
+D2
+~
+~
+0 -1 23081
+D3
+~
+~
+0 -1 23067
+S
+#23088
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23094
+D1
+~
+~
+0 -1 23089
+D2
+~
+~
+0 -1 23082
+D3
+~
+~
+0 -1 23087
+S
+#23089
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23095
+D2
+~
+~
+0 -1 23083
+D3
+~
+~
+0 -1 23088
+S
+#23090
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23096
+D1
+~
+~
+0 -1 23067
+D2
+~
+~
+0 -1 23084
+D3
+~
+~
+0 -1 23091
+S
+#23091
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23097
+D1
+~
+~
+0 -1 23090
+D2
+~
+~
+0 -1 23085
+D3
+~
+~
+0 -1 23092
+S
+#23092
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D0
+~
+~
+0 -1 23098
+D1
+~
+~
+0 -1 23091
+D2
+~
+~
+0 -1 23086
+S
+#23093
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23094
+D2
+~
+~
+0 -1 23087
+D3
+~
+~
+0 -1 23068
+S
+#23094
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23095
+D2
+~
+~
+0 -1 23088
+D3
+~
+~
+0 -1 23093
+S
+#23095
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D2
+~
+~
+0 -1 23089
+D3
+~
+~
+0 -1 23094
+S
+#23096
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23068
+D2
+~
+~
+0 -1 23090
+D3
+~
+~
+0 -1 23097
+S
+#23097
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23096
+D2
+~
+~
+0 -1 23091
+D3
+~
+~
+0 -1 23098
+S
+#23098
+Long Plain~
+Walking across the plain you feel Harmony and Peace sweep your feet  
+closer and closer to the Gigantic Tree in the middle.  Songs and sweet  
+melody surround you as you almost skip with so much glee filling you.
+~
+0 0 2
+D1
+~
+~
+0 -1 23097
+D2
+~
+~
+0 -1 23092
+S
+#23099
+Mob Generator Room 1 (Steeding)~
+Sitting in the middle of the room is a machine pumping out mobs left and right.
+~
+0 0 1
+D0
+~
+~
+0 -1 23005
+D1
+~
+~
+0 -1 23011
+D2
+~
+~
+0 -1 23008
+D3
+~
+~
+0 -1 23012
+D4
+~
+~
+0 -1 23003
+D5
+~
+~
+0 -1 23013
+S
+#23100
+Mob Generator Room 2 (Steeding)~
+Sitting in the middle of the room is a machine pumping out mobs left and right.
+~
+0 0 1
+D0
+~
+~
+0 -1 23021
+D1
+~
+~
+0 -1 23029
+D2
+~
+~
+0 -1 23039
+D3
+~
+~
+0 -1 23022
+D4
+~
+~
+0 -1 23020
+D5
+~
+~
+0 -1 23038
+S
+#23101
+Mob Generator Room 3 (steeding)~
+Sitting in the middle of the room is a machine pumping out mobs left and right.
+~
+0 0 1
+D0
+~
+~
+0 -1 23036
+D1
+~
+~
+0 -1 23050
+D2
+~
+~
+0 -1 23070
+D3
+~
+~
+0 -1 23033
+D4
+~
+~
+0 -1 23044
+D5
+~
+~
+0 -1 23045
+S
+#23102
+Mob Generator Room 4 (steeding)~
+Sitting in the middle of the room is a machine pumping out mobs left and right.
+~
+0 0 1
+D0
+~
+~
+0 -1 23031
+D1
+~
+~
+0 -1 23075
+D2
+~
+~
+0 -1 23060
+D3
+~
+~
+0 -1 23051
+D4
+~
+~
+0 -1 23095
+D5
+~
+~
+0 -1 23070
+S
+#0
+
+
+#RESETS
+*
+M 1 23000 50 23099			the squirrel to Mob Generator Room 1 (Steeding)
+*
+M 1 23001 50 23099			the deer to Mob Generator Room 1 (Steeding)
+*
+M 1 23003 50 23099			the racoon to Mob Generator Room 1 (Steeding)
+*
+M 1 23002 50 23099			the rabid deer to Mob Generator Room 1 (Steeding)
+*
+M 1 23004 50 23099			the skunk to Mob Generator Room 1 (Steeding)
+*
+M 1 23005 50 23099			the magical slug to Mob Generator Room 1 (Steeding)
+*
+M 1 23006 50 23099			the rabbit to Mob Generator Room 1 (Steeding)
+*
+M 1 23007 50 23100			the rat to Mob Generator Room 2 (Steeding)
+*
+M 1 23008 50 23100			the frog to Mob Generator Room 2 (Steeding)
+*
+M 1 23009 50 23100			the falcon to Mob Generator Room 2 (Steeding)
+*
+M 1 23010 50 23100			the fox to Mob Generator Room 2 (Steeding)
+*
+M 1 23011 50 23100			the male wolf to Mob Generator Room 2 (Steeding)
+*
+M 1 23012 50 23100			the female wolf to Mob Generator Room 2 (Steeding)
+*
+M 1 23013 50 23101			the tree frog to Mob Generator Room 3 (steeding)
+*
+M 1 23014 50 23101			the leopard to Mob Generator Room 3 (steeding)
+*
+M 1 23015 50 23101			the paca to Mob Generator Room 3 (steeding)
+*
+M 1 23016 50 23101			the opposum to Mob Generator Room 3 (steeding)
+*
+M 1 23017 50 23101			the bushmaster to Mob Generator Room 3 (steeding)
+*
+M 1 23018 50 23101			the Blue-crown Motmot to Mob Generator Room 3 (steeding)
+*
+M 1 23019 50 23102			the cock-of-the-rock to Mob Generator Room 4 (steeding)
+*
+M 1 23020 50 23102			the satin bowerbird to Mob Generator Room 4 (steeding)
+*
+M 1 23021 50 23102			the owl butterfly to Mob Generator Room 4 (steeding)
+*
+M 1 23022 50 23102			the red panda to Mob Generator Room 4 (steeding)
+*
+M 1 23023 50 23102			the puma to Mob Generator Room 4 (steeding)
+*
+M 1 23024 50 23102			the glass frog to Mob Generator Room 4 (steeding)
+*
+M 1 23025 50 23102			the male ogier to Mob Generator Room 4 (steeding)
+*
+M 1 23026 50 23101			the female Ogier to Mob Generator Room 3 (steeding)
+*
+M 1 23027 50 23100			the Forest Ogier to Mob Generator Room 2 (Steeding)
+*
+M 1 23028 6 23002			a male traveler to Travelers Caravan.
+*
+M 1 23029 3 23002			a female traveler to Travelers Caravan.
+S
+
+
+#SPECIALS
+M  23005 spec_poison			the magical slug
+M  23013 spec_poison			the tree frog
+S
+
+
+#$

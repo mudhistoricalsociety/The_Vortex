@@ -1,0 +1,122 @@
+#AREA	Nuitari	    Transform~
+0
+0
+
+
+#OBJECTS
+#27924
+helm demonic~
+A Daemonic Helm~
+A Daemonic Helm crackles with the power of evil.~
+~
+9 512 1|16
+25 0 0 0
+5 0 0
+A
+18 5
+A
+19 5
+A
+17 -10
+#27925
+Greaves Steel~
+Black Steel Greaves~
+Some Black Steel Greaves lie here humming with the power of chaos.~
+~
+9 512 1|32
+25 0 0 0
+5 0 0
+A
+17 -20
+A
+18 10
+A
+19 10
+#27926
+cloak opera~
+a black opera cloak~
+A Black Opera Cloak lies here growling.~
+~
+9 512 1|1024
+25 0 0 0
+5 0 0
+A
+19 15
+A
+18 15
+A
+17 -30
+A
+24 -1
+#27927
+Plate Armor~
+Demonic Plate Armor~
+A set of Black Plate Armor lies here radiating an aura of sheer terror.~
+~
+9 16|512 1|8
+25 0 0 0
+5 0 0
+A
+24 -2
+A
+17 -40
+A
+18 30
+A
+19 30
+#27928
+Ring Cacophony~
+Ring of Cacophony~
+A black obsidian ring engraved with a flaming skull lies here.~
+~
+9 16|64|512 1|2
+25 0 0 0
+5 0 0
+A
+19 35
+A
+18 35
+A
+17 -50
+A
+13 50
+#27929
+ruby sword~
+Blood-Ruby Sword~
+A ruby sword lies here stained with blood.~
+~
+5 1|16|512 1|8192
+25 25 50 9
+5 0 0
+A
+18 40
+A
+19 40
+A
+17 -75
+A
+13 150
+A
+24 -1
+#27930
+dshield~
+A shield of bone~
+A shield crafted from ancient bones lies here waiting to possess it's next victim.~
+~
+9 64|128|512 1|512|8192
+25 0 0 0
+5 0 0
+A
+19 50
+A
+18 50
+A
+17 -150
+A
+24 -2
+A
+13 500
+#0
+
+
+#$

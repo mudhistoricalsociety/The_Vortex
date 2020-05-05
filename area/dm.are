@@ -1,0 +1,1005 @@
+#AREA	Nuitari Deathmatch Arena~
+50
+100
+
+#ROOMS
+#50
+A1~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D2
+~
+~
+0 -1 51
+S
+#51
+A2~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 50
+D1
+~
+~
+0 -1 52
+D2
+~
+~
+0 -1 58
+S
+#52
+A3~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 8192 1
+D1
+~
+~
+0 -1 53
+D2
+~
+~
+0 -1 57
+D3
+~
+~
+0 -1 51
+S
+#53
+A4~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 8192 1
+D1
+~
+~
+0 -1 54
+D2
+~
+~
+0 -1 56
+D3
+~
+~
+0 -1 52
+S
+#54
+A5~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 8192 1
+D2
+~
+~
+0 -1 55
+D3
+~
+~
+0 -1 53
+S
+#55
+B4~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 54
+D2
+~
+~
+0 -1 66
+D3
+~
+~
+0 -1 56
+S
+#56
+B3~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 53
+D1
+~
+~
+0 -1 55
+D2
+~
+~
+0 -1 67
+S
+#57
+B2~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 52
+D2
+~
+~
+0 -1 59
+D3
+~
+~
+0 -1 58
+S
+#58
+B1~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 51
+D1
+~
+~
+0 -1 57
+D2
+~
+~
+0 -1 60
+S
+#59
+C2~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 57
+D2
+~
+~
+0 -1 61
+D3
+~
+~
+0 -1 60
+S
+#60
+C1~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 58
+D1
+~
+~
+0 -1 59
+D2
+~
+~
+0 -1 62
+S
+#61
+D2~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 59
+D1
+~
+~
+0 -1 63
+D3
+~
+~
+0 -1 62
+S
+#62
+D1~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 60
+D1
+~
+~
+0 -1 61
+D2
+~
+~
+0 -1 68
+S
+#63
+D3~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 67
+D1
+~
+~
+0 -1 64
+D3
+~
+~
+0 -1 61
+S
+#64
+D4~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 66
+D2
+~
+~
+0 -1 65
+D3
+~
+~
+0 -1 63
+S
+#65
+E1~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 64
+S
+#66
+C4~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 55
+D2
+~
+~
+0 -1 64
+D3
+~
+~
+0 -1 67
+S
+#67
+C3~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 56
+D1
+~
+~
+0 -1 66
+D2
+~
+~
+0 -1 63
+S
+#68
+X2~
+You are standing in the Death Match Arena. You hear your opponent drawing near.
+The walls are covered in blood and the floors are scattered with the entrails of
+other not so lucky players.
+~
+0 24584 0
+D0
+~
+~
+0 -1 62
+S
+#69
+Deathmatch Arena Recall Room.~
+You are standing in the Deathmatch Arena Recall Room. You may recall from here.
+~
+0 17416 0
+S
+#70
+Deathmatch Arena Recall Room.~
+You are standing in the Deathmatch Arena Recall Room. You may recall from here.
+~
+0 17416 0
+S
+#80
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 83
+D1
+~
+~
+0 -1 81
+D4
+~
+~
+0 -1 89
+S
+#81
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 84
+D1
+~
+~
+0 -1 82
+D3
+~
+~
+0 -1 80
+D4
+~
+~
+0 -1 90
+S
+#82
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 85
+D3
+~
+~
+0 -1 81
+D4
+~
+~
+0 -1 91
+S 
+#83
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 86
+D1
+~
+~
+0 -1 84
+D2
+~
+~
+0 -1 80
+D4
+~
+~
+0 -1 92
+S
+#84
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 87
+D1
+~
+~
+0 -1 85
+D2
+~
+~
+0 -1 81
+D3
+~
+~
+0 -1 83
+D4
+~
+~
+0 -1 93
+S
+#85
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 88
+D2
+~
+~
+0 -1 82
+D3
+~
+~
+0 -1 84
+D4
+~
+~
+0 -1 94
+S
+#86
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 87
+D2
+~
+~
+0 -1 83
+D4
+~
+~
+0 -1 95
+S
+#87
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 88
+D2
+~
+~
+0 -1 84
+D3
+~
+~
+0 -1 86
+D4
+~
+~
+0 -1 96
+S
+#88
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D2
+~
+~
+0 -1 85
+D3
+~
+~
+0 -1 87
+D4
+~
+~
+0 -1 97
+S
+#89
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 92
+D1
+~
+~
+0 -1 90
+D4
+~
+~
+0 -1 98
+D5
+~
+~
+0 -1 80
+S
+#90
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 93
+D1
+~
+~
+0 -1 91
+D3
+~
+~
+0 -1 89
+D4
+~
+~
+0 -1 99
+D5
+~
+~
+0 -1 81
+S
+#91
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 94
+D3
+~
+~
+0 -1 90
+D4
+~
+~
+0 -1 100
+D5
+~
+~
+0 -1 82
+S 
+#92
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 95
+D1
+~
+~
+0 -1 93
+D2
+~
+~
+0 -1 89
+D4
+~
+~
+0 -1 72
+D5
+~
+~
+0 -1 83
+S
+#93
+#6The Center of the Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 96
+D1
+~
+~
+0 -1 94
+D2
+~
+~
+0 -1 90
+D3
+~
+~
+0 -1 92
+D4
+~
+~
+0 -1 73
+D5
+~
+~
+0 -1 84
+S
+#94
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 97
+D2
+~
+~
+0 -1 91
+D3
+~
+~
+0 -1 93
+D4
+~
+~
+0 -1 74
+D5
+~
+~
+0 -1 85
+S
+#95
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 96
+D2
+~
+~
+0 -1 92
+D4
+~
+~
+0 -1 75
+D5
+~
+~
+0 -1 86
+S
+#96
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 97
+D2
+~
+~
+0 -1 93
+D3
+~
+~
+0 -1 95
+D4
+~
+~
+0 -1 76
+D5
+~
+~
+0 -1 87
+S
+#97
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D2
+~
+~
+0 -1 94
+D3
+~
+~
+0 -1 96
+D4
+~
+~
+0 -1 77
+D5
+~
+~
+0 -1 88
+S
+#98
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 72
+D1
+~
+~
+0 -1 99
+D5
+~
+~
+0 -1 89
+S
+#99
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 73
+D1
+~
+~
+0 -1 100
+D3
+~
+~
+0 -1 98
+D5
+~
+~
+0 -1 90
+S
+#100
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 74
+D3
+~
+~
+0 -1 99
+D5
+~
+~
+0 -1 91
+S 
+#72
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 75
+D1
+~
+~
+0 -1 73
+D2
+~
+~
+0 -1 98
+D5
+~
+~
+0 -1 92
+S
+#73
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 76
+D1
+~
+~
+0 -1 74
+D2
+~
+~
+0 -1 99
+D3
+~
+~
+0 -1 72
+D5
+~
+~
+0 -1 93
+S
+#74
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D0
+~
+~
+0 -1 77
+D2
+~
+~
+0 -1 100
+D3
+~
+~
+0 -1 73
+D5
+~
+~
+0 -1 94
+S
+#75
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 76
+D2
+~
+~
+0 -1 72
+D5
+~
+~
+0 -1 95
+S
+#76
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D1
+~
+~
+0 -1 77
+D2
+~
+~
+0 -1 73
+D3
+~
+~
+0 -1 75
+D5
+~
+~
+0 -1 96
+S
+#77
+#6The Cube~
+#7You are in the Cube.  Your feet slip and slide in a sticky substance covering the
+#7floor.  The smell of fresh blood fills your nostrills.  Your #1Blood#7 boils with #4Rage!
+~
+0 24584 0
+D2
+~
+~
+0 -1 74
+D3
+~
+~
+0 -1 76
+D5
+~
+~
+0 -1 97
+S
+#78
+#6The Entrance to the Cube~
+#7You await the beginning of your battle.  This is a #1Fight#7 to the #0Death#7!
+Good Luck, and Let the #1Blood#7 flow!
+~
+0 24584 0
+D5
+~
+~
+0 -1 93
+S
+#0
+
+
+#$

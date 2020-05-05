@@ -1,0 +1,275 @@
+#AREA	Dominion Uktena HQ~
+19900
+19909
+
+#MOBILES
+#19900
+spirit uktena~
+The Spirit of Uktena~
+The Spirit of Uktena is here, waiting to assist you in your endevours
+~
+"How might I help you?"
+~
+2|64 8|32|128 0 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19901
+keeper uktena~
+The Uktena Keeper~
+The Uktena Keeper stands here protecting this realm.
+~
+"Don't even try it!"
+~
+64 8|32|128 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19902
+mediator uktena~
+The Uktena Mediator~
+The Uktena Mediator is here guiding discussions.
+~
+"Do you have a question for me?"
+~
+2|64 8|32|128 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19903
+master uktena~
+THe Uktena Master~
+The Uktena Master stands here waiting to help you improve your skills.
+~
+"Take you stance!  Lunge!  Be aware of all your suroundings!"
+~
+2|64 8|32|128 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#19904
+historian uktena~
+The Uktena Historian~
+The Uktena Historian stands here telling stories of ancient times.
+~
+The Uktena walk a darker path than that of the other Garou.  In our hearts and blood, we bear the legacy of the dispossed, of people driven from their lands or dragged away in chains.  The eclectic heritage and history of oppresion has nurtured dark hungers in the Uktena.  It is said that the Wyrm tempts us with forbidden knowledge.  My brethren, it is time to stand up and take what is rightfully ours!
+~
+64 8|32|128 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#19900
+talisman~
+the Uktena Talisman~
+A very powerful talisman is resting here.~
+~
+12 1|2|64 0
+0 0 0 0 
+2000 0 0
+E
+talisman~
+The heraldic device of the Uktena clan, this talisman was reportedly created by Gaia herself and awarded to the Uktena for their part in the reunification of the Werewolf tribes.~
+#19901
+chair grand~
+a Grand Chair~
+A very large chair with powerful relics sits here.~
+~
+12 1|2|64 0
+0 0 0 0 
+2000 0 0
+E
+chair grand~
+This imposing leather chair is normally where Dominion can be found sitting when not actively participating in the Uktena battles. From here Dominion lays his plans and send orders to his underlings in their never ending wars.~
+#0
+
+
+#ROOMS
+#19900
+Uktena Clan HeadQuarters.~
+The dark path of the Uktena starts here.
+While you peer into the sunlight, the Lost Ones gather at your back.  They remember the things you have done, all the secrets you would rather forget.  Best not look, my friend.  What you see may destroy your illusions.
+~
+0 8 0
+D0
+~
+~
+0 -1 19901
+D1
+~
+~
+0 -1 19903
+D2
+~
+~
+0 -1 19902
+D3
+~
+~
+0 -1 19904
+D4
+~
+~
+0 -1 19905
+S
+#19901
+The Spirit of the Uktena.~
+The Spirit of the Uktena awaits you here to heal your soul.
+~
+0 8 0
+D2
+~
+~
+0 -1 19900
+S
+#19902
+Clan Meeting Room.~
+The great minds of the Uktena have summond you here to discuss future plans.
+An exit leads down to the clan portals.
+~
+0 8 0
+D0
+~
+~
+0 -1 19900
+D5
+~
+~
+0 -1 19906
+S
+#19903
+Uktena Clan Training Room.~
+Many Uktena before you have spent hours here honing there skills.
+~
+0 8 0
+D3
+~
+~
+0 -1 19900
+S
+#19904
+Uktena Shrine Room.~
+The walls of this special room are covered in ancient scripts and ceremonial dances.  You feel the spirit of Gaia flow through your veins.
+~
+0 8 0
+D1
+~
+~
+0 -1 19900
+S
+#19905
+Dominion's Sanctuary.~
+A large chair rests in the center of the back wall.
+"How much would you pay to make them go away?  Join me as we rise up to take what is ours!"
+~
+0 8 0
+D5
+~
+~
+0 -1 19900
+S
+#19906
+Clan Portals.~
+You stand before the clan portals. These ancient portals have stood here since the beginning of recorded time, long before the Uktena clan was ever formed. Sigils of an arcane language long forgotten are inscribed around the massive stone arches which form the portals proper. North leads to Midgaard, south leads to New Thalos. Down leads to more portals.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 3001
+D2
+~
+~
+0 -1 5300
+D4
+~
+~
+0 -1 19902
+D5
+~
+~
+0 -1 19907
+S
+#19907
+Clan Portals.~
+You stand before the clan portals. These ancient portals have stood here since the beginning of recorded time, long before the Uktena clan was ever formed. Sigils of arcane language long forgotten are inscribed around the massive stone arches which form the portals proper.North leads to the High Tower od Sorcery, south leads to the Galaxy. Down leads to more portals.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 1312
+D2
+~
+~
+0 -1 9302
+D4
+~
+~
+0 -1 19906
+D5
+~
+~
+0 -1 19908
+S
+#19908
+Clan Portals.~
+You stand before the clan portals. These ancient portals have stood here since the beginning of recorded time, long before the Uktena clan was ever formed. Sigils of arcane language long forgotten are inscribed around the massive stone arches which form the portals proper.North leads to Polaris, south leads to Mahn-Tor. Down leads to more portals.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 9371
+D2
+~
+~
+0 -1 2377
+D4
+~
+~
+0 -1 19907
+D5
+~
+~
+0 -1 19909
+S
+#19909
+Clan Portals.~
+You stand before the clan portals. These ancient portals have stood here since the beginning of recorded time, long before the Uktena clan was ever formed. Sigils of arcane language long forgotten are inscribed around the massive stone arches which form the portals proper.North leads to Mega City One, south leads to Draconia.
+~
+0 1|4|8 0
+D0
+~
+~
+0 -1 8001
+D2
+~
+~
+0 -1 2201
+D4
+~
+~
+0 -1 19908
+S
+#0
+
+
+#RESETS
+*
+M 1 19901 1 19900			The Uktena Keeper to Uktena Clan HeadQuarters.
+*
+M 1 19900 1 19901			The Spirit of Uktena to The Spirit of the Uktena.
+*
+M 1 19902 1 19902			The Uktena Mediator to Clan Meeting Room.
+*
+M 1 19903 1 19903			THe Uktena Master to Uktena Clan Training Room.
+O 1 19901 100 19905			A Grand Chair to Dominion's Sanctuary.
+O 1 19900 100 19902			The Uktena Talisman to Clan Meeting Room.
+S
+
+
+#$

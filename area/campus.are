@@ -1,0 +1,5211 @@
+#AREA	The campus recreation center - Spawn~
+
+
+#MOBILES
+#17500
+center employee recreational~
+a recreational center employee~
+An employee of the recreational center stands here trying to do their job.
+~
+The recreational center employee stands here looking like a stupid asshole in their uniform, barking orders at all the people that annoy them in one way or another.
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17501
+rock climber~
+the rock climber~
+A rock climber is here, holding on for dear life.
+~
+You can see the beads of sweat glistening on his brow as he holds on for dear life, in the eternal quest to make his way to to top of the mountain.
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17502
+student~
+the student~
+The student stands here with a dumb look on their face.
+~
+The student stands here, watching the other people going from place to place doing their various workouts.
+~
+4|64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17503
+bodybuilder student man huge~
+the bodybuilder~
+A huge man stands here, grunting and making strange faces as he lifts large pieces of metal over and over again.
+~
+This man is absolutely huge, and he definately spends a lot of time here getting himself into better shape.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17504
+female bodybuilder woman~
+the female bodybuilder~
+A female bodybuilder is here lifting weights.
+~
+The female bodybuilder is a grotesque reminder of todays society.  Her arms and legs are much larger than your own, and look much more masquline than feminine.  It is almost disgusting.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17505
+female student~
+the female student~
+A gorgeous female stands here, gabbing away with the other students.
+~
+The girl is a definate pleasure to look at, as are most of the women in this place.  She definately takes good care of her body.
+~
+64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17506
+aerobic instructor~
+the aerobic instructor~
+The aerobic instructor is standing in front of her class, showing them the motions they need to be doing.
+~
+
+~
+2|64 0 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17507
+aerobic student~
+the aerobics student~
+The aerobics student is really getting into doing her routine.
+~
+
+~
+2|64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17508
+secretary~
+the secretary~
+The secretary sits at her desk.
+~
+She stares at you like you are an idiot, and says "sit back down and wait your turn!"
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17509
+professor hper~
+a hper professor~
+A professor sits at his desk, looking like a badass.
+~
+This professor is fairly large, which you would assume comes from his daily regime of working out constantly while teaching his various classes.
+~
+2|32|64 0 0 S
+140 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17510
+runner man~
+the runner~
+A man is running by you.
+~
+
+~
+64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17511
+runner woman femal~
+the female runner~
+A woman is running past you.
+~
+
+~
+64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17512
+walker woman~
+the walker~
+A woman is walking in the path of the runners, talking to her friends.
+~
+
+~
+64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#17513
+swimmer~
+the swimmer~
+A swimmer is here, doing what swimmers do.
+~
+He's treading water, wondering why your bitch ass is staring at him so damn hard.
+~
+64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17514
+lifeguard~
+the lifeguard~
+The lifeguard stands here, making sure noone accidently drounds.
+~
+He yells at you, telling you if you don't stop staring at him that you're going to have to take some time out of the pool.
+~
+2|64 0 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17515
+exercise bike rider~
+the exercise bike rider~
+An exercise bike rider sits here pedaling away.
+~
+
+~
+2|64 0 0 S
+125 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17516
+treadmill user~
+the treadmill user~
+The treadmill user is here, running in place.
+~
+
+~
+2|64 0 0 S
+125 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17517
+nordic track user cross country cross-country skier~
+the cross-country skier~
+The cross-contry skier is here, using a nordic track.
+~
+
+~
+2|64 0 0 S
+125 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17518
+stair climber stairclimber user~
+the stair climber~
+The stair climber is here, using a - you guessed it - stair climbing machine.
+~
+
+~
+2|64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#17519
+basketball player~
+the basketball player~
+A basketball player stands here wondering what the hell you are doing on the court.
+~
+
+~
+64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17520
+referee~
+the referee~
+The referee stands here, and he almost seems to be watching the game.
+~
+
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#17521
+raquetball player~
+a raquetball player~
+A raquetball player is staring at you, wondering why you felt the desire to just walk right in on their game.
+~
+
+~
+2|64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#17500
+The entrance to the campus recreational center.~
+You are standing outside the campus rec center.  Within you can find nearly any form of exercise you can think of, from swimming to running, from ping pong to raquetball.  This place has a vast assortment of activites to keep you in tip top shape.
+~
+0 0 1
+D0
+~
+~
+0 -1 17501
+S
+#17501
+The Admittance Desk.~
+You are standing behind the desk in the campus recreation center.  The employees at the desk want to see your student identification before they let you partake in the exercise activities contained within.
+~
+0 0 0
+D0
+~
+~
+0 -1 17502
+D2
+~
+~
+0 -1 17500
+S
+#17502
+The Recreation Lounge.~
+You're inside the campus rec, in the lounge area.  This part of the rec center is filled with couches and chairs for people to sit around on and talk, and people sitting at tables advertising for various things.
+~
+0 0 0
+D0
+~
+~
+0 -1 17503
+D1
+~
+~
+0 -1 17505
+D2
+~
+~
+0 -1 17501
+D3
+~
+~
+0 -1 17504
+S
+#17503
+The Recreation Lounge.~
+You are inside the campus rec, in the lounge area.  This part of the rec center is filled with couches and chairs for people to sit around on and talk, and people sitting at tables advertising for various things.
+~
+0 0 0
+D0
+~
+~
+0 -1 17508
+D2
+~
+~
+0 -1 17502
+D3
+~
+~
+0 -1 17506
+S
+#17504
+The Recreation Lounge.~
+You are in the lounge, standing beside the simulated rock climbing wall.  There are people trying their skill on the wall at climbing the various difficulties of simulated rock climbing.
+~
+0 0 0
+D0
+~
+~
+0 -1 17506
+D1
+~
+~
+0 -1 17502
+D3
+~
+~
+0 -1 17509
+S
+#17505
+The Recreation Lounge.~
+You are in the lounge, standing beside the passageway to the exercise bike area, the pool, and the stairway that leads up to the track and aerobic rooms.
+~
+0 0 0
+D0
+~
+~
+0 -1 17687
+D1
+~
+~
+0 -1 17720
+D3
+~
+~
+0 -1 17502
+D4
+~
+~
+0 -1 17570
+S
+#17506
+The Recreation Lounge.~
+You are in the lounge, standing beside the doors to the weight room, and to the north is the hallway leading to the various sporting courts.
+~
+0 0 0
+D1
+~
+~
+0 -1 17503
+D2
+~
+~
+0 -1 17504
+D3
+~
+~
+1 -1 17507
+S
+#17507
+The Weight Room Reception Desk.~
+You are standing beside the reception desk to the weight room.  The employees at the desk hold belongings for the people who are doing various exercises within.
+~
+0 4 0
+D1
+~
+~
+1 -1 17506
+D3
+~
+~
+0 -1 17528
+S
+#17508
+The Recreation Lounge.~
+You are inside the campus rec, in the lounge area.  This part of the rec center is filled with couches and chairs for people to sit around on and talk, and people sitting at tables advertising for various things.
+~
+0 0 0
+D0
+~
+~
+0 -1 17732
+D2
+~
+~
+0 -1 17503
+S
+#17509
+The Bottom of the Simulated Rock Climbing Wall.~
+You are at the bottom of the simulated rock climbing wall, looking up at the various handholds put on the wall for people to climb during their futile attempt to be the king of the simulated mountain.
+~
+0 0 0
+D1
+~
+~
+0 -1 17504
+D4
+~
+~
+0 -1 17510
+S
+#17510
+The Rock Climbing Wall~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17524
+D3
+~
+~
+0 -1 17523
+D4
+~
+~
+0 -1 17511
+D5
+~
+~
+0 -1 17509
+S
+#17511
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17522
+D3
+~
+~
+0 -1 17521
+D4
+~
+~
+0 -1 17512
+D5
+~
+~
+0 -1 17510
+S
+#17512
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17519
+D3
+~
+~
+0 -1 17520
+D4
+~
+~
+0 -1 17513
+D5
+~
+~
+0 -1 17511
+S
+#17513
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17518
+D3
+~
+~
+0 -1 17517
+D4
+~
+~
+0 -1 17514
+D5
+~
+~
+0 -1 17512
+S
+#17514
+Nearing the Peak!~
+Glancing downward, the floor seems very far down from here.  The Peak of the simulated rock wall is very near!
+~
+0 0 0
+D1
+~
+~
+0 -1 17515
+D3
+~
+~
+0 -1 17516
+D4
+~
+~
+0 -1 17526
+D5
+~
+~
+0 -1 17513
+S
+#17515
+Nearing the Peak!~
+Glancing downward, the floor seems very far down from here.  The Peak of the simulated rock wall is very near!
+~
+0 0 0
+D3
+~
+~
+0 -1 17514
+D4
+~
+~
+0 -1 17525
+D5
+~
+~
+0 -1 17518
+S
+#17516
+Nearing the Peak!~
+Glancing downward, the floor seems very far down from here.  The Peak of the simulated rock wall is very near!
+~
+0 0 0
+D1
+~
+~
+0 -1 17514
+D4
+~
+~
+0 -1 17527
+D5
+~
+~
+0 -1 17517
+S
+#17517
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17513
+D4
+~
+~
+0 -1 17516
+D5
+~
+~
+0 -1 17520
+S
+#17518
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D3
+~
+~
+0 -1 17513
+D4
+~
+~
+0 -1 17515
+D5
+~
+~
+0 -1 17519
+S
+#17519
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D3
+~
+~
+0 -1 17512
+D4
+~
+~
+0 -1 17518
+D5
+~
+~
+0 -1 17522
+S
+#17520
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17512
+D4
+~
+~
+0 -1 17517
+D5
+~
+~
+0 -1 17521
+S
+#17521
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17511
+D4
+~
+~
+0 -1 17520
+D5
+~
+~
+0 -1 17523
+S
+#17522
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall..
+~
+0 0 0
+D3
+~
+~
+0 -1 17511
+D4
+~
+~
+0 -1 17519
+D5
+~
+~
+0 -1 17524
+S
+#17523
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D1
+~
+~
+0 -1 17510
+D4
+~
+~
+0 -1 17521
+S
+#17524
+The Rock Climbing Wall.~
+You are holding on to the handholds on the wall for dear life, trying to impress the onlookers at the bottom of the wall.
+~
+0 0 0
+D3
+~
+~
+0 -1 17510
+D4
+~
+~
+0 -1 17522
+S
+#17525
+The Peak!~
+You are on the top of the simulated rock climbing wall, and it feels good to have managed to make the ascent to the top of this 40 foot concrete wood and foam rubber structure.
+~
+0 0 0
+D3
+~
+~
+0 -1 17526
+D5
+~
+~
+0 -1 17515
+S
+#17526
+The Peak!~
+You are on the top of the simulated rock climbing wall, and it feels good to have managed to make the ascent to the top of this 40 foot concrete wood and foam rubber structure.
+~
+0 0 0
+D1
+~
+~
+0 -1 17525
+D3
+~
+~
+0 -1 17527
+D5
+~
+~
+0 -1 17514
+S
+#17527
+The Peak!~
+You are on the top of the simulated rock climbing wall, and it feels good to have managed to make the ascent to the top of this 40 foot concrete wood and foam rubber structure.
+~
+0 0 0
+D1
+~
+~
+0 -1 17526
+D5
+~
+~
+0 -1 17516
+S
+#17528
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17536
+D1
+~
+~
+0 -1 17507
+D2
+~
+~
+0 -1 17529
+D3
+~
+~
+0 -1 17546
+S
+#17529
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17528
+D2
+~
+~
+0 -1 17530
+D3
+~
+~
+0 -1 17553
+S
+#17530
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17529
+D2
+~
+~
+0 -1 17531
+D3
+~
+~
+0 -1 17554
+S
+#17531
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17530
+D2
+~
+~
+0 -1 17568
+D3
+~
+~
+0 -1 17532
+S
+#17532
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17554
+D1
+~
+~
+0 -1 17531
+D2
+~
+~
+0 -1 17567
+D3
+~
+~
+0 -1 17533
+S
+#17533
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17555
+D1
+~
+~
+0 -1 17532
+D2
+~
+~
+0 -1 17566
+D3
+~
+~
+0 -1 17534
+S
+#17534
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17556
+D1
+~
+~
+0 -1 17533
+D2
+~
+~
+0 -1 17565
+D3
+~
+~
+0 -1 17535
+S
+#17535
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17557
+D1
+~
+~
+0 -1 17534
+D2
+~
+~
+0 -1 17564
+D3
+~
+~
+0 -1 17562
+S
+#17536
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17537
+D2
+~
+~
+0 -1 17528
+D3
+~
+~
+0 -1 17545
+S
+#17537
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D2
+~
+~
+0 -1 17536
+D3
+~
+~
+0 -1 17538
+S
+#17538
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D1
+~
+~
+0 -1 17537
+D2
+~
+~
+0 -1 17545
+D3
+~
+~
+0 -1 17539
+S
+#17539
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D1
+~
+~
+0 -1 17538
+D2
+~
+~
+0 -1 17544
+D3
+~
+~
+0 -1 17540
+S
+#17540
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D1
+~
+~
+0 -1 17539
+D2
+~
+~
+0 -1 17543
+D3
+~
+~
+0 -1 17541
+S
+#17541
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D1
+~
+~
+0 -1 17540
+D2
+~
+~
+0 -1 17542
+D3
+~
+~
+0 -1 17558
+S
+#17542
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17541
+D1
+~
+~
+0 -1 17543
+D2
+~
+~
+0 -1 17549
+D3
+~
+~
+0 -1 17559
+S
+#17543
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17540
+D1
+~
+~
+0 -1 17544
+D2
+~
+~
+0 -1 17548
+D3
+~
+~
+0 -1 17542
+S
+#17544
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17539
+D1
+~
+~
+0 -1 17545
+D2
+~
+~
+0 -1 17547
+D3
+~
+~
+0 -1 17543
+S
+#17545
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17538
+D1
+~
+~
+0 -1 17536
+D2
+~
+~
+0 -1 17546
+D3
+~
+~
+0 -1 17544
+S
+#17546
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17545
+D1
+~
+~
+0 -1 17528
+D2
+~
+~
+0 -1 17553
+D3
+~
+~
+0 -1 17547
+S
+#17547
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17544
+D1
+~
+~
+0 -1 17546
+D2
+~
+~
+0 -1 17552
+D3
+~
+~
+0 -1 17548
+S
+#17548
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17543
+D1
+~
+~
+0 -1 17547
+D2
+~
+~
+0 -1 17551
+D3
+~
+~
+0 -1 17549
+S
+#17549
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17542
+D1
+~
+~
+0 -1 17548
+D2
+~
+~
+0 -1 17550
+D3
+~
+~
+0 -1 17560
+S
+#17550
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17549
+D1
+~
+~
+0 -1 17551
+D2
+~
+~
+0 -1 17557
+D3
+~
+~
+0 -1 17561
+S
+#17551
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17548
+D1
+~
+~
+0 -1 17552
+D2
+~
+~
+0 -1 17556
+D3
+~
+~
+0 -1 17550
+S
+#17552
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17547
+D1
+~
+~
+0 -1 17553
+D2
+~
+~
+0 -1 17555
+D3
+~
+~
+0 -1 17551
+S
+#17553
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17546
+D1
+~
+~
+0 -1 17529
+D2
+~
+~
+0 -1 17554
+D3
+~
+~
+0 -1 17552
+S
+#17554
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17553
+D1
+~
+~
+0 -1 17530
+D2
+~
+~
+0 -1 17532
+D3
+~
+~
+0 -1 17555
+S
+#17555
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17552
+D1
+~
+~
+0 -1 17554
+D2
+~
+~
+0 -1 17533
+D3
+~
+~
+0 -1 17556
+S
+#17556
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17551
+D1
+~
+~
+0 -1 17555
+D2
+~
+~
+0 -1 17534
+D3
+~
+~
+0 -1 17557
+S
+#17557
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17550
+D1
+~
+~
+0 -1 17556
+D2
+~
+~
+0 -1 17535
+D3
+~
+~
+0 -1 17569
+S
+#17558
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D1
+~
+~
+0 -1 17541
+D2
+~
+~
+0 -1 17559
+S
+#17559
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17558
+D1
+~
+~
+0 -1 17542
+D2
+~
+~
+0 -1 17560
+S
+#17560
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17559
+D1
+~
+~
+0 -1 17549
+D2
+~
+~
+0 -1 17561
+S
+#17561
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17560
+D1
+~
+~
+0 -1 17550
+D2
+~
+~
+0 -1 17569
+S
+#17562
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17569
+D1
+~
+~
+0 -1 17535
+D2
+~
+~
+0 -1 17563
+S
+#17563
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17562
+D1
+~
+~
+0 -1 17564
+S
+#17564
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17535
+D1
+~
+~
+0 -1 17565
+D3
+~
+~
+0 -1 17563
+S
+#17565
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17534
+D1
+~
+~
+0 -1 17566
+D3
+~
+~
+0 -1 17564
+S
+#17566
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17533
+D1
+~
+~
+0 -1 17567
+D3
+~
+~
+0 -1 17565
+S
+#17567
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17532
+D1
+~
+~
+0 -1 17568
+D3
+~
+~
+0 -1 17566
+S
+#17568
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17531
+D3
+~
+~
+0 -1 17567
+S
+#17569
+The weight room~
+You are in a large weight room filled with various aerobic and weightlifting equipment.  There are people all around you, all working in their own quest to become physically fit.
+~
+0 0 0
+D0
+~
+~
+0 -1 17561
+D1
+~
+~
+0 -1 17557
+D2
+~
+~
+0 -1 17562
+S
+#17570
+The stairway~
+You are in the stairway that leads to the running track, aerobic rooms, and the offices of the recreational center.
+~
+0 0 0
+D4
+~
+~
+0 -1 17571
+D5
+~
+~
+0 -1 17505
+S
+#17571
+The stairway~
+You are in the stairway that leads to the running track, aerobic rooms, and the offices of the recreational center.
+~
+0 0 0
+D3
+~
+~
+0 -1 17572
+D5
+~
+~
+0 -1 17570
+S
+#17572
+The second floor of the recreational center~
+You are in the passageway on the second floor of the recreational center.  To the north is the track, to the west are the aerobic rooms, and to the south are the offices for the rec center.
+~
+0 0 0
+D0
+~
+~
+0 -1 17621
+D1
+~
+~
+0 -1 17571
+D2
+~
+~
+0 -1 17608
+D3
+~
+~
+0 -1 17573
+S
+#17573
+The walkway leading to the aerobic rooms~
+You are in the walkway that leads up to the aerobic rooms.  You can see thru the glass walls all the women trying to keep in shape by doing step exercises and other types of aerobic routines.
+~
+0 0 0
+D1
+~
+~
+0 -1 17572
+D3
+~
+~
+0 -1 17574
+S
+#17574
+The walkway leading to the aerobic rooms~
+You are in the walkway that leads up to the aerobic rooms.  You can see thru the glass walls all the women trying to keep in shape by doing step exercises and other types of aerobic routines.
+~
+0 0 0
+D1
+~
+~
+0 -1 17573
+D3
+~
+~
+0 -1 17575
+S
+#17575
+The aerobic room entrences~
+You are standing in front of the doorways that lead to the two aerobics rooms.  The doors to the north and south will take you to the various rooms.
+~
+0 0 0
+D0
+~
+~
+0 -1 17576
+D1
+~
+~
+0 -1 17574
+D2
+~
+~
+1 -1 17577
+S
+#17576
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17578
+D2
+~
+~
+0 -1 17575
+D3
+~
+~
+0 -1 17592
+S
+#17577
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+1 -1 17575
+D2
+~
+~
+0 -1 17593
+D3
+~
+~
+0 -1 17607
+S
+#17578
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17579
+D2
+~
+~
+0 -1 17576
+D3
+~
+~
+0 -1 17587
+S
+#17579
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17580
+D2
+~
+~
+0 -1 17578
+D3
+~
+~
+0 -1 17586
+S
+#17580
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D2
+~
+~
+0 -1 17579
+D3
+~
+~
+0 -1 17581
+S
+#17581
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D1
+~
+~
+0 -1 17580
+D2
+~
+~
+0 -1 17586
+D3
+~
+~
+0 -1 17582
+S
+#17582
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D1
+~
+~
+0 -1 17581
+D2
+~
+~
+0 -1 17585
+D3
+~
+~
+0 -1 17583
+S
+#17583
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D1
+~
+~
+0 -1 17582
+D2
+~
+~
+0 -1 17584
+S
+#17584
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17583
+D1
+~
+~
+0 -1 17585
+D2
+~
+~
+0 -1 17589
+S
+#17585
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17582
+D1
+~
+~
+0 -1 17586
+D2
+~
+~
+0 -1 17588
+D3
+~
+~
+0 -1 17584
+S
+#17586
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17581
+D1
+~
+~
+0 -1 17579
+D2
+~
+~
+0 -1 17587
+D3
+~
+~
+0 -1 17585
+S
+#17587
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17586
+D1
+~
+~
+0 -1 17578
+D2
+~
+~
+0 -1 17592
+D3
+~
+~
+0 -1 17588
+S
+#17588
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17585
+D1
+~
+~
+0 -1 17587
+D2
+~
+~
+0 -1 17591
+D3
+~
+~
+0 -1 17589
+S
+#17589
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17584
+D1
+~
+~
+0 -1 17588
+D2
+~
+~
+0 -1 17590
+S
+#17590
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17589
+D1
+~
+~
+0 -1 17591
+S
+#17591
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17588
+D1
+~
+~
+0 -1 17592
+D3
+~
+~
+0 -1 17590
+S
+#17592
+The northern aerobic room~
+You are standing in a glass walled room filled with women doing aerobic exercise. This room is dedicated to step aerobics, and all the women are working hard to burn away all the fat on their bodies.
+~
+0 0 0
+D0
+~
+~
+0 -1 17587
+D1
+~
+~
+0 -1 17576
+D3
+~
+~
+0 -1 17591
+S
+#17593
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17577
+D2
+~
+~
+0 -1 17594
+D3
+~
+~
+0 -1 17602
+S
+#17594
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17593
+D2
+~
+~
+0 -1 17595
+D3
+~
+~
+0 -1 17601
+S
+#17595
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17594
+D3
+~
+~
+0 -1 17596
+S
+#17596
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17601
+D1
+~
+~
+0 -1 17595
+D3
+~
+~
+0 -1 17597
+S
+#17597
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17600
+D1
+~
+~
+0 -1 17596
+D3
+~
+~
+0 -1 17598
+S
+#17598
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17599
+D1
+~
+~
+0 -1 17597
+S
+#17599
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17604
+D1
+~
+~
+0 -1 17600
+D2
+~
+~
+0 -1 17598
+S
+#17600
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17603
+D1
+~
+~
+0 -1 17601
+D2
+~
+~
+0 -1 17597
+D3
+~
+~
+0 -1 17599
+S
+#17601
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17602
+D1
+~
+~
+0 -1 17594
+D2
+~
+~
+0 -1 17596
+D3
+~
+~
+0 -1 17600
+S
+#17602
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17607
+D1
+~
+~
+0 -1 17593
+D2
+~
+~
+0 -1 17601
+D3
+~
+~
+0 -1 17603
+S
+#17603
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17606
+D1
+~
+~
+0 -1 17602
+D2
+~
+~
+0 -1 17600
+D3
+~
+~
+0 -1 17604
+S
+#17604
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D0
+~
+~
+0 -1 17605
+D1
+~
+~
+0 -1 17603
+D2
+~
+~
+0 -1 17599
+S
+#17605
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D1
+~
+~
+0 -1 17606
+D2
+~
+~
+0 -1 17604
+S
+#17606
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D1
+~
+~
+0 -1 17607
+D2
+~
+~
+0 -1 17603
+D3
+~
+~
+0 -1 17605
+S
+#17607
+The southern aerobic room~
+This glass walled aerobic room is dedicated to aerobic tai-bo kickboxing.  It is filled with women doing extremely disciplined looking tai-bo.
+~
+0 0 0
+D1
+~
+~
+0 -1 17577
+D2
+~
+~
+0 -1 17602
+D3
+~
+~
+0 -1 17606
+S
+#17608
+The walkway leading to the offices~
+You are walking toward the professor offices in the recreational center.
+~
+0 0 0
+D0
+~
+~
+0 -1 17572
+D2
+~
+~
+0 -1 17609
+S
+#17609
+The walkway leading to the offices~
+You are walking toward the professor offices in the recreational center.
+~
+0 0 0
+D0
+~
+~
+0 -1 17608
+D1
+~
+~
+0 -1 17610
+S
+#17610
+The walkway leading to the offices~
+You are walking toward the professor offices in the recreational center.
+~
+0 0 0
+D1
+~
+~
+1 -1 17611
+D3
+~
+~
+0 -1 17609
+S
+#17611
+The office lounge~
+You are inside the lounge for the people waiting to see their various hper professor.
+~
+0 0 0
+D1
+~
+~
+0 -1 17612
+D3
+~
+~
+1 -1 17610
+S
+#17612
+The hallway~
+You are in the hallway that leads to the various professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17619
+D1
+~
+~
+0 -1 17613
+D2
+~
+~
+1 -1 17620
+D3
+~
+~
+0 -1 17611
+S
+#17613
+The hallway~
+You are in the hallway that leads to the various professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17618
+D1
+~
+~
+0 -1 17614
+D2
+~
+~
+1 -1 17617
+D3
+~
+~
+0 -1 17612
+S
+#17614
+The hallway~
+You are in the hallway that leads to the various professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17615
+D2
+~
+~
+1 -1 17616
+D3
+~
+~
+0 -1 17613
+S
+#17615
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D2
+~
+~
+1 -1 17614
+S
+#17616
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17614
+S
+#17617
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17613
+S
+#17618
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D2
+~
+~
+1 -1 17613
+S
+#17619
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D2
+~
+~
+1 -1 17612
+S
+#17620
+An office~
+You are inside one of the professor offices.
+~
+0 0 0
+D0
+~
+~
+1 -1 17612
+S
+#17621
+A walkway~
+You are in the walkway leading to the track.
+~
+0 4 0
+D0
+~
+~
+0 -1 17622
+D2
+~
+~
+0 -1 17572
+S
+#17622
+A walkway~
+You are in the walkway leading to the track.
+~
+0 4 0
+D0
+~
+~
+0 -1 17623
+D2
+~
+~
+0 -1 17621
+S
+#17623
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17624
+D1
+~
+~
+0 -1 17658
+D2
+~
+~
+0 -1 17622
+S
+#17624
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17625
+D1
+~
+~
+0 -1 17659
+D2
+~
+~
+0 -1 17623
+S
+#17625
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17626
+D1
+~
+~
+0 -1 17660
+D2
+~
+~
+0 -1 17624
+S
+#17626
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17627
+D1
+~
+~
+0 -1 17661
+D2
+~
+~
+0 -1 17625
+S
+#17627
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17628
+D1
+~
+~
+0 -1 17662
+D2
+~
+~
+0 -1 17626
+S
+#17628
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17629
+D1
+~
+~
+0 -1 17663
+D2
+~
+~
+0 -1 17627
+S
+#17629
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17630
+D1
+~
+~
+0 -1 17664
+D2
+~
+~
+0 -1 17628
+S
+#17630
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17631
+D1
+~
+~
+0 -1 17665
+D2
+~
+~
+0 -1 17629
+S
+#17631
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17632
+D1
+~
+~
+0 -1 17666
+D2
+~
+~
+0 -1 17630
+S
+#17632
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17633
+D2
+~
+~
+0 -1 17631
+S
+#17633
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17634
+D2
+~
+~
+0 -1 17666
+D3
+~
+~
+0 -1 17632
+S
+#17634
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17635
+D2
+~
+~
+0 -1 17667
+D3
+~
+~
+0 -1 17633
+S
+#17635
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17636
+D2
+~
+~
+0 -1 17668
+D3
+~
+~
+0 -1 17634
+S
+#17636
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17637
+D2
+~
+~
+0 -1 17669
+D3
+~
+~
+0 -1 17635
+S
+#17637
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17638
+D2
+~
+~
+0 -1 17670
+D3
+~
+~
+0 -1 17636
+S
+#17638
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17639
+D2
+~
+~
+0 -1 17671
+D3
+~
+~
+0 -1 17637
+S
+#17639
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17640
+D2
+~
+~
+0 -1 17672
+D3
+~
+~
+0 -1 17638
+S
+#17640
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17641
+D2
+~
+~
+0 -1 17673
+D3
+~
+~
+0 -1 17639
+S
+#17641
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D2
+~
+~
+0 -1 17642
+D3
+~
+~
+0 -1 17640
+S
+#17642
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17641
+D2
+~
+~
+0 -1 17643
+D3
+~
+~
+0 -1 17673
+S
+#17643
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17642
+D2
+~
+~
+0 -1 17644
+D3
+~
+~
+0 -1 17674
+S
+#17644
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17643
+D2
+~
+~
+0 -1 17645
+D3
+~
+~
+0 -1 17675
+S
+#17645
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17644
+D2
+~
+~
+0 -1 17646
+D3
+~
+~
+0 -1 17676
+S
+#17646
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17645
+D2
+~
+~
+0 -1 17647
+D3
+~
+~
+0 -1 17677
+S
+#17647
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17646
+D2
+~
+~
+0 -1 17648
+D3
+~
+~
+0 -1 17678
+S
+#17648
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17647
+D2
+~
+~
+0 -1 17649
+D3
+~
+~
+0 -1 17679
+S
+#17649
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17648
+D2
+~
+~
+0 -1 17650
+D3
+~
+~
+0 -1 17680
+S
+#17650
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17649
+D3
+~
+~
+0 -1 17651
+S
+#17651
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17680
+D1
+~
+~
+0 -1 17650
+D3
+~
+~
+0 -1 17652
+S
+#17652
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17681
+D1
+~
+~
+0 -1 17651
+D3
+~
+~
+0 -1 17653
+S
+#17653
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17682
+D1
+~
+~
+0 -1 17652
+D3
+~
+~
+0 -1 17654
+S
+#17654
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17683
+D1
+~
+~
+0 -1 17653
+D3
+~
+~
+0 -1 17655
+S
+#17655
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17684
+D1
+~
+~
+0 -1 17654
+D3
+~
+~
+0 -1 17656
+S
+#17656
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17685
+D1
+~
+~
+0 -1 17655
+D3
+~
+~
+0 -1 17657
+S
+#17657
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17686
+D1
+~
+~
+0 -1 17656
+D3
+~
+~
+0 -1 17658
+S
+#17658
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17659
+D1
+~
+~
+0 -1 17657
+D3
+~
+~
+0 -1 17623
+S
+#17659
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17660
+D1
+~
+~
+0 -1 17686
+D2
+~
+~
+0 -1 17658
+D3
+~
+~
+0 -1 17624
+S
+#17660
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17661
+D2
+~
+~
+0 -1 17659
+D3
+~
+~
+0 -1 17625
+S
+#17661
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17662
+D2
+~
+~
+0 -1 17660
+D3
+~
+~
+0 -1 17626
+S
+#17662
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17663
+D2
+~
+~
+0 -1 17661
+D3
+~
+~
+0 -1 17627
+S
+#17663
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17664
+D2
+~
+~
+0 -1 17662
+D3
+~
+~
+0 -1 17628
+S
+#17664
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17665
+D2
+~
+~
+0 -1 17663
+D3
+~
+~
+0 -1 17629
+S
+#17665
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17666
+D2
+~
+~
+0 -1 17664
+D3
+~
+~
+0 -1 17630
+S
+#17666
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17633
+D1
+~
+~
+0 -1 17667
+D2
+~
+~
+0 -1 17665
+D3
+~
+~
+0 -1 17631
+S
+#17667
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17634
+D1
+~
+~
+0 -1 17668
+D3
+~
+~
+0 -1 17666
+S
+#17668
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17635
+D1
+~
+~
+0 -1 17669
+D3
+~
+~
+0 -1 17667
+S
+#17669
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17636
+D1
+~
+~
+0 -1 17670
+D3
+~
+~
+0 -1 17668
+S
+#17670
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17637
+D1
+~
+~
+0 -1 17671
+D3
+~
+~
+0 -1 17669
+S
+#17671
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17638
+D1
+~
+~
+0 -1 17672
+D3
+~
+~
+0 -1 17670
+S
+#17672
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17639
+D1
+~
+~
+0 -1 17673
+D3
+~
+~
+0 -1 17671
+S
+#17673
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17640
+D1
+~
+~
+0 -1 17642
+D2
+~
+~
+0 -1 17674
+D3
+~
+~
+0 -1 17672
+S
+#17674
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17673
+D1
+~
+~
+0 -1 17643
+D2
+~
+~
+0 -1 17675
+S
+#17675
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17674
+D1
+~
+~
+0 -1 17644
+D2
+~
+~
+0 -1 17676
+S
+#17676
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17675
+D1
+~
+~
+0 -1 17645
+D2
+~
+~
+0 -1 17677
+S
+#17677
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17676
+D1
+~
+~
+0 -1 17646
+D2
+~
+~
+0 -1 17678
+S
+#17678
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17677
+D1
+~
+~
+0 -1 17647
+D2
+~
+~
+0 -1 17679
+S
+#17679
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17678
+D1
+~
+~
+0 -1 17648
+D2
+~
+~
+0 -1 17680
+S
+#17680
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D0
+~
+~
+0 -1 17679
+D1
+~
+~
+0 -1 17649
+D2
+~
+~
+0 -1 17651
+D3
+~
+~
+0 -1 17681
+S
+#17681
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17680
+D2
+~
+~
+0 -1 17652
+D3
+~
+~
+0 -1 17682
+S
+#17682
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17681
+D2
+~
+~
+0 -1 17653
+D3
+~
+~
+0 -1 17683
+S
+#17683
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17682
+D2
+~
+~
+0 -1 17654
+D3
+~
+~
+0 -1 17684
+S
+#17684
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17683
+D2
+~
+~
+0 -1 17655
+D3
+~
+~
+0 -1 17685
+S
+#17685
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17684
+D2
+~
+~
+0 -1 17656
+D3
+~
+~
+0 -1 17686
+S
+#17686
+The track~
+You are on the jogging and running track.
+~
+0 0 0
+D1
+~
+~
+0 -1 17685
+D2
+~
+~
+0 -1 17657
+D3
+~
+~
+0 -1 17659
+S
+#17687
+A walkway~
+You are walking toward the pool area.
+~
+0 4 0
+D1
+~
+~
+0 -1 17688
+D2
+~
+~
+0 -1 17505
+S
+#17688
+A walkway~
+You are walking toward the pool area.
+~
+0 4 0
+D1
+~
+~
+1 -1 17689
+D3
+~
+~
+0 -1 17687
+S
+#17689
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17707
+D1
+~
+~
+0 -1 17690
+D3
+~
+~
+1 -1 17688
+S
+#17690
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17708
+D1
+~
+~
+0 -1 17691
+D3
+~
+~
+0 -1 17689
+S
+#17691
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17709
+D1
+~
+~
+0 -1 17692
+D3
+~
+~
+0 -1 17690
+S
+#17692
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17710
+D1
+~
+~
+0 -1 17693
+D3
+~
+~
+0 -1 17691
+S
+#17693
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17711
+D1
+~
+~
+0 -1 17694
+D3
+~
+~
+0 -1 17692
+S
+#17694
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17695
+D3
+~
+~
+0 -1 17693
+S
+#17695
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17696
+D2
+~
+~
+0 -1 17694
+D3
+~
+~
+0 -1 17711
+S
+#17696
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.  Directly to the west is the diving board.
+~
+0 0 0
+D0
+~
+~
+0 -1 17697
+D2
+~
+~
+0 -1 17695
+D3
+~
+~
+0 -1 17712
+S
+#17697
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17698
+D2
+~
+~
+0 -1 17696
+D3
+~
+~
+0 -1 17719
+S
+#17698
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D2
+~
+~
+0 -1 17697
+D3
+~
+~
+0 -1 17699
+S
+#17699
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17698
+D2
+~
+~
+0 -1 17719
+D3
+~
+~
+0 -1 17700
+S
+#17700
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17699
+D2
+~
+~
+0 -1 17719
+D3
+~
+~
+0 -1 17701
+S
+#17701
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17700
+D2
+~
+~
+0 -1 17718
+D3
+~
+~
+0 -1 17702
+S
+#17702
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17701
+D2
+~
+~
+0 -1 17717
+D3
+~
+~
+0 -1 17703
+S
+#17703
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17702
+D2
+~
+~
+0 -1 17716
+D3
+~
+~
+0 -1 17704
+S
+#17704
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D1
+~
+~
+0 -1 17703
+D2
+~
+~
+0 -1 17705
+S
+#17705
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17704
+D1
+~
+~
+0 -1 17716
+D2
+~
+~
+0 -1 17706
+S
+#17706
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17705
+D1
+~
+~
+0 -1 17715
+D2
+~
+~
+0 -1 17707
+S
+#17707
+The edge of the pool~
+You are standing on the edge of the olympic size swimming pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17706
+D1
+~
+~
+0 -1 17708
+D2
+~
+~
+0 -1 17689
+S
+#17708
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17715
+D1
+~
+~
+0 -1 17709
+D2
+~
+~
+0 -1 17690
+D3
+~
+~
+0 -1 17707
+S
+#17709
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17714
+D1
+~
+~
+0 -1 17710
+D2
+~
+~
+0 -1 17691
+D3
+~
+~
+0 -1 17708
+S
+#17710
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17713
+D1
+~
+~
+0 -1 17711
+D2
+~
+~
+0 -1 17692
+D3
+~
+~
+0 -1 17709
+S
+#17711
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17712
+D1
+~
+~
+0 -1 17695
+D2
+~
+~
+0 -1 17693
+D3
+~
+~
+0 -1 17710
+S
+#17712
+The diving board~
+You are on top of the diving board, about to dive into the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17719
+D1
+~
+~
+0 -1 17696
+D2
+~
+~
+0 -1 17711
+D3
+~
+~
+0 -1 17713
+S
+#17713
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17718
+D1
+~
+~
+0 -1 17712
+D2
+~
+~
+0 -1 17710
+D3
+~
+~
+0 -1 17714
+S
+#17714
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17717
+D1
+~
+~
+0 -1 17713
+D2
+~
+~
+0 -1 17709
+D3
+~
+~
+0 -1 17715
+S
+#17715
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17716
+D1
+~
+~
+0 -1 17714
+D2
+~
+~
+0 -1 17708
+D3
+~
+~
+0 -1 17706
+S
+#17716
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17703
+D1
+~
+~
+0 -1 17717
+D2
+~
+~
+0 -1 17715
+D3
+~
+~
+0 -1 17705
+S
+#17717
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17702
+D1
+~
+~
+0 -1 17718
+D2
+~
+~
+0 -1 17714
+D3
+~
+~
+0 -1 17716
+S
+#17718
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17701
+D1
+~
+~
+0 -1 17719
+D2
+~
+~
+0 -1 17713
+D3
+~
+~
+0 -1 17717
+S
+#17719
+The pool~
+You are swimming in the pool.
+~
+0 0 0
+D0
+~
+~
+0 -1 17700
+D1
+~
+~
+0 -1 17697
+D2
+~
+~
+0 -1 17712
+D3
+~
+~
+0 -1 17718
+S
+#17720
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D1
+~
+~
+0 -1 17721
+D2
+~
+~
+0 -1 17729
+D3
+~
+~
+0 -1 17505
+S
+#17721
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D1
+~
+~
+0 -1 17722
+D2
+~
+~
+0 -1 17730
+D3
+~
+~
+0 -1 17720
+S
+#17722
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D1
+~
+~
+0 -1 17723
+D2
+~
+~
+0 -1 17731
+D3
+~
+~
+0 -1 17721
+S
+#17723
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D2
+~
+~
+0 -1 17724
+D3
+~
+~
+0 -1 17722
+S
+#17724
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17723
+D2
+~
+~
+0 -1 17725
+D3
+~
+~
+0 -1 17731
+S
+#17725
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17724
+D3
+~
+~
+0 -1 17726
+S
+#17726
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17731
+D1
+~
+~
+0 -1 17725
+D3
+~
+~
+0 -1 17727
+S
+#17727
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17730
+D1
+~
+~
+0 -1 17726
+D3
+~
+~
+0 -1 17728
+S
+#17728
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17729
+D1
+~
+~
+0 -1 17727
+S
+#17729
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17720
+D1
+~
+~
+0 -1 17730
+D2
+~
+~
+0 -1 17728
+S
+#17730
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17721
+D1
+~
+~
+0 -1 17731
+D2
+~
+~
+0 -1 17727
+D3
+~
+~
+0 -1 17729
+S
+#17731
+The exercise bike and treadmill area~
+You are in a room filled with ski machines, exercise bikes, treadmills, and stairclimbers.  There are various tvs showing distractions for people to watch as they work out.
+~
+0 0 0
+D0
+~
+~
+0 -1 17722
+D1
+~
+~
+0 -1 17724
+D2
+~
+~
+0 -1 17726
+D3
+~
+~
+0 -1 17730
+S
+#17732
+A walkway~
+You are standing on the walkway that leads to the various handball and raquetball courts and the basketball courts.
+~
+0 0 0
+D0
+~
+~
+0 -1 17733
+D2
+~
+~
+0 -1 17508
+S
+#17733
+A walkway~
+You are standing on the walkway that leads between the various handball and raquetball courts and the basketball courts.
+~
+0 0 0
+D0
+~
+~
+0 -1 17735
+D1
+~
+~
+0 -1 17741
+D2
+~
+~
+0 -1 17732
+D3
+~
+~
+1 -1 17734
+S
+#17734
+Raquetball court A~
+You are standing on a raquetball court.
+~
+0 0 0
+D1
+~
+~
+1 -1 17733
+S
+#17735
+A walkway~
+You are standing on the walkway that leads between the various handball and raquetball courts and the basketball courts.
+~
+0 0 0
+D0
+~
+~
+0 -1 17737
+D2
+~
+~
+0 -1 17733
+D3
+~
+~
+1 -1 17736
+S
+#17736
+Raquetball court C~
+You are standing on a raquetball court.
+~
+0 0 0
+D1
+~
+~
+1 -1 17735
+S
+#17737
+A walkway~
+You are standing on the walkway that leads between the various handball and raquetball courts and the basketball courts.
+~
+0 0 0
+D0
+~
+~
+0 -1 17739
+D2
+~
+~
+0 -1 17735
+D3
+~
+~
+1 -1 17738
+S
+#17738
+Raquetball court C~
+You are standing on a raquetball court.
+~
+0 0 0
+D1
+~
+~
+1 -1 17737
+S
+#17739
+A walkway~
+You are standing on the walkway that leads between the various handball and raquetball courts and the basketball courts.
+~
+0 0 0
+D1
+~
+~
+0 -1 17751
+D2
+~
+~
+0 -1 17737
+D3
+~
+~
+1 -1 17740
+S
+#17740
+Raquetball court D~
+You are standing on a raquetball court.
+~
+0 0 0
+D1
+~
+~
+1 -1 17739
+S
+#17741
+A walkway~
+You are standing in the walkway that leads to basketball gym A.
+~
+0 4 0
+D1
+~
+~
+0 -1 17742
+D3
+~
+~
+0 -1 17733
+S
+#17742
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17749
+D1
+~
+~
+0 -1 17743
+D3
+~
+~
+0 -1 17741
+S
+#17743
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17750
+D1
+~
+~
+0 -1 17744
+D3
+~
+~
+0 -1 17742
+S
+#17744
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17745
+D3
+~
+~
+0 -1 17743
+S
+#17745
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17746
+D2
+~
+~
+0 -1 17744
+D3
+~
+~
+0 -1 17750
+S
+#17746
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D2
+~
+~
+0 -1 17745
+D3
+~
+~
+0 -1 17747
+S
+#17747
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D1
+~
+~
+0 -1 17746
+D2
+~
+~
+0 -1 17750
+D3
+~
+~
+0 -1 17748
+S
+#17748
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D1
+~
+~
+0 -1 17747
+D2
+~
+~
+0 -1 17749
+S
+#17749
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17748
+D1
+~
+~
+0 -1 17750
+D2
+~
+~
+0 -1 17742
+S
+#17750
+Basketball Court A~
+You are standing on a basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17747
+D1
+~
+~
+0 -1 17745
+D2
+~
+~
+0 -1 17743
+D3
+~
+~
+0 -1 17749
+S
+#17751
+A walkway~
+You are standing in the walkway that leads to basketball court B.
+~
+0 4 0
+D1
+~
+~
+0 -1 17752
+D3
+~
+~
+0 -1 17739
+S
+#17752
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D1
+~
+~
+0 -1 17753
+D2
+~
+~
+0 -1 17759
+D3
+~
+~
+0 -1 17751
+S
+#17753
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D1
+~
+~
+0 -1 17754
+D2
+~
+~
+0 -1 17760
+D3
+~
+~
+0 -1 17752
+S
+#17754
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D2
+~
+~
+0 -1 17755
+D3
+~
+~
+0 -1 17753
+S
+#17755
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17754
+D2
+~
+~
+0 -1 17756
+D3
+~
+~
+0 -1 17760
+S
+#17756
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17755
+D3
+~
+~
+0 -1 17757
+S
+#17757
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17760
+D1
+~
+~
+0 -1 17756
+D3
+~
+~
+0 -1 17758
+S
+#17758
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17759
+D1
+~
+~
+0 -1 17757
+S
+#17759
+Basketball court B~
+You are standing on the basketball court.
+~
+0 0 0
+D0
+~
+~
+0 -1 17752
+D1
+~
+~
+0 -1 17760
+D2
+~
+~
+0 -1 17758
+S
+#17760
+Basketball court B~
+You are standing in room #10161.
+~
+0 0 0
+D0
+~
+~
+0 -1 17753
+D1
+~
+~
+0 -1 17755
+D2
+~
+~
+0 -1 17757
+D3
+~
+~
+0 -1 17759
+S
+#0
+
+
+#RESETS
+*
+M 1 17501 5 17510			the rock climber to The rock climbing wall
+*
+M 1 17501 5 17511			the rock climber to The rock climbing wall
+*
+M 1 17501 5 17512			the rock climber to The rock climbing wall
+*
+M 1 17501 5 17513			the rock climber to The rock climbing wall
+*
+M 1 17501 10 17514			the rock climber to Nearing the peak!
+*
+M 1 17500 10 17507			a recreational center employee to The weight room reception desk
+*
+M 1 17500 10 17501			a recreational center employee to The admittance desk.
+*
+M 1 17502 15 17504			the student to The lounge
+*
+M 1 17502 10 17506			the student to The lounge
+*
+M 1 17502 15 17508			the student to The lounge
+*
+M 1 17502 15 17502			the student to The lounge.
+*
+M 1 17503 5 17541			the bodybuilder to The weight room
+*
+M 1 17503 15 17537			the bodybuilder to The weight room
+*
+M 1 17503 15 17558			the bodybuilder to The weight room
+*
+M 1 17503 15 17563			the bodybuilder to The weight room
+*
+M 1 17503 15 17568			the bodybuilder to The weight room
+*
+M 1 17503 15 17566			the bodybuilder to The weight room
+*
+M 1 17503 15 17555			the bodybuilder to The weight room
+*
+M 1 17503 15 17539			the bodybuilder to The weight room
+*
+M 1 17503 15 17561			the bodybuilder to The weight room
+*
+M 1 17503 15 17529			the bodybuilder to The weight room
+*
+M 1 17503 15 17551			the bodybuilder to The weight room
+*
+M 1 17505 5 17502			the female student to The lounge.
+*
+M 1 17505 10 17508			the female student to The lounge
+*
+M 1 17502 5 17501			the student to The admittance desk.
+*
+M 1 17505 5 17501			the female student to The admittance desk.
+*
+*
+M 1 17506 1 17606			the aerobic instructor to The southern aerobic room
+*
+M 1 17506 1 17591			the aerobic instructor to The northern aerobic room
+*
+M 1 17507 3 17593			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17602			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17603			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17604			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17599			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17600			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17601			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17594			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17595			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17596			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17597			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17598			the aerobics student to The southern aerobic room
+*
+M 1 17507 3 17578			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17587			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17588			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17589			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17584			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17585			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17586			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17579			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17580			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17581			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17582			the aerobics student to The northern aerobic room
+*
+M 1 17507 3 17583			the aerobics student to The northern aerobic room
+*
+M 1 17504 10 17529			the female bodybuilder to The weight room
+*
+M 1 17504 15 17552			the female bodybuilder to The weight room
+*
+M 1 17504 15 17550			the female bodybuilder to The weight room
+*
+M 1 17504 15 17535			the female bodybuilder to The weight room
+*
+M 1 17504 15 17563			the female bodybuilder to The weight room
+*
+M 1 17504 15 17565			the female bodybuilder to The weight room
+*
+M 1 17503 15 17556			the bodybuilder to The weight room
+*
+M 1 17503 15 17569			the bodybuilder to The weight room
+*
+M 1 17502 3 17611			the student to The office lounge
+*
+M 1 17505 2 17611			the female student to The office lounge
+*
+M 1 17508 1 17611			the secretary to The office lounge
+*
+M 1 17509 1 17615			a hper professor to A room
+*
+M 1 17509 1 17616			a hper professor to A room
+*
+M 1 17509 1 17617			a hper professor to A room
+*
+M 1 17509 1 17618			a hper professor to A room
+*
+M 1 17509 1 17619			a hper professor to A room
+*
+M 1 17509 1 17620			a hper professor to A room
+*
+M 1 17510 10 17623			the runner to The track
+*
+M 1 17511 10 17624			the female runner to The track
+*
+M 1 17512 10 17625			the walker to The track
+*
+M 1 17510 10 17626			the runner to The track
+*
+M 1 17511 10 17627			the female runner to The track
+*
+M 1 17512 10 17628			the walker to The track
+*
+M 1 17510 10 17629			the runner to The track
+*
+M 1 17511 10 17630			the female runner to The track
+*
+M 1 17512 10 17631			the walker to The track
+*
+M 1 17510 10 17632			the runner to The track
+*
+M 1 17511 10 17633			the female runner to The track
+*
+M 1 17512 10 17634			the walker to The track
+*
+M 1 17510 10 17635			the runner to The track
+*
+*
+M 1 17511 10 17636			the female runner to The track
+*
+M 1 17512 10 17637			the walker to The track
+*
+M 1 17510 10 17638			the runner to The track
+*
+M 1 17511 10 17639			the female runner to The track
+*
+M 1 17512 10 17640			the walker to The track
+*
+M 1 17510 10 17641			the runner to The track
+*
+M 1 17511 10 17642			the female runner to The track
+*
+M 1 17512 10 17643			the walker to The track
+*
+M 1 17510 10 17644			the runner to The track
+*
+M 1 17511 10 17645			the female runner to The track
+*
+M 1 17512 10 17646			the walker to The track
+*
+M 1 17510 10 17647			the runner to The track
+*
+M 1 17511 10 17648			the female runner to The track
+*
+M 1 17512 10 17649			the walker to The track
+*
+M 1 17510 10 17650			the runner to The track
+*
+M 1 17511 10 17651			the female runner to The track
+*
+M 1 17512 10 17652			the walker to The track
+*
+M 1 17510 10 17653			the runner to The track
+*
+M 1 17511 10 17654			the female runner to The track
+*
+M 1 17512 10 17655			the walker to The track
+*
+M 1 17512 10 17656			the walker to The track
+*
+M 1 17510 10 17657			the runner to The track
+*
+M 1 17511 10 17658			the female runner to The track
+*
+M 1 17500 15 17660			a recreational center employee to The track
+*
+M 1 17500 15 17664			a recreational center employee to The track
+*
+M 1 17500 15 17674			a recreational center employee to The track
+*
+M 1 17500 15 17679			a recreational center employee to The track
+*
+M 1 17513 15 17712			the swimmer to The diving board
+*
+M 1 17513 20 17713			the swimmer to The pool
+*
+M 1 17513 20 17714			the swimmer to The pool
+*
+M 1 17513 20 17715			the swimmer to The pool
+*
+M 1 17514 1 17691			the lifeguard to The edge of the pool
+*
+M 1 17514 1 17702			the lifeguard to The edge of the pool
+*
+M 1 17514 1 17696			the lifeguard to The edge of the pool
+*
+M 1 17518 1 17731			the stair climber to The exercise bike and treadmill area
+*
+M 1 17517 1 17722			the cross-country skier to The exercise bike and treadmill area
+*
+M 1 17516 1 17723			the treadmill user to The exercise bike and treadmill area
+*
+M 1 17515 1 17724			the exercise bike rider to The exercise bike and treadmill area
+*
+M 1 17518 1 17725			the stair climber to The exercise bike and treadmill area
+*
+M 1 17517 1 17726			the cross-country skier to The exercise bike and treadmill area
+*
+M 1 17518 1 17721			the stair climber to The exercise bike and treadmill area
+*
+M 1 17517 1 17730			the cross-country skier to The exercise bike and treadmill area
+*
+M 1 17516 1 17727			the treadmill user to The exercise bike and treadmill area
+*
+M 1 17515 1 17728			the exercise bike rider to The exercise bike and treadmill area
+*
+M 1 17517 1 17729			the cross-country skier to The exercise bike and treadmill area
+*
+M 1 17516 1 17720			the treadmill user to The exercise bike and treadmill area
+*
+M 1 17500 10 17722			a recreational center employee to The exercise bike and treadmill area
+*
+M 1 17519 5 17749			the basketball player to Basketball Court A
+*
+M 1 17519 5 17745			the basketball player to Basketball Court A
+*
+M 1 17520 1 17750			the referee to Basketball Court A
+*
+M 1 17520 1 17747			the referee to Basketball Court A
+*
+M 1 17520 1 17743			the referee to Basketball Court A
+*
+M 1 17519 5 17759			the basketball player to Basketball court B
+*
+M 1 17520 1 17760			the referee to Basketball court B
+*
+M 1 17520 1 17757			the referee to Basketball court B
+*
+M 1 17520 1 17753			the referee to Basketball court B
+*
+M 1 17519 5 17755			the basketball player to Basketball court B
+*
+M 1 17521 3 17740			a raquetball player to Raquetball court D
+*
+M 1 17521 3 17738			a raquetball player to Raquetball court C
+*
+M 1 17521 3 17736			a raquetball player to Raquetball court C
+*
+M 1 17521 3 17734			a raquetball player to Raquetball court A
+S
+
+
+#SPECIALS
+M  17500 spec_guard			a recreational center employee
+M  17514 spec_guard			the lifeguard
+M  17520 spec_guard			the referee
+S
+
+
+#$

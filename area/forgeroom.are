@@ -1,0 +1,328 @@
+#AREA	Loimos Forgeroom~
+25
+26
+#MOBILES
+#25
+Master Forger~
+The Master Forger~
+The Master Forger stands here, waiting to help you.
+~
+A tough and grizzled old man, he looks
+like he knows what he's talking about. If you want his knowledge, say enlighten me, and it shall be granted.
+~
+2|64 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26
+Apprentice Miner~
+An Apprentice Miner~
+An Apprentice Miner stands here, looking through his mining pouch
+~
+He is just learning the mining trade, but at least he has something.
+~
+0 2|8|32|128|32768|65536|1048576 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27
+Miner~
+A Miner~
+A Miner stands here, looking through his mining pouch
+~
+A miner is fairly skilled in the art of mining.
+~
+0 2|8|32|128|32768|65536|1048576 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#28
+Expert Miner~
+An Expert Miner~
+An Expert Miner stands here, looking through his mining pouch
+~
+He has become skilled in the art of mining.
+~
+0 2|8|32|128|32768|65536|1048576 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#29
+Master Miner~
+A Master Miner~
+A Master Miner stands here, looking through his mining pouch
+~
+A Master Miner is highly skilled in the ways of mining.
+~
+0 2|8|32|128|32768|65536|1048576 0 S
+400 0 0 0d0+0 0d0+0
+0 0 
+8 8 1
+#30
+Grand Master of Mining~
+A Grand Master of Mining~
+A Grand Master of Mining stands here, looking through his mining pouch
+~
+A Grand Master of Mining is the most skilled of miners in the realm.
+~
+0 2|8|32|128|32768|65536|1048576 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#31
+Sauron~
+The Dark Lord~
+The Dark Lord is here, forging something...
+~
+Sauron appears to be in a trance... using his magic to
+inscribe a dull looking ring that lies in the fire
+before him.
+~
+0 0 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#25
+Loimos Book Forging~
+Loimos's Book of Forging~
+An ancient tome, filled with the secrets of forging is here.~
+~
+8 0 1
+0 0 0 0 
+5 0 0
+E
+Loimos book forging tome~
+The first key to mining is knowing where
+to mine.  Mining is completely random, and
+a successful mine has absolutely
+nothing to do with the room, as long as
+the room does not have a (mined) flag. If
+you use a mud client, set a trigger for
+[Exit that triggers a mine. Find zones
+that have the most consecutive rooms that
+you can enter without backtracking, so you
+mine every step, and aren't walking into 
+previously mined rooms, the jungle
+is a good example of a prime mining area,
+100+- rooms to mine without a backtrack. 
+To further enhance, path out zones and 
+slow walk them, setting delay at 1000-1500,
+depending on how fast your connection allows.
+             [LOOK PAGE2]
+
+~
+E
+page2~
+Set triggers up to donate any copper ore
+or tin ore you find, and to put any iron 
+ore into a container. After you have done 
+about 300 rooms, sort out all the gems 
+you do not want. Put the gems you want 
+into one container, the other gems, put 
+into another container. Make a chained 
+alias to get gem (whatever container holds
+the ones you don't want), then cuts 3 times,
+polishes once. (The gem won't always require 
+it, but it's a real time saver to use an 
+alias),and then puts that gem into a 3rd 
+container. DO NOT UPGRADE, but cut and 
+polish will give far better qp return. Once
+you have gone through all the waste gems 
+in that manner, start forging eq from the 
+donated copper and tin.  [LOOK PAGE3] 
+
+~
+E
+page3~
+I suggest an alias to pick up 2 copper, 
+1 tin, do all the smelts, forge, and prep. 
+Then inlay trash gems USING NOSPELL, since 
+spell gems give no qps, drop and sac until 
+all waste gems are gone. I'd make a short 
+alias for inlay gem nospell to make this 
+process quicker and easier. On average, from 
+a 300 room mining trip, you'll get 1 diamond, 
+and 1000qps. On average, 2000 qps will yield 
+1 more diamond. About 1/4 - 1/5 diamonds you 
+mine will become master cut and polished. In 
+other words, you can expect to get a perfect 
+diamond about every 3-4 runs, assuming 
+your run is 300 rooms, and the rooms have 
+repopped from any previous rooms.             
+          [LOOK PAGE4]
+
+~
+E
+page4~
+When forging your sets, first start out 
+by making a set of iron, using any gems 
+you aren't saving for a set of steel. 
+Before you begin using the sac for qps 
+method, use iron to make eq from ANY 
+GEMS you can cut, polish, and upgrade 
+to perfect, except for the ones you are 
+saving. Once you have a full set of iron 
+using this method, you will be fully 
+adequate for pk, and ready to start 
+forging steel. Be at the keyboard at all 
+times while using these methods, and DO 
+NOT BOT. If you are caught botting, stiff 
+penalties will be handed out, most like 
+confiscation of all eq, ore, and gems. 
+            Loimos,
+                   Master Forger
+
+~
+#26
+Scroll~
+An Old Dingy Scroll~
+An old dingy scroll lies here, paper flaking from much use.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+scroll~
+  Even in a tiny Southland village like Midgaard, they had heard of 
+Garet Jax. 
+  He was the man they called the Weapons Master- a man whose skill in 
+single combat was so finely developed that it was said he had no equal.  
+  Choose whatever weapon you might or choose no other weapon then hands,
+feet, and body, and he was better than any man alive.  Some said more than 
+that- he was the best who had ever lived.  Rumor has it that a guild 
+master in Midgaard was trained by him, and if you speak the name Garet Jax 
+in his presence, you will be face to face with the Legendary Weapons 
+Master himself!
+
+
+~
+#0
+
+
+#ROOMS
+#25
+The Master Forger's Room~
+You are standing in a room with beautiful
+armors lining the walls.  You hear a voice whisper "speak the name
+of the Dark Lord who has the power to form the most powerful ring
+ever known."
+~
+0 4|8|1024|16384 0
+D2
+~
+~
+0 -1 3054
+T
+&enlighten*me*~
+Something appears in $n's hands in an explosion of energy!~
+Something appears in your hands in an explosion of energy! The Master Forger says 'Read the book carefully'.~
+all~
+1048608 25 25
+
+T
+|sauron*~
+$n fades into nothingness before your eyes!~
+Your surroundings blur as you feel a shroud of evil encompass you.
+~
+all~
+16384 27 0
+
+S
+#26
+Miner's Room~
+Miner's distribution room
+~
+0 4|8|512|2048 1
+D0
+~
+~
+0 -1 3025
+D1
+~
+~
+0 -1 3210
+D2
+~
+~
+0 -1 23012
+D3
+~
+~
+0 -1 22034
+D4
+~
+~
+0 -1 27523
+D5
+~
+~
+0 -1 3214
+S
+#27
+Mount Doom~
+You are in the center of Mount Doom, the center of the Dark Lord's
+kingdom.  You see a strange inscription on the wall before you.
+~
+0 0 0
+E
+Inscription Wall~
+He who inscribes the ring of power with it's missing verse will
+gain control of the great ring.  However... the ring cannot be 
+obtained without cost, in order for a person without the magical
+ability to match Sauron, items must be substituted.  It will require
+a full set of each of the lands greatest training pieces of equipment.
+These sets must be in your inventory when you inscribe.
+If only you could look at that ring...
+
+~
+E
+ring one fire~
+You look as closely at the ring as you can without disturbing
+Sauron from his trance.  You see the inscription reads:
+
+One Ring to... the rest of the line seems to be missing?
+
+The inscription concludes with:
+
+One Ring to find them,
+One Ring to bring them all
+and in the darkness bind them.
+
+You must inscribe the missing 3 words to gain the rings power.
+
+~
+S
+#0
+
+
+#RESETS
+*
+M 1 25 1 25			The Master Forger to The Master Forger's Room
+G 1 26 100
+*
+M 1 26 2 26 			An Apprentice Miner to Miner's Room
+*
+M 1 27 2 26			A Miner to Miner's Room
+*
+M 1 28 2 26			An Expert Miner to Miner's Room
+*
+M 1 29 2 26			A Master Miner to Miner's Room
+*
+M 1 30 2 26			A Grand Master of Mining to Miner's Room
+*
+M 1 31 1 27
+S
+
+#SPECIALS
+M 26	spec_miner			Miner's Room
+M 27	spec_miner			Miner's Room
+M 28	spec_miner			Miner's Room
+M 29	spec_miner			Miner's Room
+M 30	spec_miner			Miner's Room
+S
+
+#$

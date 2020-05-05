@@ -1,0 +1,284 @@
+#AREA	Nuitari Lloth~
+9000
+9015
+
+#MOBILES
+#9000
+queen lloth~
+Lloth the spider queen~
+The Spider Queen Lloth gazes at you with a look of sheer hatred.
+~
+Lloth the Spider Queen looms over you, preparing to strike you down in hatred..
+She hisses "It is not wise to intrude upon my children!"
+~
+2|64 8|32|128|512 -200 S
+901 2 2 1d1+30000 2d8+32
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#9000
+Drow Recall Chamber~
+This ancient black obsidian chamber is carved in many magical runes. You sense a
+feeling of sheer evil eminating from these walls.
+~
+0 8 0
+D0
+~
+~
+0 -1 9015
+D2
+~
+~
+0 -1 9001
+S
+#9001
+Throne of Lloth the Spider Queen.~
+This is the throne of the spider queen Lloth. The room is very dark and the stench
+is terrible. As you scan the room you catch a glimpse of several glowing red eyes
+gazing back at you. A huge shadowy form looms over you. It might be a good idea to run.
+~
+0 8 0
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 9004
+D2
+~
+~
+0 -1 9008
+D3
+~
+~
+0 -1 9002
+S
+#9002
+Mage Quarters~
+This room has the strange scent of decay and many different herbs. There are shelves
+along the walls containing numerous magical tomes.
+~
+0 8 0
+D0
+~
+~
+0 -1 9003
+D1
+~
+~
+0 -1 9001
+S
+#9003
+Servants Quarters~
+The smell eminating from this room is horrid. You can only imaging the filth that
+breeds here in the quarters of the lowly servants of the drow high magi.
+~
+0 8 0
+D2
+~
+~
+0 -1 9002
+S
+#9004
+Warriors Chamber~
+You can hear the sounds of vicious combat emenating from all around you. This
+is where the skilled Drow Warriors train in their stealth but deadly combat style.
+Weapons of various make line the walls of this battle arena like chamber.
+~
+0 8 0
+D0
+~
+~
+0 -1 9005
+D1
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9001
+S
+#9005
+Warriors Arena~
+There are huge spider-like creatures here battling ferociously. The room is spattered in 
+blood and screams of pain and hatred echo throughout this dark chamber.
+~
+0 8 0
+D1
+~
+~
+0 -1 9006
+D2
+~
+~
+0 -1 9004
+S
+#9006
+Warriors Arena~
+You notice corpses of not so lucky warriors in training scattered about the floor. A giant
+blood spattered banner hangs from the north wall. It contains an image of The mighty queen
+Lloth in the heat of battle.
+~
+0 8 0
+D2
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9005
+S
+#9007
+Warriors Arena~
+The obsidian walls here seem to have jagged shards of steel protruding from them. The combat 
+taken place in this deadly chamber is only used for duels of the most powerful of drow.
+~
+0 8 0
+D0
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9004
+S
+#9008
+Temple of Lloth~
+This large black obsidian cavern is where the drow converge to pray to their mighty arachnid
+queen. There is a blood stained sacrificial altar in the center of the room. You notice 
+ancient carvings of mammoth arachnids covering the walls and ceiling. Drow may find sanctuary
+here in order to pray without disturbance.
+~
+0 8|1024 0
+D0
+~
+~
+0 -1 9001
+D1
+~
+~
+0 -1 9009
+D3
+~
+~
+0 -1 9011
+S
+#9009
+Clerics Chamber~
+This room is filled with an unholy darkness. The feelings of hatred and despair consume you. Here
+is where the drow clerics pray to the gods of hatred and evil in order to heal their wounded
+brethern.
+~
+0 8 0
+D2
+~
+~
+0 -1 9010
+D3
+~
+~
+0 -1 9008
+S
+#9010
+Unholy Chamber~
+This pitch black chamber is used for the lone purpose of tending the wounds of the drow High 
+Matrons. The power of hatred and evil here is overwhelming.
+~
+0 8 0
+D0
+~
+~
+0 -1 9009
+S
+#9011
+Passage to the Royal Chambers~
+This long, dark passageway leads to the Royal 
+Chambers of the High Matrons. There are huge obsidian collumns lining the passage. You turn
+to notice several pairs of glowing red eyes staring back at you from the shadows.
+~
+0 8 0
+D1
+~
+~
+0 -1 9008
+D2
+~
+~
+0 -1 9012
+S
+#9012
+Royal Chamber~
+This chamber is lavishly carved with ancient markings and symbols that describe the ancient
+history of the Drow. There is large obsidian throne in the center of the room.
+~
+0 8 0
+D0
+~
+~
+0 -1 9011
+D1
+~
+~
+0 -1 9013
+S
+#9013
+Chamber of Lloths Chosen Avatar~
+This mighty chamber was built to house the chosen avatar of the all powerful queen Lloth.
+This room radiates sheer power. If you are an uninvited guest of the avatar you may want to 
+quickly exit now..
+~
+0 8 0
+D2
+~
+~
+0 -1 9014
+D3
+~
+~
+0 -1 9012
+S
+#9014
+Passage to the Lower Chambers.~
+This passage slopes downward into what seems like the abyss. horrifying screams echo from
+below and you wonder what could be taking place in such a dark hopeless void.
+~
+0 8 0
+D0
+~
+~
+0 -1 9013
+S
+#9015
+Portal to the surface world.~
+Hovering above the room is a massive swirling vortex of dark energy. Stepping into this
+chaotic energy storm will transport you to a world where the wretched sun shines down upon
+the weakling surface dwelling races.
+~
+0 8 0
+D2
+~
+~
+0 -1 9000
+D4
+~
+~
+0 -1 3001
+S
+#0
+
+
+#RESETS
+*
+M 1 9000 1 9001			Lloth the spider queen to Throne of Lloth the Spider Queen.
+S
+
+
+#$

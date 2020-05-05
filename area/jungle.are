@@ -1,0 +1,2937 @@
+#AREA	Golrath  Jungle~
+27501
+27598
+
+#MOBILES
+#27501
+Jaguar~
+A Jaguar~
+A Jaguar is crouched ahead.
+~
+The jaguar snarls, revealing blood from a recent victim.
+~
+64 65536 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#27502
+The King of The Jungle~
+The King of The Jungle~
+A huge beast stands here, guarding the jungle from people like you.
+~
+The monstrous beast looks at you and smirks.
+~
+2|4|32 2|8|32|128|512|8192|32768|65536|524288 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27503
+A Boa Constrictor~
+A Boa Constrictor~
+A Boa Constrictor is curled around a tree.
+~
+The snake slides down and begins to strangle you!
+~
+64 2|512|32768 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27504
+A Gorilla~
+A Gorilla~
+A Silverback Gorilla is here, protecting his family.
+~
+The Silverback raises up and thumps his chest, roaring at you.
+~
+64 8|32 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27505
+A Tiger~
+A Tiger~
+A tiger stands completely motionless and stares you down.
+~
+The tiger licks his lips and growls at you.
+~
+64 2|32768|65536 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27506
+A Python~
+A Python~
+A python lies on the ground, slithering back and forth.
+~
+The python opens his mouth widely, trying to swallow you whole!
+~
+64 512|32768|65536 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27507
+A Panther~
+A Panther~
+A panther lies on the branch of a tree to your right.
+~
+The panther is as black as night. The only things you can see are hes teeth 
+and eyes.  Neither look friendly.
+~
+64 8|32|512|32768|65536 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27508
+An Anteater~
+An Anteater~
+An anteater sniffs around, looking for food.
+~
+The anteater pays no mind to you, and continues looking for more food.
+~
+4|64 0 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27509
+A Sloth~
+A Sloth~
+A shaggy looking animal with massive claws hangs in front of you.
+~
+The sloth seems friendly enough, but with those claws....
+~
+64 2|32768 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27510
+Army Ants~
+Army Ants~
+A swarm of Army Ants steadily moves closer towards you.
+~
+The mob of ants doesn't look to friendly.
+~
+4|64 8|32|512 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27511
+A toucan~
+A Toucan~
+A toucan is perched here, looking quite colorful.
+~
+The toucan is brightly colored, and has an amazingly long beak.  You think 
+he looks a little like something you've seen before, maybe on a cereal box.
+~
+64 524288 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27512
+A Monkey~
+A Monkey~
+A monkey watches you curiously.
+~
+The monkey is a harmless looking creature.  He makes quiet monkey noises as 
+you look at him that sounds almost like a language.
+~
+4|64 0 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27513
+A Parakeet~
+A Parakeet~
+A small parakeet perches on a low-lying branch.
+~
+The more you look at this bird, the more attractive it's colors 
+become...It's as if the plumage is hypnotizing.
+~
+64 524288 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27514
+A Spider Monkey~
+A Spider Monkey~
+A spider monkey cautiously hides behind some leaves.
+~
+The timid little monkey shys away as your eyes meet his.  It seems that his 
+entire body is shaking.  Is it from fright, or rage?
+~
+4|64 32768|65536 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27515
+An Orangutan~
+An Orangutan~
+An orangutan screams as he swings down at you!
+~
+The orangutan is in a rage, protecting his home from the likes of you.  He 
+seems to yell as he attacks.
+~
+4|64 0 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27516
+A Chimpanzee~
+A Chimpanzee~
+A chimpanzee stands in your path, staring at you.
+~
+The primate is the closest animal to human that you have ever seen.  
+Curiosity abounds with this creature, yet you sense that his strength is 
+more than your own.
+~
+4|64 0 0 S
+85 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27517
+A Parrot~
+A Parrot~
+A parot squawks from above your head.
+~
+The parrot is very colorful, and is nearly talking.  Other travellers must 
+have come through here before you, since it is yelling in English.
+~
+64 524288 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#27518
+A Treefrog~
+A Treefrog~
+A poisonous tree frog is barely visible on the trunk of the nearest tree.
+~
+The treefrog shows no noticable movement, and appears to be asleep.  By its 
+markings, you can tell that this is a poisonous frog, and should probably 
+get away from it.
+~
+64 65536|524288 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#27501
+Entrance to the Jungle~
+As you enter the jungle, small animals underfoot scurry away.  In the 
+distance, you can hear rustling in bushes and birds chattering away.  The 
+light is not coming in as freely anymore.
+~
+0 0 3
+D0
+~
+~
+0 -1 27502
+D1
+~
+~
+0 -1 27508
+D2
+~
+~
+0 -1 27502
+D3
+~
+~
+0 -1 6020
+S
+#27502
+The Jungle~
+Vines trip you as you walk through this area of the jungle.  No light can 
+reach through the tree canopy above, and you're beginning to wonder if you 
+can find your way out.
+~
+0 0 3
+D0
+~
+~
+0 -1 27503
+D1
+~
+~
+0 -1 27509
+D2
+~
+~
+0 -1 27501
+S
+#27503
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27504
+D1
+~
+~
+0 -1 27510
+D2
+~
+~
+0 -1 27502
+S
+#27504
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27505
+D1
+~
+~
+0 -1 27511
+D2
+~
+~
+0 -1 27503
+S
+#27505
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27506
+D1
+~
+~
+0 -1 27512
+D2
+~
+~
+0 -1 27504
+S
+#27506
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27507
+D1
+~
+~
+0 -1 27513
+D2
+~
+~
+0 -1 27505
+S
+#27507
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. There is a tree that appears climbable here, 
+and you hear more clatter from above.
+~
+0 0 3
+D1
+~
+~
+0 -1 27514
+D2
+~
+~
+0 -1 27506
+D4
+~
+~
+0 -1 27556
+S
+#27508
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27509
+D1
+~
+~
+0 -1 27515
+D3
+~
+~
+0 -1 27501
+S
+#27509
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27510
+D1
+~
+~
+0 -1 27516
+D2
+~
+~
+0 -1 27508
+D3
+~
+~
+0 -1 27502
+S
+#27510
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27511
+D1
+~
+~
+0 -1 27517
+D2
+~
+~
+0 -1 27509
+D3
+~
+~
+0 -1 27503
+S
+#27511
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27512
+D1
+~
+~
+0 -1 27518
+D2
+~
+~
+0 -1 27510
+D3
+~
+~
+0 -1 27504
+S
+#27512
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27513
+D1
+~
+~
+0 -1 27519
+D2
+~
+~
+0 -1 27511
+D3
+~
+~
+0 -1 27505
+S
+#27513
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27514
+D1
+~
+~
+0 -1 27520
+D2
+~
+~
+0 -1 27512
+D3
+~
+~
+0 -1 27506
+S
+#27514
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D1
+~
+~
+0 -1 27521
+D2
+~
+~
+0 -1 27513
+D3
+~
+~
+0 -1 27507
+S
+#27515
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27516
+D1
+~
+~
+0 -1 27522
+D3
+~
+~
+0 -1 27508
+S
+#27516
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27517
+D1
+~
+~
+0 -1 27523
+D2
+~
+~
+0 -1 27515
+D3
+~
+~
+0 -1 27509
+S
+#27517
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27518
+D1
+~
+~
+0 -1 27524
+D2
+~
+~
+0 -1 27516
+D3
+~
+~
+0 -1 27510
+S
+#27518
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. You hear a horrible roar off to the east.
+~
+0 0 3
+D0
+~
+~
+0 -1 27519
+D1
+~
+~
+0 -1 27525
+D2
+~
+~
+0 -1 27517
+D3
+~
+~
+0 -1 27511
+S
+#27519
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27520
+D1
+~
+~
+0 -1 27526
+D2
+~
+~
+0 -1 27518
+D3
+~
+~
+0 -1 27512
+S
+#27520
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27521
+D1
+~
+~
+0 -1 27527
+D2
+~
+~
+0 -1 27519
+D3
+~
+~
+0 -1 27513
+S
+#27521
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D1
+~
+~
+0 -1 27528
+D2
+~
+~
+0 -1 27520
+D3
+~
+~
+0 -1 27514
+S
+#27522
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27523
+D1
+~
+~
+0 -1 27529
+D3
+~
+~
+0 -1 27515
+S
+#27523
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27524
+D1
+~
+~
+0 -1 27530
+D2
+~
+~
+0 -1 27522
+D3
+~
+~
+0 -1 27516
+S
+#27524
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. You hear a horrible roar off to the north.
+~
+0 0 3
+D0
+~
+~
+0 -1 27525
+D1
+~
+~
+0 -1 27531
+D2
+~
+~
+0 -1 27523
+D3
+~
+~
+0 -1 27517
+S
+#27525
+The Heart of the Jungle~
+Somehow, your primal senses let you know that you are standing in the dead 
+center of the jungle.  These are the stomping grounds of the King of the 
+Jungle, and you see the bodies of all types of animals lying around.
+~
+0 0 3
+D0
+~
+~
+0 -1 27526
+D1
+~
+~
+0 -1 27532
+D2
+~
+~
+0 -1 27524
+D3
+~
+~
+0 -1 27518
+S
+#27526
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. You hear a horrible roar off to the south.
+~
+0 0 3
+D0
+~
+~
+0 -1 27527
+D1
+~
+~
+0 -1 27533
+D2
+~
+~
+0 -1 27525
+D3
+~
+~
+0 -1 27519
+S
+#27527
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27528
+D1
+~
+~
+0 -1 27534
+D2
+~
+~
+0 -1 27526
+D3
+~
+~
+0 -1 27520
+S
+#27528
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D1
+~
+~
+0 -1 27535
+D2
+~
+~
+0 -1 27527
+D3
+~
+~
+0 -1 27521
+S
+#27529
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27530
+D1
+~
+~
+0 -1 27536
+D3
+~
+~
+0 -1 27522
+S
+#27530
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27531
+D1
+~
+~
+0 -1 27537
+D2
+~
+~
+0 -1 27529
+D3
+~
+~
+0 -1 27523
+S
+#27531
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27532
+D1
+~
+~
+0 -1 27538
+D2
+~
+~
+0 -1 27530
+D3
+~
+~
+0 -1 27524
+S
+#27532
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. You hear a horrible roar off to the west.
+~
+0 0 3
+D0
+~
+~
+0 -1 27533
+D1
+~
+~
+0 -1 27539
+D2
+~
+~
+0 -1 27531
+D3
+~
+~
+0 -1 27525
+S
+#27533
+The Heart of the Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27534
+D1
+~
+~
+0 -1 27540
+D2
+~
+~
+0 -1 27532
+D3
+~
+~
+0 -1 27526
+S
+#27534
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27535
+D1
+~
+~
+0 -1 27541
+D2
+~
+~
+0 -1 27533
+D3
+~
+~
+0 -1 27527
+S
+#27535
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D1
+~
+~
+0 -1 27542
+D2
+~
+~
+0 -1 27534
+D3
+~
+~
+0 -1 27528
+S
+#27536
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27537
+D1
+~
+~
+0 -1 27543
+D3
+~
+~
+0 -1 27529
+S
+#27537
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27538
+D1
+~
+~
+0 -1 27544
+D2
+~
+~
+0 -1 27536
+D3
+~
+~
+0 -1 27530
+S
+#27538
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27539
+D1
+~
+~
+0 -1 27545
+D2
+~
+~
+0 -1 27537
+D3
+~
+~
+0 -1 27531
+S
+#27539
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27540
+D1
+~
+~
+0 -1 27546
+D2
+~
+~
+0 -1 27538
+D3
+~
+~
+0 -1 27532
+S
+#27540
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27541
+D1
+~
+~
+0 -1 27547
+D2
+~
+~
+0 -1 27539
+D3
+~
+~
+0 -1 27533
+S
+#27541
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27542
+D1
+~
+~
+0 -1 27548
+D2
+~
+~
+0 -1 27540
+D3
+~
+~
+0 -1 27534
+S
+#27542
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D1
+~
+~
+0 -1 27549
+D2
+~
+~
+0 -1 27541
+D3
+~
+~
+0 -1 27535
+S
+#27543
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. There is a tree that appears climbable here, 
+and you hear more clatter from above.
+~
+0 0 3
+D0
+~
+~
+0 -1 27544
+D3
+~
+~
+0 -1 27536
+D4
+~
+~
+0 -1 27592
+S
+#27544
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27545
+D2
+~
+~
+0 -1 27543
+D3
+~
+~
+0 -1 27537
+S
+#27545
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27546
+D2
+~
+~
+0 -1 27544
+D3
+~
+~
+0 -1 27538
+S
+#27546
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27547
+D2
+~
+~
+0 -1 27545
+D3
+~
+~
+0 -1 27539
+S
+#27547
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27548
+D2
+~
+~
+0 -1 27546
+D3
+~
+~
+0 -1 27540
+S
+#27548
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life.
+~
+0 0 3
+D0
+~
+~
+0 -1 27549
+D2
+~
+~
+0 -1 27547
+D3
+~
+~
+0 -1 27541
+S
+#27549
+The Jungle~
+You are now in the thick of the jungle.  You are hopelessly lost, and there 
+are no visible tracks.  The quiet sounds of the area surround you, and you 
+begin to fear for your life. There is a tree that appears climbable here, 
+and you hear more clatter from above.
+~
+0 0 3
+D2
+~
+~
+0 -1 27548
+D3
+~
+~
+0 -1 27542
+D4
+~
+~
+0 -1 27598
+S
+#27550
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27551
+D1
+~
+~
+0 -1 27557
+S
+#27551
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27552
+D1
+~
+~
+0 -1 27558
+D2
+~
+~
+0 -1 27550
+S
+#27552
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27553
+D1
+~
+~
+0 -1 27559
+D2
+~
+~
+0 -1 27551
+S
+#27553
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27554
+D1
+~
+~
+0 -1 27560
+D2
+~
+~
+0 -1 27552
+S
+#27554
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27555
+D1
+~
+~
+0 -1 27561
+D2
+~
+~
+0 -1 27553
+S
+#27555
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27556
+D1
+~
+~
+0 -1 27562
+D2
+~
+~
+0 -1 27554
+S
+#27556
+Treetops of the Jungle~
+Here, atop the jungle tree heights, you can see for miles.  It doesn't help 
+though; all you can see are more trees.  Birds can still be heard, and you 
+can spot the occasional animal here and there.
+~
+0 0 3
+D1
+~
+~
+0 -1 27563
+D2
+~
+~
+0 -1 27555
+D5
+~
+~
+0 -1 27507
+S
+#27557
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27558
+D1
+~
+~
+0 -1 27564
+D3
+~
+~
+0 -1 27550
+S
+#27558
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27559
+D1
+~
+~
+0 -1 27565
+D2
+~
+~
+0 -1 27557
+D3
+~
+~
+0 -1 27551
+S
+#27559
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27560
+D1
+~
+~
+0 -1 27566
+D2
+~
+~
+0 -1 27558
+D3
+~
+~
+0 -1 27552
+S
+#27560
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27561
+D1
+~
+~
+0 -1 27567
+D2
+~
+~
+0 -1 27559
+D3
+~
+~
+0 -1 27553
+S
+#27561
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27562
+D1
+~
+~
+0 -1 27568
+D2
+~
+~
+0 -1 27560
+D3
+~
+~
+0 -1 27554
+S
+#27562
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27563
+D1
+~
+~
+0 -1 27569
+D2
+~
+~
+0 -1 27561
+D3
+~
+~
+0 -1 27555
+S
+#27563
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D1
+~
+~
+0 -1 27570
+D2
+~
+~
+0 -1 27562
+D3
+~
+~
+0 -1 27556
+S
+#27564
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27565
+D1
+~
+~
+0 -1 27571
+D3
+~
+~
+0 -1 27557
+S
+#27565
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27566
+D1
+~
+~
+0 -1 27572
+D2
+~
+~
+0 -1 27564
+D3
+~
+~
+0 -1 27558
+S
+#27566
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27567
+D1
+~
+~
+0 -1 27573
+D2
+~
+~
+0 -1 27565
+D3
+~
+~
+0 -1 27559
+S
+#27567
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27568
+D1
+~
+~
+0 -1 27574
+D2
+~
+~
+0 -1 27566
+D3
+~
+~
+0 -1 27560
+S
+#27568
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27569
+D1
+~
+~
+0 -1 27575
+D2
+~
+~
+0 -1 27567
+D3
+~
+~
+0 -1 27561
+S
+#27569
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27570
+D1
+~
+~
+0 -1 27576
+D2
+~
+~
+0 -1 27568
+D3
+~
+~
+0 -1 27562
+S
+#27570
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D1
+~
+~
+0 -1 27577
+D2
+~
+~
+0 -1 27569
+D3
+~
+~
+0 -1 27563
+S
+#27571
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27572
+D1
+~
+~
+0 -1 27578
+D3
+~
+~
+0 -1 27564
+S
+#27572
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27573
+D1
+~
+~
+0 -1 27579
+D2
+~
+~
+0 -1 27571
+D3
+~
+~
+0 -1 27565
+S
+#27573
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27574
+D1
+~
+~
+0 -1 27580
+D2
+~
+~
+0 -1 27572
+D3
+~
+~
+0 -1 27566
+S
+#27574
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27575
+D1
+~
+~
+0 -1 27581
+D2
+~
+~
+0 -1 27573
+D3
+~
+~
+0 -1 27567
+S
+#27575
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27576
+D1
+~
+~
+0 -1 27582
+D2
+~
+~
+0 -1 27574
+D3
+~
+~
+0 -1 27568
+S
+#27576
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27577
+D1
+~
+~
+0 -1 27583
+D2
+~
+~
+0 -1 27575
+D3
+~
+~
+0 -1 27569
+S
+#27577
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D1
+~
+~
+0 -1 27584
+D2
+~
+~
+0 -1 27576
+D3
+~
+~
+0 -1 27570
+S
+#27578
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27579
+D1
+~
+~
+0 -1 27585
+D3
+~
+~
+0 -1 27571
+S
+#27579
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27580
+D1
+~
+~
+0 -1 27586
+D2
+~
+~
+0 -1 27578
+D3
+~
+~
+0 -1 27572
+S
+#27580
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27581
+D1
+~
+~
+0 -1 27587
+D2
+~
+~
+0 -1 27579
+D3
+~
+~
+0 -1 27573
+S
+#27581
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27582
+D1
+~
+~
+0 -1 27588
+D2
+~
+~
+0 -1 27580
+D3
+~
+~
+0 -1 27574
+S
+#27582
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27583
+D1
+~
+~
+0 -1 27589
+D2
+~
+~
+0 -1 27581
+D3
+~
+~
+0 -1 27575
+S
+#27583
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27584
+D1
+~
+~
+0 -1 27590
+D2
+~
+~
+0 -1 27582
+D3
+~
+~
+0 -1 27576
+S
+#27584
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D1
+~
+~
+0 -1 27591
+D2
+~
+~
+0 -1 27583
+D3
+~
+~
+0 -1 27577
+S
+#27585
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27586
+D1
+~
+~
+0 -1 27592
+D3
+~
+~
+0 -1 27578
+S
+#27586
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27587
+D1
+~
+~
+0 -1 27593
+D2
+~
+~
+0 -1 27585
+D3
+~
+~
+0 -1 27579
+S
+#27587
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27588
+D1
+~
+~
+0 -1 27594
+D2
+~
+~
+0 -1 27586
+D3
+~
+~
+0 -1 27580
+S
+#27588
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27589
+D1
+~
+~
+0 -1 27595
+D2
+~
+~
+0 -1 27587
+D3
+~
+~
+0 -1 27581
+S
+#27589
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27590
+D1
+~
+~
+0 -1 27596
+D2
+~
+~
+0 -1 27588
+D3
+~
+~
+0 -1 27582
+S
+#27590
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27591
+D1
+~
+~
+0 -1 27597
+D2
+~
+~
+0 -1 27589
+D3
+~
+~
+0 -1 27583
+S
+#27591
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D1
+~
+~
+0 -1 27598
+D2
+~
+~
+0 -1 27590
+D3
+~
+~
+0 -1 27584
+S
+#27592
+Treetops of the Jungle~
+Here, atop the jungle tree heights, you can see for miles.  It doesn't help 
+though; all you can see are more trees.  Birds can still be heard, and you 
+can spot the occasional animal here and there.
+~
+0 0 3
+D0
+~
+~
+0 -1 27593
+D3
+~
+~
+0 -1 27585
+D5
+~
+~
+0 -1 27543
+S
+#27593
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27594
+D2
+~
+~
+0 -1 27592
+D3
+~
+~
+0 -1 27586
+S
+#27594
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27595
+D2
+~
+~
+0 -1 27593
+D3
+~
+~
+0 -1 27587
+S
+#27595
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27596
+D2
+~
+~
+0 -1 27594
+D3
+~
+~
+0 -1 27588
+S
+#27596
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27597
+D2
+~
+~
+0 -1 27595
+D3
+~
+~
+0 -1 27589
+S
+#27597
+Treetops of the Jungle~
+Up in the top of the trees, things are a little brighter, but not less 
+tangled.  Monkeys can still be heard chattering, and birds constantly chirp. 
+  As nice as this is, you still remember that you're as lost as you just 
+were, and venture on.
+~
+0 0 3
+D0
+~
+~
+0 -1 27598
+D2
+~
+~
+0 -1 27596
+D3
+~
+~
+0 -1 27590
+S
+#27598
+Treetops of the Jungle~
+Here, atop the jungle tree heights, you can see for miles.  It doesn't help 
+though; all you can see are more trees.  Birds can still be heard, and you 
+can spot the occasional animal here and there.
+~
+0 0 3
+D2
+~
+~
+0 -1 27597
+D3
+~
+~
+0 -1 27591
+D5
+~
+~
+0 -1 27549
+S
+#0
+
+
+#RESETS
+*
+M 1 27508 30 27501			An Anteater to Entrance to the Jungle
+M 1 27503 30 27501			A Boa Constrictor to Entrance to the Jungle
+M 1 27506 30 27501			A Python to Entrance to the Jungle
+M 1 27501 30 27501			A Jaguar to Entrance to the Jungle
+M 1 27504 30 27502			A Gorilla to The Jungle
+M 1 27505 30 27502			A Tiger to The Jungle
+M 1 27510 30 27502			Army Ants to The Jungle
+M 1 27508 30 27503			An Anteater to The Jungle
+M 1 27509 30 27503			A Sloth to The Jungle
+M 1 27503 30 27503			A Boa Constrictor to The Jungle
+M 1 27508 30 27503			An Anteater to The Jungle
+M 1 27501 30 27504			A Jaguar to The Jungle
+M 1 27503 30 27504			A Boa Constrictor to The Jungle
+M 1 27504 30 27504			A Gorilla to The Jungle
+M 1 27510 30 27504			Army Ants to The Jungle
+M 1 27506 30 27505			A Python to The Jungle
+M 1 27503 30 27505			A Boa Constrictor to The Jungle
+M 1 27509 30 27505			A Sloth to The Jungle
+M 1 27505 30 27505			A Tiger to The Jungle
+M 1 27510 30 27506			Army Ants to The Jungle
+M 1 27516 30 27506			A Chimpanzee to The Jungle
+M 1 27518 30 27506			A Treefrog to The Jungle
+M 1 27506 30 27506			A Python to The Jungle
+M 1 27514 30 27507			A Spider Monkey to The Jungle
+M 1 27501 30 27507			A Jaguar to The Jungle
+M 1 27508 30 27507			An Anteater to The Jungle
+M 1 27504 30 27507			A Gorilla to The Jungle
+M 1 27509 30 27508			A Sloth to The Jungle
+M 1 27510 30 27508			Army Ants to The Jungle
+M 1 27503 30 27508			A Boa Constrictor to The Jungle
+M 1 27505 30 27508			A Tiger to The Jungle
+M 1 27507 30 27509			A Panther to The Jungle
+M 1 27516 30 27509			A Chimpanzee to The Jungle
+M 1 27515 30 27509			An Orangutan to The Jungle
+M 1 27503 30 27509			A Boa Constrictor to The Jungle
+M 1 27512 30 27510			A Monkey to The Jungle
+M 1 27510 30 27510			Army Ants to The Jungle
+M 1 27509 30 27510			A Sloth to The Jungle
+M 1 27504 30 27510			A Gorilla to The Jungle
+M 1 27502 1 27525			The King of The Jungle to The Heart of the Jungle
+M 1 27503 30 27511			A Boa Constrictor to The Jungle
+M 1 27507 30 27511			A Panther to The Jungle
+M 1 27516 30 27511			A Chimpanzee to The Jungle
+M 1 27509 30 27511			A Sloth to The Jungle
+M 1 27504 30 27512			A Gorilla to The Jungle
+M 1 27501 30 27512			A Jaguar to The Jungle
+M 1 27503 30 27512			A Boa Constrictor to The Jungle
+M 1 27508 30 27512			An Anteater to The Jungle
+M 1 27510 30 27513			Army Ants to The Jungle
+M 1 27512 30 27513			A Monkey to The Jungle
+M 1 27503 30 27513			A Boa Constrictor to The Jungle
+M 1 27516 30 27513			A Chimpanzee to The Jungle
+M 1 27501 30 27514			A Jaguar to The Jungle
+M 1 27503 30 27514			A Boa Constrictor to The Jungle
+M 1 27515 30 27514			An Orangutan to The Jungle
+M 1 27508 30 27514			An Anteater to The Jungle
+M 1 27510 30 27515			Army Ants to The Jungle
+M 1 27507 30 27515			A Panther to The Jungle
+M 1 27504 30 27515			A Gorilla to The Jungle
+M 1 27509 30 27515			A Sloth to The Jungle
+M 1 27516 30 27516			A Chimpanzee to The Jungle
+M 1 27507 30 27516			A Panther to The Jungle
+M 1 27504 30 27516			A Gorilla to The Jungle
+M 1 27510 30 27516			Army Ants to The Jungle
+M 1 27504 30 27517			A Gorilla to The Heart of the Jungle
+M 1 27504 30 27517			A Gorilla to The Heart of the Jungle
+M 1 27504 30 27517			A Gorilla to The Heart of the Jungle
+M 1 27504 30 27517			A Gorilla to The Heart of the Jungle
+M 1 27505 30 27518			A Tiger to The Heart of the Jungle
+M 1 27505 30 27518			A Tiger to The Heart of the Jungle
+M 1 27505 30 27518			A Tiger to The Heart of the Jungle
+M 1 27505 30 27518			A Tiger to The Heart of the Jungle
+M 1 27507 30 27519			A Panther to The Heart of the Jungle
+M 1 27507 30 27519			A Panther to The Heart of the Jungle
+M 1 27509 30 27519			A Sloth to The Heart of the Jungle
+M 1 27509 30 27519			A Sloth to The Heart of the Jungle
+M 1 27503 30 27520			A Boa Constrictor to The Jungle
+M 1 27501 30 27520			A Jaguar to The Jungle
+M 1 27512 30 27520			A Monkey to The Jungle
+M 1 27516 30 27520			A Chimpanzee to The Jungle
+M 1 27505 30 27521			A Tiger to The Jungle
+M 1 27501 30 27521			A Jaguar to The Jungle
+M 1 27506 30 27521			A Python to The Jungle
+M 1 27508 30 27521			An Anteater to The Jungle
+M 1 27504 30 27522			A Gorilla to The Jungle
+M 1 27507 30 27522			A Panther to The Jungle
+M 1 27506 30 27522			A Python to The Jungle
+M 1 27516 30 27522			A Chimpanzee to The Jungle
+M 1 27505 30 27523			A Tiger to The Jungle
+M 1 27501 30 27523			A Jaguar to The Jungle
+M 1 27503 30 27523			A Boa Constrictor to The Jungle
+M 1 27508 30 27523			An Anteater to The Jungle
+M 1 27510 30 27524			Army Ants to The Heart of the Jungle
+M 1 27507 30 27524			A Panther to The Heart of the Jungle
+M 1 27503 30 27524			A Boa Constrictor to The Heart of the Jungle
+M 1 27516 30 27524			A Chimpanzee to The Heart of the Jungle
+M 1 27510 30 27526			Army Ants to The Heart of the Jungle
+M 1 27508 30 27526			An Anteater to The Heart of the Jungle
+M 1 27503 30 27526			A Boa Constrictor to The Heart of the Jungle
+M 1 27501 30 27526			A Jaguar to The Heart of the Jungle
+M 1 27503 30 27527			A Boa Constrictor to The Jungle
+M 1 27510 30 27527			Army Ants to The Jungle
+M 1 27506 30 27527			A Python to The Jungle
+M 1 27506 30 27527			A Python to The Jungle
+M 1 27507 30 27528			A Panther to The Jungle
+M 1 27508 30 27528			An Anteater to The Jungle
+M 1 27503 30 27528			A Boa Constrictor to The Jungle
+M 1 27504 30 27528			A Gorilla to The Jungle
+M 1 27503 30 27529			A Boa Constrictor to The Jungle
+M 1 27501 30 27529			A Jaguar to The Jungle
+M 1 27507 30 27529			A Panther to The Jungle
+M 1 27505 30 27529			A Tiger to The Jungle
+M 1 27503 30 27530			A Boa Constrictor to The Jungle
+M 1 27501 30 27530			A Jaguar to The Jungle
+M 1 27509 30 27530			A Sloth to The Jungle
+M 1 27507 30 27530			A Panther to The Jungle
+M 1 27516 30 27531			A Chimpanzee to The Heart of the Jungle
+M 1 27506 30 27531			A Python to The Heart of the Jungle
+M 1 27509 30 27531			A Sloth to The Heart of the Jungle
+M 1 27507 30 27532			A Panther to The Heart of the Jungle
+M 1 27504 30 27532			A Gorilla to The Heart of the Jungle
+M 1 27501 30 27532			A Jaguar to The Heart of the Jungle
+M 1 27505 30 27532			A Tiger to The Heart of the Jungle
+M 1 27503 30 27532			A Boa Constrictor to The Heart of the Jungle
+M 1 27503 30 27533			A Boa Constrictor to The Heart of the Jungle
+M 1 27508 30 27533			An Anteater to The Heart of the Jungle
+M 1 27510 30 27533			Army Ants to The Heart of the Jungle
+M 1 27516 30 27533			A Chimpanzee to The Heart of the Jungle
+M 1 27501 30 27534			A Jaguar to The Jungle
+M 1 27503 30 27534			A Boa Constrictor to The Jungle
+M 1 27505 30 27534			A Tiger to The Jungle
+M 1 27507 30 27534			A Panther to The Jungle
+M 1 27508 30 27535			An Anteater to The Jungle
+M 1 27510 30 27535			Army Ants to The Jungle
+M 1 27504 30 27535			A Gorilla to The Jungle
+M 1 27509 30 27535			A Sloth to The Jungle
+M 1 27507 30 27536			A Panther to The Jungle
+M 1 27504 30 27536			A Gorilla to The Jungle
+M 1 27509 30 27536			A Sloth to The Jungle
+M 1 27503 30 27536			A Boa Constrictor to The Jungle
+M 1 27501 30 27536			A Jaguar to The Jungle
+M 1 27501 30 27537			A Jaguar to The Jungle
+M 1 27505 30 27537			A Tiger to The Jungle
+M 1 27508 30 27537			An Anteater to The Jungle
+M 1 27510 30 27537			Army Ants to The Jungle
+M 1 27516 30 27538			A Chimpanzee to The Jungle
+M 1 27514 30 27538			A Spider Monkey to The Jungle
+M 1 27503 30 27538			A Boa Constrictor to The Jungle
+M 1 27501 30 27538			A Jaguar to The Jungle
+M 1 27504 30 27539			A Gorilla to The Jungle
+M 1 27503 30 27539			A Boa Constrictor to The Jungle
+M 1 27503 30 27539			A Boa Constrictor to The Jungle
+M 1 27507 30 27539			A Panther to The Jungle
+M 1 27503 30 27540			A Boa Constrictor to The Jungle
+M 1 27509 30 27540			A Sloth to The Jungle
+M 1 27505 30 27540			A Tiger to The Jungle
+M 1 27505 30 27540			A Tiger to The Jungle
+M 1 27504 30 27541			A Gorilla to The Jungle
+M 1 27512 30 27541			A Monkey to The Jungle
+M 1 27512 30 27541			A Monkey to The Jungle
+M 1 27516 30 27541			A Chimpanzee to The Jungle
+M 1 27503 30 27542			A Boa Constrictor to The Jungle
+M 1 27501 30 27542			A Jaguar to The Jungle
+M 1 27505 30 27542			A Tiger to The Jungle
+M 1 27508 30 27542			An Anteater to The Jungle
+M 1 27506 30 27543			A Python to The Jungle
+M 1 27501 30 27543			A Jaguar to The Jungle
+M 1 27512 30 27543			A Monkey to The Jungle
+M 1 27505 30 27543			A Tiger to The Jungle
+M 1 27506 30 27544			A Python to The Jungle
+M 1 27508 30 27544			An Anteater to The Jungle
+M 1 27503 30 27544			A Boa Constrictor to The Jungle
+M 1 27504 30 27544			A Gorilla to The Jungle
+M 1 27507 30 27545			A Panther to The Jungle
+M 1 27510 30 27545			Army Ants to The Jungle
+M 1 27508 30 27545			An Anteater to The Jungle
+M 1 27501 30 27545			A Jaguar to The Jungle
+M 1 27512 30 27546			A Monkey to The Jungle
+M 1 27516 30 27546			A Chimpanzee to The Jungle
+M 1 27504 30 27546			A Gorilla to The Jungle
+M 1 27501 30 27546			A Jaguar to The Jungle
+M 1 27503 30 27547			A Boa Constrictor to The Jungle
+M 1 27506 30 27547			A Python to The Jungle
+M 1 27507 30 27547			A Panther to The Jungle
+M 1 27509 30 27547			A Sloth to The Jungle
+M 1 27503 30 27548			A Boa Constrictor to The Jungle
+M 1 27501 30 27548			A Jaguar to The Jungle
+M 1 27507 30 27548			A Panther to The Jungle
+M 1 27510 30 27548			Army Ants to The Jungle
+M 1 27509 30 27549			A Sloth to The Jungle
+M 1 27504 30 27549			A Gorilla to The Jungle
+M 1 27503 30 27549			A Boa Constrictor to The Jungle
+M 1 27503 30 27549			A Boa Constrictor to The Jungle
+M 1 27511 30 27550			A Toucan to Treetops of the Jungle
+M 1 27513 30 27550			A Parakeet to Treetops of the Jungle
+M 1 27514 30 27550			A Spider Monkey to Treetops of the Jungle
+M 1 27517 30 27550			A Parrot to Treetops of the Jungle
+M 1 27515 30 27551			An Orangutan to Treetops of the Jungle
+M 1 27516 30 27551			A Chimpanzee to Treetops of the Jungle
+M 1 27517 30 27551			A Parrot to Treetops of the Jungle
+M 1 27518 30 27551			A Treefrog to Treetops of the Jungle
+M 1 27512 30 27552			A Monkey to Treetops of the Jungle
+M 1 27513 30 27552			A Parakeet to Treetops of the Jungle
+M 1 27514 30 27552			A Spider Monkey to Treetops of the Jungle
+M 1 27518 30 27552			A Treefrog to Treetops of the Jungle
+M 1 27511 30 27553			A Toucan to Treetops of the Jungle
+M 1 27514 30 27553			A Spider Monkey to Treetops of the Jungle
+M 1 27512 30 27553			A Monkey to Treetops of the Jungle
+M 1 27516 30 27553			A Chimpanzee to Treetops of the Jungle
+M 1 27517 30 27554			A Parrot to Treetops of the Jungle
+M 1 27514 30 27554			A Spider Monkey to Treetops of the Jungle
+M 1 27517 30 27554			A Parrot to Treetops of the Jungle
+M 1 27518 30 27554			A Treefrog to Treetops of the Jungle
+M 1 27511 30 27555			A Toucan to Treetops of the Jungle
+M 1 27503 30 27555			A Boa Constrictor to Treetops of the Jungle
+M 1 27506 30 27555			A Python to Treetops of the Jungle
+M 1 27514 30 27555			A Spider Monkey to Treetops of the Jungle
+M 1 27506 30 27556			A Python to Treetops of the Jungle
+M 1 27513 30 27556			A Parakeet to Treetops of the Jungle
+M 1 27517 30 27556			A Parrot to Treetops of the Jungle
+M 1 27518 30 27556			A Treefrog to Treetops of the Jungle
+M 1 27513 30 27557			A Parakeet to Treetops of the Jungle
+M 1 27511 30 27557			A Toucan to Treetops of the Jungle
+M 1 27515 30 27557			An Orangutan to Treetops of the Jungle
+M 1 27517 30 27557			A Parrot to Treetops of the Jungle
+M 1 27518 30 27558			A Treefrog to Treetops of the Jungle
+M 1 27515 30 27558			An Orangutan to Treetops of the Jungle
+M 1 27512 30 27558			A Monkey to Treetops of the Jungle
+M 1 27517 30 27558			A Parrot to Treetops of the Jungle
+M 1 27511 30 27559			A Toucan to Treetops of the Jungle
+M 1 27515 30 27559			An Orangutan to Treetops of the Jungle
+M 1 27517 30 27559			A Parrot to Treetops of the Jungle
+M 1 27516 30 27559			A Chimpanzee to Treetops of the Jungle
+M 1 27515 30 27560			An Orangutan to Treetops of the Jungle
+M 1 27517 30 27560			A Parrot to Treetops of the Jungle
+M 1 27518 30 27560			A Treefrog to Treetops of the Jungle
+M 1 27511 30 27560			A Toucan to Treetops of the Jungle
+M 1 27509 30 27561			A Sloth to Treetops of the Jungle
+M 1 27515 30 27561			An Orangutan to Treetops of the Jungle
+M 1 27516 30 27561			A Chimpanzee to Treetops of the Jungle
+M 1 27513 30 27561			A Parakeet to Treetops of the Jungle
+M 1 27511 30 27562			A Toucan to Treetops of the Jungle
+M 1 27512 30 27562			A Monkey to Treetops of the Jungle
+M 1 27516 30 27562			A Chimpanzee to Treetops of the Jungle
+M 1 27514 30 27562			A Spider Monkey to Treetops of the Jungle
+M 1 27515 30 27563			An Orangutan to Treetops of the Jungle
+M 1 27517 30 27563			A Parrot to Treetops of the Jungle
+M 1 27518 30 27563			A Treefrog to Treetops of the Jungle
+M 1 27517 30 27563			A Parrot to Treetops of the Jungle
+M 1 27513 30 27564			A Parakeet to Treetops of the Jungle
+M 1 27515 30 27564			An Orangutan to Treetops of the Jungle
+M 1 27511 30 27564			A Toucan to Treetops of the Jungle
+M 1 27518 30 27564			A Treefrog to Treetops of the Jungle
+M 1 27512 30 27565			A Monkey to Treetops of the Jungle
+M 1 27515 30 27565			An Orangutan to Treetops of the Jungle
+M 1 27503 30 27565			A Boa Constrictor to Treetops of the Jungle
+M 1 27518 30 27565			A Treefrog to Treetops of the Jungle
+M 1 27506 30 27566			A Python to Treetops of the Jungle
+M 1 27511 30 27566			A Toucan to Treetops of the Jungle
+M 1 27512 30 27566			A Monkey to Treetops of the Jungle
+M 1 27506 30 27566			A Python to Treetops of the Jungle
+M 1 27514 30 27567			A Spider Monkey to Treetops of the Jungle
+M 1 27515 30 27567			An Orangutan to Treetops of the Jungle
+M 1 27517 30 27567			A Parrot to Treetops of the Jungle
+M 1 27516 30 27567			A Chimpanzee to Treetops of the Jungle
+M 1 27513 30 27568			A Parakeet to Treetops of the Jungle
+M 1 27516 30 27568			A Chimpanzee to Treetops of the Jungle
+M 1 27516 30 27568			A Chimpanzee to Treetops of the Jungle
+M 1 27511 30 27568			A Toucan to Treetops of the Jungle
+M 1 27513 30 27569			A Parakeet to Treetops of the Jungle
+M 1 27506 30 27569			A Python to Treetops of the Jungle
+M 1 27517 30 27569			A Parrot to Treetops of the Jungle
+M 1 27514 30 27569			A Spider Monkey to Treetops of the Jungle
+M 1 27503 30 27570			A Boa Constrictor to Treetops of the Jungle
+M 1 27511 30 27570			A Toucan to Treetops of the Jungle
+M 1 27506 30 27570			A Python to Treetops of the Jungle
+M 1 27516 30 27570			A Chimpanzee to Treetops of the Jungle
+M 1 27507 30 27571			A Panther to Treetops of the Jungle
+M 1 27518 30 27571			A Treefrog to Treetops of the Jungle
+M 1 27517 30 27571			A Parrot to Treetops of the Jungle
+M 1 27511 30 27571			A Toucan to Treetops of the Jungle
+M 1 27512 30 27572			A Monkey to Treetops of the Jungle
+M 1 27514 30 27572			A Spider Monkey to Treetops of the Jungle
+M 1 27515 30 27572			An Orangutan to Treetops of the Jungle
+*
+M 1 27517 30 27572			A Parrot to Treetops of the Jungle
+*
+M 1 27511 30 27573			A Toucan to Treetops of the Jungle
+*
+M 1 27513 30 27573			A Parakeet to Treetops of the Jungle
+*
+M 1 27516 30 27573			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27503 30 27573			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27501 30 27574			A Jaguar to Treetops of the Jungle
+*
+M 1 27513 30 27574			A Parakeet to Treetops of the Jungle
+*
+M 1 27517 30 27574			A Parrot to Treetops of the Jungle
+*
+M 1 27518 30 27574			A Treefrog to Treetops of the Jungle
+*
+M 1 27512 30 27575			A Monkey to Treetops of the Jungle
+*
+M 1 27513 30 27575			A Parakeet to Treetops of the Jungle
+*
+M 1 27515 30 27575			An Orangutan to Treetops of the Jungle
+*
+M 1 27503 30 27575			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27503 30 27576			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27513 30 27576			A Parakeet to Treetops of the Jungle
+*
+M 1 27516 30 27576			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27517 30 27576			A Parrot to Treetops of the Jungle
+*
+M 1 27517 30 27577			A Parrot to Treetops of the Jungle
+*
+M 1 27517 30 27577			A Parrot to Treetops of the Jungle
+*
+M 1 27518 30 27577			A Treefrog to Treetops of the Jungle
+*
+M 1 27516 30 27577			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27515 30 27578			An Orangutan to Treetops of the Jungle
+*
+M 1 27516 30 27578			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27514 30 27578			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27512 30 27578			A Monkey to Treetops of the Jungle
+*
+M 1 27515 30 27579			An Orangutan to Treetops of the Jungle
+*
+M 1 27513 30 27579			A Parakeet to Treetops of the Jungle
+*
+M 1 27516 30 27579			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27517 30 27579			A Parrot to Treetops of the Jungle
+*
+M 1 27514 30 27580			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27511 30 27580			A Toucan to Treetops of the Jungle
+*
+M 1 27503 30 27580			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27511 30 27580			A Toucan to Treetops of the Jungle
+*
+M 1 27513 30 27581			A Parakeet to Treetops of the Jungle
+*
+M 1 27507 30 27581			A Panther to Treetops of the Jungle
+*
+M 1 27509 30 27581			A Sloth to Treetops of the Jungle
+*
+M 1 27518 30 27581			A Treefrog to Treetops of the Jungle
+*
+M 1 27514 30 27582			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27517 30 27582			A Parrot to Treetops of the Jungle
+*
+M 1 27518 30 27582			A Treefrog to Treetops of the Jungle
+*
+M 1 27511 30 27582			A Toucan to Treetops of the Jungle
+*
+M 1 27503 30 27583			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27514 30 27583			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27515 30 27583			An Orangutan to Treetops of the Jungle
+*
+M 1 27517 30 27583			A Parrot to Treetops of the Jungle
+*
+M 1 27512 30 27584			A Monkey to Treetops of the Jungle
+*
+M 1 27503 30 27584			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27513 30 27584			A Parakeet to Treetops of the Jungle
+*
+M 1 27515 30 27584			An Orangutan to Treetops of the Jungle
+*
+M 1 27512 30 27585			A Monkey to Treetops of the Jungle
+*
+M 1 27512 30 27585			A Monkey to Treetops of the Jungle
+*
+M 1 27507 30 27585			A Panther to Treetops of the Jungle
+*
+M 1 27518 30 27585			A Treefrog to Treetops of the Jungle
+*
+M 1 27503 30 27598			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27511 30 27598			A Toucan to Treetops of the Jungle
+*
+M 1 27517 30 27598			A Parrot to Treetops of the Jungle
+*
+M 1 27518 30 27598			A Treefrog to Treetops of the Jungle
+*
+M 1 27513 30 27597			A Parakeet to Treetops of the Jungle
+*
+M 1 27514 30 27597			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27516 30 27597			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27513 30 27597			A Parakeet to Treetops of the Jungle
+*
+M 1 27513 30 27596			A Parakeet to Treetops of the Jungle
+*
+M 1 27518 30 27596			A Treefrog to Treetops of the Jungle
+*
+M 1 27512 30 27596			A Monkey to Treetops of the Jungle
+*
+M 1 27503 30 27596			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27511 30 27595			A Toucan to Treetops of the Jungle
+*
+M 1 27509 30 27595			A Sloth to Treetops of the Jungle
+*
+M 1 27515 30 27595			An Orangutan to Treetops of the Jungle
+*
+M 1 27512 30 27595			A Monkey to Treetops of the Jungle
+*
+M 1 27513 30 27594			A Parakeet to Treetops of the Jungle
+*
+M 1 27515 30 27594			An Orangutan to Treetops of the Jungle
+*
+M 1 27514 30 27594			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27517 30 27594			A Parrot to Treetops of the Jungle
+*
+M 1 27516 30 27593			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27513 30 27593			A Parakeet to Treetops of the Jungle
+*
+M 1 27518 30 27593			A Treefrog to Treetops of the Jungle
+*
+M 1 27513 30 27593			A Parakeet to Treetops of the Jungle
+*
+M 1 27511 30 27592			A Toucan to Treetops of the Jungle
+*
+M 1 27515 30 27592			An Orangutan to Treetops of the Jungle
+*
+M 1 27516 30 27592			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27517 30 27592			A Parrot to Treetops of the Jungle
+*
+M 1 27512 30 27586			A Monkey to Treetops of the Jungle
+*
+M 1 27512 30 27586			A Monkey to Treetops of the Jungle
+*
+M 1 27503 30 27586			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27516 30 27586			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27509 30 27587			A Sloth to Treetops of the Jungle
+*
+M 1 27503 30 27587			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27518 30 27587			A Treefrog to Treetops of the Jungle
+*
+M 1 27515 30 27587			An Orangutan to Treetops of the Jungle
+*
+M 1 27513 30 27588			A Parakeet to Treetops of the Jungle
+*
+M 1 27515 30 27588			An Orangutan to Treetops of the Jungle
+*
+M 1 27516 30 27588			A Chimpanzee to Treetops of the Jungle
+*
+M 1 27517 30 27588			A Parrot to Treetops of the Jungle
+*
+M 1 27511 30 27589			A Toucan to Treetops of the Jungle
+*
+M 1 27503 30 27589			A Boa Constrictor to Treetops of the Jungle
+*
+M 1 27514 30 27589			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27518 30 27589			A Treefrog to Treetops of the Jungle
+*
+M 1 27515 30 27590			An Orangutan to Treetops of the Jungle
+*
+M 1 27515 30 27590			An Orangutan to Treetops of the Jungle
+*
+M 1 27517 30 27590			A Parrot to Treetops of the Jungle
+*
+M 1 27512 30 27590			A Monkey to Treetops of the Jungle
+*
+M 1 27507 30 27591			A Panther to Treetops of the Jungle
+*
+M 1 27518 15 27591			A Treefrog to Treetops of the Jungle
+*
+M 1 27514 15 27591			A Spider Monkey to Treetops of the Jungle
+*
+M 1 27511 15 27591			A Toucan to Treetops of the Jungle
+S
+
+
+#SPECIALS
+M  27502 spec_breath_any			The King of The Jungle
+M  27518 spec_poison			A Treefrog
+S
+
+
+#$
+
